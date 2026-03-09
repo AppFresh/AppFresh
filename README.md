@@ -6,9 +6,9 @@
 
 Discover and track updates for Mac apps outside the App Store.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourname/appbeacon)](https://github.com/yourname/appbeacon/stargazers)
-[![Latest release](https://img.shields.io/github/v/release/yourname/appbeacon)](https://github.com/yourname/appbeacon/releases)
-[![License](https://img.shields.io/github/license/yourname/appbeacon)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/appbeacon-labs/appbeacon)](https://github.com/appbeacon-labs/appbeacon/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/appbeacon-labs/appbeacon)](https://github.com/appbeacon-labs/appbeacon/releases)
+[![License](https://img.shields.io/github/license/appbeacon-labs/appbeacon)](LICENSE)
 [![Website](https://img.shields.io/badge/website-appbeacon.app-blue)](https://appbeacon.app)
 
 ---

@@ -1,38 +1,30 @@
-# AppBeacon
+# AppFresh
 
 ![Logo](docs/logo.png)
 
-## A beacon for your Mac apps
+## Keep your apps fresh
 
 Discover and track updates for Mac apps outside the App Store.
 
-[![GitHub stars](https://img.shields.io/github/stars/appbeacon-labs/appbeacon)](https://github.com/appbeacon-labs/appbeacon/stargazers)
-[![Latest release](https://img.shields.io/github/v/release/appbeacon-labs/appbeacon)](https://github.com/appbeacon-labs/appbeacon/releases)
-[![License](https://img.shields.io/github/license/appbeacon-labs/appbeacon)](LICENSE)
-[![Website](https://img.shields.io/badge/website-appbeacon.app-blue)](https://appbeacon.app)
+[![GitHub stars](https://img.shields.io/github/stars/AppFresh/AppFresh)](https://github.com/AppFresh/AppFresh/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/AppFresh/AppFresh)](https://github.com/AppFresh/AppFresh/releases)
+[![License](https://img.shields.io/github/license/AppFresh/AppFresh)](LICENSE)
+[![Website](https://img.shields.io/badge/website-AppFresh.app-blue)](https://AppFresh.app)
 
----
+## ✨ What is AppFresh
 
-## ✨ What is AppBeacon
-
-**AppBeacon** helps you discover and keep **Mac apps outside the App Store** up to date.
+**AppFresh** helps you discover and keep **Mac apps outside the App Store** up to date.
 
 Many great macOS tools are distributed independently — through developer websites, GitHub, or direct downloads.
-
-AppBeacon acts as a **beacon for the Mac app ecosystem**, helping you:
 
 - discover great Mac apps
 - track updates
 - manage installed apps
 - keep everything up to date
 
----
-
 ## 🖥 Screenshot
 
 ![Screenshot](docs/screenshot.png)
-
----
 
 ## 🚀 Features
 
@@ -42,7 +34,7 @@ Explore awesome apps outside the App Store.
 Find useful indie tools, open-source utilities, and developer apps.
 
 ### 📡 Track Updates
-AppBeacon monitors installed apps and notifies you when updates are available.
+AppFresh monitors installed apps and notifies you when updates are available.
 
 Never miss a new release again.
 
@@ -56,9 +48,8 @@ See all apps installed outside the App Store in one place.
 
 Organize and manage your Mac app library.
 
----
 
-## 🤔 Why AppBeacon
+## 🤔 Why AppFresh
 
 macOS has many great apps that are **not distributed through the App Store**.
 
@@ -70,9 +61,8 @@ Examples include tools similar to:
 
 Keeping them updated can be difficult.
 
-**AppBeacon solves this problem.**
+**AppFresh solves this problem.**
 
----
 
 ## ⚙️ Installation
 
@@ -81,43 +71,38 @@ Keeping them updated can be difficult.
 Download the latest release:
 
 ```
-https://github.com/yourname/appbeacon/releases
+https://github.com/AppFresh/AppFresh/releases
 ```
 
 Or visit:
 
 ```
-https://appbeacon.app
+https://AppFresh.app
 ```
 
 ### Install with Homebrew
 
 ```bash
-brew install --cask appbeacon
+brew install --cask AppFresh
 ```
 
----
 
 ## 🖥 Requirements
 
 - macOS 13+
 - Apple Silicon or Intel
 
----
 
 ## ⭐ Support the Project
 
-If you find **AppBeacon** useful:
+If you find **AppFresh** useful:
 
 ⭐ **Give the project a star**
 
 It helps more developers discover the project.
 
----
 
 ## 🔗 Links
 
-Website: https://appbeacon.app  
-Releases: https://github.com/appbeacon-labs/appbeacon/releases
-
----
+Website: https://AppFresh.app  
+Releases: https://github.com/AppFresh/AppFresh/releases

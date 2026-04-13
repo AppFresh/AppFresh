@@ -1,0 +1,9 @@
+app_token: "connectiq"
+name: "Garmin Connect IQ SDK"
+desc: "Build wearable experiences for Garmin devices and sensors with ConnectIQ SDK"
+homepage: "https://developer.garmin.com/connect-iq/"
+bundle_id: "com.garmin.connectiq.simulator"
+
+sources:
+  - type: homebrew
+    cask: "connectiq"

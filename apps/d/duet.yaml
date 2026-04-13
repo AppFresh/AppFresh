@@ -1,0 +1,12 @@
+app_token: "duet"
+name: "Duet"
+desc: "Remote desktop and second display tool"
+homepage: "https://www.duetdisplay.com/"
+bundle_id: "com.kairos.duetMac"
+
+sources:
+  - type: homebrew
+    cask: "duet"
+
+  - type: sparkle
+    url: "https://updater.duetdownload.com/dd/sparkle.xml"

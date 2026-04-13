@@ -1,0 +1,12 @@
+app_token: "trimmy"
+name: "Trimmy"
+desc: "Paste-once, run-once clipboard cleaner for terminal snippets"
+homepage: "https://github.com/steipete/Trimmy"
+bundle_id: "com.steipete.trimmy"
+
+sources:
+  - type: homebrew
+    cask: "trimmy"
+
+  - type: github
+    repo: "steipete/Trimmy"

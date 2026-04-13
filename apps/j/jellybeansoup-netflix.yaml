@@ -1,0 +1,15 @@
+app_token: "jellybeansoup-netflix"
+name: "Netflix"
+desc: "Third-party app to use Netflix outside the browser"
+homepage: "https://github.com/jellybeansoup/macos-netflix"
+bundle_id: "com.jellystyle.Netflix-wrapper"
+
+sources:
+  - type: homebrew
+    cask: "jellybeansoup-netflix"
+
+  - type: github
+    repo: "jellybeansoup/macos-netflix"
+
+  - type: sparkle
+    url: "https://jellystyle.com/resources/macOS/Netflix.xml"

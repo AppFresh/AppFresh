@@ -1,0 +1,12 @@
+app_token: "melodics"
+name: "Melodics"
+desc: "Helps you learn to play your instrument"
+homepage: "https://melodics.com/"
+bundle_id: "com.melodics.melodics"
+
+sources:
+  - type: homebrew
+    cask: "melodics"
+
+  - type: sparkle
+    url: "https://web-cdn.melodics.com/download/osxupdatescastv2.xml"

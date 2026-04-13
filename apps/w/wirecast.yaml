@@ -1,0 +1,9 @@
+app_token: "wirecast"
+name: "Wirecast"
+desc: "Live video streaming production tool"
+homepage: "https://www.telestream.net/wirecast/"
+bundle_id: "net.telestream.wirecast"
+
+sources:
+  - type: homebrew
+    cask: "wirecast"

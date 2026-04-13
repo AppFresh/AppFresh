@@ -1,0 +1,11 @@
+app_token: "apidog"
+name: "Apidog"
+desc: "API development platform"
+homepage: "https://apidog.com/"
+bundle_id: "com.apidog.app"
+
+sources:
+  - type: homebrew
+    cask: "apidog"
+
+  - type: electron

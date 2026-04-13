@@ -1,0 +1,12 @@
+app_token: "usage-app"
+name: "Usage"
+desc: "Tracks application usage"
+homepage: "https://www.mediaatelier.com/Usage/"
+bundle_id: "com.mediaatelier.Usage"
+
+sources:
+  - type: homebrew
+    cask: "usage-app"
+
+  - type: sparkle
+    url: "https://www.mediaatelier.com/Usage/feed.php"

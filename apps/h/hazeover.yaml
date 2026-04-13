@@ -1,0 +1,12 @@
+app_token: "hazeover"
+name: "HazeOver"
+desc: "Windows manager and desktop organiser"
+homepage: "https://hazeover.com/"
+bundle_id: "com.pointum.hazeover"
+
+sources:
+  - type: homebrew
+    cask: "hazeover"
+
+  - type: sparkle
+    url: "https://hazeover.com/updates.xml"

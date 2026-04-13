@@ -1,0 +1,11 @@
+app_token: "datweatherdoe"
+name: "DatWeatherDoe"
+desc: "Simple menu bar weather app for macOS"
+bundle_id: "com.inderdhir.DatWeatherDoe"
+
+sources:
+  - type: homebrew
+    cask: "datweatherdoe"
+
+  - type: github
+    repo: "inderdhir/DatWeatherDoe"

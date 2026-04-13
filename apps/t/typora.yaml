@@ -1,0 +1,15 @@
+app_token: "typora"
+name: "Typora"
+desc: "Configurable document editor that supports Markdown"
+homepage: "https://typora.io/"
+bundle_id: "abnerworks.Typora"
+
+sources:
+  - type: homebrew
+    cask: "typora"
+
+  - type: sparkle
+    url: "https://typora.io/releases/macos.xml"
+
+  - type: homebrew
+    cask: "typora@dev"

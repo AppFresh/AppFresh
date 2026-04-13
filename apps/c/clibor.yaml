@@ -1,0 +1,9 @@
+app_token: "clibor"
+name: "Clibor for Mac"
+desc: "Clipboard manager"
+homepage: "https://chigusa-web.com/clibor-for-mac-en/"
+bundle_id: "com.chigusa-web.Clibor"
+
+sources:
+  - type: homebrew
+    cask: "clibor"

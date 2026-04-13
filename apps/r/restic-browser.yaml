@@ -1,0 +1,12 @@
+app_token: "restic-browser"
+name: "Restic Browser"
+desc: "GUI to browse and restore restic backup repositories"
+homepage: "https://github.com/emuell/restic-browser"
+bundle_id: "org.restic.browser"
+
+sources:
+  - type: homebrew
+    cask: "restic-browser"
+
+  - type: github
+    repo: "emuell/restic-browser"

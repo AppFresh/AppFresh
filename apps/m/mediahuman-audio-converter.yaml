@@ -1,0 +1,9 @@
+app_token: "mediahuman-audio-converter"
+name: "MediaHuman Audio Converter"
+desc: "Audio converter"
+homepage: "https://www.mediahuman.com/audio-converter/"
+bundle_id: "com.mediahuman.Audio Converter"
+
+sources:
+  - type: homebrew
+    cask: "mediahuman-audio-converter"

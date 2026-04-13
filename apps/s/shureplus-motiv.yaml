@@ -1,0 +1,9 @@
+app_token: "shureplus-motiv"
+name: "ShurePlus MOTIV"
+desc: "Additional features and controls for Shure MV7 and MV88+ microphones"
+homepage: "https://www.shure.com/en-US/products/software/shure_plus_motiv_desktop"
+bundle_id: "com.shure.motiv.desktop"
+
+sources:
+  - type: homebrew
+    cask: "shureplus-motiv"

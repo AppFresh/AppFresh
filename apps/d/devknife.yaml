@@ -1,0 +1,12 @@
+app_token: "devknife"
+name: "DevKnife"
+desc: "Collection of handy developer tools"
+homepage: "https://devknife.app/"
+bundle_id: "com.solotuna.devknife"
+
+sources:
+  - type: homebrew
+    cask: "devknife"
+
+  - type: sparkle
+    url: "https://files.solotuna.com/devknife/appcast.xml"

@@ -1,0 +1,12 @@
+app_token: "replacicon"
+name: "Replacicon"
+desc: "App icon replacement utility"
+homepage: "https://replacicon.app/"
+bundle_id: "com.Replacicon.Replacicon"
+
+sources:
+  - type: homebrew
+    cask: "replacicon"
+
+  - type: sparkle
+    url: "https://replacicon.app/updates.xml"

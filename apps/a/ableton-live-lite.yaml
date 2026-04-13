@@ -1,0 +1,12 @@
+app_token: "ableton-live-lite"
+name: "Ableton Live Lite"
+desc: "Sound and music editor"
+homepage: "https://www.ableton.com/en/products/live-lite/"
+bundle_id: "com.ableton.live"
+
+sources:
+  - type: homebrew
+    cask: "ableton-live-lite"
+
+  - type: homebrew
+    cask: "ableton-live-lite@11"

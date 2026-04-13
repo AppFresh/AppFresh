@@ -1,0 +1,9 @@
+app_token: "teamspeak-client"
+name: "TeamSpeak 3 Client"
+desc: "Voice communication client"
+homepage: "https://www.teamspeak.com/"
+bundle_id: "com.teamspeak.TeamSpeak3"
+
+sources:
+  - type: homebrew
+    cask: "teamspeak-client"

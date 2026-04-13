@@ -1,0 +1,12 @@
+app_token: "finicky"
+name: "Finicky"
+desc: "Utility for customizing which browser to start"
+homepage: "https://github.com/johnste/finicky"
+bundle_id: "se.johnste.finicky"
+
+sources:
+  - type: homebrew
+    cask: "finicky"
+
+  - type: github
+    repo: "johnste/finicky"

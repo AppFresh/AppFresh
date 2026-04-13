@@ -1,0 +1,9 @@
+app_token: "secure-pipes"
+name: "Secure Pipes"
+desc: "Manage SSH tunnels"
+homepage: "https://www.opoet.com/pyro/index.php/"
+bundle_id: "net.edgeservices.Secure-Pipes"
+
+sources:
+  - type: homebrew
+    cask: "secure-pipes"

@@ -1,0 +1,12 @@
+app_token: "soundsource"
+name: "SoundSource"
+desc: "Sound and audio controller"
+homepage: "https://rogueamoeba.com/soundsource/"
+bundle_id: "com.rogueamoeba.soundsource"
+
+sources:
+  - type: homebrew
+    cask: "soundsource"
+
+  - type: homebrew
+    cask: "soundsource@test"

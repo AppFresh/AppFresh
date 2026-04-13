@@ -1,0 +1,12 @@
+app_token: "markedit"
+name: "MarkEdit"
+desc: "Markdown editor"
+homepage: "https://github.com/MarkEdit-app/MarkEdit"
+bundle_id: "app.cyan.markedit"
+
+sources:
+  - type: homebrew
+    cask: "markedit"
+
+  - type: github
+    repo: "MarkEdit-app/MarkEdit"

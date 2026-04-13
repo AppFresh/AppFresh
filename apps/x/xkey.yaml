@@ -1,0 +1,15 @@
+app_token: "xkey"
+name: "XKey"
+desc: "Vietnamese input method engine"
+homepage: "https://github.com/xmannv/xkey/"
+bundle_id: "com.codetay.XKey"
+
+sources:
+  - type: homebrew
+    cask: "xkey"
+
+  - type: github
+    repo: "xmannv/xkey"
+
+  - type: sparkle
+    url: "https://xmannv.github.io/xkey/appcast.xml"

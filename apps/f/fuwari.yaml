@@ -1,0 +1,12 @@
+app_token: "fuwari"
+name: "Fuwari"
+desc: "Floating screenshot like a sticky"
+homepage: "https://fuwari-app.com/"
+bundle_id: "com.appknop.fuwari"
+
+sources:
+  - type: homebrew
+    cask: "fuwari"
+
+  - type: github
+    repo: "kentya6/Fuwari"

@@ -1,0 +1,9 @@
+app_token: "jprofiler"
+name: "JProfiler"
+desc: "Java profiler"
+homepage: "https://www.ej-technologies.com/jprofiler"
+bundle_id: "com.install4j.8435-0008-8661-5857.2"
+
+sources:
+  - type: homebrew
+    cask: "jprofiler"

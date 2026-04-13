@@ -1,0 +1,11 @@
+app_token: "smartsheet"
+name: "Smartsheet"
+desc: "Spreadsheet-style project management solution"
+homepage: "https://www.smartsheet.com/"
+bundle_id: "com.smartsheet.desktopapp"
+
+sources:
+  - type: homebrew
+    cask: "smartsheet"
+
+  - type: electron

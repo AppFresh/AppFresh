@@ -1,0 +1,8 @@
+app_token: "pdfextractor"
+name: "PDFExtractor"
+homepage: "https://pdfextractor-app.com/"
+bundle_id: "com.bitgamma.pdfextractor"
+
+sources:
+  - type: homebrew
+    cask: "pdfextractor"

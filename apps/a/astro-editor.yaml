@@ -1,0 +1,12 @@
+app_token: "astro-editor"
+name: "Astro Editor"
+desc: "Markdown editor for Astro content collections"
+homepage: "https://astroeditor.danny.is/"
+bundle_id: "is.danny.astroeditor"
+
+sources:
+  - type: homebrew
+    cask: "astro-editor"
+
+  - type: github
+    repo: "dannysmith/astro-editor"

@@ -1,0 +1,9 @@
+app_token: "infra"
+name: "infra"
+desc: "Kubernetes desktop client"
+homepage: "https://infra.app/"
+bundle_id: "app.infra.infra"
+
+sources:
+  - type: homebrew
+    cask: "infra"

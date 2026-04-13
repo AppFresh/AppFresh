@@ -1,0 +1,9 @@
+app_token: "affinity-publisher"
+name: "Affinity Publisher 2"
+desc: "Professional desktop publishing software"
+homepage: "https://affinity.serif.com/en-us/publisher/"
+bundle_id: "com.seriflabs.affinitypublisher2"
+
+sources:
+  - type: homebrew
+    cask: "affinity-publisher"

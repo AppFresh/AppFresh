@@ -1,0 +1,12 @@
+app_token: "clipflow"
+name: "ClipFlow"
+desc: "The clipboard history manager that macOS should have built-in"
+bundle_id: "com.clipflow.app"
+
+sources:
+  - type: homebrew
+    tap: "praneeth552/clipflow"
+    cask: "clipflow"
+
+  - type: github
+    repo: "praneeth552/clipflow"

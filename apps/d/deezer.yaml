@@ -1,0 +1,11 @@
+app_token: "deezer"
+name: "Deezer"
+desc: "Music player"
+homepage: "https://www.deezer.com/download"
+bundle_id: "com.deezer.deezer-desktop"
+
+sources:
+  - type: homebrew
+    cask: "deezer"
+
+  - type: electron

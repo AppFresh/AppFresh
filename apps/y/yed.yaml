@@ -1,0 +1,9 @@
+app_token: "yed"
+name: "yWorks yEd"
+desc: "Create diagrams manually, or import external data for analysis"
+homepage: "https://www.yworks.com/products/yed"
+bundle_id: "com.yworks.yEd"
+
+sources:
+  - type: homebrew
+    cask: "yed"

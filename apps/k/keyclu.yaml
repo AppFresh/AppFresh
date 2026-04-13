@@ -1,0 +1,15 @@
+app_token: "keyclu"
+name: "KeyClu"
+desc: "Find shortcuts for any installed application"
+homepage: "https://sergii.tatarenkov.name/keyclu/support/"
+bundle_id: "com.0804Team.KeyClu"
+
+sources:
+  - type: homebrew
+    cask: "keyclu"
+
+  - type: github
+    repo: "Anze/KeyCluCask"
+
+  - type: sparkle
+    url: "https://sergii.tatarenkov.name/keyclu/appcast.xml"

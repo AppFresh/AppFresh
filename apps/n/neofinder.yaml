@@ -1,0 +1,12 @@
+app_token: "neofinder"
+name: "NeoFinder"
+desc: "Digital media asset manager"
+homepage: "https://www.cdfinder.de/"
+bundle_id: "de.wfs-apps.neofinder"
+
+sources:
+  - type: homebrew
+    cask: "neofinder"
+
+  - type: sparkle
+    url: "https://www.wfs-apps.de/updates/neofinder-appcast-64.xml"

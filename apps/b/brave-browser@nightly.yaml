@@ -1,0 +1,8 @@
+app_token: "brave-browser@nightly"
+name: "Brave Nightly"
+desc: "The browser that puts you first"
+homepage: "https://brave.com/"
+
+sources:
+  - type: homebrew
+    cask: "brave-browser@nightly"

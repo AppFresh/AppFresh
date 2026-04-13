@@ -1,0 +1,12 @@
+app_token: "responsively"
+name: "Responsively"
+desc: "Modified browser that helps in responsive web development"
+homepage: "https://responsively.app/"
+bundle_id: "app.responsively"
+
+sources:
+  - type: homebrew
+    cask: "responsively"
+
+  - type: github
+    repo: "responsively-org/responsively-app-releases"

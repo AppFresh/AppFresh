@@ -1,0 +1,9 @@
+app_token: "element"
+name: "Element"
+desc: "Matrix collaboration client"
+homepage: "https://element.io/get-started"
+bundle_id: "im.riot.app"
+
+sources:
+  - type: homebrew
+    cask: "element"

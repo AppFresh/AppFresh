@@ -1,0 +1,9 @@
+app_token: "silentknight"
+name: "SilentKnight"
+desc: "Automatically checks computer's security"
+homepage: "https://eclecticlight.co/lockrattler-systhist/"
+bundle_id: "co.eclecticlight.SilentKnight"
+
+sources:
+  - type: homebrew
+    cask: "silentknight"

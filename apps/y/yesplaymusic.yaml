@@ -1,0 +1,12 @@
+app_token: "yesplaymusic"
+name: "YesPlayMusic"
+desc: "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux"
+homepage: "https://music.qier222.com/"
+bundle_id: "com.electron.yesplaymusic"
+
+sources:
+  - type: github
+    repo: "qier222/YesPlayMusic"
+
+  - type: homebrew
+    cask: "yesplaymusic"

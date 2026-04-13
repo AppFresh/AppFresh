@@ -1,0 +1,12 @@
+app_token: "superslicer"
+name: "SuperSlicer"
+desc: "Convert 3D models into G-code instructions or PNG layers"
+homepage: "https://github.com/supermerill/SuperSlicer"
+bundle_id: "org.SuperSlicer"
+
+sources:
+  - type: homebrew
+    cask: "superslicer"
+
+  - type: github
+    repo: "supermerill/SuperSlicer"

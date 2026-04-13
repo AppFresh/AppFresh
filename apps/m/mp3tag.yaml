@@ -1,0 +1,9 @@
+app_token: "mp3tag"
+name: "Mp3tag"
+desc: "Tool for editing metadata of audio files including MP3, FLAC, OGG, and more"
+homepage: "https://mp3tag.app/"
+bundle_id: "app.mp3tag.Mp3tag"
+
+sources:
+  - type: homebrew
+    cask: "mp3tag"

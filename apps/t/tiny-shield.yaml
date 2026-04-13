@@ -1,0 +1,12 @@
+app_token: "tiny-shield"
+name: "Tiny Shield"
+desc: "Control and monitor network connections"
+homepage: "https://tinyshield.proxyman.com/"
+bundle_id: "com.proxyman.ProxymanGuard"
+
+sources:
+  - type: homebrew
+    cask: "tiny-shield"
+
+  - type: sparkle
+    url: "https://api-tinyshield.proxyman.com/api/releases/appcast.xml"

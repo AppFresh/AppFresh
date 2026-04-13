@@ -1,0 +1,12 @@
+app_token: "elgato-control-center"
+name: "Elgato Control Center"
+desc: "Control your Elgato key lights"
+homepage: "https://www.elgato.com/ww/en/s/downloads"
+bundle_id: "com.corsair.ControlCenter"
+
+sources:
+  - type: homebrew
+    cask: "elgato-control-center"
+
+  - type: sparkle
+    url: "https://gc-updates.elgato.com/mac/control-center-update/feed.xml"

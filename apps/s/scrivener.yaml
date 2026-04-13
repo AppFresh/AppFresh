@@ -1,0 +1,12 @@
+app_token: "scrivener"
+name: "Scrivener"
+desc: "Word processing software with a typewriter style"
+homepage: "https://www.literatureandlatte.com/scrivener/overview"
+bundle_id: "com.literatureandlatte.scrivener3"
+
+sources:
+  - type: homebrew
+    cask: "scrivener"
+
+  - type: sparkle
+    url: "https://www.literatureandlatte.com/downloads/scrivener-3.xml"

@@ -1,0 +1,9 @@
+app_token: "archaeology"
+name: "Archaeology"
+desc: "Tool for digging into binary files"
+homepage: "https://www.mothersruin.com/software/Archaeology/"
+bundle_id: "com.mothersruin.Archaeology"
+
+sources:
+  - type: homebrew
+    cask: "archaeology"

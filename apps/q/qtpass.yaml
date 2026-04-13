@@ -1,0 +1,12 @@
+app_token: "qtpass"
+name: "QtPass"
+desc: "Multi-platform GUI for pass, the standard unix password manager"
+homepage: "https://qtpass.org/"
+bundle_id: "org.qtpass"
+
+sources:
+  - type: homebrew
+    cask: "qtpass"
+
+  - type: github
+    repo: "IJHack/qtpass"

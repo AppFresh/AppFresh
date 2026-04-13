@@ -1,0 +1,12 @@
+app_token: "memory-cleaner"
+name: "Memory Cleaner"
+desc: "Free up RAM manually and automatically"
+homepage: "https://nektony.com/memory-cleaner"
+bundle_id: "com.nektony.Memory-Cleaner-SIII"
+
+sources:
+  - type: homebrew
+    cask: "memory-cleaner"
+
+  - type: sparkle
+    url: "https://download.nektony.com/pro-support/v3/memory-cleaner-x-site/update/update.xml"

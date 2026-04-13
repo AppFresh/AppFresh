@@ -1,0 +1,12 @@
+app_token: "plistedit-pro"
+name: "PlistEdit Pro"
+desc: "Property list and JSON editor"
+homepage: "https://www.fatcatsoftware.com/plisteditpro/"
+bundle_id: "com.fatcatsoftware.pledpro"
+
+sources:
+  - type: homebrew
+    cask: "plistedit-pro"
+
+  - type: sparkle
+    url: "https://www.fatcatsoftware.com/plisteditpro/downloads/appcast.xml"

@@ -1,0 +1,9 @@
+app_token: "plex-media-server"
+name: "Plex Media Server"
+desc: "Home media server"
+homepage: "https://www.plex.tv/"
+bundle_id: "com.plexapp.plexmediaserver"
+
+sources:
+  - type: homebrew
+    cask: "plex-media-server"

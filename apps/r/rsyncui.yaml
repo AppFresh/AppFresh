@@ -1,0 +1,12 @@
+app_token: "rsyncui"
+name: "RsyncUI"
+desc: "GUI for rsync"
+homepage: "https://github.com/rsyncOSX/RsyncUI"
+bundle_id: "no.blogspot.RsyncUI"
+
+sources:
+  - type: homebrew
+    cask: "rsyncui"
+
+  - type: github
+    repo: "rsyncOSX/RsyncUI"

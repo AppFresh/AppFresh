@@ -1,0 +1,12 @@
+app_token: "aks-desktop"
+name: "AKS desktop"
+desc: "Azure Kubernetes Service desktop application"
+homepage: "https://github.com/Azure/aks-desktop"
+bundle_id: "com.microsoft.aks-desktop"
+
+sources:
+  - type: homebrew
+    cask: "aks-desktop"
+
+  - type: github
+    repo: "Azure/aks-desktop"

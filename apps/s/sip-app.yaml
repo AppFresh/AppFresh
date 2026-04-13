@@ -1,0 +1,12 @@
+app_token: "sip-app"
+name: "Sip"
+desc: "Collect, organise & share colours"
+homepage: "https://sipapp.io/"
+bundle_id: "io.sipapp.Sip-paddle"
+
+sources:
+  - type: homebrew
+    cask: "sip-app"
+
+  - type: sparkle
+    url: "https://sipapp.fra1.digitaloceanspaces.com/updates/v4/sip.xml"

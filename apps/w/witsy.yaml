@@ -1,0 +1,12 @@
+app_token: "witsy"
+name: "Witsy"
+desc: "BYOK (Bring Your Own Keys) AI assistant"
+homepage: "https://witsyai.com/"
+bundle_id: "com.nabocorp.witsy"
+
+sources:
+  - type: homebrew
+    cask: "witsy"
+
+  - type: github
+    repo: "nbonamy/witsy"

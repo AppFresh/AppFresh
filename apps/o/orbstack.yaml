@@ -1,0 +1,9 @@
+app_token: "orbstack"
+name: "OrbStack"
+desc: "Replacement for Docker Desktop"
+homepage: "https://orbstack.dev/"
+bundle_id: "dev.kdrag0n.MacVirt"
+
+sources:
+  - type: homebrew
+    cask: "orbstack"

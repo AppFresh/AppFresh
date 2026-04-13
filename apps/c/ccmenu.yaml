@@ -1,0 +1,12 @@
+app_token: "ccmenu"
+name: "CCMenu"
+desc: "Application to monitor continuous integration servers"
+homepage: "https://ccmenu.org/"
+bundle_id: "net.sourceforge.cruisecontrol.CCMenu"
+
+sources:
+  - type: homebrew
+    cask: "ccmenu"
+
+  - type: github
+    repo: "erikdoe/ccmenu"

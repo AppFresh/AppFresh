@@ -1,0 +1,12 @@
+app_token: "tuple"
+name: "Tuple"
+desc: "Remote pair programming app"
+homepage: "https://tuple.app/"
+bundle_id: "app.tuple.app"
+
+sources:
+  - type: homebrew
+    cask: "tuple"
+
+  - type: sparkle
+    url: "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/appcast.xml"

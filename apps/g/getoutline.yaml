@@ -1,0 +1,11 @@
+app_token: "getoutline"
+name: "Outline"
+desc: "Knowledge management tool"
+homepage: "https://getoutline.com/"
+bundle_id: "com.generaloutline.outline"
+
+sources:
+  - type: homebrew
+    cask: "getoutline"
+
+  - type: electron

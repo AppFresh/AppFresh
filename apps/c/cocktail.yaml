@@ -1,0 +1,9 @@
+app_token: "cocktail"
+name: "Cocktail"
+desc: "Cleans, repairs and optimises computer systems"
+homepage: "https://www.maintain.se/cocktail/"
+bundle_id: "com.maintain.cocktail.tahoe"
+
+sources:
+  - type: homebrew
+    cask: "cocktail"

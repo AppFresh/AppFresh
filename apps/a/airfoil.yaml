@@ -1,0 +1,12 @@
+app_token: "airfoil"
+name: "Airfoil"
+desc: "Sends audio from computer to outputs"
+homepage: "https://rogueamoeba.com/airfoil/mac/"
+bundle_id: "com.rogueamoeba.Airfoil"
+
+sources:
+  - type: homebrew
+    cask: "airfoil"
+
+  - type: sparkle
+    url: "https://rogueamoeba.net/ping/versionCheck.cgi?format=sparkle&system=999&bundleid=com.rogueamoeba.airfoil&platform=osx&version=51268000"

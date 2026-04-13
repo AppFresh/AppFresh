@@ -1,0 +1,13 @@
+app_token: "rustcast"
+name: "RustCast"
+desc: "An open source alternative to raycast, in rust"
+homepage: "https://rustcast.umangsurana.com/"
+bundle_id: "com.umangsurana.rustcast"
+
+sources:
+  - type: homebrew
+    tap: "unsecretised/tap"
+    cask: "rustcast"
+
+  - type: github
+    repo: "unsecretised/rustcast"

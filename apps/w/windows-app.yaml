@@ -1,0 +1,11 @@
+app_token: "windows-app"
+name: "Windows App"
+desc: "Connect to Windows"
+homepage: "https://aka.ms/WindowsApp"
+bundle_id: "com.microsoft.rdc.macos"
+
+sources:
+  - type: homebrew
+    cask: "windows-app"
+
+  - type: appstore

@@ -1,0 +1,9 @@
+app_token: "notion"
+name: "Notion"
+desc: "App to write, plan, collaborate, and get organised"
+homepage: "https://www.notion.com/"
+bundle_id: "notion.id"
+
+sources:
+  - type: homebrew
+    cask: "notion"

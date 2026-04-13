@@ -1,0 +1,9 @@
+app_token: "magicquit"
+name: "MagicQuit"
+desc: "Efficiency tool for automatically closing apps when they are not in use"
+homepage: "https://magicquit.com/"
+bundle_id: "com.MagicQuit"
+
+sources:
+  - type: homebrew
+    cask: "magicquit"

@@ -1,0 +1,11 @@
+app_token: "tradingview"
+name: "TradingView Desktop"
+desc: "Charting and social-networking for investment traders"
+homepage: "https://www.tradingview.com/desktop/"
+bundle_id: "com.tradingview.tradingviewapp.desktop"
+
+sources:
+  - type: homebrew
+    cask: "tradingview"
+
+  - type: electron

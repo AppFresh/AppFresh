@@ -1,0 +1,9 @@
+app_token: "chromium"
+name: "Chromium"
+desc: "Free and open-source web browser"
+homepage: "https://www.chromium.org/Home"
+bundle_id: "org.chromium.Chromium"
+
+sources:
+  - type: homebrew
+    cask: "chromium"

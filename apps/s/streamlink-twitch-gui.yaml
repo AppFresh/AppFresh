@@ -1,0 +1,12 @@
+app_token: "streamlink-twitch-gui"
+name: "Streamlink Twitch GUI"
+desc: "Multi platform Twitch.tv browser for Streamlink"
+homepage: "https://github.com/streamlink/streamlink-twitch-gui/"
+bundle_id: "streamlink-twitch-gui"
+
+sources:
+  - type: homebrew
+    cask: "streamlink-twitch-gui"
+
+  - type: github
+    repo: "streamlink/streamlink-twitch-gui"

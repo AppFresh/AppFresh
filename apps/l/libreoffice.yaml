@@ -1,0 +1,9 @@
+app_token: "libreoffice"
+name: "LibreOffice"
+desc: "Free cross-platform office suite, fresh version"
+homepage: "https://www.libreoffice.org/"
+bundle_id: "org.libreoffice.script"
+
+sources:
+  - type: homebrew
+    cask: "libreoffice"

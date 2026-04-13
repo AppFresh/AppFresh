@@ -1,0 +1,12 @@
+app_token: "mousepose"
+name: "Mouseposé"
+desc: "Highlight your mouse pointer and cursor position"
+homepage: "https://boinx.com/mousepose/overview/"
+bundle_id: "com.boinx.Mousepose4"
+
+sources:
+  - type: homebrew
+    cask: "mousepose"
+
+  - type: sparkle
+    url: "https://sparkle.boinx.com/appcast.lasso?appName=mousepose"

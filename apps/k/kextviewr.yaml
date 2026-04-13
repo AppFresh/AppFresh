@@ -1,0 +1,12 @@
+app_token: "kextviewr"
+name: "KextViewr"
+desc: "Display all currently loaded kexts"
+homepage: "https://objective-see.org/products/kextviewr.html"
+bundle_id: "com.objective-see.KextViewr"
+
+sources:
+  - type: homebrew
+    cask: "kextviewr"
+
+  - type: github
+    repo: "objective-see/KextViewr"

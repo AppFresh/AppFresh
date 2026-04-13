@@ -1,0 +1,9 @@
+app_token: "burn"
+name: "Burn"
+desc: "CD burning application"
+homepage: "https://burn-osx.sourceforge.io/"
+bundle_id: "com.kiwifruitware.Burn"
+
+sources:
+  - type: homebrew
+    cask: "burn"

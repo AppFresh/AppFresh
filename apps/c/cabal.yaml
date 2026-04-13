@@ -1,0 +1,12 @@
+app_token: "cabal"
+name: "Cabal"
+desc: "Desktop client for the chat platform Cabal"
+homepage: "https://cabal.chat/"
+bundle_id: "club.cabal.desktop"
+
+sources:
+  - type: homebrew
+    cask: "cabal"
+
+  - type: github
+    repo: "cabal-club/cabal-desktop"

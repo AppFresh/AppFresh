@@ -1,0 +1,12 @@
+app_token: "rocket-typist"
+name: "Rocket Typist"
+desc: "Text expander for common phrases"
+homepage: "https://witt-software.com/rockettypist/"
+bundle_id: "com.witt-software.Rocket-Typist-2"
+
+sources:
+  - type: homebrew
+    cask: "rocket-typist"
+
+  - type: sparkle
+    url: "https://witt-software.com/downloads/rockettypist/appcast.xml"

@@ -1,0 +1,12 @@
+app_token: "capslocknodelay"
+name: "CapsLockNoDelay"
+desc: "Removes delay when pressing the caps lock"
+homepage: "https://github.com/gkpln3/CapsLockNoDelay"
+bundle_id: "gkpln3.CapsLockNoDelay"
+
+sources:
+  - type: homebrew
+    cask: "capslocknodelay"
+
+  - type: github
+    repo: "gkpln3/CapsLockNoDelay"

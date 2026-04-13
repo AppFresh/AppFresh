@@ -1,0 +1,12 @@
+app_token: "paletro"
+name: "Paletro"
+desc: "Command palette in any application"
+homepage: "https://appmakes.io/paletro"
+bundle_id: "io.appmakes.Paletro"
+
+sources:
+  - type: homebrew
+    cask: "paletro"
+
+  - type: sparkle
+    url: "https://appmakes.io/paletro/update.xml"

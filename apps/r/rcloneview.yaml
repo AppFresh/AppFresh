@@ -1,0 +1,9 @@
+app_token: "rcloneview"
+name: "RcloneView"
+desc: "GUI for rclone"
+homepage: "https://rcloneview.com/"
+bundle_id: "com.bdrive.rcloneView"
+
+sources:
+  - type: homebrew
+    cask: "rcloneview"

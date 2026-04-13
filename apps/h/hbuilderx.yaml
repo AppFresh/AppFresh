@@ -1,0 +1,9 @@
+app_token: "hbuilderx"
+name: "HBuilderX"
+desc: "HTML editor"
+homepage: "https://www.dcloud.io/hbuilderx.html"
+bundle_id: "io.dcloud.HBuilderX"
+
+sources:
+  - type: homebrew
+    cask: "hbuilderx"

@@ -1,0 +1,12 @@
+app_token: "tunnelblick"
+name: "Tunnelblick"
+desc: "Free and open-source OpenVPN client"
+homepage: "https://www.tunnelblick.net/"
+bundle_id: "net.tunnelblick.tunnelblick"
+
+sources:
+  - type: homebrew
+    cask: "tunnelblick"
+
+  - type: homebrew
+    cask: "tunnelblick@beta"

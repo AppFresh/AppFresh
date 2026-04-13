@@ -1,0 +1,9 @@
+app_token: "miro"
+name: "Miro"
+desc: "Online collaborative whiteboard platform"
+homepage: "https://miro.com/"
+bundle_id: "com.electron.realtimeboard"
+
+sources:
+  - type: homebrew
+    cask: "miro"

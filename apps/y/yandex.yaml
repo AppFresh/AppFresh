@@ -1,0 +1,9 @@
+app_token: "yandex"
+name: "Yandex.Browser"
+desc: "Web browser"
+homepage: "https://browser.yandex.ru/"
+bundle_id: "ru.yandex.desktop.yandex-browser"
+
+sources:
+  - type: homebrew
+    cask: "yandex"

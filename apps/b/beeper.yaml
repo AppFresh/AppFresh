@@ -1,0 +1,9 @@
+app_token: "beeper"
+name: "Beeper"
+desc: "Universal chat app powered by Matrix"
+homepage: "https://www.beeper.com/"
+bundle_id: "com.automattic.beeper.desktop"
+
+sources:
+  - type: homebrew
+    cask: "beeper"

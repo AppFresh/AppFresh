@@ -1,0 +1,12 @@
+app_token: "ditto"
+name: "Ditto"
+desc: "Screen mirroring and digital signage"
+homepage: "https://www.airsquirrels.com/ditto"
+bundle_id: "com.squirrels.Ditto"
+
+sources:
+  - type: homebrew
+    cask: "ditto"
+
+  - type: sparkle
+    url: "https://updates.goditto.com/DittoConnect/Mac/"

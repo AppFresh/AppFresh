@@ -1,0 +1,12 @@
+app_token: "atext"
+name: "aText"
+desc: "Tool to replace abbreviations while typing"
+homepage: "https://www.trankynam.com/atext/"
+bundle_id: "com.trankynam.aText"
+
+sources:
+  - type: homebrew
+    cask: "atext"
+
+  - type: sparkle
+    url: "https://www.trankynam.com/atext/appcast.mac.xml"

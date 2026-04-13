@@ -1,0 +1,9 @@
+app_token: "jetbrains-gateway"
+name: "jetbrains-gateway"
+desc: "Remote development gateway by Jetbrains"
+homepage: "https://www.jetbrains.com/remote-development/gateway/"
+bundle_id: "com.jetbrains.gateway"
+
+sources:
+  - type: homebrew
+    cask: "jetbrains-gateway"

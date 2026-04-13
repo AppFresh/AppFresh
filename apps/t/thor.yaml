@@ -1,0 +1,15 @@
+app_token: "thor"
+name: "Thor"
+desc: "Utility to switch between applications"
+homepage: "https://github.com/gbammc/Thor/"
+bundle_id: "me.alvinzhu.Thor"
+
+sources:
+  - type: homebrew
+    cask: "thor"
+
+  - type: github
+    repo: "gbammc/Thor"
+
+  - type: sparkle
+    url: "https://github.com/gbammc/Thor/raw/master/Releases/appcast.xml"

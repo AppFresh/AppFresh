@@ -1,0 +1,11 @@
+app_token: "tunein"
+name: "TuneIn"
+desc: "Free Internet Radio"
+homepage: "https://tunein.com/"
+bundle_id: "com.tunein.desktop"
+
+sources:
+  - type: homebrew
+    cask: "tunein"
+
+  - type: electron

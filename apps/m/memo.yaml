@@ -1,0 +1,9 @@
+app_token: "memo"
+name: "Memo"
+desc: "Note taking app using GitHub Gists"
+homepage: "https://usememo.com/"
+bundle_id: "com.usememo.app"
+
+sources:
+  - type: homebrew
+    cask: "memo"

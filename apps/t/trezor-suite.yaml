@@ -1,0 +1,11 @@
+app_token: "trezor-suite"
+name: "TREZOR Suite"
+desc: "Companion app for the Trezor hardware wallet"
+homepage: "https://suite.trezor.io/"
+bundle_id: "io.trezor.TrezorSuite"
+
+sources:
+  - type: homebrew
+    cask: "trezor-suite"
+
+  - type: electron

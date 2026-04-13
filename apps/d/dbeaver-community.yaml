@@ -1,0 +1,9 @@
+app_token: "dbeaver-community"
+name: "DBeaver Community Edition"
+desc: "Universal database tool and SQL client"
+homepage: "https://dbeaver.io/"
+bundle_id: "org.jkiss.dbeaver.core.product"
+
+sources:
+  - type: homebrew
+    cask: "dbeaver-community"

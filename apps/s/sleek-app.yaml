@@ -1,0 +1,12 @@
+app_token: "sleek-app"
+name: "sleek"
+desc: "Todo manager based on the todo.txt syntax"
+homepage: "https://github.com/ransome1/sleek"
+bundle_id: "com.todotxt.sleek"
+
+sources:
+  - type: homebrew
+    cask: "sleek-app"
+
+  - type: github
+    repo: "ransome1/sleek"

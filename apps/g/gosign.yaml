@@ -1,0 +1,9 @@
+app_token: "gosign"
+name: "GoSign Desktop"
+desc: "Digital signature and time stamp app"
+homepage: "https://www.firma.infocert.it/prodotti/gosign/"
+bundle_id: "it.infocert.desktop.gosign"
+
+sources:
+  - type: homebrew
+    cask: "gosign"

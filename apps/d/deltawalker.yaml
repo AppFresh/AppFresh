@@ -1,0 +1,9 @@
+app_token: "deltawalker"
+name: "DeltaWalker"
+desc: "Tool to compare and synchronise files and folders"
+homepage: "https://www.deltawalker.com/"
+bundle_id: "com.deltopia.DeltaWalker"
+
+sources:
+  - type: homebrew
+    cask: "deltawalker"

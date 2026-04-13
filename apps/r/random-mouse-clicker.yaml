@@ -1,0 +1,9 @@
+app_token: "random-mouse-clicker"
+name: "Random Mouse Clicker"
+desc: "Automate left, right and middle mouse button clicks"
+homepage: "https://www.murgaa.com/"
+bundle_id: "com.murgaa.Random-Mouse-Clicker-by-MurGaa-com"
+
+sources:
+  - type: homebrew
+    cask: "random-mouse-clicker"

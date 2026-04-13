@@ -1,0 +1,12 @@
+app_token: "elasticvue"
+name: "Elasticvue"
+desc: "Elasticsearch GUI"
+homepage: "https://elasticvue.com/"
+bundle_id: "com.elasticvue.app"
+
+sources:
+  - type: homebrew
+    cask: "elasticvue"
+
+  - type: github
+    repo: "cars10/elasticvue"

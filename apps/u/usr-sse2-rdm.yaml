@@ -1,0 +1,12 @@
+app_token: "usr-sse2-rdm"
+name: "RDM"
+desc: "Set a Retina display to custom resolutions"
+homepage: "https://github.com/usr-sse2/RDM"
+bundle_id: "net.alkalay.RDM"
+
+sources:
+  - type: homebrew
+    cask: "usr-sse2-rdm"
+
+  - type: github
+    repo: "usr-sse2/RDM"

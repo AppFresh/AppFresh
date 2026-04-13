@@ -1,0 +1,12 @@
+app_token: "sonic-visualiser"
+name: "Sonic Visualiser"
+desc: "Visualisation, analysis, and annotation of music audio recordings"
+homepage: "https://www.sonicvisualiser.org/"
+bundle_id: "org.sonicvisualiser.SonicVisualiser"
+
+sources:
+  - type: homebrew
+    cask: "sonic-visualiser"
+
+  - type: github
+    repo: "sonic-visualiser/sonic-visualiser"

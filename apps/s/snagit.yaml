@@ -1,0 +1,9 @@
+app_token: "snagit"
+name: "Snagit"
+desc: "Screen capture software"
+homepage: "https://www.techsmith.com/screen-capture.html"
+bundle_id: "com.TechSmith.Snagit"
+
+sources:
+  - type: homebrew
+    cask: "snagit"

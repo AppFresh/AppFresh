@@ -1,0 +1,9 @@
+app_token: "simplemind"
+name: "SimpleMind"
+desc: "Cross-platform mind mapping tool"
+homepage: "https://simpleapps.eu/"
+bundle_id: "com.modelmakertools.simplemindosx"
+
+sources:
+  - type: homebrew
+    cask: "simplemind"

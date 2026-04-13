@@ -1,0 +1,9 @@
+app_token: "localcan"
+name: "LocalCan"
+desc: "Develop apps with Public URLs and .local domains"
+homepage: "https://www.localcan.com/"
+bundle_id: "com.electron.localcan"
+
+sources:
+  - type: homebrew
+    cask: "localcan"

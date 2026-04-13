@@ -1,0 +1,12 @@
+app_token: "tailscale-app"
+name: "Tailscale"
+desc: "Mesh VPN based on WireGuard"
+homepage: "https://tailscale.com/"
+bundle_id: "io.tailscale.ipn.macsys"
+
+sources:
+  - type: homebrew
+    cask: "tailscale-app"
+
+  - type: sparkle
+    url: "https://pkgs.tailscale.com/stable/appcast.xml"

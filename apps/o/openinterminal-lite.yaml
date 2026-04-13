@@ -1,0 +1,13 @@
+app_token: "openinterminal-lite"
+name: "OpenInTerminal-Lite"
+desc: "Finder Toolbar app to open the current directory in Terminal"
+homepage: "https://github.com/Ji4n1ng/OpenInTerminal"
+bundle_id: "wang.jianing.app.OpenInTerminal-Lite"
+
+sources:
+  - type: homebrew
+    cask: "openinterminal-lite"
+
+  - type: github
+    repo: "Ji4n1ng/OpenInTerminal"
+    regex: "OpenInTerminal-Lite.app.zip"

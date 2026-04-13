@@ -1,0 +1,12 @@
+app_token: "finetune"
+name: "FineTune"
+desc: "Per-application volume mixer, equalizer, and audio router"
+homepage: "https://github.com/ronitsingh10/FineTune"
+bundle_id: "com.finetuneapp.FineTune"
+
+sources:
+  - type: homebrew
+    cask: "finetune"
+
+  - type: github
+    repo: "ronitsingh10/FineTune"

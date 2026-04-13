@@ -1,0 +1,12 @@
+app_token: "accessmenubarapps"
+name: "AccessMenuBarApps"
+desc: "Instant access for menubar apps"
+homepage: "https://www.ortisoft.de/accessmenubarapps/"
+bundle_id: "de.ortisoft.AccessMenubarApps"
+
+sources:
+  - type: homebrew
+    cask: "accessmenubarapps"
+
+  - type: sparkle
+    url: "https://www.ortisoft.de/accessmenubarapps/appcast.xml"

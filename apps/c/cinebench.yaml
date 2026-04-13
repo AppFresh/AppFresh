@@ -1,0 +1,9 @@
+app_token: "cinebench"
+name: "Cinebench"
+desc: "Hardware benchmarking utility"
+homepage: "https://www.maxon.net/products/cinebench/"
+bundle_id: "net.maxon.cinebench"
+
+sources:
+  - type: homebrew
+    cask: "cinebench"

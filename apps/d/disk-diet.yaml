@@ -1,0 +1,12 @@
+app_token: "disk-diet"
+name: "Disk Diet"
+desc: "Free up disk space"
+homepage: "https://www.tunabellysoftware.com/disk_diet/"
+bundle_id: "com.tunabellysoftware.diskdiet"
+
+sources:
+  - type: homebrew
+    cask: "disk-diet"
+
+  - type: sparkle
+    url: "https://www.tunabellysoftware.com/resources/sparkle/diskdiet.xml"

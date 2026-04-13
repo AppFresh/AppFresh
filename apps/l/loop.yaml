@@ -1,0 +1,12 @@
+app_token: "loop"
+name: "Loop"
+desc: "Window manager"
+homepage: "https://github.com/MrKai77/Loop"
+bundle_id: "com.MrKai77.Loop"
+
+sources:
+  - type: homebrew
+    cask: "loop"
+
+  - type: github
+    repo: "MrKai77/Loop"

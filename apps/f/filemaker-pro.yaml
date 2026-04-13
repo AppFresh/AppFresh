@@ -1,0 +1,9 @@
+app_token: "filemaker-pro"
+name: "FileMaker Pro"
+desc: "Relational database and rapid application development platform"
+homepage: "https://www.claris.com/filemaker/"
+bundle_id: "com.filemaker.client.pro12"
+
+sources:
+  - type: homebrew
+    cask: "filemaker-pro"

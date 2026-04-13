@@ -1,0 +1,9 @@
+app_token: "messenger"
+name: "Facebook Messenger"
+desc: "Native desktop app for Messenger (formerly Facebook Messenger)"
+homepage: "https://www.messenger.com/desktop"
+bundle_id: "com.facebook.archon.developerID"
+
+sources:
+  - type: homebrew
+    cask: "messenger"

@@ -1,0 +1,12 @@
+app_token: "upscayl"
+name: "Upscayl"
+desc: "Free and Open Source AI Image Upscaler"
+homepage: "https://upscayl.org/"
+bundle_id: "org.upscayl.Upscayl"
+
+sources:
+  - type: homebrew
+    cask: "upscayl"
+
+  - type: github
+    repo: "upscayl/upscayl"

@@ -1,0 +1,15 @@
+app_token: "syncthing-app"
+name: "Syncthing"
+desc: "Official frugal and native macOS Syncthing application bundle"
+homepage: "https://syncthing.net/"
+bundle_id: "com.github.xor-gate.syncthing-macosx"
+
+sources:
+  - type: homebrew
+    cask: "syncthing-app"
+
+  - type: github
+    repo: "syncthing/syncthing-macos"
+
+  - type: sparkle
+    url: "https://upgrades.syncthing.net/syncthing-macos/appcast.xml"

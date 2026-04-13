@@ -1,0 +1,12 @@
+app_token: "one-switch"
+name: "One Switch"
+desc: "All system and utility switches in one place"
+homepage: "https://fireball.studio/oneswitch"
+bundle_id: "studio.fireball.OneSwitch"
+
+sources:
+  - type: homebrew
+    cask: "one-switch"
+
+  - type: sparkle
+    url: "https://fireball.studio/api/release_manager/studio.fireball.OneSwitchOfficial.xml"

@@ -1,0 +1,9 @@
+app_token: "rider"
+name: "JetBrains Rider"
+desc: ".NET IDE"
+homepage: "https://www.jetbrains.com/rider/"
+bundle_id: "com.jetbrains.rider"
+
+sources:
+  - type: homebrew
+    cask: "rider"

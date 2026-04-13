@@ -1,0 +1,12 @@
+app_token: "app-cleaner"
+name: "App Cleaner 9"
+desc: "Uninstaller and cleaning assistant"
+homepage: "https://nektony.com/mac-app-cleaner"
+bundle_id: "com.nektony.App-Cleaner-SIII"
+
+sources:
+  - type: homebrew
+    cask: "app-cleaner"
+
+  - type: sparkle
+    url: "https://download.nektony.com/pro-support/v3/app-cleaner/update/update.xml"

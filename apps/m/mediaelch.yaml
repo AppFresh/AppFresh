@@ -1,0 +1,12 @@
+app_token: "mediaelch"
+name: "MediaElch"
+desc: "Media Manager for Kodi"
+homepage: "https://www.kvibes.de/en/mediaelch/"
+bundle_id: "com.kvibes.MediaElch"
+
+sources:
+  - type: homebrew
+    cask: "mediaelch"
+
+  - type: github
+    repo: "Komet/MediaElch"

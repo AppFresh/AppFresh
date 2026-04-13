@@ -1,0 +1,12 @@
+app_token: "free-ruler"
+name: "Free Ruler"
+desc: "Horizontal and vertical rulers"
+homepage: "https://www.pascal.com/freeruler"
+bundle_id: "com.pascal.freeruler"
+
+sources:
+  - type: homebrew
+    cask: "free-ruler"
+
+  - type: github
+    repo: "pascalpp/FreeRuler"

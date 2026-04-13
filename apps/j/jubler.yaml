@@ -1,0 +1,12 @@
+app_token: "jubler"
+name: "Jubler"
+desc: "Subtitle editor"
+homepage: "https://www.jubler.org/"
+bundle_id: "com.jubler.Jubler"
+
+sources:
+  - type: homebrew
+    cask: "jubler"
+
+  - type: github
+    repo: "teras/Jubler"

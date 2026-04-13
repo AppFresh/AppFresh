@@ -1,0 +1,9 @@
+app_token: "miktex-console"
+name: "MiKTeX"
+desc: "TeX distribution"
+homepage: "https://miktex.org/"
+bundle_id: "org.miktex.console"
+
+sources:
+  - type: homebrew
+    cask: "miktex-console"

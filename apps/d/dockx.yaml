@@ -1,0 +1,11 @@
+app_token: "dockx"
+name: "DockX"
+desc: "Everything on Dock & Menu bar"
+homepage: "https://dockx.app/"
+bundle_id: "com.6x.DockX"
+
+sources:
+  - type: appstore
+
+  - type: homebrew
+    cask: "dockx"

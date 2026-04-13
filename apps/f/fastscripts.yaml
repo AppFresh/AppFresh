@@ -1,0 +1,12 @@
+app_token: "fastscripts"
+name: "FastScripts"
+desc: "Tool for running time-saving scripts"
+homepage: "https://redsweater.com/fastscripts/"
+bundle_id: "com.red-sweater.fastscripts3"
+
+sources:
+  - type: homebrew
+    cask: "fastscripts"
+
+  - type: sparkle
+    url: "https://redsweater.com/fastscripts/appcast3.php"

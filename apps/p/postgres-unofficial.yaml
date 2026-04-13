@@ -1,0 +1,12 @@
+app_token: "postgres-unofficial"
+name: "Postgres"
+desc: "App wrapper for Postgres"
+homepage: "https://postgresapp.com/"
+bundle_id: "com.postgresapp.Postgres2"
+
+sources:
+  - type: homebrew
+    cask: "postgres-unofficial"
+
+  - type: github
+    repo: "PostgresApp/PostgresApp"

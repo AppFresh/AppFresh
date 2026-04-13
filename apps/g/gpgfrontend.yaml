@@ -1,0 +1,12 @@
+app_token: "gpgfrontend"
+name: "GpgFrontend"
+desc: "OpenPGP/GnuPG crypto, sign and key management tool"
+homepage: "https://gpgfrontend.bktus.com/"
+bundle_id: "com.bktus.gpgfrontend"
+
+sources:
+  - type: homebrew
+    cask: "gpgfrontend"
+
+  - type: github
+    repo: "saturneric/GpgFrontend"

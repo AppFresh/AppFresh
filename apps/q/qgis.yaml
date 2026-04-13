@@ -1,0 +1,12 @@
+app_token: "qgis"
+name: "QGIS"
+desc: "Geographic Information System"
+homepage: "https://www.qgis.org/"
+bundle_id: "org.qgis.qgis3"
+
+sources:
+  - type: homebrew
+    cask: "qgis"
+
+  - type: homebrew
+    cask: "qgis@ltr"

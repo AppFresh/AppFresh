@@ -1,0 +1,12 @@
+app_token: "k6-studio"
+name: "k6 Studio"
+desc: "Application for generating k6 test scripts"
+homepage: "https://grafana.com/docs/k6-studio"
+bundle_id: "com.electron.k6-studio"
+
+sources:
+  - type: homebrew
+    cask: "k6-studio"
+
+  - type: github
+    repo: "grafana/k6-studio"

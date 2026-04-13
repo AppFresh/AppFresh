@@ -1,0 +1,9 @@
+app_token: "openvisualtraceroute"
+name: "OpenVisualTraceroute"
+desc: "Visual networking tool"
+homepage: "https://visualtraceroute.net/"
+bundle_id: "org.leo.traceroute.Main"
+
+sources:
+  - type: homebrew
+    cask: "openvisualtraceroute"

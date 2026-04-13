@@ -1,0 +1,9 @@
+app_token: "yuque"
+name: "Yuque"
+desc: "Cloud knowledge base"
+homepage: "https://www.yuque.com/"
+bundle_id: "com.yuque.app"
+
+sources:
+  - type: homebrew
+    cask: "yuque"

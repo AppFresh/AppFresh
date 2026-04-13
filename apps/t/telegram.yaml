@@ -1,0 +1,14 @@
+app_token: "telegram"
+name: "Telegram"
+desc: "Messaging app with a focus on speed and security"
+homepage: "https://macos.telegram.org/"
+bundle_id: "ru.keepcoder.Telegram"
+
+sources:
+  - type: homebrew
+    cask: "telegram"
+
+  - type: sparkle
+    url: "https://osx.telegram.org/updates/versions.xml"
+
+  - type: appstore

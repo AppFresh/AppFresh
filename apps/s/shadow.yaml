@@ -1,0 +1,11 @@
+app_token: "shadow"
+name: "Shadow"
+desc: "Online virtualised computer"
+homepage: "https://shadow.tech/"
+bundle_id: "com.electron.shadow"
+
+sources:
+  - type: homebrew
+    cask: "shadow"
+
+  - type: electron

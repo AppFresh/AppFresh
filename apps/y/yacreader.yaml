@@ -1,0 +1,12 @@
+app_token: "yacreader"
+name: "YACReader"
+desc: "Comic reader"
+homepage: "https://www.yacreader.com/"
+bundle_id: "com.yacreader.YACReader"
+
+sources:
+  - type: homebrew
+    cask: "yacreader"
+
+  - type: github
+    repo: "YACReader/yacreader"

@@ -1,0 +1,15 @@
+app_token: "visualdiffer"
+name: "VisualDiffer"
+desc: "Visually compare folders and files"
+homepage: "https://visualdiffer.com/"
+bundle_id: "com.visualdiffer"
+
+sources:
+  - type: homebrew
+    cask: "visualdiffer"
+
+  - type: github
+    repo: "visualdiffer/visualdiffer"
+
+  - type: sparkle
+    url: "https://app.visualdiffer.com/appcast.xml"

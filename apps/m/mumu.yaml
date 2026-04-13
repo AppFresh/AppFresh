@@ -1,0 +1,9 @@
+app_token: "mumu"
+name: "Mumu"
+desc: "Emoji picker"
+homepage: "https://getmumu.com/"
+bundle_id: "com.wilbertliu.mumu"
+
+sources:
+  - type: homebrew
+    cask: "mumu"

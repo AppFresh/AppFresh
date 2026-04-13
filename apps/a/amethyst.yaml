@@ -1,0 +1,15 @@
+app_token: "amethyst"
+name: "Amethyst"
+desc: "Automatic tiling window manager similar to xmonad"
+homepage: "https://ianyh.com/amethyst/"
+bundle_id: "com.amethyst.Amethyst"
+
+sources:
+  - type: homebrew
+    cask: "amethyst"
+
+  - type: github
+    repo: "ianyh/Amethyst"
+
+  - type: sparkle
+    url: "https://ianyh.com/amethyst/appcast.xml"

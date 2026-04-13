@@ -1,0 +1,9 @@
+app_token: "kstars"
+name: "KStars"
+desc: "Astronomy software"
+homepage: "https://kstars.kde.org/"
+bundle_id: "org.kde.kstars"
+
+sources:
+  - type: homebrew
+    cask: "kstars"

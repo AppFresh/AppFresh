@@ -1,0 +1,9 @@
+app_token: "wondershare-uniconverter"
+name: "UniConverter"
+desc: "Video editing software"
+homepage: "https://videoconverter.wondershare.com/"
+bundle_id: "com.Wondershare.ExtensionHelper"
+
+sources:
+  - type: homebrew
+    cask: "wondershare-uniconverter"

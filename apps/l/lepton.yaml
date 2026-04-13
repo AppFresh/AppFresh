@@ -1,0 +1,12 @@
+app_token: "lepton"
+name: "Lepton"
+desc: "a lean code snippet manager powered by GitHub Gist."
+homepage: "https://hackjutsu.com/Lepton/"
+bundle_id: "com.cosmox.lepton"
+
+sources:
+  - type: homebrew
+    cask: "lepton"
+
+  - type: github
+    repo: "hackjutsu/Lepton"

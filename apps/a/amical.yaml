@@ -1,0 +1,12 @@
+app_token: "amical"
+name: "Amical"
+desc: "AI dictation app"
+homepage: "https://amical.ai/"
+bundle_id: "com.amical.desktop"
+
+sources:
+  - type: homebrew
+    cask: "amical"
+
+  - type: github
+    repo: "amicalhq/amical"

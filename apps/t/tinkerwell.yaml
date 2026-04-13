@@ -1,0 +1,11 @@
+app_token: "tinkerwell"
+name: "Tinkerwell"
+desc: "Tinker tool for PHP and Laravel developers"
+homepage: "https://tinkerwell.app/"
+bundle_id: "de.beyondco.tinkerwell"
+
+sources:
+  - type: homebrew
+    cask: "tinkerwell"
+
+  - type: electron

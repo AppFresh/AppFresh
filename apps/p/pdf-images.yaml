@@ -1,0 +1,8 @@
+app_token: "pdf-images"
+name: "PDF-Images"
+homepage: "https://sourceforge.net/projects/pdf-images/"
+bundle_id: "com.biochill.PDF-Images"
+
+sources:
+  - type: homebrew
+    cask: "pdf-images"

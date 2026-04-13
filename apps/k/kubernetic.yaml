@@ -1,0 +1,11 @@
+app_token: "kubernetic"
+name: "Kubernetic"
+desc: "Kubernetes desktop client"
+homepage: "https://kubernetic.com/"
+bundle_id: "com.kubernetic.desktop"
+
+sources:
+  - type: homebrew
+    cask: "kubernetic"
+
+  - type: electron

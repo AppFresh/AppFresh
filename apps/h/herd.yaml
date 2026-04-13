@@ -1,0 +1,12 @@
+app_token: "herd"
+name: "Laravel Herd"
+desc: "Laravel and PHP development environment manager"
+homepage: "https://herd.laravel.com/"
+bundle_id: "de.beyondco.herd"
+
+sources:
+  - type: homebrew
+    cask: "herd"
+
+  - type: sparkle
+    url: "https://herd.laravel.com/api/versions"

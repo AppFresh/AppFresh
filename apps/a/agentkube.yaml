@@ -1,0 +1,12 @@
+app_token: "agentkube"
+name: "Agentkube"
+desc: "AI-powered Kubernetes IDE"
+homepage: "https://agentkube.com/"
+bundle_id: "platform.agentkube.app"
+
+sources:
+  - type: homebrew
+    cask: "agentkube"
+
+  - type: github
+    repo: "agentkube/agentkube"

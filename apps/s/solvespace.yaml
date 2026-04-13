@@ -1,0 +1,12 @@
+app_token: "solvespace"
+name: "SolveSpace"
+desc: "Parametric 2d/3d CAD"
+homepage: "https://solvespace.com/index.pl/"
+bundle_id: "com.solvespace"
+
+sources:
+  - type: homebrew
+    cask: "solvespace"
+
+  - type: github
+    repo: "solvespace/solvespace"

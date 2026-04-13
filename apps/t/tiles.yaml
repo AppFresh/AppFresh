@@ -1,0 +1,12 @@
+app_token: "tiles"
+name: "Sempliva Tiles"
+desc: "Window manager"
+homepage: "https://www.sempliva.com/tiles/"
+bundle_id: "com.sempliva.Tiles"
+
+sources:
+  - type: homebrew
+    cask: "tiles"
+
+  - type: sparkle
+    url: "https://updates.sempliva.com/tiles/updates.xml"

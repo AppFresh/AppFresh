@@ -1,0 +1,10 @@
+app_token: "feishu"
+name: "Feishu"
+name_cn: "飞书"
+desc: "Project management software"
+homepage: "https://www.feishu.cn/"
+bundle_id: "com.electron.lark"
+
+sources:
+  - type: homebrew
+    cask: "feishu"

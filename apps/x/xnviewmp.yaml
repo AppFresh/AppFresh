@@ -1,0 +1,9 @@
+app_token: "xnviewmp"
+name: "XnViewMP"
+desc: "Photo viewer, image manager, image resiser and more"
+homepage: "https://www.xnview.com/en/xnviewmp/"
+bundle_id: "com.xnview.XnView"
+
+sources:
+  - type: homebrew
+    cask: "xnviewmp"

@@ -1,0 +1,9 @@
+app_token: "sdm"
+name: "sdm"
+desc: "StrongDM client"
+homepage: "https://www.strongdm.com/"
+bundle_id: "com.electron.sdm"
+
+sources:
+  - type: homebrew
+    cask: "sdm"

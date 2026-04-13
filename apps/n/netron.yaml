@@ -1,0 +1,12 @@
+app_token: "netron"
+name: "Netron"
+desc: "Visualiser for neural network, deep learning, and machine learning models"
+homepage: "https://github.com/lutzroeder/netron"
+bundle_id: "com.lutzroeder.netron"
+
+sources:
+  - type: homebrew
+    cask: "netron"
+
+  - type: github
+    repo: "lutzroeder/netron"

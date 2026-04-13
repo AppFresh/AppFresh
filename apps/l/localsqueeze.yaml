@@ -1,0 +1,8 @@
+app_token: "localsqueeze"
+name: "LocalSqueeze"
+desc: "A feature-rich, efficient and flexible cross-platform desktop image compression application"
+bundle_id: "com.electron.localsqueeze"
+
+sources:
+  - type: github
+    repo: "freeany/LocalSqueeze"

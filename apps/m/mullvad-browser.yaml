@@ -1,0 +1,9 @@
+app_token: "mullvad-browser"
+name: "Mullvad Browser"
+desc: "Web browser focused on privacy and on minimizing tracking and fingerprinting"
+homepage: "https://mullvad.net/browser"
+bundle_id: "net.mullvad.mullvadbrowser"
+
+sources:
+  - type: homebrew
+    cask: "mullvad-browser"

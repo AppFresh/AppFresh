@@ -1,0 +1,9 @@
+app_token: "retroarch"
+name: "RetroArch"
+desc: "Frontend for emulators, game engines and media players (OpenGL graphics API)"
+homepage: "https://www.retroarch.com/"
+bundle_id: "com.libretro.RetroArch"
+
+sources:
+  - type: homebrew
+    cask: "retroarch"

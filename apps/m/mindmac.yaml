@@ -1,0 +1,15 @@
+app_token: "mindmac"
+name: "MindMac"
+desc: "ChatGPT client"
+homepage: "https://mindmac.app/"
+bundle_id: "app.mindmac.macos"
+
+sources:
+  - type: homebrew
+    cask: "mindmac"
+
+  - type: github
+    repo: "MindMacApp/MindMac"
+
+  - type: sparkle
+    url: "https://mindmacapp.github.io/appcast.xml"

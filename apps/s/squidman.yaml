@@ -1,0 +1,9 @@
+app_token: "squidman"
+name: "SquidMan"
+desc: "Manage and install Squid proxy cache"
+homepage: "https://squidman.net/squidman/"
+bundle_id: "com.mac.adg.SquidMan"
+
+sources:
+  - type: homebrew
+    cask: "squidman"

@@ -1,0 +1,12 @@
+app_token: "rocket"
+name: "Rocket"
+desc: "Emoji picker optimised for blind people"
+homepage: "https://matthewpalmer.net/rocket/"
+bundle_id: "net.matthewpalmer.Rocket"
+
+sources:
+  - type: homebrew
+    cask: "rocket"
+
+  - type: sparkle
+    url: "https://macrelease.matthewpalmer.net/distribution/appcasts/rocket.xml"

@@ -1,0 +1,9 @@
+app_token: "ocenaudio"
+name: "ocenaudio"
+desc: "Audio editor"
+homepage: "https://www.ocenaudio.com/en"
+bundle_id: "com.ocenaudio"
+
+sources:
+  - type: homebrew
+    cask: "ocenaudio"

@@ -1,0 +1,9 @@
+app_token: "eiskaltdcpp"
+name: "EiskaltDC++"
+desc: "Filesharing using Direct Connect and ADC protocols"
+homepage: "https://sourceforge.net/projects/eiskaltdcpp/"
+bundle_id: "com.github.eiskaltdcpp"
+
+sources:
+  - type: homebrew
+    cask: "eiskaltdcpp"

@@ -1,0 +1,15 @@
+app_token: "carbon-copy-cloner"
+name: "Carbon Copy Cloner"
+desc: "Hard disk backup and cloning utility"
+homepage: "https://bombich.com/"
+bundle_id: "com.bombich.ccc"
+
+sources:
+  - type: homebrew
+    cask: "carbon-copy-cloner"
+
+  - type: homebrew
+    cask: "carbon-copy-cloner@5"
+
+  - type: homebrew
+    cask: "carbon-copy-cloner@6"

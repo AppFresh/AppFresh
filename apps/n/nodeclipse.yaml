@@ -1,0 +1,9 @@
+app_token: "nodeclipse"
+name: "Nodeclipse"
+desc: "Node.js tooling with Eclipse"
+homepage: "https://nodeclipse.github.io/"
+bundle_id: "org.eclipse.platform.ide"
+
+sources:
+  - type: homebrew
+    cask: "nodeclipse"

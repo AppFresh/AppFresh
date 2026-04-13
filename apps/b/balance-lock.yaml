@@ -1,0 +1,12 @@
+app_token: "balance-lock"
+name: "Balance Lock"
+desc: "Prevents audio balance from drifting left or right"
+homepage: "https://www.tunabellysoftware.com/balance_lock"
+bundle_id: "com.tunabelly.balancelock"
+
+sources:
+  - type: homebrew
+    cask: "balance-lock"
+
+  - type: sparkle
+    url: "https://www.tunabellysoftware.com/resources/sparkle/balancelock.xml"

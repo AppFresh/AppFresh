@@ -1,0 +1,12 @@
+app_token: "bentobox"
+name: "BentoBox"
+desc: "Window manager that organizes desktop applications into predefined zones"
+homepage: "https://bentoboxapp.com/"
+bundle_id: "org.friendlyventures.BentoBox"
+
+sources:
+  - type: homebrew
+    cask: "bentobox"
+
+  - type: sparkle
+    url: "https://releases.bentobox.friendlyventures.org/appcast.xml"

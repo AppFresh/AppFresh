@@ -1,0 +1,12 @@
+app_token: "mindwtr"
+name: "Mindwtr"
+desc: "Local-first GTD productivity tool"
+homepage: "https://github.com/dongdongbh/Mindwtr"
+bundle_id: "tech.dongdongbh.mindwtr"
+
+sources:
+  - type: homebrew
+    cask: "mindwtr"
+
+  - type: github
+    repo: "dongdongbh/Mindwtr"

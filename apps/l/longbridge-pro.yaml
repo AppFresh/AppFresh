@@ -1,0 +1,10 @@
+app_token: "longbridge-pro"
+name: "Longbridge Pro"
+name_cn: "长桥"
+desc: "Stock trading platform"
+homepage: "https://longbridge.com/"
+bundle_id: "global.longbridge.app.desktop"
+
+sources:
+  - type: homebrew
+    cask: "longbridge-pro"

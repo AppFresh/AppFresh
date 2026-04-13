@@ -1,0 +1,12 @@
+app_token: "medis"
+name: "Medis"
+desc: "Modern GUI for Redis"
+homepage: "https://getmedis.com/"
+bundle_id: "li.zihua.medis2"
+
+sources:
+  - type: homebrew
+    cask: "medis"
+
+  - type: sparkle
+    url: "https://api.getmedis.com/medis/sparkle"

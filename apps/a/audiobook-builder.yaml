@@ -1,0 +1,9 @@
+app_token: "audiobook-builder"
+name: "Audiobook Builder"
+desc: "Turn audio CDs and files into audiobooks"
+homepage: "https://www.splasm.com/audiobookbuilder/"
+bundle_id: "com.splasm.audiobookbuilder2"
+
+sources:
+  - type: homebrew
+    cask: "audiobook-builder"

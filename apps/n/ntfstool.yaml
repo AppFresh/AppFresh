@@ -1,0 +1,12 @@
+app_token: "ntfstool"
+name: "NTFSTool"
+desc: "Utility that provides NTFS read and write support"
+homepage: "https://github.com/ntfstool/ntfstool"
+bundle_id: "com.ntfstool.aile"
+
+sources:
+  - type: homebrew
+    cask: "ntfstool"
+
+  - type: github
+    repo: "ntfstool/ntfstool"

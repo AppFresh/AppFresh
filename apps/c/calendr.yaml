@@ -1,0 +1,12 @@
+app_token: "calendr"
+name: "Calendr"
+desc: "Menu bar calendar"
+homepage: "https://github.com/pakerwreah/Calendr"
+bundle_id: "br.paker.Calendr"
+
+sources:
+  - type: homebrew
+    cask: "calendr"
+
+  - type: github
+    repo: "pakerwreah/Calendr"

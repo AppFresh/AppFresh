@@ -1,0 +1,12 @@
+app_token: "jmc"
+name: "jmc"
+desc: "Media organiser"
+homepage: "https://github.com/jcm93/jmc"
+bundle_id: "com.jcm.jmc"
+
+sources:
+  - type: homebrew
+    cask: "jmc"
+
+  - type: github
+    repo: "jcm93/jmc"

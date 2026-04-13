@@ -1,0 +1,12 @@
+app_token: "navicat-premium"
+name: "Navicat Premium"
+desc: "Database administration and development tool"
+homepage: "https://www.navicat.com/products/navicat-premium"
+bundle_id: "com.navicat.NavicatPremium"
+
+sources:
+  - type: homebrew
+    cask: "navicat-premium"
+
+  - type: sparkle
+    url: "https://updater.navicat.com/mac/v17/navicat_updates.php?appName=Navicat%20Premium"

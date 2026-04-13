@@ -1,0 +1,11 @@
+app_token: "fabric-app"
+name: "Fabric"
+desc: "Personal knowledge management and note-taking app"
+homepage: "https://fabric.so/"
+bundle_id: "com.todesktop.220930m1ahpjvoh"
+
+sources:
+  - type: homebrew
+    cask: "fabric-app"
+
+  - type: electron

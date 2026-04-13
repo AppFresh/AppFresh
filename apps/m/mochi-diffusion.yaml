@@ -1,0 +1,12 @@
+app_token: "mochi-diffusion"
+name: "Mochi Diffusion"
+desc: "Run Stable Diffusion natively"
+homepage: "https://github.com/godly-devotion/MochiDiffusion"
+bundle_id: "com.joshua-park.Mochi-Diffusion"
+
+sources:
+  - type: homebrew
+    cask: "mochi-diffusion"
+
+  - type: github
+    repo: "godly-devotion/MochiDiffusion"

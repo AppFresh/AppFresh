@@ -1,0 +1,12 @@
+app_token: "elmedia-player"
+name: "Elmedia Player"
+desc: "Video and audio player"
+homepage: "https://www.electronic.us/products/elmedia/"
+bundle_id: "com.Eltima.ElmediaPlayer"
+
+sources:
+  - type: homebrew
+    cask: "elmedia-player"
+
+  - type: sparkle
+    url: "https://cdn.electronic.us/products/elmedia/mac/update/settings.xml"

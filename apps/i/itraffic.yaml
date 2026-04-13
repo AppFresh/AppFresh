@@ -1,0 +1,12 @@
+app_token: "itraffic"
+name: "itraffic"
+desc: "Monitor for displaying process traffic on status bar"
+homepage: "https://github.com/foamzou/ITraffic-monitor-for-mac"
+bundle_id: "com.foamzou.ITrafficMonitorForMac"
+
+sources:
+  - type: homebrew
+    cask: "itraffic"
+
+  - type: github
+    repo: "foamzou/ITraffic-monitor-for-mac"

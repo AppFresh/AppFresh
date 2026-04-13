@@ -1,0 +1,12 @@
+app_token: "onlyoffice"
+name: "ONLYOFFICE"
+desc: "Document editor"
+homepage: "https://www.onlyoffice.com/"
+bundle_id: "asc.onlyoffice.ONLYOFFICE"
+
+sources:
+  - type: homebrew
+    cask: "onlyoffice"
+
+  - type: sparkle
+    url: "https://download.onlyoffice.com/install/desktop/editors/mac/arm/onlyoffice.xml"

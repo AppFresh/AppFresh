@@ -1,0 +1,12 @@
+app_token: "pyfa"
+name: "pyfa"
+desc: "Fitting tool for EVE Online"
+homepage: "https://github.com/pyfa-org/Pyfa"
+bundle_id: "org.pyfaorg.pyfa"
+
+sources:
+  - type: homebrew
+    cask: "pyfa"
+
+  - type: github
+    repo: "pyfa-org/Pyfa"

@@ -1,0 +1,9 @@
+app_token: "brainfm"
+name: "Brain.fm"
+desc: "Desktop client for brain.fm"
+homepage: "https://www.brain.fm/download"
+bundle_id: "com.electron.brain.fm"
+
+sources:
+  - type: homebrew
+    cask: "brainfm"

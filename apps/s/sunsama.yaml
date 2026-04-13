@@ -1,0 +1,11 @@
+app_token: "sunsama"
+name: "Sunsama"
+desc: "Daily planner and calendar"
+homepage: "https://www.sunsama.com/desktop"
+bundle_id: "com.sunsama.native-app"
+
+sources:
+  - type: homebrew
+    cask: "sunsama"
+
+  - type: electron

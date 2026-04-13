@@ -1,0 +1,9 @@
+app_token: "tencent-lemon"
+name: "Tencent Lemon Cleaner"
+desc: "Cleanup and system status tool"
+homepage: "https://lemon.qq.com/"
+bundle_id: "com.tencent.Lemon"
+
+sources:
+  - type: homebrew
+    cask: "tencent-lemon"

@@ -1,0 +1,9 @@
+app_token: "linqpad"
+name: "LINQPad"
+desc: ".NET LINQ database query tool and code scratchpad"
+homepage: "https://www.linqpad.net/"
+bundle_id: "LINQPad9.macos"
+
+sources:
+  - type: homebrew
+    cask: "linqpad"

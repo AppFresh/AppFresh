@@ -1,0 +1,15 @@
+app_token: "utm"
+name: "UTM"
+desc: "Virtual machines UI using QEMU"
+homepage: "https://mac.getutm.app/"
+bundle_id: "com.utmapp.UTM"
+
+sources:
+  - type: homebrew
+    cask: "utm"
+
+  - type: github
+    repo: "utmapp/UTM"
+
+  - type: homebrew
+    cask: "utm@beta"

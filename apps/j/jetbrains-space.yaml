@@ -1,0 +1,11 @@
+app_token: "jetbrains-space"
+name: "JetBrains Space"
+desc: "Team communication and collaboration software"
+homepage: "https://www.jetbrains.com/space/"
+bundle_id: "com.jetbrains.space.desktop"
+
+sources:
+  - type: homebrew
+    cask: "jetbrains-space"
+
+  - type: electron

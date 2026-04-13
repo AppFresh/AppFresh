@@ -1,0 +1,12 @@
+app_token: "zipic"
+name: "Zipic"
+desc: "Image compression tool"
+homepage: "https://zipic.app/"
+bundle_id: "studio.5km.zipic"
+
+sources:
+  - type: homebrew
+    cask: "zipic"
+
+  - type: sparkle
+    url: "https://releases.5km.tech/zipic/appcast.xml"

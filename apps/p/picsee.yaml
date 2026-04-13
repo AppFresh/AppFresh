@@ -1,0 +1,11 @@
+app_token: "picsee"
+name: "Picsee"
+desc: "Photo Browse & Manage"
+homepage: "https://enpicsee.chitaner.com/"
+bundle_id: "me.zhiquan.mac.Picsee"
+
+sources:
+  - type: sparkle
+    url: "https://picsee.chitaner.com/download/appcast.xml"
+
+  - type: appstore

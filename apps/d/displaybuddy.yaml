@@ -1,0 +1,12 @@
+app_token: "displaybuddy"
+name: "DisplayBuddy"
+desc: "Monitor resolution and settings manager"
+homepage: "https://displaybuddy.app/"
+bundle_id: "com.sids.DisplayBuddy"
+
+sources:
+  - type: homebrew
+    cask: "displaybuddy"
+
+  - type: sparkle
+    url: "https://displaybuddy.app/public/appcast.xml"

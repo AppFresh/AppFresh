@@ -1,0 +1,12 @@
+app_token: "batfi"
+name: "BatFi"
+desc: "App for managing battery charging"
+homepage: "https://micropixels.software/batfi"
+bundle_id: "software.micropixels.BatFi"
+
+sources:
+  - type: homebrew
+    cask: "batfi"
+
+  - type: sparkle
+    url: "https://files.micropixels.software/batfi/appcast.xml"

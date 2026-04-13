@@ -1,0 +1,12 @@
+app_token: "bot-framework-emulator"
+name: "Microsoft Bot Framework Emulator"
+desc: "Test and debug chat bots built with the Bot Framework SDK"
+homepage: "https://github.com/Microsoft/BotFramework-Emulator"
+bundle_id: "F3C061A6-FE81-4548-82ED-C1171D9856BB"
+
+sources:
+  - type: homebrew
+    cask: "bot-framework-emulator"
+
+  - type: github
+    repo: "Microsoft/BotFramework-Emulator"

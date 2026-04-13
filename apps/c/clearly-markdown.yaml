@@ -1,0 +1,11 @@
+app_token: "clearly-markdown"
+name: "Clearly Markdown"
+desc: "A clean, native markdown editor for macOS."
+homepage: "https://clearly.md/"
+bundle_id: "com.sabotage.clearly"
+
+sources:
+  - type: github
+    repo: "Shpigford/clearly"
+
+  - type: appstore

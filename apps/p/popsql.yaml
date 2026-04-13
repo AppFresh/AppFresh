@@ -1,0 +1,11 @@
+app_token: "popsql"
+name: "PopSQL"
+desc: "Collaborative SQL editor"
+homepage: "https://popsql.com/"
+bundle_id: "org.electron.popsql"
+
+sources:
+  - type: homebrew
+    cask: "popsql"
+
+  - type: electron

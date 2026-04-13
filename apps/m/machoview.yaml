@@ -1,0 +1,9 @@
+app_token: "machoview"
+name: "MachOView"
+desc: "Visual Mach-O file browser"
+homepage: "https://sourceforge.net/projects/machoview/"
+bundle_id: "MachOView"
+
+sources:
+  - type: homebrew
+    cask: "machoview"

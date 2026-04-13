@@ -1,0 +1,11 @@
+app_token: "mstystudio"
+name: "Msty Studio"
+desc: "AI platform with local and online models"
+homepage: "https://msty.ai/"
+bundle_id: "MstyStudio"
+
+sources:
+  - type: homebrew
+    cask: "mstystudio"
+
+  - type: electron

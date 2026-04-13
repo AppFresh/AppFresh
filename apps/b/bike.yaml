@@ -1,0 +1,12 @@
+app_token: "bike"
+name: "Bike"
+desc: "Record and process your ideas"
+homepage: "https://www.hogbaysoftware.com/bike/"
+bundle_id: "com.hogbaysoftware.Bike"
+
+sources:
+  - type: homebrew
+    cask: "bike"
+
+  - type: sparkle
+    url: "https://www.hogbaysoftware.com/bike/releases/index.xml"

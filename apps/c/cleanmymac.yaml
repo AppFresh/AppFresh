@@ -1,0 +1,12 @@
+app_token: "cleanmymac"
+name: "CleanMyMac"
+desc: "Tool to remove unnecessary files and folders from disk"
+homepage: "https://macpaw.com/cleanmymac"
+bundle_id: "com.macpaw.CleanMyMac5"
+
+sources:
+  - type: homebrew
+    cask: "cleanmymac"
+
+  - type: sparkle
+    url: "https://updateinfo.devmate.com/com.macpaw.CleanMyMac5/updates.xml"

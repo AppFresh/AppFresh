@@ -1,0 +1,12 @@
+app_token: "taskbar"
+name: "Taskbar"
+desc: "Windows-style taskbar as a Dock replacement"
+homepage: "https://lawand.io/taskbar/"
+bundle_id: "com.fpfxtknjju.wbgcdolfev"
+
+sources:
+  - type: homebrew
+    cask: "taskbar"
+
+  - type: sparkle
+    url: "https://raw.githubusercontent.com/lawand-dot-io/taskbar/main/appcast.xml"

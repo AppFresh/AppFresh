@@ -1,0 +1,12 @@
+app_token: "openrefine"
+name: "OpenRefine"
+desc: "Tool for working with messy data (previously Google Refine)"
+homepage: "https://openrefine.org/"
+bundle_id: "com.google.refine.Refine"
+
+sources:
+  - type: homebrew
+    cask: "openrefine"
+
+  - type: github
+    repo: "OpenRefine/OpenRefine"

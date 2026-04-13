@@ -1,0 +1,12 @@
+app_token: "bibdesk"
+name: "BibDesk"
+desc: "Edit and manage bibliographies"
+homepage: "https://bibdesk.sourceforge.io/"
+bundle_id: "edu.ucsd.cs.mmccrack.bibdesk"
+
+sources:
+  - type: homebrew
+    cask: "bibdesk"
+
+  - type: sparkle
+    url: "https://bibdesk.sourceforge.io/bibdesk.xml"

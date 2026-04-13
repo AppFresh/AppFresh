@@ -1,0 +1,12 @@
+app_token: "ace-link"
+name: "Ace Link"
+desc: "Menu bar app for playing Ace Stream video streams in an external media player"
+homepage: "https://github.com/blaise-io/acelink"
+bundle_id: "io.blaise.acelink"
+
+sources:
+  - type: homebrew
+    cask: "ace-link"
+
+  - type: github
+    repo: "blaise-io/acelink"

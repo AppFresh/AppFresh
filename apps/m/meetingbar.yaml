@@ -1,0 +1,14 @@
+app_token: "meetingbar"
+name: "MeetingBar"
+desc: "a menu-bar app for your calendar meetings"
+homepage: "https://meetingbar.app/"
+bundle_id: "leits.MeetingBar"
+
+sources:
+  - type: homebrew
+    cask: "meetingbar"
+
+  - type: github
+    repo: "leits/MeetingBar"
+
+  - type: appstore

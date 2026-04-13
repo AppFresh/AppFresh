@@ -1,0 +1,12 @@
+app_token: "zettlr"
+name: "Zettlr"
+desc: "Open-source markdown editor"
+homepage: "https://www.zettlr.com/"
+bundle_id: "com.zettlr.app"
+
+sources:
+  - type: homebrew
+    cask: "zettlr"
+
+  - type: github
+    repo: "Zettlr/Zettlr"

@@ -1,0 +1,12 @@
+app_token: "bettercapture"
+name: "BetterCapture"
+desc: "Screen recorder"
+homepage: "https://bettercapture.app/"
+bundle_id: "com.sattlerjoshua.BetterCapture"
+
+sources:
+  - type: homebrew
+    cask: "bettercapture"
+
+  - type: github
+    repo: "jsattler/BetterCapture"

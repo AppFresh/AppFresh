@@ -1,0 +1,9 @@
+app_token: "figma"
+name: "Figma"
+desc: "Collaborative team software"
+homepage: "https://www.figma.com/"
+bundle_id: "com.figma.Desktop"
+
+sources:
+  - type: homebrew
+    cask: "figma"

@@ -1,0 +1,12 @@
+app_token: "almighty"
+name: "Almighty"
+desc: "Settings and tweaks configurator"
+homepage: "https://indiegoodies.com/almighty"
+bundle_id: "com.onmyway133.Almighty"
+
+sources:
+  - type: homebrew
+    cask: "almighty"
+
+  - type: sparkle
+    url: "https://raw.githubusercontent.com/onmyway133/archives/master/AlmightyCast.xml"

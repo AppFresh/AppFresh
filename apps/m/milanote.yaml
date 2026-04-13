@@ -1,0 +1,11 @@
+app_token: "milanote"
+name: "Milanote"
+desc: "Organise your ideas and projects into visual boards"
+homepage: "https://www.milanote.com/"
+bundle_id: "com.milanote.app"
+
+sources:
+  - type: homebrew
+    cask: "milanote"
+
+  - type: electron

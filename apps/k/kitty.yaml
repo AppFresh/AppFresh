@@ -1,0 +1,15 @@
+app_token: "kitty"
+name: "kitty"
+desc: "GPU-based terminal emulator"
+homepage: "https://github.com/kovidgoyal/kitty"
+bundle_id: "net.kovidgoyal.kitty"
+
+sources:
+  - type: homebrew
+    cask: "kitty"
+
+  - type: github
+    repo: "kovidgoyal/kitty"
+
+  - type: homebrew
+    cask: "kitty@nightly"

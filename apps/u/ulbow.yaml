@@ -1,0 +1,9 @@
+app_token: "ulbow"
+name: "Ulbow"
+desc: "Log browser"
+homepage: "https://eclecticlight.co/consolation-t2m2-and-log-utilities/"
+bundle_id: "co.eclecticlight.Ulbow"
+
+sources:
+  - type: homebrew
+    cask: "ulbow"

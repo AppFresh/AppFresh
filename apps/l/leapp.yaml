@@ -1,0 +1,11 @@
+app_token: "leapp"
+name: "Leapp"
+desc: "Cloud credentials manager"
+homepage: "https://www.leapp.cloud/"
+bundle_id: "com.leapp.app"
+
+sources:
+  - type: homebrew
+    cask: "leapp"
+
+  - type: electron

@@ -1,0 +1,12 @@
+app_token: "gray"
+name: "Gray"
+desc: "Tool to set light or dark appearance on a per-app basis"
+homepage: "https://github.com/zenangst/Gray"
+bundle_id: "com.zenangst.Gray"
+
+sources:
+  - type: homebrew
+    cask: "gray"
+
+  - type: github
+    repo: "zenangst/Gray"

@@ -1,0 +1,9 @@
+app_token: "singularity"
+name: "Singularity Viewer"
+desc: "Client for Second Life and OpenSim"
+homepage: "https://www.singularityviewer.org/"
+bundle_id: "SingularityAlpha"
+
+sources:
+  - type: homebrew
+    cask: "singularity"

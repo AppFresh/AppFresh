@@ -1,0 +1,12 @@
+app_token: "ollamac"
+name: "Ollamac"
+desc: "Interact with Ollama models"
+homepage: "https://github.com/kevinhermawan/Ollamac"
+bundle_id: "com.kevinhermawan.Ollamac"
+
+sources:
+  - type: homebrew
+    cask: "ollamac"
+
+  - type: github
+    repo: "kevinhermawan/Ollamac"

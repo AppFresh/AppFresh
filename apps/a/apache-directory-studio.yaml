@@ -1,0 +1,9 @@
+app_token: "apache-directory-studio"
+name: "Apache Directory Studio"
+desc: "Eclipse-based LDAP browser and directory client"
+homepage: "https://directory.apache.org/studio/"
+bundle_id: "org.apache.directory.studio.product"
+
+sources:
+  - type: homebrew
+    cask: "apache-directory-studio"

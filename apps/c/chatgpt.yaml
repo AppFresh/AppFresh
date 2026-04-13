@@ -1,0 +1,12 @@
+app_token: "chatgpt"
+name: "ChatGPT"
+desc: "OpenAI's official ChatGPT desktop app"
+homepage: "https://chatgpt.com/"
+bundle_id: "com.openai.chat"
+
+sources:
+  - type: homebrew
+    cask: "chatgpt"
+
+  - type: sparkle
+    url: "https://persistent.oaistatic.com/sidekick/public/sparkle_public_appcast.xml"

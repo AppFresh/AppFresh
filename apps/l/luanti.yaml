@@ -1,0 +1,12 @@
+app_token: "luanti"
+name: "Luanti"
+desc: "Voxel game-creation platform"
+homepage: "https://www.luanti.org/"
+bundle_id: "org.luanti.luanti"
+
+sources:
+  - type: homebrew
+    cask: "luanti"
+
+  - type: github
+    repo: "minetest/minetest"

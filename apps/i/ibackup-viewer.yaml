@@ -1,0 +1,12 @@
+app_token: "ibackup-viewer"
+name: "iBackup Viewer"
+desc: "Extract Data from iPhone Backups"
+homepage: "https://www.imactools.com/iphonebackupviewer/"
+bundle_id: "com.imactools.iBackup-Viewer"
+
+sources:
+  - type: homebrew
+    cask: "ibackup-viewer"
+
+  - type: sparkle
+    url: "https://www.imactools.com/update/ibackupviewer.xml"

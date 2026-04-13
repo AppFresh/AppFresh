@@ -1,0 +1,9 @@
+app_token: "onionshare"
+name: "OnionShare"
+desc: "Securely and anonymously share files, host websites, and chat with friends"
+homepage: "https://onionshare.org/"
+bundle_id: "OnionShare"
+
+sources:
+  - type: homebrew
+    cask: "onionshare"

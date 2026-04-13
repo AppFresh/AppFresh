@@ -1,0 +1,12 @@
+app_token: "retrobatch"
+name: "Retrobatch"
+desc: "Batch image processor"
+homepage: "https://flyingmeat.com/retrobatch/"
+bundle_id: "com.flyingmeat.Retrobatch"
+
+sources:
+  - type: homebrew
+    cask: "retrobatch"
+
+  - type: sparkle
+    url: "https://www.flyingmeat.com/download/retrobatch2update.xml"

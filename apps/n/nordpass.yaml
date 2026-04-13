@@ -1,0 +1,11 @@
+app_token: "nordpass"
+name: "NordPass"
+desc: "Password manager"
+homepage: "https://nordpass.com/"
+bundle_id: "com.nordsec.nordpass"
+
+sources:
+  - type: homebrew
+    cask: "nordpass"
+
+  - type: electron

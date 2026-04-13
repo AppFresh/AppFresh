@@ -1,0 +1,9 @@
+app_token: "cad-assistant"
+name: "CAD Assistant"
+desc: "3D viewer and converter for CAD and mesh files"
+homepage: "https://www.opencascade.com/products/cad-assistant/"
+bundle_id: "org.opencascade.cadassistant"
+
+sources:
+  - type: homebrew
+    cask: "cad-assistant"

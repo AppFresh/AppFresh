@@ -1,0 +1,11 @@
+app_token: "canva"
+name: "Canva"
+desc: "Design tool"
+homepage: "https://www.canva.com/"
+bundle_id: "com.canva.CanvaDesktop"
+
+sources:
+  - type: homebrew
+    cask: "canva"
+
+  - type: electron

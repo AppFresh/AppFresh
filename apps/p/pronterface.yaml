@@ -1,0 +1,12 @@
+app_token: "pronterface"
+name: "Printrun"
+desc: "Control your 3D printer from your PC"
+homepage: "https://github.com/kliment/Printrun"
+bundle_id: "Pronterface"
+
+sources:
+  - type: homebrew
+    cask: "pronterface"
+
+  - type: github
+    repo: "kliment/Printrun"

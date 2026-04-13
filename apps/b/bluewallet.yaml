@@ -1,0 +1,12 @@
+app_token: "bluewallet"
+name: "BlueWallet"
+desc: "Bitcoin wallet and Lightning wallet"
+homepage: "https://bluewallet.io/"
+bundle_id: "io.bluewallet.bluewallet"
+
+sources:
+  - type: homebrew
+    cask: "bluewallet"
+
+  - type: github
+    repo: "BlueWallet/BlueWallet"

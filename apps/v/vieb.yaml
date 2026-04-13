@@ -1,0 +1,12 @@
+app_token: "vieb"
+name: "Vieb"
+desc: "Vim Inspired Electron Browser"
+homepage: "https://vieb.dev/"
+bundle_id: "com.github.Jelmerro.vieb"
+
+sources:
+  - type: homebrew
+    cask: "vieb"
+
+  - type: github
+    repo: "Jelmerro/Vieb"

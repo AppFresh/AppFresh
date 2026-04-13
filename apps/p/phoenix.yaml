@@ -1,0 +1,12 @@
+app_token: "phoenix"
+name: "Phoenix"
+desc: "Window and app manager scriptable with JavaScript"
+homepage: "https://github.com/kasper/phoenix/"
+bundle_id: "org.khirviko.Phoenix"
+
+sources:
+  - type: homebrew
+    cask: "phoenix"
+
+  - type: github
+    repo: "kasper/phoenix"

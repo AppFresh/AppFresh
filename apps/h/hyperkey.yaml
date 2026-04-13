@@ -1,0 +1,12 @@
+app_token: "hyperkey"
+name: "Hyperkey"
+desc: "Convert your caps lock key or any of your modifier keys to the hyper key"
+homepage: "https://hyperkey.app/"
+bundle_id: "com.knollsoft.Hyperkey"
+
+sources:
+  - type: homebrew
+    cask: "hyperkey"
+
+  - type: sparkle
+    url: "https://hyperkey.app/downloads/updates.xml"

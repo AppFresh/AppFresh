@@ -1,0 +1,9 @@
+app_token: "minecraft-education"
+name: "Minecraft Education Edition"
+desc: "Educational version of Minecraft"
+homepage: "https://education.minecraft.net/"
+bundle_id: "com.microsoft.minecraft-edu"
+
+sources:
+  - type: homebrew
+    cask: "minecraft-education"

@@ -1,0 +1,12 @@
+app_token: "notable"
+name: "Notable"
+desc: "Markdown-based note-taking app that doesn't suck"
+homepage: "https://notable.app/"
+bundle_id: "com.fabiospampinato.notable"
+
+sources:
+  - type: homebrew
+    cask: "notable"
+
+  - type: github
+    repo: "notable/notable"

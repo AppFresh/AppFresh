@@ -1,0 +1,12 @@
+app_token: "proxyman"
+name: "Proxyman"
+desc: "HTTP debugging proxy"
+homepage: "https://proxyman.com/"
+bundle_id: "com.proxyman.NSProxy"
+
+sources:
+  - type: homebrew
+    cask: "proxyman"
+
+  - type: sparkle
+    url: "https://proxyman.com/osx/version.xml"

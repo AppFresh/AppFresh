@@ -1,0 +1,12 @@
+app_token: "proton-mail-bridge"
+name: "Proton Mail Bridge"
+desc: "Bridges Proton Mail to email clients supporting IMAP and SMTP protocols"
+homepage: "https://proton.me/mail/bridge"
+bundle_id: "com.protonmail.bridge"
+
+sources:
+  - type: homebrew
+    cask: "proton-mail-bridge"
+
+  - type: github
+    repo: "ProtonMail/proton-bridge"

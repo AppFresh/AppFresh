@@ -1,0 +1,15 @@
+app_token: "mediamate"
+name: "MediaMate"
+desc: "UI replacement for volume, brightness and now playing controls"
+homepage: "https://wouter01.github.io/MediaMate/"
+bundle_id: "com.tweety.MediaMate"
+
+sources:
+  - type: homebrew
+    cask: "mediamate"
+
+  - type: github
+    repo: "Wouter01/MediaMate-Releases"
+
+  - type: sparkle
+    url: "https://raw.githubusercontent.com/Wouter01/MediaMate-Releases/sparkle/appcast.xml"

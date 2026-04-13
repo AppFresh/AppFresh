@@ -1,0 +1,12 @@
+app_token: "visualboyadvance-m"
+name: "Visual Boy Advance - M"
+desc: "Game Boy Advance emulator"
+homepage: "https://visualboyadvance-m.org/"
+bundle_id: "org.sparkle-project.Sparkle.Updater"
+
+sources:
+  - type: homebrew
+    cask: "visualboyadvance-m"
+
+  - type: github
+    repo: "visualboyadvance-m/visualboyadvance-m"

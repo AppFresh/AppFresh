@@ -1,0 +1,12 @@
+app_token: "pine"
+name: "Pine"
+desc: "Native markdown editor"
+homepage: "https://github.com/lukakerr/pine"
+bundle_id: "io.github.lukakerr.Pine"
+
+sources:
+  - type: homebrew
+    cask: "pine"
+
+  - type: github
+    repo: "lukakerr/pine"

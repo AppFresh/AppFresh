@@ -1,0 +1,12 @@
+app_token: "texifier"
+name: "Texifier"
+desc: "LaTeX editor"
+homepage: "https://www.texifier.com/mac"
+bundle_id: "com.vallettaventures.Texpad"
+
+sources:
+  - type: homebrew
+    cask: "texifier"
+
+  - type: sparkle
+    url: "https://www.texifier.com/apps/updates/texifier/appcast-stable.xml"

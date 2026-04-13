@@ -1,0 +1,9 @@
+app_token: "camtasia"
+name: "Camtasia"
+desc: "Screen recorder and video editor"
+homepage: "https://www.techsmith.com/video-editor.html"
+bundle_id: "com.techsmith.camtasia"
+
+sources:
+  - type: homebrew
+    cask: "camtasia"

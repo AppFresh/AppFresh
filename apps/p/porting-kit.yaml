@@ -1,0 +1,9 @@
+app_token: "porting-kit"
+name: "Porting Kit"
+desc: "Install games and apps compiled for Microsoft Windows"
+homepage: "https://portingkit.com/"
+bundle_id: "com.paulthetall.portingkit"
+
+sources:
+  - type: homebrew
+    cask: "porting-kit"

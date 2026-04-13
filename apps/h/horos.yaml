@@ -1,0 +1,9 @@
+app_token: "horos"
+name: "Horos"
+desc: "Medical image viewer"
+homepage: "https://horosproject.org/"
+bundle_id: "org.horosproject.horos"
+
+sources:
+  - type: homebrew
+    cask: "horos"

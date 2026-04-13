@@ -1,0 +1,12 @@
+app_token: "companion"
+name: "Bitfocus Companion"
+desc: "Streamdeck extension and emulation software"
+homepage: "https://bitfocus.io/companion"
+bundle_id: "test-companion.bitfocus.no"
+
+sources:
+  - type: homebrew
+    cask: "companion"
+
+  - type: homebrew
+    cask: "companion@beta"

@@ -1,0 +1,9 @@
+app_token: "kid3"
+name: "Kid3"
+desc: "Audio tagger focusing on efficiency"
+homepage: "https://kid3.kde.org/"
+bundle_id: "org.kde.kid3"
+
+sources:
+  - type: homebrew
+    cask: "kid3"

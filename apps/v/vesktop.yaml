@@ -1,0 +1,14 @@
+app_token: "vesktop"
+name: "Vesktop"
+desc: "Custom Discord App"
+homepage: "https://github.com/Vencord/Vesktop"
+bundle_id: "dev.vencord.vesktop"
+
+sources:
+  - type: homebrew
+    cask: "vesktop"
+
+  - type: github
+    repo: "Vencord/Vesktop"
+
+  - type: electron

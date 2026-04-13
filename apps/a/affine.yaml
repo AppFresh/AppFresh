@@ -1,0 +1,12 @@
+app_token: "affine"
+name: "AFFiNE"
+desc: "Note editor and whiteboard"
+homepage: "https://affine.pro/"
+bundle_id: "pro.affine.app"
+
+sources:
+  - type: homebrew
+    cask: "affine"
+
+  - type: github
+    repo: "toeverything/AFFiNE"

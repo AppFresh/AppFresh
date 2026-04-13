@@ -1,0 +1,11 @@
+app_token: "qlmarkdown"
+name: "QLMarkdown"
+desc: "macOS Quick Look extension for Markdown files."
+bundle_id: "org.sbarex.QLMarkdown"
+
+sources:
+  - type: homebrew
+    cask: "qlmarkdown"
+
+  - type: github
+    repo: "sbarex/QLMarkdown"

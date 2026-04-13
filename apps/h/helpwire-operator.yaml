@@ -1,0 +1,12 @@
+app_token: "helpwire-operator"
+name: "HelpWire Operator"
+desc: "Remote desktop controller"
+homepage: "https://www.helpwire.app/"
+bundle_id: "us.electronic.hw2.operator"
+
+sources:
+  - type: homebrew
+    cask: "helpwire-operator"
+
+  - type: sparkle
+    url: "https://get.helpwire.app/downloads/operator/mac/update/settings.xml"

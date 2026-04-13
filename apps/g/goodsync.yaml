@@ -1,0 +1,9 @@
+app_token: "goodsync"
+name: "GoodSync"
+desc: "File synchronisation and backup software"
+homepage: "https://www.goodsync.com/"
+bundle_id: "com.sibersystems.goodsyncmac2000"
+
+sources:
+  - type: homebrew
+    cask: "goodsync"

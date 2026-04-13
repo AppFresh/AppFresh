@@ -1,0 +1,12 @@
+app_token: "imazing-profile-editor"
+name: "iMazing Profile Editor"
+desc: "Apple Device Configuration Profile Editor"
+homepage: "https://imazing.com/profile-editor"
+bundle_id: "com.DigiDNA.iMazingProfileEditorMac"
+
+sources:
+  - type: homebrew
+    cask: "imazing-profile-editor"
+
+  - type: sparkle
+    url: "https://downloads.imazing.com/com.DigiDNA.iMazingProfileEditorMac.xml"

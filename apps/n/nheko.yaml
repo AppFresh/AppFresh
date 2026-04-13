@@ -1,0 +1,12 @@
+app_token: "nheko"
+name: "Nheko"
+desc: "Desktop client for the Matrix protocol"
+homepage: "https://nheko-reborn.github.io/"
+bundle_id: "im.nheko.Nheko"
+
+sources:
+  - type: homebrew
+    cask: "nheko"
+
+  - type: github
+    repo: "Nheko-Reborn/nheko"

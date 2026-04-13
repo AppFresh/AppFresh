@@ -1,0 +1,8 @@
+app_token: "teamspeak-client@beta"
+name: "TeamSpeak 6 Client"
+desc: "Voice communication client"
+homepage: "https://www.teamspeak.com/"
+
+sources:
+  - type: homebrew
+    cask: "teamspeak-client@beta"

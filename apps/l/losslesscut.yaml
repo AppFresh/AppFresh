@@ -1,0 +1,12 @@
+app_token: "losslesscut"
+name: "LosslessCut"
+desc: "Trims video and audio files losslessly"
+homepage: "https://github.com/mifi/lossless-cut"
+bundle_id: "no.mifi.losslesscut-mac"
+
+sources:
+  - type: homebrew
+    cask: "losslesscut"
+
+  - type: github
+    repo: "mifi/lossless-cut"

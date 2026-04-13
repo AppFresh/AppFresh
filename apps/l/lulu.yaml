@@ -1,0 +1,12 @@
+app_token: "lulu"
+name: "LuLu"
+desc: "Open-source firewall to block unknown outgoing connections"
+homepage: "https://objective-see.org/products/lulu.html"
+bundle_id: "com.objective-see.lulu.app"
+
+sources:
+  - type: homebrew
+    cask: "lulu"
+
+  - type: github
+    repo: "objective-see/LuLu"

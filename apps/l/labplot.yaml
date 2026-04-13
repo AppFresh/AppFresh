@@ -1,0 +1,9 @@
+app_token: "labplot"
+name: "LabPlot"
+desc: "Data visualization and analysis software"
+homepage: "https://labplot.kde.org/"
+bundle_id: "org.kde.labplot"
+
+sources:
+  - type: homebrew
+    cask: "labplot"

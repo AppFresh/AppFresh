@@ -1,0 +1,11 @@
+app_token: "switchkey"
+name: "SwitchKey"
+homepage: "https://github.com/itsuhane/SwitchKey"
+bundle_id: "itsuhane.tools.SwitchKey"
+
+sources:
+  - type: homebrew
+    cask: "switchkey"
+
+  - type: github
+    repo: "itsuhane/SwitchKey"

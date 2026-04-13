@@ -1,0 +1,9 @@
+app_token: "3dgenceslicer"
+name: "3DGence Slicer"
+desc: "Prepare files for 3D printing based on CAD models for 3DGence printers"
+homepage: "https://3dgence.com/"
+bundle_id: "com.3dgence.slicer"
+
+sources:
+  - type: homebrew
+    cask: "3dgenceslicer"

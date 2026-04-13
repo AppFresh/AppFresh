@@ -1,0 +1,8 @@
+app_token: "microsoft-edge@beta"
+name: "Microsoft Edge Beta"
+desc: "Multi-platform web browser"
+homepage: "https://www.microsoft.com/en-us/edge?form="
+
+sources:
+  - type: homebrew
+    cask: "microsoft-edge@beta"

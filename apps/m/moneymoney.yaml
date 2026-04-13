@@ -1,0 +1,12 @@
+app_token: "moneymoney"
+name: "MoneyMoney"
+desc: "German banking and financial management software"
+homepage: "https://moneymoney-app.com/"
+bundle_id: "com.moneymoney-app.retail"
+
+sources:
+  - type: homebrew
+    cask: "moneymoney"
+
+  - type: sparkle
+    url: "https://service.moneymoney-app.com/1/Appcast.xml"

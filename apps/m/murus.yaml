@@ -1,0 +1,12 @@
+app_token: "murus"
+name: "Murus Firewall"
+desc: "Firewall app"
+homepage: "https://www.murusfirewall.com/"
+bundle_id: "it.murus.Murus-Menulet"
+
+sources:
+  - type: homebrew
+    cask: "murus"
+
+  - type: github
+    repo: "TheMurusTeam/Murus"

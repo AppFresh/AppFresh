@@ -1,0 +1,12 @@
+app_token: "middleclick"
+name: "MiddleClick"
+desc: "Utility to extend trackpad functionality"
+homepage: "https://github.com/artginzburg/MiddleClick"
+bundle_id: "art.ginzburg.MiddleClick"
+
+sources:
+  - type: homebrew
+    cask: "middleclick"
+
+  - type: github
+    repo: "artginzburg/MiddleClick"

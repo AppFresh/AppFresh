@@ -1,0 +1,9 @@
+app_token: "kiro-cli"
+name: "Kiro CLI"
+desc: "AI-powered productivity tool for the command-line"
+homepage: "https://kiro.dev/docs/cli/"
+bundle_id: "com.amazon.codewhisperer"
+
+sources:
+  - type: homebrew
+    cask: "kiro-cli"

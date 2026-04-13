@@ -1,0 +1,9 @@
+app_token: "fastdmg"
+name: "FastDMG"
+desc: "Alternative to Apple's DiskImageMounter app"
+homepage: "https://sveinbjorn.org/fastdmg"
+bundle_id: "org.sveinbjorn.FastDMG"
+
+sources:
+  - type: homebrew
+    cask: "fastdmg"

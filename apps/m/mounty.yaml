@@ -1,0 +1,9 @@
+app_token: "mounty"
+name: "Mounty for NTFS"
+desc: "Re-mounts write-protected NTFS volumes"
+homepage: "https://mounty.app/"
+bundle_id: "com.cu4uc.mounty"
+
+sources:
+  - type: homebrew
+    cask: "mounty"

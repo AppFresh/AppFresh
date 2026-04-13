@@ -1,0 +1,12 @@
+app_token: "gdevelop"
+name: "GDevelop"
+desc: "Open-source, cross-platform game engine designed to be used by everyone"
+homepage: "https://gdevelop.io/"
+bundle_id: "com.gdevelop-app.ide"
+
+sources:
+  - type: homebrew
+    cask: "gdevelop"
+
+  - type: github
+    repo: "4ian/GDevelop"

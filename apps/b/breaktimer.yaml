@@ -1,0 +1,12 @@
+app_token: "breaktimer"
+name: "BreakTimer"
+desc: "Tool to manage periodic breaks"
+homepage: "https://breaktimer.app/"
+bundle_id: "com.tomjwatson.breaktimer"
+
+sources:
+  - type: homebrew
+    cask: "breaktimer"
+
+  - type: github
+    repo: "tom-james-watson/breaktimer-app"

@@ -1,0 +1,15 @@
+app_token: "menumeters"
+name: "MenuMeters"
+desc: "Set of CPU, memory, disk, and network monitoring tools"
+homepage: "https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/"
+bundle_id: "com.yujitach.MenuMeters"
+
+sources:
+  - type: homebrew
+    cask: "menumeters"
+
+  - type: github
+    repo: "yujitach/MenuMeters"
+
+  - type: sparkle
+    url: "https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/MenuMeters-Update.xml"

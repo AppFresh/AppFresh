@@ -1,0 +1,12 @@
+app_token: "jellyfin-media-player"
+name: "Jellyfin Media Player"
+desc: "Jellyfin desktop client"
+homepage: "https://jellyfin.org/"
+bundle_id: "tv.jellyfin.player"
+
+sources:
+  - type: homebrew
+    cask: "jellyfin-media-player"
+
+  - type: github
+    repo: "jellyfin/jellyfin-media-player"

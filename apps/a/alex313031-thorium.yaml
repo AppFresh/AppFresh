@@ -1,0 +1,12 @@
+app_token: "alex313031-thorium"
+name: "Thorium"
+desc: "Chromium-based web browser"
+homepage: "https://thorium.rocks/"
+bundle_id: "org.chromium.Thorium"
+
+sources:
+  - type: homebrew
+    cask: "alex313031-thorium"
+
+  - type: github
+    repo: "Alex313031/Thorium-MacOS"

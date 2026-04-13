@@ -1,0 +1,12 @@
+app_token: "meta"
+name: "Meta"
+desc: "Tag editor for digital music"
+homepage: "https://www.nightbirdsevolve.com/meta/"
+bundle_id: "com.nightbirdsevolve.Meta"
+
+sources:
+  - type: homebrew
+    cask: "meta"
+
+  - type: sparkle
+    url: "https://www.nightbirdsevolve.com/meta/updates/"

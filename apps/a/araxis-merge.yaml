@@ -1,0 +1,9 @@
+app_token: "araxis-merge"
+name: "Araxis Merge"
+desc: "Two and three-way file comparison, merging and folder synchronisation"
+homepage: "https://www.araxis.com/merge/"
+bundle_id: "com.araxis.merge"
+
+sources:
+  - type: homebrew
+    cask: "araxis-merge"

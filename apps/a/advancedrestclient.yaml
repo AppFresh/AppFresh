@@ -1,0 +1,12 @@
+app_token: "advancedrestclient"
+name: "Advanced REST Client"
+desc: "API testing tool"
+homepage: "https://github.com/advanced-rest-client/arc-electron"
+bundle_id: "com.mulesoft.arc"
+
+sources:
+  - type: homebrew
+    cask: "advancedrestclient"
+
+  - type: github
+    repo: "advanced-rest-client/arc-electron"

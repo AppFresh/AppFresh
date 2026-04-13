@@ -1,0 +1,12 @@
+app_token: "owocr"
+name: "OwOCR"
+desc: "Optical character recognition for Japanese text"
+homepage: "https://github.com/AuroraWright/owocr/"
+bundle_id: "com.aury.owocr"
+
+sources:
+  - type: homebrew
+    cask: "owocr"
+
+  - type: github
+    repo: "AuroraWright/owocr"

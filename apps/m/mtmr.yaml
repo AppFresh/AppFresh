@@ -1,0 +1,11 @@
+app_token: "mtmr"
+name: "My TouchBar. My rules"
+desc: "TouchBar customization app"
+homepage: "https://mtmr.app/"
+
+sources:
+  - type: homebrew
+    cask: "mtmr"
+
+  - type: sparkle
+    url: "https://mtmr.app/appcast.xml"

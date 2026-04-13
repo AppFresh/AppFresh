@@ -1,0 +1,12 @@
+app_token: "transfer"
+name: "Transfer"
+desc: "Standalone TFTP, FTP, and SFTP server"
+homepage: "https://www.intuitibits.com/products/transfer/"
+bundle_id: "com.adriangranados.Transfer"
+
+sources:
+  - type: homebrew
+    cask: "transfer"
+
+  - type: sparkle
+    url: "https://www.intuitibits.com/appcasts/transfercast.xml"

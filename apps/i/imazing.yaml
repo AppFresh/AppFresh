@@ -1,0 +1,12 @@
+app_token: "imazing"
+name: "iMazing"
+desc: "iPhone management application"
+homepage: "https://imazing.com/"
+bundle_id: "com.DigiDNA.iMazing3Mac"
+
+sources:
+  - type: homebrew
+    cask: "imazing"
+
+  - type: sparkle
+    url: "https://downloads.imazing.com/com.DigiDNA.iMazing3Mac.xml"

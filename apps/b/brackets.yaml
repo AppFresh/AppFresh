@@ -1,0 +1,12 @@
+app_token: "brackets"
+name: "Brackets"
+desc: "Open-source code editor for web-development"
+homepage: "https://brackets.io/"
+bundle_id: "io.brackets.appshell"
+
+sources:
+  - type: homebrew
+    cask: "brackets"
+
+  - type: github
+    repo: "brackets-cont/brackets"

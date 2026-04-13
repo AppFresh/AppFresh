@@ -1,0 +1,12 @@
+app_token: "ollama-app"
+name: "Ollama"
+desc: "Get up and running with large language models locally"
+homepage: "https://ollama.com/"
+bundle_id: "com.electron.ollama"
+
+sources:
+  - type: homebrew
+    cask: "ollama-app"
+
+  - type: github
+    repo: "ollama/ollama"

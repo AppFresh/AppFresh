@@ -1,0 +1,12 @@
+app_token: "lmms"
+name: "LMMS"
+desc: "Music production software"
+homepage: "https://lmms.io/"
+bundle_id: "io.lmms"
+
+sources:
+  - type: homebrew
+    cask: "lmms"
+
+  - type: github
+    repo: "LMMS/lmms"

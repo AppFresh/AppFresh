@@ -1,0 +1,12 @@
+app_token: "edgemark"
+name: "EdgeMark"
+desc: "A native macOS side-panel Markdown notes app."
+bundle_id: "io.github.ender-wang.EdgeMark"
+
+sources:
+  - type: homebrew
+    tap: "ender-wang/tap"
+    cask: "edgemark"
+
+  - type: github
+    repo: "Ender-Wang/EdgeMark"

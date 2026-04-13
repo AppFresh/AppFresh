@@ -1,0 +1,12 @@
+app_token: "stremio"
+name: "Stremio"
+desc: "Open-source media center"
+homepage: "https://www.strem.io/"
+bundle_id: "com.westbridge.stremio5-mac"
+
+sources:
+  - type: homebrew
+    cask: "stremio"
+
+  - type: homebrew
+    cask: "stremio@beta"

@@ -1,0 +1,9 @@
+app_token: "inmusic-software-center"
+name: "inMusic Software Center"
+desc: "Administration tool for inMusic brand creative software"
+homepage: "https://www.airmusictech.com/downloads/"
+bundle_id: "com.electron.inmusic-software-center"
+
+sources:
+  - type: homebrew
+    cask: "inmusic-software-center"

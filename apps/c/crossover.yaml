@@ -1,0 +1,12 @@
+app_token: "crossover"
+name: "CrossOver"
+desc: "Tool to run Windows software"
+homepage: "https://www.codeweavers.com/products/crossover-mac/"
+bundle_id: "com.codeweavers.CrossOver"
+
+sources:
+  - type: homebrew
+    cask: "crossover"
+
+  - type: sparkle
+    url: "https://www.codeweavers.com/xml/versions/cxmac.xml"

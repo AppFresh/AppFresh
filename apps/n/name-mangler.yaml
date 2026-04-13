@@ -1,0 +1,12 @@
+app_token: "name-mangler"
+name: "Name Mangler"
+desc: "Multi-file renaming tool"
+homepage: "https://manytricks.com/namemangler/"
+bundle_id: "com.manytricks.NameMangler"
+
+sources:
+  - type: homebrew
+    cask: "name-mangler"
+
+  - type: sparkle
+    url: "https://manytricks.com/namemangler/appcast/"

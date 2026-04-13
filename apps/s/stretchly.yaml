@@ -1,0 +1,12 @@
+app_token: "stretchly"
+name: "Stretchly"
+desc: "Break time reminder app"
+homepage: "https://hovancik.net/stretchly/"
+bundle_id: "net.hovancik.stretchly"
+
+sources:
+  - type: homebrew
+    cask: "stretchly"
+
+  - type: github
+    repo: "hovancik/stretchly"

@@ -1,0 +1,9 @@
+app_token: "paraview"
+name: "ParaView"
+desc: "Data analysis and visualization application"
+homepage: "https://www.paraview.org/"
+bundle_id: "org.paraview.ParaView"
+
+sources:
+  - type: homebrew
+    cask: "paraview"

@@ -1,0 +1,11 @@
+app_token: "youdaonote"
+name: "youdaonote"
+desc: "Multi-platform note application"
+homepage: "https://note.youdao.com/"
+bundle_id: "ynote-desktop"
+
+sources:
+  - type: homebrew
+    cask: "youdaonote"
+
+  - type: electron

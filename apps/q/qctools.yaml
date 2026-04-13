@@ -1,0 +1,9 @@
+app_token: "qctools"
+name: "QCTools"
+desc: "Audiovisual analytics and filtering for video files"
+homepage: "https://mediaarea.net/QCTools"
+bundle_id: "net.mediaarea.qctools.mac"
+
+sources:
+  - type: homebrew
+    cask: "qctools"

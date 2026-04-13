@@ -1,0 +1,9 @@
+app_token: "youku"
+name: "Youku"
+desc: "Chinese video streaming and sharing platform"
+homepage: "https://youku.com/product/index"
+bundle_id: "com.youku.mac"
+
+sources:
+  - type: homebrew
+    cask: "youku"

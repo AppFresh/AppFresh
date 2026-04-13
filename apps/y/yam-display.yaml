@@ -1,0 +1,9 @@
+app_token: "yam-display"
+name: "Yam Display"
+desc: "Yet another monitor"
+homepage: "https://www.yamdisplay.com/"
+bundle_id: "com.yamstu.yamdisplaymac"
+
+sources:
+  - type: homebrew
+    cask: "yam-display"

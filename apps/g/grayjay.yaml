@@ -1,0 +1,9 @@
+app_token: "grayjay"
+name: "Grayjay desktop"
+desc: "Multi-platform video player"
+homepage: "https://grayjay.app/desktop/"
+bundle_id: "com.futo.grayjay.desktop"
+
+sources:
+  - type: homebrew
+    cask: "grayjay"

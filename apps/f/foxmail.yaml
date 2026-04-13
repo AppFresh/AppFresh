@@ -1,0 +1,11 @@
+app_token: "foxmail"
+name: "Foxmail"
+desc: "Email client"
+homepage: "https://www.foxmail.com/"
+bundle_id: "com.tencent.Foxmail"
+
+sources:
+  - type: homebrew
+    cask: "foxmail"
+
+  - type: appstore

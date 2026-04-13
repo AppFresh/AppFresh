@@ -1,0 +1,12 @@
+app_token: "dolphin"
+name: "Dolphin"
+desc: "Emulator to play GameCube and Wii games"
+homepage: "https://dolphin-emu.org/"
+bundle_id: "org.dolphin-emu.dolphin"
+
+sources:
+  - type: homebrew
+    cask: "dolphin"
+
+  - type: homebrew
+    cask: "dolphin@dev"

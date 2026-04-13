@@ -1,0 +1,12 @@
+app_token: "spaceid"
+name: "SpaceId"
+desc: "Menu bar indicator showing the currently selected space"
+homepage: "https://github.com/dshnkao/SpaceId/"
+bundle_id: "com.dshnkao.SpaceId"
+
+sources:
+  - type: homebrew
+    cask: "spaceid"
+
+  - type: github
+    repo: "dshnkao/SpaceId"

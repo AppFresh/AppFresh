@@ -1,0 +1,11 @@
+app_token: "mochi"
+name: "Mochi"
+desc: "Study notes and flashcards using spaced repetition"
+homepage: "https://mochi.cards/"
+bundle_id: "com.msteedman.mochi"
+
+sources:
+  - type: homebrew
+    cask: "mochi"
+
+  - type: electron

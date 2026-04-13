@@ -1,0 +1,12 @@
+app_token: "jump-desktop"
+name: "Jump Desktop"
+desc: "Remote desktop application"
+homepage: "https://jumpdesktop.com/#jdmac"
+bundle_id: "com.p5sys.jump.mac.viewer.web"
+
+sources:
+  - type: homebrew
+    cask: "jump-desktop"
+
+  - type: sparkle
+    url: "https://mirror.jumpdesktop.com/downloads/viewer/jdmac-web-appcast.xml"

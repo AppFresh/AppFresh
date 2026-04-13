@@ -1,0 +1,11 @@
+app_token: "binance"
+name: "Binance"
+desc: "Cryptocurrency exchange"
+homepage: "https://binance.com/"
+bundle_id: "com.binance.BinanceDesktop"
+
+sources:
+  - type: homebrew
+    cask: "binance"
+
+  - type: electron

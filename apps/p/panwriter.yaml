@@ -1,0 +1,12 @@
+app_token: "panwriter"
+name: "PanWriter"
+desc: "Markdown editor with pandoc integration and paginated preview"
+homepage: "https://panwriter.com/"
+bundle_id: "com.panwriter.app"
+
+sources:
+  - type: homebrew
+    cask: "panwriter"
+
+  - type: github
+    repo: "mb21/panwriter"

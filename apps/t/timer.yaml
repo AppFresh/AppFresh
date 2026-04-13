@@ -1,0 +1,9 @@
+app_token: "timer"
+name: "Timer"
+desc: "Stopwatch, alarm clock, and clock utility"
+homepage: "https://www.apimac.com/mac/timer/"
+bundle_id: "com.apimac.Timer"
+
+sources:
+  - type: homebrew
+    cask: "timer"

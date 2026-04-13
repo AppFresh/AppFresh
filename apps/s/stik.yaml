@@ -1,0 +1,13 @@
+app_token: "stik"
+name: "Stik"
+desc: "Instant thought capture for macOS."
+homepage: "https://www.stik.ink/"
+bundle_id: "com.stik.app"
+
+sources:
+  - type: homebrew
+    tap: "0xMassi/stik"
+    cask: "stik"
+
+  - type: github
+    repo: "0xMassi/stik_app"

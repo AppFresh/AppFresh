@@ -1,0 +1,12 @@
+app_token: "rive"
+name: "Rive"
+desc: "Design tool that creates functional graphics"
+homepage: "https://rive.app/"
+bundle_id: "app.rive.editor"
+
+sources:
+  - type: homebrew
+    cask: "rive"
+
+  - type: sparkle
+    url: "https://releases.rive.app/release.xml"

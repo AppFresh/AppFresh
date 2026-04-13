@@ -1,0 +1,9 @@
+app_token: "rawtherapee"
+name: "RawTherapee"
+desc: "RAW photo processor"
+homepage: "https://rawtherapee.com/"
+bundle_id: "com.rawtherapee.RawTherapee"
+
+sources:
+  - type: homebrew
+    cask: "rawtherapee"

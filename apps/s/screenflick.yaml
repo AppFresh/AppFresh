@@ -1,0 +1,9 @@
+app_token: "screenflick"
+name: "Screenflick"
+desc: "Screen recorder with audio"
+homepage: "https://www.araelium.com/screenflick-mac-screen-recorder"
+bundle_id: "com.araeliumgroup.screenflick"
+
+sources:
+  - type: homebrew
+    cask: "screenflick"

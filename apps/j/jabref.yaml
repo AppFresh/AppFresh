@@ -1,0 +1,12 @@
+app_token: "jabref"
+name: "JabRef"
+desc: "Reference manager to edit, manage and search BibTeX files"
+homepage: "https://www.jabref.org/"
+bundle_id: "JabRef"
+
+sources:
+  - type: homebrew
+    cask: "jabref"
+
+  - type: github
+    repo: "JabRef/jabref"

@@ -1,0 +1,9 @@
+app_token: "librepcb"
+name: "LibrePCB"
+desc: "EDA software to develop printed circuit boards"
+homepage: "https://librepcb.org/"
+bundle_id: "org.librepcb.LibrePCB"
+
+sources:
+  - type: homebrew
+    cask: "librepcb"

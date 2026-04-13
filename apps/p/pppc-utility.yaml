@@ -1,0 +1,12 @@
+app_token: "pppc-utility"
+name: "PPPC Utility"
+desc: "Create configuration profiles containing a PPPC payload"
+homepage: "https://github.com/jamf/PPPC-Utility"
+bundle_id: "com.jamf.opensource.pppcutility"
+
+sources:
+  - type: homebrew
+    cask: "pppc-utility"
+
+  - type: github
+    repo: "jamf/PPPC-Utility"

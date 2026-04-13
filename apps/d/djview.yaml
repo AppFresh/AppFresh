@@ -1,0 +1,9 @@
+app_token: "djview"
+name: "DjView"
+desc: "DjVu viewer and browser plugin"
+homepage: "https://djvu.sourceforge.net/"
+bundle_id: "org.djvu.DjView"
+
+sources:
+  - type: homebrew
+    cask: "djview"

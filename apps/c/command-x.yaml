@@ -1,0 +1,9 @@
+app_token: "command-x"
+name: "Command X"
+desc: "Cut and paste files in Finder"
+homepage: "https://sindresorhus.com/command-x"
+bundle_id: "com.sindresorhus.Command-X"
+
+sources:
+  - type: homebrew
+    cask: "command-x"

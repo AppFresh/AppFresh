@@ -1,0 +1,9 @@
+app_token: "freecol"
+name: "FreeCol"
+desc: "Turn-based strategy game"
+homepage: "https://www.freecol.org/"
+bundle_id: "org.freecol.FreeCol"
+
+sources:
+  - type: homebrew
+    cask: "freecol"

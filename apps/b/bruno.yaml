@@ -1,0 +1,12 @@
+app_token: "bruno"
+name: "Bruno"
+desc: "Open source IDE for exploring and testing APIs"
+homepage: "https://www.usebruno.com/"
+bundle_id: "com.usebruno.app"
+
+sources:
+  - type: homebrew
+    cask: "bruno"
+
+  - type: github
+    repo: "usebruno/bruno"

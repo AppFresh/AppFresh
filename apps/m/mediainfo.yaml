@@ -1,0 +1,9 @@
+app_token: "mediainfo"
+name: "MediaInfo"
+desc: "Display technical and tag data for video and audio files"
+homepage: "https://mediaarea.net/en/MediaInfo"
+bundle_id: "net.mediaarea.mediainfo.mac-old"
+
+sources:
+  - type: homebrew
+    cask: "mediainfo"

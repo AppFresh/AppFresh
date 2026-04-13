@@ -1,0 +1,12 @@
+app_token: "lunar"
+name: "Lunar"
+desc: "Adaptive brightness for external displays"
+homepage: "https://lunar.fyi/"
+bundle_id: "fyi.lunar.Lunar"
+
+sources:
+  - type: homebrew
+    cask: "lunar"
+
+  - type: sparkle
+    url: "https://static.lunar.fyi/appcast-stable.xml"

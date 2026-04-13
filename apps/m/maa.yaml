@@ -1,0 +1,13 @@
+app_token: "maa"
+name: "MAA"
+desc: "One-click tool for the daily tasks of Arknights"
+homepage: "https://github.com/MaaAssistantArknights/MaaAssistantArknights"
+bundle_id: "com.hguandl.MeoAsstMac"
+
+sources:
+  - type: homebrew
+    cask: "maa"
+
+  - type: github
+    repo: "MaaAssistantArknights/MaaAssistantArknights"
+    regex: "MAA-v([\d.]+)-macos-universal\.dmg"

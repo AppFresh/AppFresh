@@ -1,0 +1,12 @@
+app_token: "hiddenbar"
+name: "Hidden Bar"
+desc: "Utility to hide menu bar items"
+homepage: "https://github.com/dwarvesf/hidden/"
+bundle_id: "com.dwarvesv.minimalbar"
+
+sources:
+  - type: homebrew
+    cask: "hiddenbar"
+
+  - type: github
+    repo: "dwarvesf/hidden"

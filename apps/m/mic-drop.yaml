@@ -1,0 +1,12 @@
+app_token: "mic-drop"
+name: "Mic Drop"
+desc: "Quickly mute your microphone with a global shortcut or menu bar control"
+homepage: "https://getmicdrop.com/"
+bundle_id: "com.octopusthink.Mic-Drop"
+
+sources:
+  - type: homebrew
+    cask: "mic-drop"
+
+  - type: github
+    repo: "octopusthink/getmicdrop.com"

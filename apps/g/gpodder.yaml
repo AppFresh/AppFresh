@@ -1,0 +1,12 @@
+app_token: "gpodder"
+name: "gPodder"
+desc: "Podcast client"
+homepage: "https://gpodder.github.io/"
+bundle_id: "org.gpodder.gpodder"
+
+sources:
+  - type: homebrew
+    cask: "gpodder"
+
+  - type: github
+    repo: "gpodder/gpodder"

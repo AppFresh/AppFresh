@@ -1,0 +1,12 @@
+app_token: "grammarly-desktop"
+name: "Grammarly Desktop"
+desc: "Grammarly for desktop"
+homepage: "https://www.grammarly.com/desktop"
+bundle_id: "com.grammarly.ProjectLlama"
+
+sources:
+  - type: homebrew
+    cask: "grammarly-desktop"
+
+  - type: sparkle
+    url: "https://download-mac.grammarly.com/appcast.xml"

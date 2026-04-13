@@ -1,0 +1,15 @@
+app_token: "ferdium"
+name: "Ferdium"
+desc: "Multi-platform multi-messaging app"
+homepage: "https://ferdium.org/"
+bundle_id: "org.ferdium.ferdium-app"
+
+sources:
+  - type: homebrew
+    cask: "ferdium"
+
+  - type: github
+    repo: "ferdium/ferdium-app"
+
+  - type: homebrew
+    cask: "ferdium@nightly"

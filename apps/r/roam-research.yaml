@@ -1,0 +1,11 @@
+app_token: "roam-research"
+name: "Roam Research"
+desc: "Note-taking tool for networked thought"
+homepage: "https://roamresearch.com/"
+bundle_id: "com.roam-research.desktop-app"
+
+sources:
+  - type: homebrew
+    cask: "roam-research"
+
+  - type: electron

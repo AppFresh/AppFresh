@@ -1,0 +1,15 @@
+app_token: "telegram-desktop"
+name: "Telegram Desktop"
+desc: "Desktop client for Telegram messenger"
+homepage: "https://desktop.telegram.org/"
+bundle_id: "com.tdesktop.Telegram"
+
+sources:
+  - type: homebrew
+    cask: "telegram-desktop"
+
+  - type: github
+    repo: "telegramdesktop/tdesktop"
+
+  - type: homebrew
+    cask: "telegram-desktop@beta"

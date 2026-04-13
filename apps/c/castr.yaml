@@ -1,0 +1,11 @@
+app_token: "castr"
+name: "castr"
+desc: "Desktop application for controlling Castr streaming platform"
+homepage: "https://castr.io/"
+bundle_id: "com.todesktop.210610elr9v3cm6"
+
+sources:
+  - type: homebrew
+    cask: "castr"
+
+  - type: electron

@@ -1,0 +1,9 @@
+app_token: "ths"
+name: "Straight Flush"
+desc: "Stock trading software"
+homepage: "https://download.10jqka.com.cn/free/mac"
+bundle_id: "cn.com.10jqka.macstock"
+
+sources:
+  - type: homebrew
+    cask: "ths"

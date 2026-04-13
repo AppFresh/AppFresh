@@ -1,0 +1,9 @@
+app_token: "beatunes"
+name: "beaTunes"
+desc: "Analyze, inspect, and play songs"
+homepage: "https://www.beatunes.com/"
+bundle_id: "com.tagtraum.beatunes"
+
+sources:
+  - type: homebrew
+    cask: "beatunes"

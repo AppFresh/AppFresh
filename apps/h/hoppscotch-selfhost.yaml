@@ -1,0 +1,13 @@
+app_token: "hoppscotch-selfhost"
+name: "Hoppscotch SelfHost"
+desc: "Desktop client for SelfHost version of the Hoppscotch API development ecosystem"
+homepage: "https://hoppscotch.com/"
+bundle_id: "io.hoppscotch.desktop"
+
+sources:
+  - type: homebrew
+    cask: "hoppscotch-selfhost"
+
+  - type: github
+    repo: "hoppscotch/releases"
+    regex: "Hoppscotch_SelfHost_mac_aarch64.dmg"

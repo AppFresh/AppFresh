@@ -1,0 +1,11 @@
+app_token: "capacities"
+name: "Capacities"
+desc: "App to write and organise your ideas"
+homepage: "https://capacities.io/"
+bundle_id: "io.capacities.app"
+
+sources:
+  - type: homebrew
+    cask: "capacities"
+
+  - type: electron

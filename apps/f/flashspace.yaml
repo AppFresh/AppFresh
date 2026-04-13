@@ -1,0 +1,12 @@
+app_token: "flashspace"
+name: "FlashSpace"
+desc: "Virtual workspace manager"
+homepage: "https://github.com/wojciech-kulik/FlashSpace"
+bundle_id: "pl.wojciechkulik.FlashSpace"
+
+sources:
+  - type: homebrew
+    cask: "flashspace"
+
+  - type: github
+    repo: "wojciech-kulik/FlashSpace"

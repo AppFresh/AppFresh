@@ -1,0 +1,12 @@
+app_token: "kando"
+name: "Kando"
+desc: "Pie menu"
+homepage: "https://kando.menu/"
+bundle_id: "com.electron.kando"
+
+sources:
+  - type: homebrew
+    cask: "kando"
+
+  - type: github
+    repo: "kando-menu/kando"

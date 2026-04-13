@@ -1,0 +1,9 @@
+app_token: "navicat-for-postgresql"
+name: "Navicat for PostgreSQL"
+desc: "Database administration and development tool for PostgreSQL"
+homepage: "https://www.navicat.com/products/navicat-for-postgresql"
+bundle_id: "com.navicat.NavicatForPostgreSQL"
+
+sources:
+  - type: homebrew
+    cask: "navicat-for-postgresql"

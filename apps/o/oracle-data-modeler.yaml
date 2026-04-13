@@ -1,0 +1,9 @@
+app_token: "oracle-data-modeler"
+name: "OracleDataModeler"
+desc: "Graphical tool for data modeling tasks"
+homepage: "https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/"
+bundle_id: "com.oracle.OracleDataModeler"
+
+sources:
+  - type: homebrew
+    cask: "oracle-data-modeler"

@@ -1,0 +1,9 @@
+app_token: "pgadmin4"
+name: "pgAdmin4"
+desc: "Administration and development platform for PostgreSQL"
+homepage: "https://www.pgadmin.org/"
+bundle_id: "org.pgadmin.pgadmin4"
+
+sources:
+  - type: homebrew
+    cask: "pgadmin4"

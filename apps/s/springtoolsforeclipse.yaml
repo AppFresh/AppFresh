@@ -1,0 +1,9 @@
+app_token: "springtoolsforeclipse"
+name: "Spring Tools for Eclipse"
+desc: "Next generation tooling for Spring Boot"
+homepage: "https://spring.io/tools/"
+bundle_id: "org.springframework.boot.ide.branding.springtools"
+
+sources:
+  - type: homebrew
+    cask: "springtoolsforeclipse"

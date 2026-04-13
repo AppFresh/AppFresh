@@ -1,0 +1,12 @@
+app_token: "servo"
+name: "Servo"
+desc: "Parallel browser engine"
+homepage: "https://servo.org/"
+bundle_id: "org.servo.ServoShell"
+
+sources:
+  - type: homebrew
+    cask: "servo"
+
+  - type: github
+    repo: "servo/servo-nightly-builds"

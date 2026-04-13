@@ -1,0 +1,9 @@
+app_token: "novabench"
+name: "Novabench"
+desc: "Benchmark tool to quickly test and compare the computer's performance"
+homepage: "https://novabench.com/"
+bundle_id: "com.novabench.client"
+
+sources:
+  - type: homebrew
+    cask: "novabench"

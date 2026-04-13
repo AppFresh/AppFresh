@@ -1,0 +1,11 @@
+app_token: "singlebox"
+name: "Singlebox"
+desc: "Multi-account web browser"
+homepage: "https://singlebox.app/en/"
+bundle_id: "com.webcatalog.singlebox2"
+
+sources:
+  - type: homebrew
+    cask: "singlebox"
+
+  - type: electron

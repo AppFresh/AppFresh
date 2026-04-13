@@ -1,0 +1,15 @@
+app_token: "jordanbaird-ice"
+name: "Ice"
+desc: "Powerful menu bar manager for macOS"
+homepage: "https://icemenubar.app/"
+bundle_id: "com.jordanbaird.Ice"
+
+sources:
+  - type: homebrew
+    cask: "jordanbaird-ice"
+
+  - type: github
+    repo: "jordanbaird/Ice"
+
+  - type: homebrew
+    cask: "jordanbaird-ice@beta"

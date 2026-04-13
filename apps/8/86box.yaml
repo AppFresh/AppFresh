@@ -1,0 +1,12 @@
+app_token: "86box"
+name: "86Box"
+desc: "Emulator of x86-based machines based on PCem"
+homepage: "https://86box.net/"
+bundle_id: "net.86Box.86Box"
+
+sources:
+  - type: homebrew
+    cask: "86box"
+
+  - type: github
+    repo: "86Box/86Box"

@@ -1,0 +1,7 @@
+app_token: "telegram-lite"
+name: "Telegram Lite"
+desc: "Telegram Lite"
+homepage: "https://telegram.org/"
+
+sources:
+  - type: appstore

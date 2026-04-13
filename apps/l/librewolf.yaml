@@ -1,0 +1,9 @@
+app_token: "librewolf"
+name: "LibreWolf"
+desc: "Web browser"
+homepage: "https://librewolf.net/"
+bundle_id: "org.mozilla.librewolf"
+
+sources:
+  - type: homebrew
+    cask: "librewolf"

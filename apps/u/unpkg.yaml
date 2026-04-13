@@ -1,0 +1,9 @@
+app_token: "unpkg"
+name: "unpkg"
+desc: "Unarchiver for .pkg and .mpkg that unpacks all the files in a package"
+homepage: "https://www.timdoug.com/unpkg/"
+bundle_id: "org.timdoug.unpkg"
+
+sources:
+  - type: homebrew
+    cask: "unpkg"

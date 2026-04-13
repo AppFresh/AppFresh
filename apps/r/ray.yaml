@@ -1,0 +1,11 @@
+app_token: "ray"
+name: "Ray"
+desc: "Debug with Ray to fix problems faster"
+homepage: "https://myray.app/"
+bundle_id: "be.spatie.ray"
+
+sources:
+  - type: homebrew
+    cask: "ray"
+
+  - type: electron

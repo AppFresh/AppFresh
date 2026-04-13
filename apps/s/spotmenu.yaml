@@ -1,0 +1,12 @@
+app_token: "spotmenu"
+name: "SpotMenu"
+desc: "Spotify and iTunes in the menu bar"
+homepage: "https://github.com/kmikiy/SpotMenu"
+bundle_id: "com.github.kmikiy.SpotMenu"
+
+sources:
+  - type: homebrew
+    cask: "spotmenu"
+
+  - type: github
+    repo: "kmikiy/SpotMenu"

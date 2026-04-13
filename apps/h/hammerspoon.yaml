@@ -1,0 +1,15 @@
+app_token: "hammerspoon"
+name: "Hammerspoon"
+desc: "Desktop automation application"
+homepage: "https://www.hammerspoon.org/"
+bundle_id: "org.hammerspoon.Hammerspoon"
+
+sources:
+  - type: homebrew
+    cask: "hammerspoon"
+
+  - type: github
+    repo: "Hammerspoon/hammerspoon"
+
+  - type: sparkle
+    url: "https://raw.githubusercontent.com/Hammerspoon/hammerspoon/master/appcast.xml"

@@ -1,0 +1,12 @@
+app_token: "nuage"
+name: "Nuage"
+desc: "Free and open-source SoundCloud client"
+homepage: "https://github.com/lbrndnr/nuage-macos"
+bundle_id: "ch.laurinbrandner.nuage"
+
+sources:
+  - type: homebrew
+    cask: "nuage"
+
+  - type: github
+    repo: "lbrndnr/nuage-macos"

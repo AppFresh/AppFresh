@@ -1,0 +1,12 @@
+app_token: "rewritebar"
+name: "RewriteBar"
+desc: "AI-powered writing assistant"
+homepage: "https://rewritebar.com/"
+bundle_id: "com.m91michel.rewritebar"
+
+sources:
+  - type: homebrew
+    cask: "rewritebar"
+
+  - type: sparkle
+    url: "https://rewritebar.com/app/appcast.xml"

@@ -1,0 +1,9 @@
+app_token: "gplates"
+name: "GPlates"
+desc: "Plate tectonics program"
+homepage: "https://www.gplates.org/"
+bundle_id: "GPlates 2.5.0-Darwin-21.6.0"
+
+sources:
+  - type: homebrew
+    cask: "gplates"

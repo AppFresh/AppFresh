@@ -1,0 +1,12 @@
+app_token: "pangolin"
+name: "Pangolin"
+desc: "Identity-aware VPN and proxy for remote access"
+homepage: "https://pangolin.net/"
+bundle_id: "net.pangolin.Pangolin"
+
+sources:
+  - type: homebrew
+    cask: "pangolin"
+
+  - type: sparkle
+    url: "https://static.pangolin.net/mac-client/appcast.xml"

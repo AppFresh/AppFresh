@@ -1,0 +1,12 @@
+app_token: "eigent"
+name: "Eigent"
+desc: "Desktop AI agent"
+homepage: "https://www.eigent.ai/"
+bundle_id: "com.eigent.app"
+
+sources:
+  - type: homebrew
+    cask: "eigent"
+
+  - type: github
+    repo: "eigent-ai/eigent"

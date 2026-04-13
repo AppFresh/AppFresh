@@ -1,0 +1,12 @@
+app_token: "ausweisapp"
+name: "AusweisApp"
+desc: "Official eID-Client of the Federal Government of Germany"
+homepage: "https://www.ausweisapp.bund.de/"
+bundle_id: "com.governikus.ausweisapp2"
+
+sources:
+  - type: homebrew
+    cask: "ausweisapp"
+
+  - type: github
+    repo: "Governikus/AusweisApp"

@@ -1,0 +1,11 @@
+app_token: "notion-calendar"
+name: "Notion Calendar"
+desc: "Calendar for professionals and teams"
+homepage: "https://www.notion.com/product/calendar"
+bundle_id: "com.cron.electron"
+
+sources:
+  - type: homebrew
+    cask: "notion-calendar"
+
+  - type: electron

@@ -1,0 +1,12 @@
+app_token: "anki"
+name: "Anki"
+desc: "Memory training application"
+homepage: "https://apps.ankiweb.net/"
+bundle_id: "net.ankiweb.launcher"
+
+sources:
+  - type: homebrew
+    cask: "anki"
+
+  - type: github
+    repo: "ankitects/anki"

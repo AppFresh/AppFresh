@@ -1,0 +1,12 @@
+app_token: "angry-ip-scanner"
+name: "Angry IP Scanner"
+desc: "Network scanner"
+homepage: "https://angryip.org/"
+bundle_id: "net.azib.ipscan"
+
+sources:
+  - type: homebrew
+    cask: "angry-ip-scanner"
+
+  - type: github
+    repo: "angryip/ipscan"

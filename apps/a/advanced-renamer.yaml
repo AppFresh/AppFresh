@@ -1,0 +1,9 @@
+app_token: "advanced-renamer"
+name: "Advanced Renamer"
+desc: "Batch file renaming utility"
+homepage: "https://www.advancedrenamer.com/"
+bundle_id: "com.HulubuluSoftware.AdvancedRenamer"
+
+sources:
+  - type: homebrew
+    cask: "advanced-renamer"

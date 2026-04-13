@@ -1,0 +1,12 @@
+app_token: "buzz"
+name: "Buzz"
+desc: "Transcribes and translates audio"
+homepage: "https://github.com/chidiwilliams/buzz"
+bundle_id: "com.chidiwilliams.buzz"
+
+sources:
+  - type: homebrew
+    cask: "buzz"
+
+  - type: github
+    repo: "chidiwilliams/buzz"

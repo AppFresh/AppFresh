@@ -1,0 +1,9 @@
+app_token: "radar"
+name: "Radar"
+desc: "Check important metrics from the menubar"
+homepage: "https://getradar.co/"
+bundle_id: "com.syncwithtech.radar"
+
+sources:
+  - type: homebrew
+    cask: "radar"

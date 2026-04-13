@@ -1,0 +1,12 @@
+app_token: "supertuxkart"
+name: "SuperTuxKart"
+desc: "Kart racing game"
+homepage: "https://supertuxkart.net/Main_Page"
+bundle_id: "net.sourceforge.supertuxkart"
+
+sources:
+  - type: homebrew
+    cask: "supertuxkart"
+
+  - type: github
+    repo: "supertuxkart/stk-code"

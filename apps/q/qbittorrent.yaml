@@ -1,0 +1,12 @@
+app_token: "qbittorrent"
+name: "qBittorrent"
+desc: "Peer to peer Bitorrent client"
+homepage: "https://www.qbittorrent.org/"
+bundle_id: "org.qbittorrent.qBittorrent"
+
+sources:
+  - type: homebrew
+    cask: "qbittorrent"
+
+  - type: homebrew
+    cask: "qbittorrent@lt20"

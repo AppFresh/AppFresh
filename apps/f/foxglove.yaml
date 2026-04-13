@@ -1,0 +1,11 @@
+app_token: "foxglove"
+name: "Foxglove"
+desc: "Visualisation and debugging tool for robotics"
+homepage: "https://foxglove.dev/"
+bundle_id: "dev.foxglove.studio"
+
+sources:
+  - type: homebrew
+    cask: "foxglove"
+
+  - type: electron

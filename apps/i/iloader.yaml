@@ -1,0 +1,12 @@
+app_token: "iloader"
+name: "iloader"
+desc: "iOS Sideloading Companion"
+homepage: "https://iloader.app/"
+bundle_id: "me.nabdev.iloader"
+
+sources:
+  - type: homebrew
+    cask: "iloader"
+
+  - type: github
+    repo: "nab138/iloader"

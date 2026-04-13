@@ -1,0 +1,9 @@
+app_token: "multiviewer"
+name: "MultiViewer"
+desc: "Unofficial desktop client for F1 TV"
+homepage: "https://multiviewer.app/"
+bundle_id: "com.electron.multiviewer-for-f1"
+
+sources:
+  - type: homebrew
+    cask: "multiviewer"

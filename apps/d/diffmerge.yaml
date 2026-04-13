@@ -1,0 +1,9 @@
+app_token: "diffmerge"
+name: "DiffMerge"
+desc: "Visually compare and merge files"
+homepage: "https://www.sourcegear.com/diffmerge/"
+bundle_id: "com.sourcegear.DiffMerge"
+
+sources:
+  - type: homebrew
+    cask: "diffmerge"

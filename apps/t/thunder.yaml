@@ -1,0 +1,9 @@
+app_token: "thunder"
+name: "Thunder"
+desc: "VPN and WiFi proxy"
+homepage: "https://www.xunlei.com/"
+bundle_id: "com.xunlei.Thunder"
+
+sources:
+  - type: homebrew
+    cask: "thunder"

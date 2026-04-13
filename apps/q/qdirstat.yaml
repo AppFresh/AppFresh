@@ -1,0 +1,12 @@
+app_token: "qdirstat"
+name: "QDirStat"
+desc: "Disk utilisation visualiser"
+homepage: "https://github.com/jesusha123/qdirstat-macos/"
+bundle_id: "com.qdirstat.QDirStat"
+
+sources:
+  - type: homebrew
+    cask: "qdirstat"
+
+  - type: github
+    repo: "jesusha123/qdirstat-macos"

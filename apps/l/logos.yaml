@@ -1,0 +1,9 @@
+app_token: "logos"
+name: "Logos"
+desc: "Bible study software"
+homepage: "https://www.logos.com/"
+bundle_id: "com.logos.desktop.logos"
+
+sources:
+  - type: homebrew
+    cask: "logos"

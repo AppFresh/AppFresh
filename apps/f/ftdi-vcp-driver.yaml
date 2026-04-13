@@ -1,0 +1,9 @@
+app_token: "ftdi-vcp-driver"
+name: "FTDI VCP Driver"
+desc: "Virtual COM port driver"
+homepage: "https://www.ftdichip.com/Drivers/VCP.htm"
+bundle_id: "com.ftdi.vcp.dext"
+
+sources:
+  - type: homebrew
+    cask: "ftdi-vcp-driver"

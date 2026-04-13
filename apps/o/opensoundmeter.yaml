@@ -1,0 +1,12 @@
+app_token: "opensoundmeter"
+name: "Open Sound Meter"
+desc: "Sound measurement application for tuning audio systems in real-time"
+homepage: "https://opensoundmeter.com/"
+bundle_id: "com.opensoundmeter.OpenSoundMeter"
+
+sources:
+  - type: homebrew
+    cask: "opensoundmeter"
+
+  - type: github
+    repo: "psmokotnin/osm"

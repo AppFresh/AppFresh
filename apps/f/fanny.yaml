@@ -1,0 +1,12 @@
+app_token: "fanny"
+name: "FannyWidget"
+desc: "Notification Center widget and menu bar application to monitor fans"
+homepage: "https://fannywidget.com/"
+bundle_id: "com.fannywidget"
+
+sources:
+  - type: homebrew
+    cask: "fanny"
+
+  - type: github
+    repo: "DanielStormApps/Fanny"

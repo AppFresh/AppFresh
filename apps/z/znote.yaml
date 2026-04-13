@@ -1,0 +1,12 @@
+app_token: "znote"
+name: "Znote"
+desc: "Notes-taking app"
+homepage: "https://znote.io/"
+bundle_id: "com.tony.znote"
+
+sources:
+  - type: homebrew
+    cask: "znote"
+
+  - type: github
+    repo: "alagrede/znote-app"

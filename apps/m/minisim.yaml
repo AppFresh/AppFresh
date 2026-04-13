@@ -1,0 +1,12 @@
+app_token: "minisim"
+name: "MiniSim"
+desc: "App for launching iOS and Android simulators"
+homepage: "https://www.minisim.app/"
+bundle_id: "com.oskarkwasniewski.MiniSim"
+
+sources:
+  - type: homebrew
+    cask: "minisim"
+
+  - type: github
+    repo: "okwasniewski/MiniSim"

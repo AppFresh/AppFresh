@@ -1,0 +1,12 @@
+app_token: "chipmunk"
+name: "Chipmunk Log Analyzer & Viewer"
+desc: "Log analysis tool"
+homepage: "https://github.com/esrlabs/chipmunk/"
+bundle_id: "com.esrlabs.chipmunk"
+
+sources:
+  - type: homebrew
+    cask: "chipmunk"
+
+  - type: github
+    repo: "esrlabs/chipmunk"

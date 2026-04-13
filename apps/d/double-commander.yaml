@@ -1,0 +1,12 @@
+app_token: "double-commander"
+name: "Double Commander"
+desc: "File manager with two panels"
+homepage: "https://doublecmd.sourceforge.io/"
+bundle_id: "com.company.doublecmd"
+
+sources:
+  - type: homebrew
+    cask: "double-commander"
+
+  - type: github
+    repo: "doublecmd/doublecmd"

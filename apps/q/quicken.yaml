@@ -1,0 +1,12 @@
+app_token: "quicken"
+name: "Quicken"
+desc: "Personal finance manager"
+homepage: "https://www.quicken.com/mac"
+bundle_id: "com.quicken.Quicken"
+
+sources:
+  - type: homebrew
+    cask: "quicken"
+
+  - type: sparkle
+    url: "https://download.quicken.com/mac/Quicken/001/Release/031A96D9-EFE6-4520-8B6A-7F465DDAA3E4/appcast.xml"

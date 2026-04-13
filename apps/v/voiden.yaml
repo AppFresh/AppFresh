@@ -1,0 +1,9 @@
+app_token: "voiden"
+name: "Voiden"
+desc: "API development tool"
+homepage: "https://voiden.md/"
+bundle_id: "com.electron.voiden"
+
+sources:
+  - type: homebrew
+    cask: "voiden"

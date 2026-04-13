@@ -1,0 +1,12 @@
+app_token: "brewservicesmenubar"
+name: "Brew Services Menubar"
+desc: "Menu item for starting and stopping homebrew services"
+homepage: "https://github.com/andrewn/brew-services-menubar"
+bundle_id: "andrewnicolaou.BrewServicesMenubar"
+
+sources:
+  - type: homebrew
+    cask: "brewservicesmenubar"
+
+  - type: github
+    repo: "andrewn/brew-services-menubar"

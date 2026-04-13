@@ -1,0 +1,9 @@
+app_token: "pd"
+name: "Pd"
+desc: "Visual programming language for multimedia"
+homepage: "https://msp.ucsd.edu/software.html"
+bundle_id: "org.puredata.pd.pd-gui"
+
+sources:
+  - type: homebrew
+    cask: "pd"

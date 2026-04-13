@@ -1,0 +1,12 @@
+app_token: "mailmate"
+name: "MailMate"
+desc: "IMAP email client"
+homepage: "https://freron.com/"
+bundle_id: "com.freron.MailMate"
+
+sources:
+  - type: homebrew
+    cask: "mailmate"
+
+  - type: homebrew
+    cask: "mailmate@beta"

@@ -1,0 +1,12 @@
+app_token: "stravu-crystal"
+name: "Crystal"
+desc: "Run multiple Claude Code instances simultaneously using git worktrees"
+homepage: "https://github.com/stravu/crystal"
+bundle_id: "com.stravu.crystal"
+
+sources:
+  - type: homebrew
+    cask: "stravu-crystal"
+
+  - type: github
+    repo: "stravu/crystal"

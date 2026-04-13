@@ -1,0 +1,12 @@
+app_token: "frescobaldi"
+name: "Frescobaldi"
+desc: "LilyPond editor"
+homepage: "https://frescobaldi.org/"
+bundle_id: "org.frescobaldi.frescobaldi"
+
+sources:
+  - type: homebrew
+    cask: "frescobaldi"
+
+  - type: github
+    repo: "frescobaldi/frescobaldi"

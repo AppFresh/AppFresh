@@ -1,0 +1,9 @@
+app_token: "shortwave"
+name: "Shortwave"
+desc: "Email client"
+homepage: "https://www.shortwave.com/"
+bundle_id: "com.electron.shortwave"
+
+sources:
+  - type: homebrew
+    cask: "shortwave"

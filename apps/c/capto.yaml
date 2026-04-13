@@ -1,0 +1,9 @@
+app_token: "capto"
+name: "Capto"
+desc: "Screen capture/recorder and video editor"
+homepage: "https://www.globaldelight.com/capto/"
+bundle_id: "com.globaldelight.Capto"
+
+sources:
+  - type: homebrew
+    cask: "capto"

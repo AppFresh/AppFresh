@@ -1,0 +1,12 @@
+app_token: "customshortcuts"
+name: "CustomShortcuts"
+desc: "Customise menu item keyboard shortcuts"
+homepage: "https://www.houdah.com/customShortcuts/"
+bundle_id: "com.houdah.CustomShortcuts"
+
+sources:
+  - type: homebrew
+    cask: "customshortcuts"
+
+  - type: sparkle
+    url: "https://www.houdah.com/customShortcuts/updates/cast.xml"

@@ -1,0 +1,15 @@
+app_token: "maccy"
+name: "Maccy"
+desc: "Clipboard manager"
+homepage: "https://maccy.app/"
+bundle_id: "org.p0deje.Maccy"
+
+sources:
+  - type: homebrew
+    cask: "maccy"
+
+  - type: github
+    repo: "p0deje/Maccy"
+
+  - type: sparkle
+    url: "https://raw.githubusercontent.com/p0deje/Maccy/master/appcast.xml"

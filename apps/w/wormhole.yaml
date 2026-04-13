@@ -1,0 +1,9 @@
+app_token: "wormhole"
+name: "Wormhole"
+desc: "Browse & Control phone on PC, Screen Fusion for iOS & Android"
+homepage: "https://er.run/"
+bundle_id: "er.Wormhole"
+
+sources:
+  - type: homebrew
+    cask: "wormhole"

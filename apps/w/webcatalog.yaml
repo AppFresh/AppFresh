@@ -1,0 +1,11 @@
+app_token: "webcatalog"
+name: "WebCatalog"
+desc: "Tool to run web apps like desktop apps"
+homepage: "https://webcatalog.io/"
+bundle_id: "com.webcatalog.jordan"
+
+sources:
+  - type: homebrew
+    cask: "webcatalog"
+
+  - type: electron

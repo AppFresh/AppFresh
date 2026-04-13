@@ -1,0 +1,12 @@
+app_token: "devtoys"
+name: "DevToys"
+desc: "Utilities designed to make common development tasks easier"
+homepage: "https://github.com/DevToys-app/DevToys"
+bundle_id: "com.devtoys"
+
+sources:
+  - type: homebrew
+    cask: "devtoys"
+
+  - type: github
+    repo: "DevToys-app/DevToys"

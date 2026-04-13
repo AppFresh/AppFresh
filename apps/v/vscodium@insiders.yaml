@@ -1,0 +1,8 @@
+app_token: "vscodium@insiders"
+name: "VSCodium Insiders"
+desc: "Free/Libre Open Source Software Binaries of Visual Studio Code"
+homepage: "https://vscodium.com/"
+
+sources:
+  - type: homebrew
+    cask: "vscodium@insiders"

@@ -1,0 +1,12 @@
+app_token: "shortcat"
+name: "Sproutcube Shortcat"
+desc: "App that enables mouse-free UI interaction"
+homepage: "https://shortcat.app/"
+bundle_id: "com.sproutcube.Shortcat"
+
+sources:
+  - type: homebrew
+    cask: "shortcat"
+
+  - type: sparkle
+    url: "https://updates.shortcat.app/appcast.xml"

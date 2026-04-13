@@ -1,0 +1,12 @@
+app_token: "insomnium"
+name: "Insomnium"
+desc: "HTTP and GraphQL Client"
+homepage: "https://github.com/ArchGPT/insomnium"
+bundle_id: "com.insomnium.app"
+
+sources:
+  - type: homebrew
+    cask: "insomnium"
+
+  - type: github
+    repo: "ArchGPT/insomnium"

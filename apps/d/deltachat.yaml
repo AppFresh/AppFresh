@@ -1,0 +1,9 @@
+app_token: "deltachat"
+name: "Delta Chat"
+desc: "Secure and reliable decentralised instant messenger"
+homepage: "https://delta.chat/"
+bundle_id: "chat.delta.desktop.electron"
+
+sources:
+  - type: homebrew
+    cask: "deltachat"

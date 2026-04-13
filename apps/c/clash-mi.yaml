@@ -1,0 +1,12 @@
+app_token: "clash-mi"
+name: "Clash Mi"
+desc: "Another Mihomo GUI based on Flutter"
+homepage: "https://github.com/KaringX/clashmi"
+bundle_id: "com.nebula.clashmi"
+
+sources:
+  - type: homebrew
+    cask: "clash-mi"
+
+  - type: github
+    repo: "KaringX/clashmi"

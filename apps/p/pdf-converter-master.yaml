@@ -1,0 +1,12 @@
+app_token: "pdf-converter-master"
+name: "PDF Converter Master"
+desc: "Document converter"
+homepage: "https://www.lightenpdf.com/pdf-converter-mac.html"
+bundle_id: "com.lightenpdf.pdfconverterweb"
+
+sources:
+  - type: homebrew
+    cask: "pdf-converter-master"
+
+  - type: sparkle
+    url: "https://www.lightenpdf.com/xml/PDF-Converter-Mac.xml"

@@ -1,0 +1,12 @@
+app_token: "texstudio"
+name: "TeXstudio"
+desc: "LaTeX editor"
+homepage: "https://texstudio.org/"
+bundle_id: "texstudio"
+
+sources:
+  - type: homebrew
+    cask: "texstudio"
+
+  - type: github
+    repo: "texstudio-org/texstudio"

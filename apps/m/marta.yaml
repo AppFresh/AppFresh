@@ -1,0 +1,12 @@
+app_token: "marta"
+name: "Marta File Manager"
+desc: "Extensible two-pane file manager"
+homepage: "https://marta.sh/"
+bundle_id: "org.yanex.marta"
+
+sources:
+  - type: homebrew
+    cask: "marta"
+
+  - type: sparkle
+    url: "https://updates.marta.sh/release/appcast.xml"

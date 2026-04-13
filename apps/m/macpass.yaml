@@ -1,0 +1,12 @@
+app_token: "macpass"
+name: "MacPass"
+desc: "Open-source, KeePass-client and password manager"
+homepage: "https://macpass.github.io/"
+bundle_id: "com.hicknhacksoftware.MacPass"
+
+sources:
+  - type: homebrew
+    cask: "macpass"
+
+  - type: github
+    repo: "MacPass/MacPass"

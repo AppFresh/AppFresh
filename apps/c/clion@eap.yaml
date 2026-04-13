@@ -1,0 +1,8 @@
+app_token: "clion@eap"
+name: "CLion EAP"
+desc: "C and C++ IDE"
+homepage: "https://www.jetbrains.com/clion/"
+
+sources:
+  - type: homebrew
+    cask: "clion@eap"

@@ -1,0 +1,15 @@
+app_token: "ableton-live-suite"
+name: "Ableton Live Suite"
+desc: "Sound and music editor"
+homepage: "https://www.ableton.com/en/live/"
+bundle_id: "com.ableton.live"
+
+sources:
+  - type: homebrew
+    cask: "ableton-live-suite"
+
+  - type: homebrew
+    cask: "ableton-live-suite@10"
+
+  - type: homebrew
+    cask: "ableton-live-suite@11"

@@ -1,0 +1,12 @@
+app_token: "meru"
+name: "Meru"
+desc: "Gmail desktop app"
+homepage: "https://meru.so/"
+bundle_id: "sh.zoid.meru"
+
+sources:
+  - type: homebrew
+    cask: "meru"
+
+  - type: github
+    repo: "zoidsh/meru"

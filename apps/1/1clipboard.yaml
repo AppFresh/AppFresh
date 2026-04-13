@@ -1,0 +1,9 @@
+app_token: "1clipboard"
+name: "1Clipboard"
+desc: "Clipboard managing app"
+homepage: "https://1clipboard.io/"
+bundle_id: "com.ngwin.1clipboard"
+
+sources:
+  - type: homebrew
+    cask: "1clipboard"

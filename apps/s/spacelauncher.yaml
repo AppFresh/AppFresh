@@ -1,0 +1,12 @@
+app_token: "spacelauncher"
+name: "SpaceLauncher"
+desc: "App launcher/switcher"
+homepage: "https://spacelauncherapp.com/"
+bundle_id: "name.guoc.SpaceLauncher"
+
+sources:
+  - type: homebrew
+    cask: "spacelauncher"
+
+  - type: sparkle
+    url: "https://spacelauncherapp.com/download/appcast.xml"

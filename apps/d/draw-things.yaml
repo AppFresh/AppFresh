@@ -1,0 +1,9 @@
+app_token: "draw-things"
+name: "Draw Things"
+desc: "Run Stable Diffusion locally"
+homepage: "https://drawthings.ai/"
+bundle_id: "com.liuliu.draw-things"
+
+sources:
+  - type: homebrew
+    cask: "draw-things"

@@ -1,0 +1,9 @@
+app_token: "checkra1n"
+name: "checkra1n"
+desc: "Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up"
+homepage: "https://checkra.in/"
+bundle_id: "kim.cracksby.checkra1n"
+
+sources:
+  - type: homebrew
+    cask: "checkra1n"

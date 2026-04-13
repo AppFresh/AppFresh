@@ -1,0 +1,11 @@
+app_token: "fontbase"
+name: "FontBase"
+desc: "Font manager"
+homepage: "https://fontba.se/"
+bundle_id: "com.dominiklevitsky.fontbase"
+
+sources:
+  - type: homebrew
+    cask: "fontbase"
+
+  - type: electron

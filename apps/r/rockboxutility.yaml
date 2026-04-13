@@ -1,0 +1,9 @@
+app_token: "rockboxutility"
+name: "Rockbox Utility"
+desc: "Automated installer for the Rockbox digital music player firmware"
+homepage: "https://www.rockbox.org/wiki/RockboxUtility"
+bundle_id: "org.rockbox.rbutil"
+
+sources:
+  - type: homebrew
+    cask: "rockboxutility"

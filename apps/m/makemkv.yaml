@@ -1,0 +1,9 @@
+app_token: "makemkv"
+name: "MakeMKV"
+desc: "Video format converter (transcoder)"
+homepage: "https://www.makemkv.com/"
+bundle_id: "com.makemkv.MakeMKV"
+
+sources:
+  - type: homebrew
+    cask: "makemkv"

@@ -1,0 +1,9 @@
+app_token: "nwjs"
+name: "NW.js"
+desc: "Call all Node.js modules directly from the DOM and Web Workers"
+homepage: "https://nwjs.io/"
+bundle_id: "io.nwjs.nwjs"
+
+sources:
+  - type: homebrew
+    cask: "nwjs"

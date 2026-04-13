@@ -1,0 +1,9 @@
+app_token: "ubiquiti-unifi-controller"
+name: "Ubiquiti UniFi Network Controller"
+desc: "Set up, configure, manage and analyze your UniFi network"
+homepage: "https://unifi-sdn.ui.com/"
+bundle_id: "com.ubnt.UniFi"
+
+sources:
+  - type: homebrew
+    cask: "ubiquiti-unifi-controller"

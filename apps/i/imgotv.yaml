@@ -1,0 +1,9 @@
+app_token: "imgotv"
+name: "芒果TV"
+desc: "Mango TV video app"
+homepage: "https://www.mgtv.com/app/"
+bundle_id: "com.mgtv.pcclientx"
+
+sources:
+  - type: homebrew
+    cask: "imgotv"

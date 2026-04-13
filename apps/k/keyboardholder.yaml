@@ -1,0 +1,12 @@
+app_token: "keyboardholder"
+name: "KeyboardHolder"
+desc: "Switch input method per application"
+homepage: "https://keyboardholder.leavesc.com/"
+bundle_id: "cn.leaves.KeyboardHolder"
+
+sources:
+  - type: homebrew
+    cask: "keyboardholder"
+
+  - type: github
+    repo: "leaves615/KeyboardHolder"

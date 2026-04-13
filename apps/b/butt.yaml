@@ -1,0 +1,9 @@
+app_token: "butt"
+name: "Broadcast Using This Tool"
+desc: "Shoutcast and Icecast streaming client"
+homepage: "https://danielnoethen.de/butt/"
+bundle_id: "de.danielnoethen.butt"
+
+sources:
+  - type: homebrew
+    cask: "butt"

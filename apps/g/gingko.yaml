@@ -1,0 +1,12 @@
+app_token: "gingko"
+name: "Gingko"
+desc: "Word processor that shows structure and content"
+homepage: "https://gingkowriter.com/"
+bundle_id: "com.gingkoapp.desktop"
+
+sources:
+  - type: homebrew
+    cask: "gingko"
+
+  - type: github
+    repo: "gingko/client"

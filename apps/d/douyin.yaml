@@ -1,0 +1,9 @@
+app_token: "douyin"
+name: "Douyin"
+desc: "Social software for creating music short videos"
+homepage: "https://www.douyin.com/"
+bundle_id: "com.bytedance.douyin.desktop"
+
+sources:
+  - type: homebrew
+    cask: "douyin"

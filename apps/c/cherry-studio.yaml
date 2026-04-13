@@ -1,0 +1,12 @@
+app_token: "cherry-studio"
+name: "Cherry Studio"
+desc: "A desktop client that supports multiple LLM providers"
+homepage: "https://www.cherry-ai.com/"
+bundle_id: "com.kangfenmao.CherryStudio"
+
+sources:
+  - type: homebrew
+    cask: "cherry-studio"
+
+  - type: github
+    repo: "CherryHQ/cherry-studio"

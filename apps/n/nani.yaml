@@ -1,0 +1,11 @@
+app_token: "nani"
+name: "Nani Translate"
+desc: "AI-powered translator"
+homepage: "https://nani.now/"
+bundle_id: "jp.kiok.nani"
+
+sources:
+  - type: homebrew
+    cask: "nani"
+
+  - type: electron

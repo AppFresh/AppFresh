@@ -1,0 +1,9 @@
+app_token: "scidvsmac"
+name: "Scid vs. Mac"
+desc: "Chess toolkit"
+homepage: "https://scidvspc.sourceforge.net/"
+bundle_id: "net.sf.scid"
+
+sources:
+  - type: homebrew
+    cask: "scidvsmac"

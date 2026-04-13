@@ -1,0 +1,11 @@
+app_token: "descript"
+name: "Descript"
+desc: "Audio and video editor"
+homepage: "https://www.descript.com/"
+bundle_id: "com.descript.beachcube"
+
+sources:
+  - type: homebrew
+    cask: "descript"
+
+  - type: electron

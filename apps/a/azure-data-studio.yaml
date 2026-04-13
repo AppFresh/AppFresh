@@ -1,0 +1,9 @@
+app_token: "azure-data-studio"
+name: "Azure Data Studio"
+desc: "Data management tool that enables working with SQL Server"
+homepage: "https://docs.microsoft.com/en-us/sql/azure-data-studio/"
+bundle_id: "com.azuredatastudio.oss"
+
+sources:
+  - type: homebrew
+    cask: "azure-data-studio"

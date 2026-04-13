@@ -1,0 +1,12 @@
+app_token: "flutterflow"
+name: "FlutterFlow"
+desc: "Visual development platform"
+homepage: "https://flutterflow.io/"
+bundle_id: "io.flutterflow.prod.mac"
+
+sources:
+  - type: homebrew
+    cask: "flutterflow"
+
+  - type: sparkle
+    url: "https://storage.googleapis.com/flutterflow-downloads/macos/appcast.xml"

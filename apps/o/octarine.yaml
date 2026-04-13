@@ -1,0 +1,9 @@
+app_token: "octarine"
+name: "Octarine"
+desc: "Markdown-based note-taking app"
+homepage: "https://octarine.app/"
+bundle_id: "Octarine"
+
+sources:
+  - type: homebrew
+    cask: "octarine"

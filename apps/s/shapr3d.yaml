@@ -1,0 +1,9 @@
+app_token: "shapr3d"
+name: "Shapr3D"
+desc: "3D CAD software"
+homepage: "https://www.shapr3d.com/"
+bundle_id: "com.shapr3d.shapr"
+
+sources:
+  - type: homebrew
+    cask: "shapr3d"

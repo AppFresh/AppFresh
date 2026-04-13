@@ -1,0 +1,12 @@
+app_token: "geekbench"
+name: "Geekbench"
+desc: "Tool to measure the computer system's performance"
+homepage: "https://www.geekbench.com/"
+bundle_id: "com.primatelabs.Geekbench6"
+
+sources:
+  - type: homebrew
+    cask: "geekbench"
+
+  - type: sparkle
+    url: "https://www.primatelabs.com/appcast/geekbench6.xml"

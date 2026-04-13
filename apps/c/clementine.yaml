@@ -1,0 +1,12 @@
+app_token: "clementine"
+name: "Clementine"
+desc: "Music player and library organiser"
+homepage: "https://www.clementine-player.org/"
+bundle_id: "org.clementine-player.clementine"
+
+sources:
+  - type: homebrew
+    cask: "clementine"
+
+  - type: github
+    repo: "clementine-player/Clementine"

@@ -1,0 +1,12 @@
+app_token: "polypane"
+name: "Polypane"
+desc: "Browser for ambitious developers"
+homepage: "https://polypane.app/"
+bundle_id: "com.firstversionist.polypane"
+
+sources:
+  - type: homebrew
+    cask: "polypane"
+
+  - type: github
+    repo: "firstversionist/polypane"

@@ -1,0 +1,9 @@
+app_token: "banktivity"
+name: "Banktivity"
+desc: "App to manage bank accounts in one place"
+homepage: "https://www.iggsoftware.com/banktivity/"
+bundle_id: "com.iggsoftware.banktivity"
+
+sources:
+  - type: homebrew
+    cask: "banktivity"

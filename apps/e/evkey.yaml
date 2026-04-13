@@ -1,0 +1,12 @@
+app_token: "evkey"
+name: "EVKey"
+desc: "Vietnamese keyboard"
+homepage: "https://evkeyvn.com/"
+bundle_id: "com.lamquangminh.evkey"
+
+sources:
+  - type: homebrew
+    cask: "evkey"
+
+  - type: github
+    repo: "lamquangminh/EVKey"

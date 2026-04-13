@@ -1,0 +1,12 @@
+app_token: "hovrly"
+name: "Hovrly"
+desc: "Display and convert timezones time in different cities"
+homepage: "https://hovrly.com/"
+bundle_id: "com.treasy.hovrly"
+
+sources:
+  - type: homebrew
+    cask: "hovrly"
+
+  - type: github
+    repo: "tarutin/hovrly"

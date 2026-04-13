@@ -1,0 +1,12 @@
+app_token: "vamiga"
+name: "vAmiga"
+desc: "Amiga 500, 1000, 2000 emulator"
+homepage: "https://dirkwhoffmann.github.io/vAmiga"
+bundle_id: "dirkwhoffmann.vAmiga"
+
+sources:
+  - type: homebrew
+    cask: "vamiga"
+
+  - type: github
+    repo: "dirkwhoffmann/vAmiga"

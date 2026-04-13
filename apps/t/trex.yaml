@@ -1,0 +1,12 @@
+app_token: "trex"
+name: "TRex"
+desc: "Easy to use text extraction tool"
+homepage: "https://github.com/amebalabs/TRex/"
+bundle_id: "com.ameba.TRex"
+
+sources:
+  - type: homebrew
+    cask: "trex"
+
+  - type: github
+    repo: "amebalabs/TRex"

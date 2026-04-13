@@ -1,0 +1,12 @@
+app_token: "avogadro"
+name: "Avogadro"
+desc: "Molecule editor and visualiser"
+homepage: "https://avogadro.cc/"
+bundle_id: "cc.avogadro"
+
+sources:
+  - type: homebrew
+    cask: "avogadro"
+
+  - type: github
+    repo: "OpenChemistry/avogadrolibs"

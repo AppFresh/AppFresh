@@ -1,0 +1,12 @@
+app_token: "burp-suite-professional"
+name: "Burp Suite Professional"
+desc: "Web security testing toolkit"
+homepage: "https://portswigger.net/burp/pro"
+bundle_id: "com.install4j.7318-9294-3757-1226.70"
+
+sources:
+  - type: homebrew
+    cask: "burp-suite-professional"
+
+  - type: homebrew
+    cask: "burp-suite-professional@early-adopter"

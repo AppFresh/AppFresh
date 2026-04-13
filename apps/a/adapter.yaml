@@ -1,0 +1,9 @@
+app_token: "adapter"
+name: "Adapter"
+desc: "Converts video, audio and images"
+homepage: "https://macroplant.com/adapter"
+bundle_id: "com.macroplant.adapter"
+
+sources:
+  - type: homebrew
+    cask: "adapter"

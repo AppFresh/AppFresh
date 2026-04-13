@@ -1,0 +1,12 @@
+app_token: "shuttle"
+name: "Shuttle"
+desc: "Simple shortcut menu"
+homepage: "https://fitztrev.github.io/shuttle/"
+bundle_id: "shuttle.Shuttle"
+
+sources:
+  - type: homebrew
+    cask: "shuttle"
+
+  - type: github
+    repo: "fitztrev/shuttle"

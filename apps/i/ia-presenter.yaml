@@ -1,0 +1,12 @@
+app_token: "ia-presenter"
+name: "iA Presenter"
+desc: "Create presentation slides from a Markdown document"
+homepage: "https://ia.net/presenter"
+bundle_id: "net.ia.presenter"
+
+sources:
+  - type: homebrew
+    cask: "ia-presenter"
+
+  - type: sparkle
+    url: "https://iapresenter.s3.amazonaws.com/release/updates.xml"

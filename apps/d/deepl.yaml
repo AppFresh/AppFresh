@@ -1,0 +1,12 @@
+app_token: "deepl"
+name: "DeepL"
+desc: "AI-powered translator"
+homepage: "https://www.deepl.com/"
+bundle_id: "com.linguee.DeepLCopyTranslator"
+
+sources:
+  - type: homebrew
+    cask: "deepl"
+
+  - type: sparkle
+    url: "https://appdownload.deepl.com/macos/appcast.xml"

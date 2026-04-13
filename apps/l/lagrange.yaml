@@ -1,0 +1,12 @@
+app_token: "lagrange"
+name: "Lagrange"
+desc: "Desktop GUI client for browsing Geminispace"
+homepage: "https://gmi.skyjake.fi/lagrange/"
+bundle_id: "fi.skyjake.lagrange"
+
+sources:
+  - type: homebrew
+    cask: "lagrange"
+
+  - type: sparkle
+    url: "https://etc.skyjake.fi/lagrange/appcast-arm64.xml"

@@ -1,0 +1,12 @@
+app_token: "combine-pdfs"
+name: "Combine PDFs"
+desc: "PDF file editor"
+homepage: "https://www.monkeybreadsoftware.de/Software/CombinePDFs.shtml"
+bundle_id: "de.monkeybreadsoftware.combinepdf"
+
+sources:
+  - type: homebrew
+    cask: "combine-pdfs"
+
+  - type: sparkle
+    url: "https://www.monkeybreadsoftware.de/Software/CombinePDFs/appcast.xml"

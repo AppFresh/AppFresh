@@ -1,0 +1,9 @@
+app_token: "phpstorm"
+name: "JetBrains PhpStorm"
+desc: "PHP IDE by JetBrains"
+homepage: "https://www.jetbrains.com/phpstorm/"
+bundle_id: "com.jetbrains.PhpStorm"
+
+sources:
+  - type: homebrew
+    cask: "phpstorm"

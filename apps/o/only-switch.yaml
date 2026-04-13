@@ -1,0 +1,12 @@
+app_token: "only-switch"
+name: "OnlySwitch"
+desc: "All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts"
+homepage: "https://onlyswitch.click/"
+bundle_id: "jacklandrin.OnlySwitch"
+
+sources:
+  - type: homebrew
+    cask: "only-switch"
+
+  - type: github
+    repo: "jacklandrin/OnlySwitch"

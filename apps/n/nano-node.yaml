@@ -1,0 +1,12 @@
+app_token: "nano-node"
+name: "Nano"
+desc: "Local node for the Nano cryptocurrency"
+homepage: "https://nano.org/"
+bundle_id: "org.nano.nano_wallet"
+
+sources:
+  - type: homebrew
+    cask: "nano-node"
+
+  - type: github
+    repo: "nanocurrency/nano-node"

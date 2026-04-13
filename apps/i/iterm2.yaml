@@ -1,0 +1,15 @@
+app_token: "iterm2"
+name: "iTerm2"
+desc: "Terminal emulator as alternative to Apple's Terminal app"
+homepage: "https://iterm2.com/"
+bundle_id: "com.googlecode.iterm2"
+
+sources:
+  - type: homebrew
+    cask: "iterm2"
+
+  - type: homebrew
+    cask: "iterm2@beta"
+
+  - type: homebrew
+    cask: "iterm2@nightly"

@@ -1,0 +1,12 @@
+app_token: "stellarium"
+name: "Stellarium"
+desc: "Tool to render realistic skies in real time on the screen"
+homepage: "https://stellarium.org/"
+bundle_id: "org.stellarium.Stellarium"
+
+sources:
+  - type: homebrew
+    cask: "stellarium"
+
+  - type: github
+    repo: "Stellarium/stellarium"

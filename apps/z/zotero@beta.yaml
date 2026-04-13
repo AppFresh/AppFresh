@@ -1,0 +1,8 @@
+app_token: "zotero@beta"
+name: "Zotero Beta"
+desc: "Collect, organise, cite, and share research sources"
+homepage: "https://www.zotero.org/"
+
+sources:
+  - type: homebrew
+    cask: "zotero@beta"

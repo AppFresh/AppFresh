@@ -1,0 +1,9 @@
+app_token: "orange"
+name: "Orange"
+desc: "Component-based data mining software"
+homepage: "https://orangedatamining.com/"
+bundle_id: "si.biolab.orange"
+
+sources:
+  - type: homebrew
+    cask: "orange"

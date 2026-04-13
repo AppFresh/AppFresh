@@ -1,0 +1,15 @@
+app_token: "emacs-app"
+name: "Emacs"
+desc: "Text editor"
+homepage: "https://emacsformacosx.com/"
+bundle_id: "org.gnu.Emacs"
+
+sources:
+  - type: homebrew
+    cask: "emacs-app"
+
+  - type: homebrew
+    cask: "emacs-app@nightly"
+
+  - type: homebrew
+    cask: "emacs-app@pretest"

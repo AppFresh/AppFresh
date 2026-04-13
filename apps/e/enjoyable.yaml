@@ -1,0 +1,9 @@
+app_token: "enjoyable"
+name: "Enjoyable"
+desc: "Use your gamepad or joystick like a mouse and keyboard"
+homepage: "https://yukkurigames.com/enjoyable/"
+bundle_id: "com.yukkurigames.Enjoyable"
+
+sources:
+  - type: homebrew
+    cask: "enjoyable"

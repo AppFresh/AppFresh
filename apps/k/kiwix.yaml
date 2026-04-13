@@ -1,0 +1,9 @@
+app_token: "kiwix"
+name: "Kiwix"
+desc: "App providing offline access to Wikipedia and many other web sites"
+homepage: "https://www.kiwix.org/"
+bundle_id: "self.Kiwix"
+
+sources:
+  - type: homebrew
+    cask: "kiwix"

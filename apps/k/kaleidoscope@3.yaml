@@ -1,0 +1,8 @@
+app_token: "kaleidoscope@3"
+name: "Kaleidoscope V3"
+desc: "Spot and merge differences in text and image files or folders"
+homepage: "https://kaleidoscope.app/"
+
+sources:
+  - type: homebrew
+    cask: "kaleidoscope@3"

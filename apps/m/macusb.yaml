@@ -1,0 +1,12 @@
+app_token: "macusb"
+name: "macUSB"
+desc: "Tool to create bootable USB installers"
+homepage: "https://kruszoneq.github.io/macUSB/"
+bundle_id: "com.kruszoneq.macUSB"
+
+sources:
+  - type: homebrew
+    cask: "macusb"
+
+  - type: github
+    repo: "Kruszoneq/macUSB"

@@ -1,0 +1,9 @@
+app_token: "easyeda"
+name: "EasyEDA"
+desc: "PCB design tool"
+homepage: "https://easyeda.com/"
+bundle_id: "com.easyeda"
+
+sources:
+  - type: homebrew
+    cask: "easyeda"

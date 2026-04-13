@@ -1,0 +1,11 @@
+app_token: "chatbox"
+name: "Chatbox"
+desc: "Desktop app for GPT-4 / GPT-3.5 (OpenAI API)"
+homepage: "https://chatboxai.app/en"
+bundle_id: "xyz.chatboxapp.app"
+
+sources:
+  - type: homebrew
+    cask: "chatbox"
+
+  - type: electron

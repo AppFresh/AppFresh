@@ -1,0 +1,12 @@
+app_token: "swifty"
+name: "Swifty"
+desc: "Offline password manager tool"
+homepage: "https://getswifty.pro/"
+bundle_id: "com.electron.swifty"
+
+sources:
+  - type: homebrew
+    cask: "swifty"
+
+  - type: github
+    repo: "swiftyapp/swifty"

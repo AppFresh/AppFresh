@@ -1,0 +1,12 @@
+app_token: "activedock"
+name: "ActiveDock"
+desc: "Customizable dock, application launcher, dock replacement"
+homepage: "https://www.noteifyapp.com/activedock/"
+bundle_id: "com.sergey-gerasimenko.ActiveDock-2"
+
+sources:
+  - type: homebrew
+    cask: "activedock"
+
+  - type: sparkle
+    url: "https://macplus-software.com/downloads/ActiveDock.xml"

@@ -1,0 +1,12 @@
+app_token: "chatgpt-atlas"
+name: "ChatGPT Atlas"
+desc: "OpenAI's official browser with ChatGPT built in"
+homepage: "https://chatgpt.com/atlas"
+bundle_id: "com.openai.atlas"
+
+sources:
+  - type: homebrew
+    cask: "chatgpt-atlas"
+
+  - type: sparkle
+    url: "https://persistent.oaistatic.com/atlas/public/sparkle_public_appcast.xml"

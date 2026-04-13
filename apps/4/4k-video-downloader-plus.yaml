@@ -1,0 +1,9 @@
+app_token: "4k-video-downloader-plus"
+name: "4K Video Downloader Plus"
+desc: "Free video downloader"
+homepage: "https://www.4kdownload.com/products/videodownloader"
+bundle_id: "com.openmedia.4kvideodownloaderplus"
+
+sources:
+  - type: homebrew
+    cask: "4k-video-downloader+"

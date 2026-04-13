@@ -1,0 +1,9 @@
+app_token: "brightintosh"
+name: "BrightIntosh"
+desc: "Utility that allows increased screen brightness"
+homepage: "https://www.brightintosh.de/"
+bundle_id: "de.brightintosh.app"
+
+sources:
+  - type: homebrew
+    cask: "brightintosh"

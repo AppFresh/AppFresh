@@ -1,0 +1,12 @@
+app_token: "pluginval"
+name: "pluginval"
+desc: "Cross-platform plugin validator and tester application"
+homepage: "https://www.tracktion.com/develop/pluginval"
+bundle_id: "com.Tracktion.pluginval"
+
+sources:
+  - type: homebrew
+    cask: "pluginval"
+
+  - type: github
+    repo: "Tracktion/pluginval"

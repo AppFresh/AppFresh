@@ -1,0 +1,9 @@
+app_token: "dingtalk@appstore"
+name: "DingTalk - App Store"
+name_cn: "钉钉"
+desc: "Teamwork app by Alibaba Group"
+homepage: "https://www.dingtalk.com/"
+bundle_id: "5ZSL2CJU2T.com.dingtalk.mac"
+
+sources:
+  - type: appstore

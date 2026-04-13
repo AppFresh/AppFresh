@@ -1,0 +1,12 @@
+app_token: "qt-creator"
+name: "Qt Creator"
+desc: "IDE for application development"
+homepage: "https://www.qt.io/developers/"
+bundle_id: "org.qt-project.qtcreator"
+
+sources:
+  - type: homebrew
+    cask: "qt-creator"
+
+  - type: homebrew
+    cask: "qt-creator@dev"

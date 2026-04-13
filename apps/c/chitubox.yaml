@@ -1,0 +1,9 @@
+app_token: "chitubox"
+name: "CHITUBOX"
+desc: "3D printing slicer software"
+homepage: "https://www.chitubox.com/"
+bundle_id: "com.cbd.chitubox2025"
+
+sources:
+  - type: homebrew
+    cask: "chitubox"

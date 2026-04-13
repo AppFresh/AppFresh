@@ -1,0 +1,12 @@
+app_token: "min"
+name: "Min"
+desc: "Minimal browser that protects privacy"
+homepage: "https://minbrowser.org/"
+bundle_id: "com.electron.min"
+
+sources:
+  - type: homebrew
+    cask: "min"
+
+  - type: github
+    repo: "minbrowser/min"

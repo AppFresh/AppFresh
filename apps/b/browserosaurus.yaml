@@ -1,0 +1,12 @@
+app_token: "browserosaurus"
+name: "Browserosaurus"
+desc: "Open-source browser prompter"
+homepage: "https://github.com/will-stone/browserosaurus"
+bundle_id: "com.browserosaurus"
+
+sources:
+  - type: homebrew
+    cask: "browserosaurus"
+
+  - type: github
+    repo: "will-stone/browserosaurus"

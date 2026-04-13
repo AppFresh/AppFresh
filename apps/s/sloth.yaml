@@ -1,0 +1,12 @@
+app_token: "sloth"
+name: "Sloth"
+desc: "Displays all open files and sockets in use by all running processes"
+homepage: "https://sveinbjorn.org/sloth"
+bundle_id: "org.sveinbjorn.Sloth"
+
+sources:
+  - type: homebrew
+    cask: "sloth"
+
+  - type: sparkle
+    url: "https://sveinbjorn.org/files/appcasts/SlothAppcast.xml"

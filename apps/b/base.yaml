@@ -1,0 +1,12 @@
+app_token: "base"
+name: "Menial Base"
+desc: "App to create, design, edit and browse SQLite 3 database files"
+homepage: "https://menial.co.uk/base/"
+bundle_id: "uk.co.menial.Base3"
+
+sources:
+  - type: homebrew
+    cask: "base"
+
+  - type: sparkle
+    url: "https://update.menial.co.uk/software/base3/"

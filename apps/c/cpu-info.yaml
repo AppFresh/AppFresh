@@ -1,0 +1,12 @@
+app_token: "cpu-info"
+name: "CPU Info"
+desc: "Provides information about device hardware and software"
+homepage: "https://github.com/kamgurgul/cpu-info"
+bundle_id: "com.kgurgul.cpuinfo"
+
+sources:
+  - type: homebrew
+    cask: "cpu-info"
+
+  - type: github
+    repo: "kamgurgul/cpu-info"

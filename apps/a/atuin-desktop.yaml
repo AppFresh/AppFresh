@@ -1,0 +1,12 @@
+app_token: "atuin-desktop"
+name: "Atuin Desktop"
+desc: "Runbook editor for terminal workflows"
+homepage: "https://atuin.sh/"
+bundle_id: "sh.atuin.app"
+
+sources:
+  - type: homebrew
+    cask: "atuin-desktop"
+
+  - type: github
+    repo: "atuinsh/desktop"

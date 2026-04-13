@@ -1,0 +1,12 @@
+app_token: "sameboy"
+name: "SameBoy"
+desc: "Game Boy and Game Boy Color emulator"
+homepage: "https://sameboy.github.io/"
+bundle_id: "com.github.liji32.sameboy"
+
+sources:
+  - type: homebrew
+    cask: "sameboy"
+
+  - type: github
+    repo: "LIJI32/SameBoy"

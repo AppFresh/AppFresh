@@ -1,0 +1,9 @@
+app_token: "ppsspp-emulator"
+name: "PPSSPP"
+desc: "PSP emulator"
+homepage: "https://www.ppsspp.org/"
+bundle_id: "org.ppsspp.ppsspp"
+
+sources:
+  - type: homebrew
+    cask: "ppsspp-emulator"

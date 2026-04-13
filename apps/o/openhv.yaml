@@ -1,0 +1,12 @@
+app_token: "openhv"
+name: "OpenHV"
+desc: "Pixel art science-fiction real-time strategy game"
+homepage: "https://www.openhv.net/"
+bundle_id: "net.openra.mod.hv"
+
+sources:
+  - type: homebrew
+    cask: "openhv"
+
+  - type: github
+    repo: "OpenHV/OpenHV"

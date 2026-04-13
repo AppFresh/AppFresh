@@ -1,0 +1,12 @@
+app_token: "kindle-comic-converter"
+name: "Kindle Comic Converter"
+desc: "Comic and manga converter for ebook readers"
+homepage: "https://github.com/ciromattia/kcc"
+bundle_id: "Kindle Comic Converter"
+
+sources:
+  - type: homebrew
+    cask: "kindle-comic-converter"
+
+  - type: github
+    repo: "ciromattia/kcc"

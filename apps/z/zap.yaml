@@ -1,0 +1,12 @@
+app_token: "zap"
+name: "Zed Attack Proxy"
+desc: "Free and open source web app scanner"
+homepage: "https://www.zaproxy.org/"
+bundle_id: "org.zaproxy.zap.ZAP"
+
+sources:
+  - type: homebrew
+    cask: "zap"
+
+  - type: github
+    repo: "zaproxy/zaproxy"

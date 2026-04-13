@@ -1,0 +1,8 @@
+app_token: "affinity-publisher@1"
+name: "Affinity Publisher 1"
+desc: "Professional desktop publishing software"
+homepage: "https://affinity.serif.com/en-us/publisher/"
+
+sources:
+  - type: homebrew
+    cask: "affinity-publisher@1"

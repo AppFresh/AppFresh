@@ -1,0 +1,12 @@
+app_token: "usenapp"
+name: "Usenapp"
+desc: "Newsreader and Usenet client"
+homepage: "https://www.usenapp.com/"
+bundle_id: "com.xoroxsoft.usenapp"
+
+sources:
+  - type: homebrew
+    cask: "usenapp"
+
+  - type: sparkle
+    url: "https://www.usenapp.com/download/appcast_unp1.xml"

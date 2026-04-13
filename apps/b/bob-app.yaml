@@ -1,0 +1,12 @@
+app_token: "bob-app"
+name: "Bob"
+desc: "Translation application for text, pictures, and manual input"
+homepage: "https://github.com/ripperhe/Bob"
+bundle_id: "com.ripperhe.Bob"
+
+sources:
+  - type: homebrew
+    cask: "bob-app"
+
+  - type: github
+    repo: "ripperhe/Bob"

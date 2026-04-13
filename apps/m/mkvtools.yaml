@@ -1,0 +1,9 @@
+app_token: "mkvtools"
+name: "MKVtools"
+desc: "App to create and edit MKV videos"
+homepage: "https://www.emmgunn.com/mkvtools-home/"
+bundle_id: "com.emmgunn.MKVtools3"
+
+sources:
+  - type: homebrew
+    cask: "mkvtools"

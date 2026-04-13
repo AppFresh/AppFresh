@@ -1,0 +1,9 @@
+app_token: "stolendata-mpv"
+name: "mpv"
+desc: "Media player based on MPlayer and mplayer2"
+homepage: "https://mpv.io/"
+bundle_id: "io.mpv"
+
+sources:
+  - type: homebrew
+    cask: "stolendata-mpv"

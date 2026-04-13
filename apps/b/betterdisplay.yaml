@@ -1,0 +1,15 @@
+app_token: "betterdisplay"
+name: "BetterDisplay Pro"
+desc: "Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!"
+homepage: "https://betterdisplay.pro/"
+bundle_id: "pro.betterdisplay.BetterDisplay"
+
+sources:
+  - type: github
+    repo: "waydabber/BetterDisplay"
+
+  - type: homebrew
+    cask: "betterdisplay"
+
+  - type: sparkle
+    url: "https://betterdisplay.pro/betterdisplay/sparkle/appcast.xml"

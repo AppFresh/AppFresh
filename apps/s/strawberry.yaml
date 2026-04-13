@@ -1,0 +1,11 @@
+app_token: "strawberry"
+name: "Strawberry"
+desc: "AI-powered web browser"
+homepage: "https://strawberrybrowser.com/"
+bundle_id: "com.mirror-browser"
+
+sources:
+  - type: homebrew
+    cask: "strawberry"
+
+  - type: electron

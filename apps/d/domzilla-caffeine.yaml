@@ -1,0 +1,12 @@
+app_token: "domzilla-caffeine"
+name: "Caffeine"
+desc: "Utility that prevents the system from going to sleep"
+homepage: "https://www.caffeine-app.net/"
+bundle_id: "net.domzilla.caffeine"
+
+sources:
+  - type: homebrew
+    cask: "domzilla-caffeine"
+
+  - type: sparkle
+    url: "https://dr-caffeine-mac.s3.amazonaws.com/appcast.xml"

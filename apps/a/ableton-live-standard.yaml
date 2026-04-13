@@ -1,0 +1,12 @@
+app_token: "ableton-live-standard"
+name: "Ableton Live Standard"
+desc: "Sound and music editor"
+homepage: "https://www.ableton.com/en/live/"
+bundle_id: "com.ableton.live"
+
+sources:
+  - type: homebrew
+    cask: "ableton-live-standard"
+
+  - type: homebrew
+    cask: "ableton-live-standard@11"

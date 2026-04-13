@@ -1,0 +1,9 @@
+app_token: "pocket-casts"
+name: "Pocket Casts"
+desc: "Podcast platform"
+homepage: "https://play.pocketcasts.com/"
+bundle_id: "com.electron.pocket-casts"
+
+sources:
+  - type: homebrew
+    cask: "pocket-casts"

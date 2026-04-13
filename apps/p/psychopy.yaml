@@ -1,0 +1,12 @@
+app_token: "psychopy"
+name: "PsychoPy"
+desc: "Create experiments in behavioral science"
+homepage: "https://www.psychopy.org/"
+bundle_id: "org.opensciencetools.psychopy"
+
+sources:
+  - type: homebrew
+    cask: "psychopy"
+
+  - type: github
+    repo: "psychopy/psychopy"

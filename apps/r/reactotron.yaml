@@ -1,0 +1,13 @@
+app_token: "reactotron"
+name: "Reactotron"
+desc: "Desktop app for inspecting React JS and React Native projects"
+homepage: "https://github.com/infinitered/reactotron"
+bundle_id: "com.reactotron.app"
+
+sources:
+  - type: homebrew
+    cask: "reactotron"
+
+  - type: github
+    repo: "infinitered/reactotron"
+    regex: "^Reactotron-(\d+\.\d+\.\d+)-arm64\.dmg$"

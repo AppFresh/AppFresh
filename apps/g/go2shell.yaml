@@ -1,0 +1,9 @@
+app_token: "go2shell"
+name: "Go2Shell"
+desc: "Opens a terminal window to the current directory in Finder"
+homepage: "https://zipzapmac.com/go2shell"
+bundle_id: "com.zipzapmac.Go2Shell"
+
+sources:
+  - type: homebrew
+    cask: "go2shell"

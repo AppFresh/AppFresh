@@ -1,0 +1,12 @@
+app_token: "alma"
+name: "Alma"
+desc: "AI chat application"
+homepage: "https://alma.now/"
+bundle_id: "com.yetone.alma"
+
+sources:
+  - type: homebrew
+    cask: "alma"
+
+  - type: github
+    repo: "yetone/alma-releases"

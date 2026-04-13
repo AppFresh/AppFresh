@@ -1,0 +1,12 @@
+app_token: "keeweb"
+name: "KeeWeb"
+desc: "Password manager compatible with KeePass"
+homepage: "https://keeweb.info/"
+bundle_id: "net.antelle.keeweb"
+
+sources:
+  - type: homebrew
+    cask: "keeweb"
+
+  - type: github
+    repo: "keeweb/keeweb"

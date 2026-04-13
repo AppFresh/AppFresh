@@ -1,0 +1,9 @@
+app_token: "tortoisehg"
+name: "TortoiseHg"
+desc: "Tools for the Mercurial distributed revision control system"
+homepage: "https://tortoisehg.bitbucket.io/"
+bundle_id: "org.pythonmac.tortoisehg.thg"
+
+sources:
+  - type: homebrew
+    cask: "tortoisehg"

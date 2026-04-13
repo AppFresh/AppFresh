@@ -1,0 +1,12 @@
+app_token: "neat"
+name: "Neat"
+desc: "GitHub and Linear notifications on your desktop and menu bar"
+homepage: "https://neat.run/"
+bundle_id: "com.electron.neat"
+
+sources:
+  - type: homebrew
+    cask: "neat"
+
+  - type: github
+    repo: "neat-run/activity-feed-public"

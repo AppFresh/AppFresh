@@ -1,0 +1,12 @@
+app_token: "cryptomator"
+name: "Cryptomator"
+desc: "Multi-platform client-side cloud file encryption tool"
+homepage: "https://cryptomator.org/"
+bundle_id: "org.cryptomator"
+
+sources:
+  - type: homebrew
+    cask: "cryptomator"
+
+  - type: github
+    repo: "cryptomator/cryptomator"

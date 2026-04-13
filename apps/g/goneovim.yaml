@@ -1,0 +1,12 @@
+app_token: "goneovim"
+name: "Goneovim"
+desc: "Neovim GUI written in Golang, using a Golang qt backend"
+homepage: "https://github.com/akiyosi/goneovim"
+bundle_id: "com.goneovim.goneovim"
+
+sources:
+  - type: homebrew
+    cask: "goneovim"
+
+  - type: github
+    repo: "akiyosi/goneovim"

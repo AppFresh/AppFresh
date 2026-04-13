@@ -1,0 +1,12 @@
+app_token: "snes9x"
+name: "Snes9x"
+desc: "Video game console emulator"
+homepage: "https://www.snes9x.com/"
+bundle_id: "com.snes9x.macos.snes9x"
+
+sources:
+  - type: homebrew
+    cask: "snes9x"
+
+  - type: github
+    repo: "snes9xgit/snes9x"

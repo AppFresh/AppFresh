@@ -1,0 +1,12 @@
+app_token: "posture-pal"
+name: "Posture Pal"
+desc: "Bad posture reminding tool"
+homepage: "https://goodsnooze.gumroad.com/l/posturepal"
+bundle_id: "com.goodsnooze.sebby-gum"
+
+sources:
+  - type: homebrew
+    cask: "posture-pal"
+
+  - type: sparkle
+    url: "https://macwhisper-site.vercel.app/posturepal/appcast.xml"

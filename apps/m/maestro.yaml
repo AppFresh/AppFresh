@@ -1,0 +1,12 @@
+app_token: "maestro"
+name: "Maestro"
+desc: "AI agent command center"
+homepage: "https://runmaestro.ai/"
+bundle_id: "com.maestro.app"
+
+sources:
+  - type: homebrew
+    cask: "maestro"
+
+  - type: github
+    repo: "pedramamini/Maestro"

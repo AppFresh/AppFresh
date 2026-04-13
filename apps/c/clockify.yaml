@@ -1,0 +1,12 @@
+app_token: "clockify"
+name: "Clockify"
+desc: "Time tracking tool for agencies and freelancers"
+homepage: "https://clockify.me/mac-time-tracking"
+bundle_id: "coing.ClockifyDesktop"
+
+sources:
+  - type: homebrew
+    cask: "clockify"
+
+  - type: sparkle
+    url: "https://clockify.me/downloads/appcast.xml"

@@ -1,0 +1,12 @@
+app_token: "wordpresscom"
+name: "WordPress.com"
+desc: "WordPress client"
+homepage: "https://apps.wordpress.com/desktop/"
+bundle_id: "com.automattic.wordpress"
+
+sources:
+  - type: homebrew
+    cask: "wordpresscom"
+
+  - type: github
+    repo: "Automattic/wp-desktop"

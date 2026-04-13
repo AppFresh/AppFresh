@@ -1,0 +1,12 @@
+app_token: "focusrite-control-2"
+name: "Focusrite Control 2"
+desc: "Focusrite interface controller for devices of the 4th generation and newer"
+homepage: "https://focusrite.com/software/focusrite-control-2"
+bundle_id: "com.focusrite.control"
+
+sources:
+  - type: homebrew
+    cask: "focusrite-control-2"
+
+  - type: sparkle
+    url: "https://releases.focusrite.com/com.focusrite.focusrite-control/release/focusrite-control.release.mac.xml"

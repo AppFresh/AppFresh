@@ -1,0 +1,9 @@
+app_token: "navicat-for-mysql"
+name: "Navicat for MySQL"
+desc: "Database administration and development tool"
+homepage: "https://www.navicat.com/products/navicat-for-mysql"
+bundle_id: "com.navicat.NavicatForMySQL"
+
+sources:
+  - type: homebrew
+    cask: "navicat-for-mysql"

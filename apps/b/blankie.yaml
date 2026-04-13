@@ -1,0 +1,12 @@
+app_token: "blankie"
+name: "Blankie"
+desc: "Ambient sound mixer for creating custom soundscapes"
+homepage: "https://blankie.rest/"
+bundle_id: "com.codybrom.blankie"
+
+sources:
+  - type: homebrew
+    cask: "blankie"
+
+  - type: github
+    repo: "codybrom/blankie"

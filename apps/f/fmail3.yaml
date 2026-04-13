@@ -1,0 +1,12 @@
+app_token: "fmail3"
+name: "FMail3"
+desc: "Unofficial native application for Fastmail"
+homepage: "https://fmail3.appmac.fr/"
+bundle_id: "fr.arievanboxel.FMail3"
+
+sources:
+  - type: homebrew
+    cask: "fmail3"
+
+  - type: sparkle
+    url: "https://fmail3.appmac.fr/update/sparkle/appcast.xml"

@@ -1,0 +1,11 @@
+app_token: "coscreen"
+name: "CoScreen"
+desc: "Collaboration tool with multi-user screen sharing"
+homepage: "https://www.coscreen.co/"
+bundle_id: "org.coscreen.CoScreen"
+
+sources:
+  - type: homebrew
+    cask: "coscreen"
+
+  - type: electron

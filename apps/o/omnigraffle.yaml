@@ -1,0 +1,9 @@
+app_token: "omnigraffle"
+name: "OmniGraffle"
+desc: "Visual communication software"
+homepage: "https://www.omnigroup.com/omnigraffle/"
+bundle_id: "com.omnigroup.OmniGraffle7"
+
+sources:
+  - type: homebrew
+    cask: "omnigraffle"

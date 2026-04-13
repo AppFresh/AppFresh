@@ -1,0 +1,12 @@
+app_token: "gama-jdk"
+name: "GAMA Platform with embedded JDK"
+desc: "IDE for building spatially explicit agent-based simulations"
+homepage: "https://gama-platform.org/"
+bundle_id: "Gama"
+
+sources:
+  - type: homebrew
+    cask: "gama-jdk"
+
+  - type: github
+    repo: "gama-platform/gama"

@@ -1,0 +1,12 @@
+app_token: "texworks"
+name: "TeXworks"
+desc: "LaTeX editor"
+homepage: "https://www.tug.org/texworks/"
+bundle_id: "org.tug.texworks"
+
+sources:
+  - type: homebrew
+    cask: "texworks"
+
+  - type: github
+    repo: "TeXworks/texworks"

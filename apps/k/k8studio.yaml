@@ -1,0 +1,12 @@
+app_token: "k8studio"
+name: "K8studio"
+desc: "Kubernetes GUI"
+homepage: "https://k8studio.io/"
+bundle_id: "ide.k8studio.io"
+
+sources:
+  - type: homebrew
+    cask: "k8studio"
+
+  - type: github
+    repo: "k8Studio/k8Studio"

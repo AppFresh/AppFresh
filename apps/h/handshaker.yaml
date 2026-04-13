@@ -1,0 +1,9 @@
+app_token: "handshaker"
+name: "HandShaker"
+desc: "App for managing Android devices"
+homepage: "https://www.smartisan.com/apps/"
+bundle_id: "com.smartisan.smartfindercommon"
+
+sources:
+  - type: homebrew
+    cask: "handshaker"

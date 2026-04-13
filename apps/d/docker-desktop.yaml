@@ -1,0 +1,12 @@
+app_token: "docker-desktop"
+name: "Docker for Mac"
+desc: "App to build and share containerised applications and microservices"
+homepage: "https://www.docker.com/products/docker-desktop"
+bundle_id: "com.docker.docker"
+
+sources:
+  - type: homebrew
+    cask: "docker-desktop"
+
+  - type: sparkle
+    url: "https://desktop.docker.com/mac/main/arm64/appcast.xml"

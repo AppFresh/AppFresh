@@ -1,0 +1,12 @@
+app_token: "mockoon"
+name: "Mockoon"
+desc: "Create mock APIs in seconds"
+homepage: "https://mockoon.com/"
+bundle_id: "com.mockoon.app"
+
+sources:
+  - type: homebrew
+    cask: "mockoon"
+
+  - type: github
+    repo: "mockoon/mockoon"

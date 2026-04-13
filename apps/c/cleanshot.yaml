@@ -1,0 +1,12 @@
+app_token: "cleanshot"
+name: "CleanShot X"
+desc: "Screen capturing tool"
+homepage: "https://cleanshot.com/"
+bundle_id: "pl.maketheweb.cleanshotx"
+
+sources:
+  - type: homebrew
+    cask: "cleanshot"
+
+  - type: sparkle
+    url: "https://updates.getcleanshot.com/v3/appcast.xml"

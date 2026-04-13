@@ -1,0 +1,9 @@
+app_token: "visual-studio"
+name: "Microsoft Visual Studio"
+desc: "Integrated development environment"
+homepage: "https://visualstudio.microsoft.com/vs/mac/"
+bundle_id: "com.microsoft.visual-studio"
+
+sources:
+  - type: homebrew
+    cask: "visual-studio"

@@ -1,0 +1,12 @@
+app_token: "blurred"
+name: "Blurred"
+desc: "Utility to dim background/inactive content in the screen"
+homepage: "https://github.com/dwarvesf/blurred/"
+bundle_id: "foundation.dwarves.blurred"
+
+sources:
+  - type: homebrew
+    cask: "blurred"
+
+  - type: github
+    repo: "dwarvesf/blurred"

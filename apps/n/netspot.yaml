@@ -1,0 +1,12 @@
+app_token: "netspot"
+name: "NetSpot"
+desc: "WiFi site survey software and WiFi scanner"
+homepage: "https://www.netspotapp.com/"
+bundle_id: "com.etwok.netspotwifi"
+
+sources:
+  - type: homebrew
+    cask: "netspot"
+
+  - type: sparkle
+    url: "https://cdn.netspotapp.com/download/Mac/netspot5-appcast.xml"

@@ -1,0 +1,9 @@
+app_token: "coolterm"
+name: "CoolTerm"
+desc: "Serial port terminal"
+homepage: "https://freeware.the-meiers.org/"
+bundle_id: "org.the-meiers.coolterm"
+
+sources:
+  - type: homebrew
+    cask: "coolterm"

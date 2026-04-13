@@ -1,0 +1,9 @@
+app_token: "proton-mail"
+name: "Proton Mail"
+desc: "Client for Proton Mail and Proton Calendar"
+homepage: "https://proton.me/mail"
+bundle_id: "ch.protonmail.desktop"
+
+sources:
+  - type: homebrew
+    cask: "proton-mail"

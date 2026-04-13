@@ -1,0 +1,9 @@
+app_token: "progressive-downloader"
+name: "Progressive Downloader"
+desc: "Download manager"
+homepage: "https://www.macpsd.net/"
+bundle_id: "com.PS.PSD"
+
+sources:
+  - type: homebrew
+    cask: "progressive-downloader"

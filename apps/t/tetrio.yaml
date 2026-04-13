@@ -1,0 +1,9 @@
+app_token: "tetrio"
+name: "TETR.IO"
+desc: "Free-to-play Tetris clone"
+homepage: "https://tetr.io/about"
+bundle_id: "sh.osk.tetrio-client"
+
+sources:
+  - type: homebrew
+    cask: "tetrio"

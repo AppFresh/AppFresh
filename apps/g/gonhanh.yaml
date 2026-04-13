@@ -1,0 +1,12 @@
+app_token: "gonhanh"
+name: "Gõ Nhanh"
+desc: "Vietnamese input method engine"
+homepage: "https://github.com/khaphanspace/gonhanh.org"
+bundle_id: "org.gonhanh.GoNhanh"
+
+sources:
+  - type: homebrew
+    cask: "gonhanh"
+
+  - type: github
+    repo: "khaphanspace/gonhanh.org"

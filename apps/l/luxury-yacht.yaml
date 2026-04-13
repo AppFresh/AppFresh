@@ -1,0 +1,12 @@
+app_token: "luxury-yacht"
+name: "Luxury Yacht"
+desc: "Desktop app for managing Kubernetes clusters"
+homepage: "https://luxury-yacht.app/"
+bundle_id: "com.wails.Luxury Yacht"
+
+sources:
+  - type: homebrew
+    cask: "luxury-yacht"
+
+  - type: github
+    repo: "luxury-yacht/app"

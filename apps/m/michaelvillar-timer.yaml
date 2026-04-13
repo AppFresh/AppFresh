@@ -1,0 +1,12 @@
+app_token: "michaelvillar-timer"
+name: "Timer"
+desc: "Timer application"
+homepage: "https://github.com/michaelvillar/timer-app"
+bundle_id: "com.michaelvillar.Timer"
+
+sources:
+  - type: homebrew
+    cask: "michaelvillar-timer"
+
+  - type: github
+    repo: "michaelvillar/timer-app"

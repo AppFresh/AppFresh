@@ -1,0 +1,11 @@
+app_token: "electronmail"
+name: "ElectronMail"
+desc: "Unofficial ProtonMail Desktop App"
+bundle_id: "github.comvladimiryElectronMail"
+
+sources:
+  - type: homebrew
+    cask: "electronmail"
+
+  - type: github
+    repo: "vladimiry/ElectronMail"

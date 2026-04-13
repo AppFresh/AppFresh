@@ -1,0 +1,12 @@
+app_token: "muzzle"
+name: "Muzzle"
+desc: "Silence embarrassing notifications while screensharing"
+homepage: "https://muzzleapp.com/"
+bundle_id: "com.incident57.Muzzle"
+
+sources:
+  - type: homebrew
+    cask: "muzzle"
+
+  - type: sparkle
+    url: "https://muzzleapp.com/api/1/appcast.xml"

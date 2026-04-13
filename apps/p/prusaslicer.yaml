@@ -1,0 +1,9 @@
+app_token: "prusaslicer"
+name: "PrusaSlicer"
+desc: "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+homepage: "https://www.prusa3d.com/slic3r-prusa-edition/"
+bundle_id: "com.prusa3d.slic3r"
+
+sources:
+  - type: homebrew
+    cask: "prusaslicer"

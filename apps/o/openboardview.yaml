@@ -1,0 +1,12 @@
+app_token: "openboardview"
+name: "OpenBoardView"
+desc: "File viewer for .brd files"
+homepage: "https://openboardview.org/"
+bundle_id: "org.openboardview.openboardview"
+
+sources:
+  - type: homebrew
+    cask: "openboardview"
+
+  - type: github
+    repo: "OpenBoardView/OpenBoardView"

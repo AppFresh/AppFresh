@@ -12,3 +12,4 @@ sources:
     url: "https://osx.telegram.org/updates/versions.xml"
 
   - type: appstore
+    app_id: "747648890"

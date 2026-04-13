@@ -2,6 +2,8 @@ app_token: "telegram-lite"
 name: "Telegram Lite"
 desc: "Telegram Lite"
 homepage: "https://telegram.org/"
+bundle_id: "ru.keepcoder.Telegram"
 
 sources:
   - type: appstore
+    app_id: "946399090"

@@ -9,3 +9,4 @@ sources:
     cask: "foxmail"
 
   - type: appstore
+    app_id: "617950461"

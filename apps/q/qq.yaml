@@ -9,3 +9,4 @@ sources:
     cask: "qq"
 
   - type: appstore
+    app_id: "451108668"

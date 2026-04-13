@@ -9,3 +9,4 @@ sources:
     cask: "filo"
 
   - type: appstore
+    app_id: "6740307388"

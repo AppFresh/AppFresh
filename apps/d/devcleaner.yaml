@@ -8,6 +8,7 @@ sources:
     repo: "vashpan/xcode-dev-cleaner"
 
   - type: appstore
+    app_id: "1388020431"
 
   - type: homebrew
     cask: "devcleaner"

@@ -9,3 +9,4 @@ sources:
     cask: "windows-app"
 
   - type: appstore
+    app_id: "1295203466"

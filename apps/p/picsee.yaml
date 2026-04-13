@@ -9,3 +9,4 @@ sources:
     url: "https://picsee.chitaner.com/download/appcast.xml"
 
   - type: appstore
+    app_id: "1454805783"

@@ -9,3 +9,4 @@ sources:
     cask: "capcut"
 
   - type: appstore
+    app_id: "1500855883"

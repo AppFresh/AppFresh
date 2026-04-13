@@ -12,3 +12,4 @@ sources:
     repo: "tracebar-app/tracebar"
 
   - type: appstore
+    app_id: "6760156527"

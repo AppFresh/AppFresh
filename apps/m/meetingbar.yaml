@@ -12,3 +12,4 @@ sources:
     repo: "leits/MeetingBar"
 
   - type: appstore
+    app_id: "1532419400"

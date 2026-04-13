@@ -12,3 +12,4 @@ sources:
     url: "https://cdn.mweb.im/sparkle/appcast.xml"
 
   - type: appstore
+    app_id: "1403919533"

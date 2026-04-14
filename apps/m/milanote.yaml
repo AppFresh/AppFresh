@@ -9,3 +9,4 @@ sources:
     cask: milanote
 
   - type: electron
+    url: 'https://milanote-app-releases.s3.amazonaws.com/latest-mac.yml'

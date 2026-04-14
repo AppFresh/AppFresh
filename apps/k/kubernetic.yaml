@@ -9,3 +9,4 @@ sources:
     cask: kubernetic
 
   - type: electron
+    url: 'https://kubernetic.s3.amazonaws.com/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: front
 
   - type: electron
+    url: 'https://dl.frontapp.com/desktop/updates/latest/mac/latest-mac.yml'

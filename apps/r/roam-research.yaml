@@ -9,3 +9,4 @@ sources:
     cask: roam-research
 
   - type: electron
+    url: 'https://roam-electron-deploy.s3.amazonaws.com/latest-mac.yml'

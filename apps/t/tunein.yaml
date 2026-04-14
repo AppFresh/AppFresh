@@ -9,3 +9,4 @@ sources:
     cask: tunein
 
   - type: electron
+    url: 'https://gemini-desktop-prod.s3.amazonaws.com/release/latest-mac.yml'

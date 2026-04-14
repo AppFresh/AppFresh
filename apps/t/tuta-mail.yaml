@@ -9,3 +9,4 @@ sources:
     cask: tuta-mail
 
   - type: electron
+    url: 'https://app.tuta.com/desktop/latest-mac.yml'

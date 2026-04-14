@@ -9,3 +9,4 @@ sources:
     cask: getoutline
 
   - type: electron
+    url: 'https://download.todesktop.com/2211128hgkdcltv/latest-mac.yml'

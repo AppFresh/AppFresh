@@ -9,3 +9,4 @@ sources:
     cask: mochi
 
   - type: electron
+    url: 'https://download.mochi.cards/releases/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: hey-desktop
 
   - type: electron
+    url: 'https://hey.com/desktop/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: gologin
 
   - type: electron
+    url: 'https://releases.gologin.com/latest-mac.yml'

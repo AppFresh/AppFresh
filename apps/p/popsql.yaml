@@ -9,3 +9,4 @@ sources:
     cask: popsql
 
   - type: electron
+    url: 'https://popsql-releases.s3.amazonaws.com/mac/latest-mac.yml'

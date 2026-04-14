@@ -9,3 +9,4 @@ sources:
     cask: ledger-wallet
 
   - type: electron
+    url: 'https://download.live.ledger.com/latest-mac.yml'

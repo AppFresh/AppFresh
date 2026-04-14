@@ -9,3 +9,4 @@ sources:
     cask: morgen
 
   - type: electron
+    url: 'https://download.todesktop.com/210203cqcj00tw1/latest-mac.yml'

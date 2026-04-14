@@ -9,3 +9,4 @@ sources:
     cask: native-access
 
   - type: electron
+    url: 'https://na-update.native-instruments.com/arm64/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: remnote
 
   - type: electron
+    url: 'https://download2.remnote.io/remnote-desktop2/latest-mac.yml'

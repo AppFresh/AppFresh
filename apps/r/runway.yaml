@@ -9,3 +9,4 @@ sources:
     cask: runway
 
   - type: electron
+    url: 'https://runway-releases.s3.amazonaws.com/latest-mac.yml'

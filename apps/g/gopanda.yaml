@@ -9,3 +9,4 @@ sources:
     cask: gopanda
 
   - type: electron
+    url: 'https://pandanet-igs.com/gopanda2/download/latest-mac.yml'

@@ -6,6 +6,6 @@ bundle_id: org.ghostvm.ghostvm
 
 sources:
   - type: github
-    cask: groundwater/GhostVM
+    repo: groundwater/GhostVM
 
 

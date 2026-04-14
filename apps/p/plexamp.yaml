@@ -9,3 +9,4 @@ sources:
     cask: plexamp
 
   - type: electron
+    url: 'https://plexamp.plex.tv/plexamp.plex.tv/desktop/latest-mac.yml'

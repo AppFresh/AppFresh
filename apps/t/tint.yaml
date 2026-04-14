@@ -9,3 +9,4 @@ sources:
     cask: tint
 
   - type: electron
+    url: 'https://assets.beyondco.de/tint/latest-mac.yml'

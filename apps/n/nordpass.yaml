@@ -9,3 +9,4 @@ sources:
     cask: nordpass
 
   - type: electron
+    url: 'https://downloads.npass.app/mac/arm/latest-mac.yml'

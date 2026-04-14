@@ -9,3 +9,4 @@ sources:
     cask: lunar-client
 
   - type: electron
+    url: 'https://launcherupdates.lunarclientcdn.com/latest-mac.yml'

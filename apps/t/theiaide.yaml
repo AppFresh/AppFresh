@@ -9,3 +9,4 @@ sources:
     cask: theiaide
 
   - type: electron
+    url: 'https://download.eclipse.org/theia/ide/latest/macos-arm/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: strawberry
 
   - type: electron
+    url: 'https://strawberrybucket.com/latest-mac.yml'

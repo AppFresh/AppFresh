@@ -9,3 +9,4 @@ sources:
     cask: singlebox
 
   - type: electron
+    url: 'https://cdn-2.webcatalog.io/singlebox2/latest-mac.yml'

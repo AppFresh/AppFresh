@@ -9,3 +9,4 @@ sources:
     cask: fontbase
 
   - type: electron
+    url: 'https://releases.fontba.se/mac/latest-mac.yml'

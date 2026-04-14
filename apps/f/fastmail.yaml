@@ -9,3 +9,4 @@ sources:
     cask: fastmail
 
   - type: electron
+    url: 'https://dl.fastmailcdn.com/desktop/production/mac/arm64/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: foxglove
 
   - type: electron
+    url: 'https://get.foxglove.dev/desktop/latest/stable-mac.yml'

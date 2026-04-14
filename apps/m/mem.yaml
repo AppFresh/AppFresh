@@ -9,3 +9,4 @@ sources:
     cask: mem
 
   - type: electron
+    url: 'https://storage.googleapis.com/mem-desktop-stable-releases/latest-mac.yml'

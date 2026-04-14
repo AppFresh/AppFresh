@@ -9,3 +9,4 @@ sources:
     cask: whimsical
 
   - type: electron
+    url: 'https://download.todesktop.com/2402209z4j37b73/latest-mac.yml'

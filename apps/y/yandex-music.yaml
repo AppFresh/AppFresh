@@ -9,3 +9,4 @@ sources:
     cask: yandex-music
 
   - type: electron
+    url: 'https://music-desktop-application.s3.yandex.net/stable/latest-mac.yml'

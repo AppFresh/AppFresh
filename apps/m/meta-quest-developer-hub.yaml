@@ -9,3 +9,4 @@ sources:
     cask: meta-quest-developer-hub
 
   - type: electron
+    url: 'https://www.oculus.com/electron-updates/mqdh/latest-mac.yml'

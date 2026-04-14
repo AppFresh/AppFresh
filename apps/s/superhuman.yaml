@@ -9,3 +9,4 @@ sources:
     cask: superhuman
 
   - type: electron
+    url: 'https://storage.googleapis.com/download.superhuman.com/supertron-update/latest-mac.yml'

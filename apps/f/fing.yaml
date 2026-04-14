@@ -9,3 +9,4 @@ sources:
     cask: fing
 
   - type: electron
+    url: 'https://get.fing.com/fing-desktop-releases/mac/latest-mac.yml'

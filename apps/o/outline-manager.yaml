@@ -9,3 +9,4 @@ sources:
     cask: outline-manager
 
   - type: electron
+    url: 'https://s3.amazonaws.com/outline-releases/manager/latest-mac.yml'

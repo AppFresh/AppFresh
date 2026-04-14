@@ -9,3 +9,4 @@ sources:
     cask: todoist-app
 
   - type: electron
+    url: 'https://electron-dl.todoist.com/mac/latest-mac.yml'

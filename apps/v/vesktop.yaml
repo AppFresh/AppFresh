@@ -12,3 +12,4 @@ sources:
     repo: Vencord/Vesktop
 
   - type: electron
+    url: 'https://github.com/Vencord/Vesktop/releases/latest/download/latest-mac.yml'

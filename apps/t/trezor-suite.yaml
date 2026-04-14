@@ -9,3 +9,4 @@ sources:
     cask: trezor-suite
 
   - type: electron
+    url: 'https://data.trezor.io/suite/releases/desktop/latest/latest-mac.yml'

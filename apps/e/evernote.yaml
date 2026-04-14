@@ -9,3 +9,4 @@ sources:
     cask: evernote
 
   - type: electron
+    url: 'https://updates.desktop.evernote.com/mac/public/latest-mac.yml'

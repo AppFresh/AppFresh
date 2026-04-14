@@ -9,3 +9,4 @@ sources:
     cask: fabric-app
 
   - type: electron
+    url: 'https://download.todesktop.com/220930m1ahpjvoh/latest-mac.yml'

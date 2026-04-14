@@ -9,3 +9,4 @@ sources:
     cask: tinkerwell
 
   - type: electron
+    url: 'https://download.tinkerwell.app/tinkerwell/latest-mac.yml'

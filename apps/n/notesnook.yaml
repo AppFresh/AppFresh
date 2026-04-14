@@ -12,3 +12,4 @@ sources:
     cask: notesnook
 
   - type: electron
+    url: 'https://notesnook.com/api/v1/releases/darwin/latest/latest-mac.yml'

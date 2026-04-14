@@ -9,3 +9,4 @@ sources:
     cask: shadow
 
   - type: electron
+    url: 'https://update.shadow.tech/launcher/prod/mac/arm64/latest-mac.yml'

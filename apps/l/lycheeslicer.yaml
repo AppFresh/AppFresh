@@ -9,3 +9,4 @@ sources:
     cask: lycheeslicer
 
   - type: electron
+    url: 'https://mango-lychee.nyc3.digitaloceanspaces.com/latest-mac.yml'

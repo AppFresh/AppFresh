@@ -9,3 +9,4 @@ sources:
     cask: staruml
 
   - type: electron
+    url: 'https://update.staruml.io/releases-v6/latest-mac.yml'

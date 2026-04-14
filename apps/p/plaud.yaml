@@ -9,3 +9,4 @@ sources:
     cask: plaud
 
   - type: electron
+    url: 'https://plaud-web-download-prod.s3.amazonaws.com/desktop/v1/latest-mac.yml'

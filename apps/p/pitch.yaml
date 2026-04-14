@@ -9,3 +9,4 @@ sources:
     cask: pitch
 
   - type: electron
+    url: 'https://desktop-app-builds.pitch.com/latest-mac.yml'

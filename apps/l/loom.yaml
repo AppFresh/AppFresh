@@ -9,3 +9,4 @@ sources:
     cask: loom
 
   - type: electron
+    url: 'https://packages.loom.com/desktop-packages/latest-mac.yml'

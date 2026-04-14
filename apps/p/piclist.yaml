@@ -12,3 +12,4 @@ sources:
     repo: Kuingsmile/PicList
 
   - type: electron
+    url: 'https://release.piclist.cn/latest/latest-mac.yml'

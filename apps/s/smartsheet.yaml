@@ -9,3 +9,4 @@ sources:
     cask: smartsheet
 
   - type: electron
+    url: 'https://builds.desktopapp.smartsheet.com/public/darwin/latest-mac.yml'

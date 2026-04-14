@@ -9,3 +9,4 @@ sources:
     cask: nani
 
   - type: electron
+    url: 'https://nani-desktop.kiok.jp/artifacts/latest-mac.yml'

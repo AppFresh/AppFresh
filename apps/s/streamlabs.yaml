@@ -9,3 +9,4 @@ sources:
     cask: streamlabs
 
   - type: electron
+    url: 'https://slobs-cdn.streamlabs.com/desktop-latest-mac.yml'

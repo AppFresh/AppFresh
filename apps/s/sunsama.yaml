@@ -9,3 +9,4 @@ sources:
     cask: sunsama
 
   - type: electron
+    url: 'https://download.todesktop.com/2003096gmmnl0g1/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: papers
 
   - type: electron
+    url: 'https://s3.amazonaws.com/update.readcube.com/desktop/updates/latest-mac.yml'

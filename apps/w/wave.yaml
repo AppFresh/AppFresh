@@ -9,3 +9,4 @@ sources:
     cask: wave
 
   - type: electron
+    url: 'https://dl.waveterm.dev/releases-w2/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: nosql-workbench
 
   - type: electron
+    url: 'https://nosql-workbench.s3.amazonaws.com/latest-mac.yml'

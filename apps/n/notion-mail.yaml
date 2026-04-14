@@ -9,3 +9,4 @@ sources:
     cask: notion-mail
 
   - type: electron
+    url: 'https://mail-desktop-release.notion-static.com/notion-mail-arm64-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: spline
 
   - type: electron
+    url: 'https://s3.amazonaws.com/updater.spline.design/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: lens
 
   - type: electron
+    url: 'https://api.k8slens.dev/binaries/latest-mac.yml'

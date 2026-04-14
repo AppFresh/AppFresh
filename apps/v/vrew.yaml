@@ -9,3 +9,4 @@ sources:
     cask: vrew
 
   - type: electron
+    url: 'https://s3-ap-northeast-2.amazonaws.com/vrew-files.voyagerx.com/latest-mac.yml'

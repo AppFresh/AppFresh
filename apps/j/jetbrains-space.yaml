@@ -9,3 +9,4 @@ sources:
     cask: jetbrains-space
 
   - type: electron
+    url: 'https://download-cdn.jetbrains.com/space/latest-mac.yml'

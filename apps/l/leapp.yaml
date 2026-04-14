@@ -9,3 +9,4 @@ sources:
     cask: leapp
 
   - type: electron
+    url: 'https://asset.noovolari.com/latest/latest-mac.yml'

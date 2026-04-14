@@ -5,7 +5,7 @@ desc: A test application
 homepage: 'https://www.test.org'
 bundle_id: com.test.app
 
-deprecated: true
+deprecated: True
 deprecated_note: Just a test app
 
 sources:
@@ -43,8 +43,8 @@ sources:
   - type: page_match
     url: 'https://sourceforge.net/projects/xampp/rss?path=/XAMPP%20Mac%20OS%20X'
     regex: '<link>(https:.+?xampp-osx-(\d+\.\d+\.\d+\.\d+)-\d+-installer\.dmg/download)<\/link>'
-    version: '{match[2]}'
-    download: '{match[1]}'
+    version: '{match[1]}'
+    download: '{match[2]}'
 
   - type: page_match
     url: 'https://raw.githubusercontent.com/hoakleyelc/updates/master/eclecticapps.plist'

@@ -9,3 +9,4 @@ sources:
     cask: label-live
 
   - type: electron
+    url: 'https://s3.amazonaws.com/labellive.semireg.com/latest-mac.yml'

@@ -9,3 +9,4 @@ sources:
     cask: typeless
 
   - type: electron
+    url: 'https://typeless-static.com/desktop-release/arm64-mac.yml'

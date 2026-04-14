@@ -9,3 +9,4 @@ sources:
     cask: tradingview
 
   - type: electron
+    url: 'https://tvd-packages.tradingview.com/stable/latest/darwin/stable-mac.yml'

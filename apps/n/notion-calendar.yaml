@@ -9,3 +9,4 @@ sources:
     cask: notion-calendar
 
   - type: electron
+    url: 'https://calendar-desktop-release.notion-static.com/latest-mac.yml'

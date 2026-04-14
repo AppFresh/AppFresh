@@ -1,9 +1,9 @@
-app_token: "aqua-voice"
-name: "Aqua Voice"
-desc: "Speech-to-text system"
-homepage: "https://withaqua.com/"
-bundle_id: "com.electron.aqua-voice"
+app_token: aqua-voice
+name: Aqua Voice
+desc: Speech-to-text system
+homepage: 'https://withaqua.com/'
+bundle_id: com.electron.aqua-voice
 
 sources:
   - type: homebrew
-    cask: "aqua-voice"
+    cask: aqua-voice

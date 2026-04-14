@@ -1,12 +1,12 @@
-app_token: "contour"
-name: "Contour"
-desc: "Terminal emulator"
-homepage: "https://github.com/contour-terminal/contour/"
-bundle_id: "org.contourterminal.Contour"
+app_token: contour
+name: Contour
+desc: Terminal emulator
+homepage: 'https://github.com/contour-terminal/contour/'
+bundle_id: org.contourterminal.Contour
 
 sources:
   - type: homebrew
-    cask: "contour"
+    cask: contour
 
   - type: github
-    repo: "contour-terminal/contour"
+    repo: contour-terminal/contour

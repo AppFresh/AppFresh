@@ -1,15 +1,15 @@
-app_token: "youtype"
-name: "YouType"
-desc: "Input method helper"
-homepage: "https://github.com/freefelt/YouType"
-bundle_id: "com.AVKorotkov.YouType"
+app_token: youtype
+name: YouType
+desc: Input method helper
+homepage: 'https://github.com/freefelt/YouType'
+bundle_id: com.AVKorotkov.YouType
 
 sources:
   - type: homebrew
-    cask: "youtype"
+    cask: youtype
 
   - type: github
-    repo: "freefelt/YouType"
+    repo: freefelt/YouType
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/freefelt/YouType/main/appcast.xml"
+    url: 'https://raw.githubusercontent.com/freefelt/YouType/main/appcast.xml'

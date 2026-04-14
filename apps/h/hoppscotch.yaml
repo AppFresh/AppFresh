@@ -1,13 +1,13 @@
-app_token: "hoppscotch"
-name: "Hoppscotch"
-desc: "Open source API development ecosystem"
-homepage: "https://hoppscotch.com/"
-bundle_id: "io.hoppscotch.desktop"
+app_token: hoppscotch
+name: Hoppscotch
+desc: Open source API development ecosystem
+homepage: 'https://hoppscotch.com/'
+bundle_id: io.hoppscotch.desktop
 
 sources:
   - type: homebrew
-    cask: "hoppscotch"
+    cask: hoppscotch
 
   - type: github
-    repo: "hoppscotch/releases"
-    regex: "Hoppscotch_mac_aarch64.dmg"
+    repo: hoppscotch/releases
+    regex: 'Hoppscotch_mac_aarch64.dmg'

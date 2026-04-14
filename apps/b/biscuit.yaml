@@ -1,12 +1,12 @@
-app_token: "biscuit"
-name: "Biscuit"
-desc: "Browser to organise apps"
-homepage: "https://eatbiscuit.com/"
-bundle_id: "com.eatbiscult.biscult"
+app_token: biscuit
+name: Biscuit
+desc: Browser to organise apps
+homepage: 'https://eatbiscuit.com/'
+bundle_id: com.eatbiscult.biscult
 
 sources:
   - type: homebrew
-    cask: "biscuit"
+    cask: biscuit
 
   - type: github
-    repo: "agata/dl.biscuit"
+    repo: agata/dl.biscuit

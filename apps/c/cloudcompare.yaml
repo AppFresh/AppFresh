@@ -1,8 +1,8 @@
-app_token: "cloudcompare"
-name: "CloudCompare"
-desc: "3D point cloud and mesh processing software"
-homepage: "https://www.danielgm.net/cc/"
+app_token: cloudcompare
+name: CloudCompare
+desc: 3D point cloud and mesh processing software
+homepage: 'https://www.danielgm.net/cc/'
 
 sources:
   - type: homebrew
-    cask: "cloudcompare"
+    cask: cloudcompare

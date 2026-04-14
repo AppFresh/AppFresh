@@ -1,9 +1,9 @@
-app_token: "awa"
-name: "AWA"
-desc: "Music streaming service"
-homepage: "https://awa.fm/"
-bundle_id: "fm.awa.liverpool"
+app_token: awa
+name: AWA
+desc: Music streaming service
+homepage: 'https://awa.fm/'
+bundle_id: fm.awa.liverpool
 
 sources:
   - type: homebrew
-    cask: "awa"
+    cask: awa

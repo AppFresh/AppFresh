@@ -1,12 +1,12 @@
-app_token: "aya"
-name: "AYA"
-desc: "Android ADB desktop app"
-homepage: "https://aya.liriliri.io/"
-bundle_id: "io.liriliri.aya"
+app_token: aya
+name: AYA
+desc: Android ADB desktop app
+homepage: 'https://aya.liriliri.io/'
+bundle_id: io.liriliri.aya
 
 sources:
   - type: homebrew
-    cask: "aya"
+    cask: aya
 
   - type: github
-    repo: "liriliri/aya"
+    repo: liriliri/aya

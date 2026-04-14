@@ -1,9 +1,9 @@
-app_token: "geneious-prime"
-name: "Geneious Prime"
-desc: "Bioinformatics software platform"
-homepage: "https://www.geneious.com/"
-bundle_id: "com.biomatters.Geneious"
+app_token: geneious-prime
+name: Geneious Prime
+desc: Bioinformatics software platform
+homepage: 'https://www.geneious.com/'
+bundle_id: com.biomatters.Geneious
 
 sources:
   - type: homebrew
-    cask: "geneious-prime"
+    cask: geneious-prime

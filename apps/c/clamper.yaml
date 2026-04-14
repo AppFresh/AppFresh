@@ -1,12 +1,12 @@
-app_token: "clamper"
-name: "Clamper"
-desc: "A macOS utility for customizing menu bar icon spacing"
-bundle_id: "dev.mertcandemir.Clamper"
+app_token: clamper
+name: Clamper
+desc: A macOS utility for customizing menu bar icon spacing
+bundle_id: dev.mertcandemir.Clamper
 
 sources:
   - type: homebrew
-    tap: "validatedev/tap"
-    cask: "clamper"
+    tap: validatedev/tap
+    cask: clamper
 
   - type: github
-    repo: "validatedev/Clamper"
+    repo: validatedev/Clamper

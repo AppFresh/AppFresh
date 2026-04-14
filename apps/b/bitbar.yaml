@@ -1,9 +1,9 @@
-app_token: "bitbar"
-name: "BitBar"
-desc: "Utility to display the output from any script or program in the menu bar"
-homepage: "https://github.com/matryer/bitbar/"
-bundle_id: "com.matryer.BitBar"
+app_token: bitbar
+name: BitBar
+desc: Utility to display the output from any script or program in the menu bar
+homepage: 'https://github.com/matryer/bitbar/'
+bundle_id: com.matryer.BitBar
 
 sources:
   - type: homebrew
-    cask: "bitbar"
+    cask: bitbar

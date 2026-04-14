@@ -1,12 +1,12 @@
-app_token: "thorium"
-name: "Thorium Reader"
-desc: "Epub reader"
-homepage: "https://www.edrlab.org/software/thorium-reader/"
-bundle_id: "io.github.edrlab.thorium"
+app_token: thorium
+name: Thorium Reader
+desc: Epub reader
+homepage: 'https://www.edrlab.org/software/thorium-reader/'
+bundle_id: io.github.edrlab.thorium
 
 sources:
   - type: homebrew
-    cask: "thorium"
+    cask: thorium
 
   - type: github
-    repo: "edrlab/thorium-reader"
+    repo: edrlab/thorium-reader

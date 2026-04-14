@@ -1,9 +1,9 @@
-app_token: "blender-benchmark"
-name: "Blender Open Data Benchmark"
-desc: "3D performance benchmarking tool"
-homepage: "https://opendata.blender.org/"
-bundle_id: "org.blenderfoundation.benchmark.release"
+app_token: blender-benchmark
+name: Blender Open Data Benchmark
+desc: 3D performance benchmarking tool
+homepage: 'https://opendata.blender.org/'
+bundle_id: org.blenderfoundation.benchmark.release
 
 sources:
   - type: homebrew
-    cask: "blender-benchmark"
+    cask: blender-benchmark

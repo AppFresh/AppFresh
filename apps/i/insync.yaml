@@ -1,9 +1,9 @@
-app_token: "insync"
-name: "Insync"
-desc: "Manage your Google Drive and OneDrive files"
-homepage: "https://www.insynchq.com/"
-bundle_id: "com.insynchq.insync"
+app_token: insync
+name: Insync
+desc: Manage your Google Drive and OneDrive files
+homepage: 'https://www.insynchq.com/'
+bundle_id: com.insynchq.insync
 
 sources:
   - type: homebrew
-    cask: "insync"
+    cask: insync

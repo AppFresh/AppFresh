@@ -1,11 +1,11 @@
-app_token: "plaud"
-name: "Plaud"
-desc: "AI note-taking for online meetings, phone calls, and in-person conversations"
-homepage: "https://www.plaud.ai/"
-bundle_id: "ai.plaud.desktop.plaud"
+app_token: plaud
+name: Plaud
+desc: AI note-taking for online meetings, phone calls, and in-person conversations
+homepage: 'https://www.plaud.ai/'
+bundle_id: ai.plaud.desktop.plaud
 
 sources:
   - type: homebrew
-    cask: "plaud"
+    cask: plaud
 
   - type: electron

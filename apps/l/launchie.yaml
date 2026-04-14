@@ -1,12 +1,12 @@
-app_token: "launchie"
-name: "Launchie"
-desc: "Launchpad replacement"
-homepage: "https://www.launchie.app/"
-bundle_id: "de.nick-friedrich.Launchie"
+app_token: launchie
+name: Launchie
+desc: Launchpad replacement
+homepage: 'https://www.launchie.app/'
+bundle_id: de.nick-friedrich.Launchie
 
 sources:
   - type: homebrew
-    cask: "launchie"
+    cask: launchie
 
   - type: github
-    repo: "nick-friedrich/launchie-launchpad-replacement-mac-os"
+    repo: nick-friedrich/launchie-launchpad-replacement-mac-os

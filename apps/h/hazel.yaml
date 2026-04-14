@@ -1,9 +1,9 @@
-app_token: "hazel"
-name: "Hazel"
-desc: "Automated organisation"
-homepage: "https://www.noodlesoft.com/"
-bundle_id: "com.noodlesoft.Hazel"
+app_token: hazel
+name: Hazel
+desc: Automated organisation
+homepage: 'https://www.noodlesoft.com/'
+bundle_id: com.noodlesoft.Hazel
 
 sources:
   - type: homebrew
-    cask: "hazel"
+    cask: hazel

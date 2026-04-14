@@ -1,8 +1,8 @@
-app_token: "figma@beta"
-name: "Figma Beta"
-desc: "Collaborative team software"
-homepage: "https://www.figma.com/"
+app_token: figma@beta
+name: Figma Beta
+desc: Collaborative team software
+homepage: 'https://www.figma.com/'
 
 sources:
   - type: homebrew
-    cask: "figma@beta"
+    cask: figma@beta

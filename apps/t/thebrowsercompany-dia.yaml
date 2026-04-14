@@ -1,12 +1,12 @@
-app_token: "thebrowsercompany-dia"
-name: "Dia"
-desc: "A new AI browser from the makers of Arc"
-homepage: "https://www.diabrowser.com/"
-bundle_id: "company.thebrowser.dia"
+app_token: thebrowsercompany-dia
+name: Dia
+desc: A new AI browser from the makers of Arc
+homepage: 'https://www.diabrowser.com/'
+bundle_id: company.thebrowser.dia
 
 sources:
   - type: homebrew
-    cask: "thebrowsercompany-dia"
+    cask: thebrowsercompany-dia
 
   - type: sparkle
-    url: "https://releases.diabrowser.com/BoostBrowser-updates.xml"
+    url: 'https://releases.diabrowser.com/BoostBrowser-updates.xml'

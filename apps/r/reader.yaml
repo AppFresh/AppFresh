@@ -1,12 +1,12 @@
-app_token: "reader"
-name: "Readwise Reader"
-desc: "Save articles to read, highlight key content, and organise notes for review"
-homepage: "https://readwise.io/read/"
-bundle_id: "io.readwise.read"
+app_token: reader
+name: Readwise Reader
+desc: Save articles to read, highlight key content, and organise notes for review
+homepage: 'https://readwise.io/read/'
+bundle_id: io.readwise.read
 
 sources:
   - type: homebrew
-    cask: "reader"
+    cask: reader
 
   - type: github
-    repo: "readwiseio/reader-desktop-releases"
+    repo: readwiseio/reader-desktop-releases

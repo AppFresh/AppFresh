@@ -1,12 +1,12 @@
-app_token: "wowup"
-name: "WowUp"
-desc: "World of Warcraft addon manager"
-homepage: "https://wowup.io/"
-bundle_id: "io.wowup.jliddev"
+app_token: wowup
+name: WowUp
+desc: World of Warcraft addon manager
+homepage: 'https://wowup.io/'
+bundle_id: io.wowup.jliddev
 
 sources:
   - type: homebrew
-    cask: "wowup"
+    cask: wowup
 
   - type: github
-    repo: "WowUp/WowUp"
+    repo: WowUp/WowUp

@@ -1,12 +1,12 @@
-app_token: "hyperwhisper"
-name: "HyperWhisper"
-desc: "AI-powered speech-to-text transcription"
-homepage: "https://hyperwhisper.com/"
-bundle_id: "com.hyperwhisper.hyperwhisper"
+app_token: hyperwhisper
+name: HyperWhisper
+desc: AI-powered speech-to-text transcription
+homepage: 'https://hyperwhisper.com/'
+bundle_id: com.hyperwhisper.hyperwhisper
 
 sources:
   - type: homebrew
-    cask: "hyperwhisper"
+    cask: hyperwhisper
 
   - type: sparkle
-    url: "https://hyperwhisper.com/appcast.xml"
+    url: 'https://hyperwhisper.com/appcast.xml'

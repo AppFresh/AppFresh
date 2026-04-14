@@ -1,9 +1,9 @@
-app_token: "yoink"
-name: "Yoink"
-desc: "Drag and drop utility"
-homepage: "https://eternalstorms.at/yoink/mac/"
-bundle_id: "at.EternalStorms.Yoink-demo"
+app_token: yoink
+name: Yoink
+desc: Drag and drop utility
+homepage: 'https://eternalstorms.at/yoink/mac/'
+bundle_id: at.EternalStorms.Yoink-demo
 
 sources:
   - type: homebrew
-    cask: "yoink"
+    cask: yoink

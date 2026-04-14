@@ -1,12 +1,12 @@
-app_token: "a-better-finder-attributes"
-name: "A Better Finder Attributes"
-desc: "File and photo tweaking tool"
-homepage: "https://www.publicspace.net/ABetterFinderAttributes/"
-bundle_id: "net.publicspace.abfa7"
+app_token: a-better-finder-attributes
+name: A Better Finder Attributes
+desc: File and photo tweaking tool
+homepage: 'https://www.publicspace.net/ABetterFinderAttributes/'
+bundle_id: net.publicspace.abfa7
 
 sources:
   - type: homebrew
-    cask: "a-better-finder-attributes"
+    cask: a-better-finder-attributes
 
   - type: sparkle
-    url: "https://www.publicspace.net/app/signed_abfa7.xml"
+    url: 'https://www.publicspace.net/app/signed_abfa7.xml'

@@ -1,12 +1,12 @@
-app_token: "bandage"
-name: "Bandage"
-desc: "Bioinformatics app for navigating de novo assembly graphs"
-homepage: "https://rrwick.github.io/Bandage/"
-bundle_id: "com.rrwick.Bandage"
+app_token: bandage
+name: Bandage
+desc: Bioinformatics app for navigating de novo assembly graphs
+homepage: 'https://rrwick.github.io/Bandage/'
+bundle_id: com.rrwick.Bandage
 
 sources:
   - type: homebrew
-    cask: "bandage"
+    cask: bandage
 
   - type: github
-    repo: "rrwick/Bandage"
+    repo: rrwick/Bandage

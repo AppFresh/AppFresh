@@ -1,18 +1,18 @@
-app_token: "netnewswire"
-name: "NetNewsWire"
-desc: "Free and open-source RSS reader"
-homepage: "https://netnewswire.com/"
-bundle_id: "com.ranchero.NetNewsWire-Evergreen"
+app_token: netnewswire
+name: NetNewsWire
+desc: Free and open-source RSS reader
+homepage: 'https://netnewswire.com/'
+bundle_id: com.ranchero.NetNewsWire-Evergreen
 
 sources:
   - type: homebrew
-    cask: "netnewswire"
+    cask: netnewswire
 
   - type: github
-    repo: "Ranchero-Software/NetNewsWire"
+    repo: Ranchero-Software/NetNewsWire
 
   - type: sparkle
-    url: "https://ranchero.com/downloads/netnewswire-release.xml"
+    url: 'https://ranchero.com/downloads/netnewswire-release.xml'
 
   - type: homebrew
-    cask: "netnewswire@beta"
+    cask: netnewswire@beta

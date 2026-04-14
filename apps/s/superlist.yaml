@@ -1,12 +1,12 @@
-app_token: "superlist"
-name: "Superlist"
-desc: "Collaborative to-do list app"
-homepage: "https://www.superlist.com/"
-bundle_id: "com.superlist.superlist"
+app_token: superlist
+name: Superlist
+desc: Collaborative to-do list app
+homepage: 'https://www.superlist.com/'
+bundle_id: com.superlist.superlist
 
 sources:
   - type: homebrew
-    cask: "superlist"
+    cask: superlist
 
   - type: sparkle
-    url: "https://storage.googleapis.com/superlist-appcast/beta/updates/appcast.xml"
+    url: 'https://storage.googleapis.com/superlist-appcast/beta/updates/appcast.xml'

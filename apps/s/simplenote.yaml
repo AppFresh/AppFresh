@@ -1,12 +1,12 @@
-app_token: "simplenote"
-name: "Simplenote"
-desc: "React client for Simplenote"
-homepage: "https://github.com/Automattic/simplenote-electron"
-bundle_id: "com.automattic.simplenote"
+app_token: simplenote
+name: Simplenote
+desc: React client for Simplenote
+homepage: 'https://github.com/Automattic/simplenote-electron'
+bundle_id: com.automattic.simplenote
 
 sources:
   - type: homebrew
-    cask: "simplenote"
+    cask: simplenote
 
   - type: github
-    repo: "Automattic/simplenote-electron"
+    repo: Automattic/simplenote-electron

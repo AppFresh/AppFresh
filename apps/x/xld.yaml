@@ -1,12 +1,12 @@
-app_token: "xld"
-name: "X Lossless Decoder"
-desc: "Lossless audio decoder"
-homepage: "https://tmkk.undo.jp/xld/index_e.html"
-bundle_id: "jp.tmkk.XLD"
+app_token: xld
+name: X Lossless Decoder
+desc: Lossless audio decoder
+homepage: 'https://tmkk.undo.jp/xld/index_e.html'
+bundle_id: jp.tmkk.XLD
 
 sources:
   - type: homebrew
-    cask: "xld"
+    cask: xld
 
   - type: sparkle
-    url: "https://svn.code.sf.net/p/xld/code/appcast/xld-appcast_e.xml"
+    url: 'https://svn.code.sf.net/p/xld/code/appcast/xld-appcast_e.xml'

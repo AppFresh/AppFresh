@@ -1,9 +1,9 @@
-app_token: "thingsmacsandboxhelper"
-name: "Things Helper"
-desc: "Helper application for Things"
-homepage: "https://culturedcode.com/things/help/things-sandboxing-helper-things3/"
-bundle_id: "com.culturedcode.ThingsMacSandboxHelper"
+app_token: thingsmacsandboxhelper
+name: Things Helper
+desc: Helper application for Things
+homepage: 'https://culturedcode.com/things/help/things-sandboxing-helper-things3/'
+bundle_id: com.culturedcode.ThingsMacSandboxHelper
 
 sources:
   - type: homebrew
-    cask: "thingsmacsandboxhelper"
+    cask: thingsmacsandboxhelper

@@ -1,12 +1,12 @@
-app_token: "lastpass"
-name: "LastPass"
-desc: "Password manager"
-homepage: "https://www.lastpass.com/"
-bundle_id: "com.lastpass.lastpassmacdesktop"
+app_token: lastpass
+name: LastPass
+desc: Password manager
+homepage: 'https://www.lastpass.com/'
+bundle_id: com.lastpass.lastpassmacdesktop
 
 sources:
   - type: homebrew
-    cask: "lastpass"
+    cask: lastpass
 
   - type: sparkle
-    url: "https://download.cloud.lastpass.com/mac/AppCast.xml"
+    url: 'https://download.cloud.lastpass.com/mac/AppCast.xml'

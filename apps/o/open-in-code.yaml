@@ -1,12 +1,12 @@
-app_token: "open-in-code"
-name: "OpenInCode"
-desc: "Finder toolbar app to open current folder in Visual Studio Code"
-homepage: "https://github.com/sozercan/OpenInCode"
-bundle_id: "com.sertacozercan.openincode"
+app_token: open-in-code
+name: OpenInCode
+desc: Finder toolbar app to open current folder in Visual Studio Code
+homepage: 'https://github.com/sozercan/OpenInCode'
+bundle_id: com.sertacozercan.openincode
 
 sources:
   - type: homebrew
-    cask: "open-in-code"
+    cask: open-in-code
 
   - type: github
-    repo: "sozercan/OpenInCode"
+    repo: sozercan/OpenInCode

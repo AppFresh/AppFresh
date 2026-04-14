@@ -1,11 +1,11 @@
-app_token: "granola"
-name: "Granola"
-desc: "AI-powered notepad for meetings"
-homepage: "https://www.granola.ai/"
-bundle_id: "com.granola.app"
+app_token: granola
+name: Granola
+desc: AI-powered notepad for meetings
+homepage: 'https://www.granola.ai/'
+bundle_id: com.granola.app
 
 sources:
   - type: homebrew
-    cask: "granola"
+    cask: granola
 
   - type: electron

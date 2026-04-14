@@ -1,12 +1,12 @@
-app_token: "gnucash"
-name: "GnuCash"
-desc: "Double-entry accounting program"
-homepage: "https://www.gnucash.org/"
-bundle_id: "org.gnucash.Gnucash"
+app_token: gnucash
+name: GnuCash
+desc: Double-entry accounting program
+homepage: 'https://www.gnucash.org/'
+bundle_id: org.gnucash.Gnucash
 
 sources:
   - type: homebrew
-    cask: "gnucash"
+    cask: gnucash
 
   - type: github
-    repo: "Gnucash/gnucash"
+    repo: Gnucash/gnucash

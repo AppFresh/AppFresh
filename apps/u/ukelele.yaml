@@ -1,12 +1,12 @@
-app_token: "ukelele"
-name: "Ukelele"
-desc: "Unicode keyboard layout editor"
-homepage: "https://software.sil.org/ukelele/"
-bundle_id: "org.sil.ukelele"
+app_token: ukelele
+name: Ukelele
+desc: Unicode keyboard layout editor
+homepage: 'https://software.sil.org/ukelele/'
+bundle_id: org.sil.ukelele
 
 sources:
   - type: homebrew
-    cask: "ukelele"
+    cask: ukelele
 
   - type: sparkle
-    url: "https://software.sil.org/downloads/r/ukelele/Ukelele_appcast.xml"
+    url: 'https://software.sil.org/downloads/r/ukelele/Ukelele_appcast.xml'

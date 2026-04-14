@@ -1,12 +1,12 @@
-app_token: "moonlight"
-name: "Moonlight"
-desc: "GameStream client"
-homepage: "https://moonlight-stream.org/"
-bundle_id: "com.moonlight-stream.Moonlight"
+app_token: moonlight
+name: Moonlight
+desc: GameStream client
+homepage: 'https://moonlight-stream.org/'
+bundle_id: com.moonlight-stream.Moonlight
 
 sources:
   - type: homebrew
-    cask: "moonlight"
+    cask: moonlight
 
   - type: github
-    repo: "moonlight-stream/moonlight-qt"
+    repo: moonlight-stream/moonlight-qt

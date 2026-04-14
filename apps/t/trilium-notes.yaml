@@ -1,12 +1,12 @@
-app_token: "trilium-notes"
-name: "TriliumNext Notes"
-desc: "Hierarchical note taking application"
-homepage: "https://triliumnext.github.io/Docs/"
-bundle_id: "com.electron.trilium-notes"
+app_token: trilium-notes
+name: TriliumNext Notes
+desc: Hierarchical note taking application
+homepage: 'https://triliumnext.github.io/Docs/'
+bundle_id: com.electron.trilium-notes
 
 sources:
   - type: homebrew
-    cask: "trilium-notes"
+    cask: trilium-notes
 
   - type: github
-    repo: "TriliumNext/Trilium"
+    repo: TriliumNext/Trilium

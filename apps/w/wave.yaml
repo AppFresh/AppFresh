@@ -1,11 +1,11 @@
-app_token: "wave"
-name: "Wave Terminal"
-desc: "Terminal emulator"
-homepage: "https://www.waveterm.dev/"
-bundle_id: "dev.commandline.waveterm"
+app_token: wave
+name: Wave Terminal
+desc: Terminal emulator
+homepage: 'https://www.waveterm.dev/'
+bundle_id: dev.commandline.waveterm
 
 sources:
   - type: homebrew
-    cask: "wave"
+    cask: wave
 
   - type: electron

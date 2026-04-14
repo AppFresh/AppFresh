@@ -1,9 +1,9 @@
-app_token: "binary-ninja-free"
-name: "Binary Ninja"
-desc: "Reverse engineering platform"
-homepage: "https://binary.ninja/"
-bundle_id: "com.vector35.binaryninja"
+app_token: binary-ninja-free
+name: Binary Ninja
+desc: Reverse engineering platform
+homepage: 'https://binary.ninja/'
+bundle_id: com.vector35.binaryninja
 
 sources:
   - type: homebrew
-    cask: "binary-ninja-free"
+    cask: binary-ninja-free

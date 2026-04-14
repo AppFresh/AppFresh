@@ -1,12 +1,12 @@
-app_token: "openrct2"
-name: "OpenRCT2"
-desc: "An open source re-implementation of RollerCoaster Tycoon 2"
-homepage: "https://openrct2.io/"
-bundle_id: "io.openrct2.OpenRCT2"
+app_token: openrct2
+name: OpenRCT2
+desc: An open source re-implementation of RollerCoaster Tycoon 2
+homepage: 'https://openrct2.io/'
+bundle_id: io.openrct2.OpenRCT2
 
 sources:
   - type: homebrew
-    cask: "openrct2"
+    cask: openrct2
 
   - type: github
-    repo: "OpenRCT2/OpenRCT2"
+    repo: OpenRCT2/OpenRCT2

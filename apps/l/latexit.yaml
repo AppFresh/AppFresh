@@ -1,12 +1,12 @@
-app_token: "latexit"
-name: "LaTeXiT"
-desc: "Graphical interface for LaTeX"
-homepage: "https://www.chachatelier.fr/latexit/"
-bundle_id: "fr.chachatelier.pierre.LaTeXiT"
+app_token: latexit
+name: LaTeXiT
+desc: Graphical interface for LaTeX
+homepage: 'https://www.chachatelier.fr/latexit/'
+bundle_id: fr.chachatelier.pierre.LaTeXiT
 
 sources:
   - type: homebrew
-    cask: "latexit"
+    cask: latexit
 
   - type: sparkle
-    url: "https://pierre.chachatelier.fr/latexit/downloads/latexit-sparkle-en.rss"
+    url: 'https://pierre.chachatelier.fr/latexit/downloads/latexit-sparkle-en.rss'

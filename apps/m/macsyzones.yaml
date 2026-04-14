@@ -1,12 +1,12 @@
-app_token: "macsyzones"
-name: "MacsyZones"
-desc: "Window management utility"
-homepage: "https://macsyzones.com/"
-bundle_id: "MeowingCat.MacsyZones"
+app_token: macsyzones
+name: MacsyZones
+desc: Window management utility
+homepage: 'https://macsyzones.com/'
+bundle_id: MeowingCat.MacsyZones
 
 sources:
   - type: homebrew
-    cask: "macsyzones"
+    cask: macsyzones
 
   - type: github
-    repo: "rohanrhu/MacsyZones"
+    repo: rohanrhu/MacsyZones

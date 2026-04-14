@@ -1,12 +1,12 @@
-app_token: "void"
-name: "Void"
-desc: "AI code editor"
-homepage: "https://voideditor.com/"
-bundle_id: "com.void"
+app_token: void
+name: Void
+desc: AI code editor
+homepage: 'https://voideditor.com/'
+bundle_id: com.void
 
 sources:
   - type: homebrew
-    cask: "void"
+    cask: void
 
   - type: github
-    repo: "voideditor/binaries"
+    repo: voideditor/binaries

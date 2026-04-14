@@ -1,12 +1,12 @@
-app_token: "platypus"
-name: "Platypus"
-desc: "Tool to create native applications from command-line scripts"
-homepage: "https://sveinbjorn.org/platypus"
-bundle_id: "org.sveinbjorn.Platypus"
+app_token: platypus
+name: Platypus
+desc: Tool to create native applications from command-line scripts
+homepage: 'https://sveinbjorn.org/platypus'
+bundle_id: org.sveinbjorn.Platypus
 
 sources:
   - type: homebrew
-    cask: "platypus"
+    cask: platypus
 
   - type: sparkle
-    url: "https://sveinbjorn.org/files/appcasts/PlatypusAppcast.xml"
+    url: 'https://sveinbjorn.org/files/appcasts/PlatypusAppcast.xml'

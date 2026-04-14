@@ -1,12 +1,12 @@
-app_token: "flyenv"
-name: "FlyEnv"
-desc: "PHP and Web development environment manager"
-homepage: "https://www.macphpstudy.com/"
-bundle_id: "phpstudy.xpfme.com"
+app_token: flyenv
+name: FlyEnv
+desc: PHP and Web development environment manager
+homepage: 'https://www.macphpstudy.com/'
+bundle_id: phpstudy.xpfme.com
 
 sources:
   - type: homebrew
-    cask: "flyenv"
+    cask: flyenv
 
   - type: github
-    repo: "xpf0000/FlyEnv"
+    repo: xpf0000/FlyEnv

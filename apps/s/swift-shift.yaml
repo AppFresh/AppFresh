@@ -1,15 +1,15 @@
-app_token: "swift-shift"
-name: "Swift Shift"
-desc: "Window manager"
-homepage: "https://www.swiftshift.app/"
-bundle_id: "com.pablopunk.Swift-Shift"
+app_token: swift-shift
+name: Swift Shift
+desc: Window manager
+homepage: 'https://www.swiftshift.app/'
+bundle_id: com.pablopunk.Swift-Shift
 
 sources:
   - type: homebrew
-    cask: "swift-shift"
+    cask: swift-shift
 
   - type: github
-    repo: "pablopunk/SwiftShift"
+    repo: pablopunk/SwiftShift
 
   - type: sparkle
-    url: "https://pablopunk.github.io/SwiftShift/appcast.xml"
+    url: 'https://pablopunk.github.io/SwiftShift/appcast.xml'

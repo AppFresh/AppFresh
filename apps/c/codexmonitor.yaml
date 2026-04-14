@@ -1,12 +1,12 @@
-app_token: "codexmonitor"
-name: "CodexMonitor"
-desc: "Monitor Codex activity"
-homepage: "https://www.codexmonitor.app/"
-bundle_id: "com.dimillian.codexmonitor"
+app_token: codexmonitor
+name: CodexMonitor
+desc: Monitor Codex activity
+homepage: 'https://www.codexmonitor.app/'
+bundle_id: com.dimillian.codexmonitor
 
 sources:
   - type: homebrew
-    cask: "codexmonitor"
+    cask: codexmonitor
 
   - type: github
-    repo: "Dimillian/CodexMonitor"
+    repo: Dimillian/CodexMonitor

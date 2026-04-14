@@ -1,12 +1,12 @@
-app_token: "gittyup"
-name: "gittyup"
-desc: "Graphical Git client"
-homepage: "https://murmele.github.io/Gittyup/"
-bundle_id: "com.github.Murmele.Gittyup"
+app_token: gittyup
+name: gittyup
+desc: Graphical Git client
+homepage: 'https://murmele.github.io/Gittyup/'
+bundle_id: com.github.Murmele.Gittyup
 
 sources:
   - type: homebrew
-    cask: "gittyup"
+    cask: gittyup
 
   - type: github
-    repo: "Murmele/Gittyup"
+    repo: Murmele/Gittyup

@@ -1,11 +1,11 @@
-app_token: "meta-quest-developer-hub"
-name: "meta-quest-developer-hub"
-desc: "VR development tool"
-homepage: "https://developer.oculus.com/meta-quest-developer-hub/"
-bundle_id: "com.oculus.odh"
+app_token: meta-quest-developer-hub
+name: meta-quest-developer-hub
+desc: VR development tool
+homepage: 'https://developer.oculus.com/meta-quest-developer-hub/'
+bundle_id: com.oculus.odh
 
 sources:
   - type: homebrew
-    cask: "meta-quest-developer-hub"
+    cask: meta-quest-developer-hub
 
   - type: electron

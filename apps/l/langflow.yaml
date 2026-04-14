@@ -1,12 +1,12 @@
-app_token: "langflow"
-name: "Langflow Desktop"
-desc: "Low-code AI-workflow building tool"
-homepage: "https://www.langflow.org/desktop"
-bundle_id: "com.LangflowDesktop"
+app_token: langflow
+name: Langflow Desktop
+desc: Low-code AI-workflow building tool
+homepage: 'https://www.langflow.org/desktop'
+bundle_id: com.LangflowDesktop
 
 sources:
   - type: homebrew
-    cask: "langflow"
+    cask: langflow
 
   - type: github
-    repo: "langflow-ai/langflow"
+    repo: langflow-ai/langflow

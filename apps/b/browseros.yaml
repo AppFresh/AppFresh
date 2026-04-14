@@ -1,12 +1,12 @@
-app_token: "browseros"
-name: "BrowserOS"
-desc: "Open-source agentic browser"
-homepage: "https://www.browseros.com/"
-bundle_id: "com.browseros.BrowserOS"
+app_token: browseros
+name: BrowserOS
+desc: Open-source agentic browser
+homepage: 'https://www.browseros.com/'
+bundle_id: com.browseros.BrowserOS
 
 sources:
   - type: homebrew
-    cask: "browseros"
+    cask: browseros
 
   - type: github
-    repo: "browseros-ai/BrowserOS"
+    repo: browseros-ai/BrowserOS

@@ -1,12 +1,12 @@
-app_token: "farrago"
-name: "Farrago"
-desc: "Audio playback"
-homepage: "https://rogueamoeba.com/farrago/"
-bundle_id: "com.rogueamoeba.farrago"
+app_token: farrago
+name: Farrago
+desc: Audio playback
+homepage: 'https://rogueamoeba.com/farrago/'
+bundle_id: com.rogueamoeba.farrago
 
 sources:
   - type: homebrew
-    cask: "farrago"
+    cask: farrago
 
   - type: sparkle
-    url: "https://rogueamoeba.net/ping/versionCheck.cgi?format=sparkle&system=999&bundleid=com.rogueamoeba.farrago&platform=osx&version=2148000"
+    url: 'https://rogueamoeba.net/ping/versionCheck.cgi?format=sparkle&system=999&bundleid=com.rogueamoeba.farrago&platform=osx&version=2148000'

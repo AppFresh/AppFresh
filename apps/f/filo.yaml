@@ -1,12 +1,12 @@
-app_token: "filo"
-name: "Filo Mail"
-desc: "An AI-powered email client designed for Gmail"
-homepage: "https://www.filomail.com/"
-bundle_id: "com.filo.client"
+app_token: filo
+name: Filo Mail
+desc: An AI-powered email client designed for Gmail
+homepage: 'https://www.filomail.com/'
+bundle_id: com.filo.client
 
 sources:
   - type: homebrew
-    cask: "filo"
+    cask: filo
 
   - type: appstore
-    app_id: "6740307388"
+    app_id: '6740307388'

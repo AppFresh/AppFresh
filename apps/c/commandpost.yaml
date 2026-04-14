@@ -1,12 +1,12 @@
-app_token: "commandpost"
-name: "CommandPost"
-desc: "Workflow enhancements for Final Cut Pro"
-homepage: "https://commandpost.io/"
-bundle_id: "org.latenitefilms.CommandPost"
+app_token: commandpost
+name: CommandPost
+desc: Workflow enhancements for Final Cut Pro
+homepage: 'https://commandpost.io/'
+bundle_id: org.latenitefilms.CommandPost
 
 sources:
   - type: homebrew
-    cask: "commandpost"
+    cask: commandpost
 
   - type: github
-    repo: "CommandPost/CommandPost"
+    repo: CommandPost/CommandPost

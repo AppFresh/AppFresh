@@ -1,12 +1,12 @@
-app_token: "homerow"
-name: "Homerow"
-desc: "Keyboard shortcuts for every button on your screen"
-homepage: "https://www.homerow.app/"
-bundle_id: "com.superultra.Homerow"
+app_token: homerow
+name: Homerow
+desc: Keyboard shortcuts for every button on your screen
+homepage: 'https://www.homerow.app/'
+bundle_id: com.superultra.Homerow
 
 sources:
   - type: homebrew
-    cask: "homerow"
+    cask: homerow
 
   - type: sparkle
-    url: "https://www.homerow.app/appcast.xml"
+    url: 'https://www.homerow.app/appcast.xml'

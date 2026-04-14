@@ -1,12 +1,12 @@
-app_token: "typeface"
-name: "Typeface"
-desc: "Font manager application"
-homepage: "https://typefaceapp.com/"
-bundle_id: "com.criminalbird.typeface.standalone"
+app_token: typeface
+name: Typeface
+desc: Font manager application
+homepage: 'https://typefaceapp.com/'
+bundle_id: com.criminalbird.typeface.standalone
 
 sources:
   - type: homebrew
-    cask: "typeface"
+    cask: typeface
 
   - type: sparkle
-    url: "https://dcdn.typefaceapp.com/appcast.xml"
+    url: 'https://dcdn.typefaceapp.com/appcast.xml'

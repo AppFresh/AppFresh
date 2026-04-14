@@ -1,12 +1,12 @@
-app_token: "glyphs"
-name: "Glyphs"
-desc: "Font editor"
-homepage: "https://glyphsapp.com/"
-bundle_id: "com.GeorgSeifert.Glyphs3"
+app_token: glyphs
+name: Glyphs
+desc: Font editor
+homepage: 'https://glyphsapp.com/'
+bundle_id: com.GeorgSeifert.Glyphs3
 
 sources:
   - type: homebrew
-    cask: "glyphs"
+    cask: glyphs
 
   - type: sparkle
-    url: "https://updates.glyphsapp.com/appcast3.xml"
+    url: 'https://updates.glyphsapp.com/appcast3.xml'

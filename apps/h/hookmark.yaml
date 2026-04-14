@@ -1,12 +1,12 @@
-app_token: "hookmark"
-name: "Hook"
-desc: "Link and retrieve key information"
-homepage: "https://hookproductivity.com/"
-bundle_id: "com.cogsciapps.hook"
+app_token: hookmark
+name: Hook
+desc: Link and retrieve key information
+homepage: 'https://hookproductivity.com/'
+bundle_id: com.cogsciapps.hook
 
 sources:
   - type: homebrew
-    cask: "hookmark"
+    cask: hookmark
 
   - type: sparkle
-    url: "https://updates.hookproductivity.com/updates/a77a1a87-7d69-435d-90ea-7365b2f7bddb"
+    url: 'https://updates.hookproductivity.com/updates/a77a1a87-7d69-435d-90ea-7365b2f7bddb'

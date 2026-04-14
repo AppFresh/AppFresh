@@ -1,12 +1,12 @@
-app_token: "uhk-agent"
-name: "Ultimate Hacking Keyboard Agent"
-desc: "Configuration application for the Ultimate Hacking Keyboard"
-homepage: "https://github.com/UltimateHackingKeyboard/agent"
-bundle_id: "com.ultimategadgetlabs.agent"
+app_token: uhk-agent
+name: Ultimate Hacking Keyboard Agent
+desc: Configuration application for the Ultimate Hacking Keyboard
+homepage: 'https://github.com/UltimateHackingKeyboard/agent'
+bundle_id: com.ultimategadgetlabs.agent
 
 sources:
   - type: homebrew
-    cask: "uhk-agent"
+    cask: uhk-agent
 
   - type: github
-    repo: "UltimateHackingKeyboard/agent"
+    repo: UltimateHackingKeyboard/agent

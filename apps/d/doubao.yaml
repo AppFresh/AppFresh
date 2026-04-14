@@ -1,10 +1,10 @@
-app_token: "doubao"
-name: "Doubao"
-name_cn: "豆包"
-desc: "AI chat assistant"
-homepage: "https://www.doubao.com/"
-bundle_id: "com.bot.pc.doubao"
+app_token: doubao
+name: Doubao
+name_cn: 豆包
+desc: AI chat assistant
+homepage: 'https://www.doubao.com/'
+bundle_id: com.bot.pc.doubao
 
 sources:
   - type: homebrew
-    cask: "doubao"
+    cask: doubao

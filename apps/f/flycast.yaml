@@ -1,12 +1,12 @@
-app_token: "flycast"
-name: "Flycast"
-desc: "Dreamcast, Naomi and Atomiswave emulator"
-homepage: "https://github.com/flyinghead/flycast"
-bundle_id: "com.flyinghead.Flycast"
+app_token: flycast
+name: Flycast
+desc: Dreamcast, Naomi and Atomiswave emulator
+homepage: 'https://github.com/flyinghead/flycast'
+bundle_id: com.flyinghead.Flycast
 
 sources:
   - type: homebrew
-    cask: "flycast"
+    cask: flycast
 
   - type: github
-    repo: "flyinghead/flycast"
+    repo: flyinghead/flycast

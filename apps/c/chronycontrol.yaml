@@ -1,12 +1,12 @@
-app_token: "chronycontrol"
-name: "ChronyControl"
-desc: "Install and configure chronyd"
-homepage: "https://whatroute.net/chronycontrol.html"
-bundle_id: "net.whatroute.ChronyControl"
+app_token: chronycontrol
+name: ChronyControl
+desc: Install and configure chronyd
+homepage: 'https://whatroute.net/chronycontrol.html'
+bundle_id: net.whatroute.ChronyControl
 
 sources:
   - type: homebrew
-    cask: "chronycontrol"
+    cask: chronycontrol
 
   - type: sparkle
-    url: "https://www.whatroute.net/chronycontrolappcast.xml"
+    url: 'https://www.whatroute.net/chronycontrolappcast.xml'

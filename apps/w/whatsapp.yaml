@@ -1,15 +1,15 @@
-app_token: "whatsapp"
-name: "WhatsApp"
-desc: "Native desktop client for WhatsApp"
-homepage: "https://www.whatsapp.com/"
-bundle_id: "net.whatsapp.WhatsApp"
+app_token: whatsapp
+name: WhatsApp
+desc: Native desktop client for WhatsApp
+homepage: 'https://www.whatsapp.com/'
+bundle_id: net.whatsapp.WhatsApp
 
 sources:
   - type: homebrew
-    cask: "whatsapp"
+    cask: whatsapp
 
   - type: sparkle
-    url: "https://web.whatsapp.com/desktop/mac_native/updates/?branch=master&configuration=Release"
+    url: 'https://web.whatsapp.com/desktop/mac_native/updates/?branch=master&configuration=Release'
 
   - type: homebrew
-    cask: "whatsapp@beta"
+    cask: whatsapp@beta

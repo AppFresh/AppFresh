@@ -1,11 +1,11 @@
-app_token: "lens"
-name: "Lens"
-desc: "Kubernetes IDE"
-homepage: "https://lenshq.io/"
-bundle_id: "com.electron.kontena-lens"
+app_token: lens
+name: Lens
+desc: Kubernetes IDE
+homepage: 'https://lenshq.io/'
+bundle_id: com.electron.kontena-lens
 
 sources:
   - type: homebrew
-    cask: "lens"
+    cask: lens
 
   - type: electron

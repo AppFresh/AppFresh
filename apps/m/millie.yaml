@@ -1,9 +1,9 @@
-app_token: "millie"
-name: "Millie"
-desc: "Korean e-book store"
-homepage: "https://www.millie.co.kr/"
-bundle_id: "kr.co.millie.MillieShelf"
+app_token: millie
+name: Millie
+desc: Korean e-book store
+homepage: 'https://www.millie.co.kr/'
+bundle_id: kr.co.millie.MillieShelf
 
 sources:
   - type: homebrew
-    cask: "millie"
+    cask: millie

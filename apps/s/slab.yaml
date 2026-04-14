@@ -1,12 +1,12 @@
-app_token: "slab"
-name: "Slab"
-desc: "Knowledge management for organisations"
-homepage: "https://slab.com/"
-bundle_id: "com.slab.slab"
+app_token: slab
+name: Slab
+desc: Knowledge management for organisations
+homepage: 'https://slab.com/'
+bundle_id: com.slab.slab
 
 sources:
   - type: homebrew
-    cask: "slab"
+    cask: slab
 
   - type: github
-    repo: "slab/desktop-releases"
+    repo: slab/desktop-releases

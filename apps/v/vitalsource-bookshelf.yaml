@@ -1,9 +1,9 @@
-app_token: "vitalsource-bookshelf"
-name: "VitalSource Bookshelf"
-desc: "Access etextbooks"
-homepage: "https://www.vitalsource.com/bookshelf-features"
-bundle_id: "com.vitalsource.bookshelf"
+app_token: vitalsource-bookshelf
+name: VitalSource Bookshelf
+desc: Access etextbooks
+homepage: 'https://www.vitalsource.com/bookshelf-features'
+bundle_id: com.vitalsource.bookshelf
 
 sources:
   - type: homebrew
-    cask: "vitalsource-bookshelf"
+    cask: vitalsource-bookshelf

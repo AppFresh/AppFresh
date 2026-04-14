@@ -1,12 +1,12 @@
-app_token: "powershell"
-name: "PowerShell"
-desc: "Command-line shell and scripting language"
-homepage: "https://microsoft.com/PowerShell"
-bundle_id: "com.microsoft.powershell"
+app_token: powershell
+name: PowerShell
+desc: Command-line shell and scripting language
+homepage: 'https://microsoft.com/PowerShell'
+bundle_id: com.microsoft.powershell
 
 sources:
   - type: homebrew
-    cask: "powershell"
+    cask: powershell
 
   - type: github
-    repo: "PowerShell/PowerShell"
+    repo: PowerShell/PowerShell

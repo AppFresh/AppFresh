@@ -1,12 +1,12 @@
-app_token: "swinsian"
-name: "Swinsian"
-desc: "Music player"
-homepage: "https://swinsian.com/"
-bundle_id: "com.swinsian.Swinsian"
+app_token: swinsian
+name: Swinsian
+desc: Music player
+homepage: 'https://swinsian.com/'
+bundle_id: com.swinsian.Swinsian
 
 sources:
   - type: homebrew
-    cask: "swinsian"
+    cask: swinsian
 
   - type: sparkle
-    url: "https://www.swinsian.com/sparkle/sparklecast.xml"
+    url: 'https://www.swinsian.com/sparkle/sparklecast.xml'

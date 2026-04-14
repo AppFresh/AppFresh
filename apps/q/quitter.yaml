@@ -1,12 +1,12 @@
-app_token: "quitter"
-name: "Quitter"
-desc: "Automatically hides or quits apps after periods of inactivity"
-homepage: "https://marco.org/apps#quitter"
-bundle_id: "com.marcoarment.quitter"
+app_token: quitter
+name: Quitter
+desc: Automatically hides or quits apps after periods of inactivity
+homepage: 'https://marco.org/apps#quitter'
+bundle_id: com.marcoarment.quitter
 
 sources:
   - type: homebrew
-    cask: "quitter"
+    cask: quitter
 
   - type: sparkle
-    url: "https://marco.org/appcasts/quitter.xml"
+    url: 'https://marco.org/appcasts/quitter.xml'

@@ -1,12 +1,12 @@
-app_token: "fontgoggles"
-name: "FontGoggles"
-desc: "Font viewer for various font formats"
-homepage: "https://fontgoggles.org/"
-bundle_id: "com.github.justvanrossum.FontGoggles"
+app_token: fontgoggles
+name: FontGoggles
+desc: Font viewer for various font formats
+homepage: 'https://fontgoggles.org/'
+bundle_id: com.github.justvanrossum.FontGoggles
 
 sources:
   - type: homebrew
-    cask: "fontgoggles"
+    cask: fontgoggles
 
   - type: github
-    repo: "justvanrossum/fontgoggles"
+    repo: justvanrossum/fontgoggles

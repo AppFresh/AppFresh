@@ -1,12 +1,12 @@
-app_token: "jasp"
-name: "JASP"
-desc: "Statistical analysis application"
-homepage: "https://jasp-stats.org/"
-bundle_id: "org.jaspstats.jasp"
+app_token: jasp
+name: JASP
+desc: Statistical analysis application
+homepage: 'https://jasp-stats.org/'
+bundle_id: org.jaspstats.jasp
 
 sources:
   - type: homebrew
-    cask: "jasp"
+    cask: jasp
 
   - type: github
-    repo: "jasp-stats/jasp-desktop"
+    repo: jasp-stats/jasp-desktop

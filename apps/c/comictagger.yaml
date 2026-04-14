@@ -1,12 +1,12 @@
-app_token: "comictagger"
-name: "ComicTagger"
-desc: "Metadata editor for digital comics"
-homepage: "https://github.com/davide-romanini/comictagger"
-bundle_id: "ComicTagger"
+app_token: comictagger
+name: ComicTagger
+desc: Metadata editor for digital comics
+homepage: 'https://github.com/davide-romanini/comictagger'
+bundle_id: ComicTagger
 
 sources:
   - type: homebrew
-    cask: "comictagger"
+    cask: comictagger
 
   - type: github
-    repo: "davide-romanini/comictagger"
+    repo: davide-romanini/comictagger

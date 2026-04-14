@@ -1,12 +1,12 @@
-app_token: "tunetag"
-name: "TuneTag"
-desc: "ID3 and metadata editor for audio files"
-homepage: "https://tunetag.sweetpproductions.com/"
-bundle_id: "com.sweetpproductions.TuneTag"
+app_token: tunetag
+name: TuneTag
+desc: ID3 and metadata editor for audio files
+homepage: 'https://tunetag.sweetpproductions.com/'
+bundle_id: com.sweetpproductions.TuneTag
 
 sources:
   - type: homebrew
-    cask: "tunetag"
+    cask: tunetag
 
   - type: sparkle
-    url: "https://sweetpproductions.com/products/tunetag/appcast.xml"
+    url: 'https://sweetpproductions.com/products/tunetag/appcast.xml'

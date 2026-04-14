@@ -1,11 +1,11 @@
-app_token: "ridibooks"
-name: "Ridibooks"
-desc: "Ebook reader"
-homepage: "https://ridibooks.com/support/app/download"
-bundle_id: "com.ridi.books"
+app_token: ridibooks
+name: Ridibooks
+desc: Ebook reader
+homepage: 'https://ridibooks.com/support/app/download'
+bundle_id: com.ridi.books
 
 sources:
   - type: homebrew
-    cask: "ridibooks"
+    cask: ridibooks
 
   - type: electron

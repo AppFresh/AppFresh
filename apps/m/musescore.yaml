@@ -1,12 +1,12 @@
-app_token: "musescore"
-name: "MuseScore"
-desc: "Open-source music notation software"
-homepage: "https://musescore.org/"
-bundle_id: "org.musescore.MuseScore"
+app_token: musescore
+name: MuseScore
+desc: Open-source music notation software
+homepage: 'https://musescore.org/'
+bundle_id: org.musescore.MuseScore
 
 sources:
   - type: homebrew
-    cask: "musescore"
+    cask: musescore
 
   - type: github
-    repo: "musescore/MuseScore"
+    repo: musescore/MuseScore

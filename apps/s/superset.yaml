@@ -1,12 +1,12 @@
-app_token: "superset"
-name: "Superset"
-desc: "Terminal for orchestrating agents"
-homepage: "https://superset.sh/"
-bundle_id: "com.superset.desktop"
+app_token: superset
+name: Superset
+desc: Terminal for orchestrating agents
+homepage: 'https://superset.sh/'
+bundle_id: com.superset.desktop
 
 sources:
   - type: homebrew
-    cask: "superset"
+    cask: superset
 
   - type: github
-    repo: "superset-sh/superset"
+    repo: superset-sh/superset

@@ -1,9 +1,9 @@
-app_token: "itermai"
-name: "iTerm2 AI Plugin"
-desc: "Enable generative AI features in iTerm2"
-homepage: "https://iterm2.com/ai-plugin.html"
-bundle_id: "com.googlecode.iterm2.iTermAI"
+app_token: itermai
+name: iTerm2 AI Plugin
+desc: Enable generative AI features in iTerm2
+homepage: 'https://iterm2.com/ai-plugin.html'
+bundle_id: com.googlecode.iterm2.iTermAI
 
 sources:
   - type: homebrew
-    cask: "itermai"
+    cask: itermai

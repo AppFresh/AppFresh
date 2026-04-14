@@ -1,11 +1,11 @@
-app_token: "tuta-mail"
-name: "Tuta Mail"
-desc: "Email client"
-homepage: "https://tuta.com/"
-bundle_id: "de.tutao.tutanota"
+app_token: tuta-mail
+name: Tuta Mail
+desc: Email client
+homepage: 'https://tuta.com/'
+bundle_id: de.tutao.tutanota
 
 sources:
   - type: homebrew
-    cask: "tuta-mail"
+    cask: tuta-mail
 
   - type: electron

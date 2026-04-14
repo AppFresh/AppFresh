@@ -1,12 +1,12 @@
-app_token: "betterdiscord-installer"
-name: "BetterDiscord"
-desc: "Installer for BetterDiscord"
-homepage: "https://betterdiscord.app/"
-bundle_id: "app.betterdiscord.installer"
+app_token: betterdiscord-installer
+name: BetterDiscord
+desc: Installer for BetterDiscord
+homepage: 'https://betterdiscord.app/'
+bundle_id: app.betterdiscord.installer
 
 sources:
   - type: homebrew
-    cask: "betterdiscord-installer"
+    cask: betterdiscord-installer
 
   - type: github
-    repo: "BetterDiscord/Installer"
+    repo: BetterDiscord/Installer

@@ -1,12 +1,12 @@
-app_token: "ios-app-signer"
-name: "iOS App Signer"
-desc: "App for (re)signing iOS apps and bundling them"
-homepage: "https://dantheman827.github.io/ios-app-signer/"
-bundle_id: "com.DanTheMan827.AppSigner"
+app_token: ios-app-signer
+name: iOS App Signer
+desc: App for (re)signing iOS apps and bundling them
+homepage: 'https://dantheman827.github.io/ios-app-signer/'
+bundle_id: com.DanTheMan827.AppSigner
 
 sources:
   - type: homebrew
-    cask: "ios-app-signer"
+    cask: ios-app-signer
 
   - type: github
-    repo: "DanTheMan827/ios-app-signer"
+    repo: DanTheMan827/ios-app-signer

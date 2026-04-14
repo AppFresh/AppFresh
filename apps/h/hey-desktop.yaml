@@ -1,11 +1,11 @@
-app_token: "hey-desktop"
-name: "HEY"
-desc: "Access the HEY email service"
-homepage: "https://hey.com/"
-bundle_id: "com.hey.app.desktop"
+app_token: hey-desktop
+name: HEY
+desc: Access the HEY email service
+homepage: 'https://hey.com/'
+bundle_id: com.hey.app.desktop
 
 sources:
   - type: homebrew
-    cask: "hey-desktop"
+    cask: hey-desktop
 
   - type: electron

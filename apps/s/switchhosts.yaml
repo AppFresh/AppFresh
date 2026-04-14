@@ -1,12 +1,12 @@
-app_token: "switchhosts"
-name: "SwitchHosts"
-desc: "App to switch hosts"
-homepage: "https://switchhosts.vercel.app/"
-bundle_id: "SwitchHosts.helper.Plugin"
+app_token: switchhosts
+name: SwitchHosts
+desc: App to switch hosts
+homepage: 'https://switchhosts.vercel.app/'
+bundle_id: SwitchHosts.helper.Plugin
 
 sources:
   - type: homebrew
-    cask: "switchhosts"
+    cask: switchhosts
 
   - type: github
-    repo: "oldj/SwitchHosts"
+    repo: oldj/SwitchHosts

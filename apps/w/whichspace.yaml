@@ -1,15 +1,15 @@
-app_token: "whichspace"
-name: "WhichSpace"
-desc: "Active space menu bar icon"
-homepage: "https://github.com/gechr/WhichSpace"
-bundle_id: "io.gechr.WhichSpace"
+app_token: whichspace
+name: WhichSpace
+desc: Active space menu bar icon
+homepage: 'https://github.com/gechr/WhichSpace'
+bundle_id: io.gechr.WhichSpace
 
 sources:
   - type: homebrew
-    cask: "whichspace"
+    cask: whichspace
 
   - type: github
-    repo: "gechr/WhichSpace"
+    repo: gechr/WhichSpace
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/gechr/WhichSpace/updates/appcast.xml"
+    url: 'https://raw.githubusercontent.com/gechr/WhichSpace/updates/appcast.xml'

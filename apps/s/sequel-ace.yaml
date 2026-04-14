@@ -1,15 +1,15 @@
-app_token: "sequel-ace"
-name: "Sequel Ace"
-desc: "MySQL/MariaDB database management"
-homepage: "https://github.com/Sequel-Ace/Sequel-Ace"
-bundle_id: "com.sequel-ace.sequel-ace"
+app_token: sequel-ace
+name: Sequel Ace
+desc: MySQL/MariaDB database management
+homepage: 'https://github.com/Sequel-Ace/Sequel-Ace'
+bundle_id: com.sequel-ace.sequel-ace
 
 sources:
   - type: homebrew
-    cask: "sequel-ace"
+    cask: sequel-ace
 
   - type: github
-    repo: "Sequel-Ace/Sequel-Ace"
+    repo: Sequel-Ace/Sequel-Ace
 
   - type: appstore
-    app_id: "1518036000"
+    app_id: '1518036000'

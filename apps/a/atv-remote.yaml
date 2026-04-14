@@ -1,12 +1,12 @@
-app_token: "atv-remote"
-name: "ATV Remote"
-desc: "Control Apple TV from your desktop"
-homepage: "https://github.com/bsharper/atv-desktop-remote"
-bundle_id: "com.electron.atvMacRemote"
+app_token: atv-remote
+name: ATV Remote
+desc: Control Apple TV from your desktop
+homepage: 'https://github.com/bsharper/atv-desktop-remote'
+bundle_id: com.electron.atvMacRemote
 
 sources:
   - type: homebrew
-    cask: "atv-remote"
+    cask: atv-remote
 
   - type: github
-    repo: "bsharper/atv-desktop-remote"
+    repo: bsharper/atv-desktop-remote

@@ -1,12 +1,12 @@
-app_token: "zappy"
-name: "Zappy"
-desc: "Screen capture tool for remote teams"
-homepage: "https://zapier.com/zappy"
-bundle_id: "com.blackbeltlabs.Zappy"
+app_token: zappy
+name: Zappy
+desc: Screen capture tool for remote teams
+homepage: 'https://zapier.com/zappy'
+bundle_id: com.blackbeltlabs.Zappy
 
 sources:
   - type: homebrew
-    cask: "zappy"
+    cask: zappy
 
   - type: sparkle
-    url: "https://zappy.zapier.com/releases/appcast.xml"
+    url: 'https://zappy.zapier.com/releases/appcast.xml'

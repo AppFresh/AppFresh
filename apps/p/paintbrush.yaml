@@ -1,12 +1,12 @@
-app_token: "paintbrush"
-name: "Paintbrush"
-desc: "Image editor"
-homepage: "https://paintbrush.sourceforge.io/"
-bundle_id: "com.soggywaffles.paintbrush"
+app_token: paintbrush
+name: Paintbrush
+desc: Image editor
+homepage: 'https://paintbrush.sourceforge.io/'
+bundle_id: com.soggywaffles.paintbrush
 
 sources:
   - type: homebrew
-    cask: "paintbrush"
+    cask: paintbrush
 
   - type: sparkle
-    url: "https://paintbrush.sourceforge.io/updates/paintbrush-release.xml"
+    url: 'https://paintbrush.sourceforge.io/updates/paintbrush-release.xml'

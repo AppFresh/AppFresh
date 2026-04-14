@@ -1,18 +1,18 @@
-app_token: "playcover-community"
-name: "PlayCover"
-desc: "Sideload iOS apps and games"
-homepage: "https://playcover.io/"
-bundle_id: "io.playcover.PlayCover"
+app_token: playcover-community
+name: PlayCover
+desc: Sideload iOS apps and games
+homepage: 'https://playcover.io/'
+bundle_id: io.playcover.PlayCover
 
 sources:
   - type: homebrew
-    cask: "playcover-community"
+    cask: playcover-community
 
   - type: github
-    repo: "PlayCover/PlayCover"
+    repo: PlayCover/PlayCover
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/PlayCover/PlayCover/update/appcast.xml"
+    url: 'https://raw.githubusercontent.com/PlayCover/PlayCover/update/appcast.xml'
 
   - type: homebrew
-    cask: "playcover-community@beta"
+    cask: playcover-community@beta

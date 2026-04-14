@@ -1,12 +1,12 @@
-app_token: "monodraw"
-name: "Monodraw"
-desc: "Tool to create text-based art"
-homepage: "https://monodraw.helftone.com/"
-bundle_id: "com.helftone.monodraw"
+app_token: monodraw
+name: Monodraw
+desc: Tool to create text-based art
+homepage: 'https://monodraw.helftone.com/'
+bundle_id: com.helftone.monodraw
 
 sources:
   - type: homebrew
-    cask: "monodraw"
+    cask: monodraw
 
   - type: sparkle
-    url: "https://updates.helftone.com/monodraw/appcast-beta.xml"
+    url: 'https://updates.helftone.com/monodraw/appcast-beta.xml'

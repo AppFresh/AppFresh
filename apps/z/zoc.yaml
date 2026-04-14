@@ -1,9 +1,9 @@
-app_token: "zoc"
-name: "ZOC"
-desc: "Professional SSH client and terminal emulator"
-homepage: "https://www.emtec.com/zoc/"
-bundle_id: "com.emtec.zoc9"
+app_token: zoc
+name: ZOC
+desc: Professional SSH client and terminal emulator
+homepage: 'https://www.emtec.com/zoc/'
+bundle_id: com.emtec.zoc9
 
 sources:
   - type: homebrew
-    cask: "zoc"
+    cask: zoc

@@ -1,11 +1,12 @@
-app_token: "conar"
-name: "Conar"
-desc: "AI-powered database and data management tool"
-homepage: "https://conar.app/"
-bundle_id: "com.wannabespace.conar"
+app_token: conar
+name: Conar
+desc: AI-powered database and data management tool
+homepage: 'https://conar.app/'
+bundle_id: com.wannabespace.conar
 
 sources:
   - type: homebrew
-    cask: "conar"
+    cask: conar
 
   - type: electron
+    url: 'https://download.todesktop.com/25112796k32u7/latest-mac.yml'

@@ -1,12 +1,12 @@
-app_token: "nova"
-name: "Panic Nova"
-desc: "Native code editor"
-homepage: "https://nova.app/"
-bundle_id: "com.panic.Nova"
+app_token: nova
+name: Panic Nova
+desc: Native code editor
+homepage: 'https://nova.app/'
+bundle_id: com.panic.Nova
 
 sources:
   - type: homebrew
-    cask: "nova"
+    cask: nova
 
   - type: sparkle
-    url: "https://circle.panic.com/api/v1/appcast/nova/"
+    url: 'https://circle.panic.com/api/v1/appcast/nova/'

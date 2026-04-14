@@ -1,12 +1,12 @@
-app_token: "gifox"
-name: "gifox"
-desc: "GIF recording and sharing"
-homepage: "https://gifox.io/"
-bundle_id: "com.gifox.gifox2"
+app_token: gifox
+name: gifox
+desc: GIF recording and sharing
+homepage: 'https://gifox.io/'
+bundle_id: com.gifox.gifox2
 
 sources:
   - type: homebrew
-    cask: "gifox"
+    cask: gifox
 
   - type: sparkle
-    url: "https://d1fqctmfkpkkcg.cloudfront.net/gifox/appcast.xml"
+    url: 'https://d1fqctmfkpkkcg.cloudfront.net/gifox/appcast.xml'

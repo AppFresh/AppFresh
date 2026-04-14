@@ -1,9 +1,9 @@
-app_token: "eclipse-ide"
-name: "Eclipse IDE for Eclipse Committers"
-desc: "Eclipse integrated development environment"
-homepage: "https://eclipse.org/"
-bundle_id: "epp.package.committers"
+app_token: eclipse-ide
+name: Eclipse IDE for Eclipse Committers
+desc: Eclipse integrated development environment
+homepage: 'https://eclipse.org/'
+bundle_id: epp.package.committers
 
 sources:
   - type: homebrew
-    cask: "eclipse-ide"
+    cask: eclipse-ide

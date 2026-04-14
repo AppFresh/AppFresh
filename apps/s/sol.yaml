@@ -1,15 +1,15 @@
-app_token: "sol"
-name: "Sol"
-desc: "Launcher & command palette"
-homepage: "https://github.com/ospfranco/sol"
-bundle_id: "com.ospfranco.sol"
+app_token: sol
+name: Sol
+desc: Launcher & command palette
+homepage: 'https://github.com/ospfranco/sol'
+bundle_id: com.ospfranco.sol
 
 sources:
   - type: homebrew
-    cask: "sol"
+    cask: sol
 
   - type: github
-    repo: "ospfranco/sol"
+    repo: ospfranco/sol
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/ospfranco/sol/main/releases/appcast.xml"
+    url: 'https://raw.githubusercontent.com/ospfranco/sol/main/releases/appcast.xml'

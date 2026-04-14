@@ -1,12 +1,12 @@
-app_token: "locationsimulator"
-name: "LocationSimulator"
-desc: "Application to spoof your iOS, iPadOS or iPhoneSimulator device location"
-homepage: "https://github.com/Schlaubischlump/LocationSimulator"
-bundle_id: "de.davidklopp.locationsimulator"
+app_token: locationsimulator
+name: LocationSimulator
+desc: Application to spoof your iOS, iPadOS or iPhoneSimulator device location
+homepage: 'https://github.com/Schlaubischlump/LocationSimulator'
+bundle_id: de.davidklopp.locationsimulator
 
 sources:
   - type: homebrew
-    cask: "locationsimulator"
+    cask: locationsimulator
 
   - type: github
-    repo: "Schlaubischlump/LocationSimulator"
+    repo: Schlaubischlump/LocationSimulator

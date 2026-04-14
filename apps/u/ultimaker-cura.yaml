@@ -1,12 +1,12 @@
-app_token: "ultimaker-cura"
-name: "UltiMaker Cura"
-desc: "3D printer and slicing GUI"
-homepage: "https://ultimaker.com/software/ultimaker-cura"
-bundle_id: "nl.ultimaker.cura_UltiMaker_Cura"
+app_token: ultimaker-cura
+name: UltiMaker Cura
+desc: 3D printer and slicing GUI
+homepage: 'https://ultimaker.com/software/ultimaker-cura'
+bundle_id: nl.ultimaker.cura_UltiMaker_Cura
 
 sources:
   - type: homebrew
-    cask: "ultimaker-cura"
+    cask: ultimaker-cura
 
   - type: github
-    repo: "Ultimaker/Cura"
+    repo: Ultimaker/Cura

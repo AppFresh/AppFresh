@@ -1,9 +1,9 @@
-app_token: "transmit"
-name: "Transmit"
-desc: "File transfer application"
-homepage: "https://panic.com/transmit/"
-bundle_id: "com.panic.Transmit"
+app_token: transmit
+name: Transmit
+desc: File transfer application
+homepage: 'https://panic.com/transmit/'
+bundle_id: com.panic.Transmit
 
 sources:
   - type: homebrew
-    cask: "transmit"
+    cask: transmit

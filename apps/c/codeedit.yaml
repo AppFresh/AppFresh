@@ -1,12 +1,12 @@
-app_token: "codeedit"
-name: "CodeEdit"
-desc: "Elevate your code editing experience. Open source, free forever."
-homepage: "https://codeedit.app/"
-bundle_id: "app.codeedit.CodeEdit"
+app_token: codeedit
+name: CodeEdit
+desc: Elevate your code editing experience. Open source, free forever.
+homepage: 'https://codeedit.app/'
+bundle_id: app.codeedit.CodeEdit
 
 sources:
   - type: github
-    repo: "CodeEditApp/CodeEdit"
+    repo: CodeEditApp/CodeEdit
 
   - type: homebrew
-    cask: "codeedit"
+    cask: codeedit

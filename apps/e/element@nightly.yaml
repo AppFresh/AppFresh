@@ -1,8 +1,8 @@
-app_token: "element@nightly"
-name: "Element Nightly"
-desc: "Matrix collaboration client"
-homepage: "https://element.io/get-started"
+app_token: element@nightly
+name: Element Nightly
+desc: Matrix collaboration client
+homepage: 'https://element.io/get-started'
 
 sources:
   - type: homebrew
-    cask: "element@nightly"
+    cask: element@nightly

@@ -1,12 +1,12 @@
-app_token: "imageoptim"
-name: "ImageOptim"
-desc: "Tool to optimise images to a smaller size"
-homepage: "https://imageoptim.com/"
-bundle_id: "net.pornel.ImageOptim"
+app_token: imageoptim
+name: ImageOptim
+desc: Tool to optimise images to a smaller size
+homepage: 'https://imageoptim.com/'
+bundle_id: net.pornel.ImageOptim
 
 sources:
   - type: homebrew
-    cask: "imageoptim"
+    cask: imageoptim
 
   - type: sparkle
-    url: "https://imageoptim.com/appcast.xml"
+    url: 'https://imageoptim.com/appcast.xml'

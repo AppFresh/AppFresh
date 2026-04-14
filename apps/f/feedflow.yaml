@@ -1,12 +1,12 @@
-app_token: "feedflow"
-name: "FeedFlow"
-desc: "RSS reader"
-homepage: "https://www.feedflow.dev/"
-bundle_id: "com.prof18.feedflow"
+app_token: feedflow
+name: FeedFlow
+desc: RSS reader
+homepage: 'https://www.feedflow.dev/'
+bundle_id: com.prof18.feedflow
 
 sources:
   - type: homebrew
-    cask: "feedflow"
+    cask: feedflow
 
   - type: github
-    repo: "prof18/feed-flow"
+    repo: prof18/feed-flow

@@ -1,9 +1,9 @@
-app_token: "spotube"
-name: "Spotube"
-desc: "A cross-platform extensible open-source music streaming platform"
-homepage: "https://spotube.krtirtho.dev/"
-bundle_id: "oss.krtirtho.spotube"
+app_token: spotube
+name: Spotube
+desc: A cross-platform extensible open-source music streaming platform
+homepage: 'https://spotube.krtirtho.dev/'
+bundle_id: oss.krtirtho.spotube
 
 sources:
   - type: github
-    repo: "KRTirtho/spotube"
+    repo: KRTirtho/spotube

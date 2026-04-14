@@ -1,12 +1,12 @@
-app_token: "requestly"
-name: "Requestly"
-desc: "Intercept and modify HTTP requests"
-homepage: "https://requestly.com/"
-bundle_id: "io.requestly.beta"
+app_token: requestly
+name: Requestly
+desc: Intercept and modify HTTP requests
+homepage: 'https://requestly.com/'
+bundle_id: io.requestly.beta
 
 sources:
   - type: homebrew
-    cask: "requestly"
+    cask: requestly
 
   - type: github
-    repo: "requestly/requestly-desktop-app"
+    repo: requestly/requestly-desktop-app

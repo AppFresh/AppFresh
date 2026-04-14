@@ -1,9 +1,9 @@
-app_token: "suspicious-package"
-name: "Suspicious Package"
-desc: "Application for inspecting installer packages"
-homepage: "https://www.mothersruin.com/software/SuspiciousPackage/"
-bundle_id: "com.mothersruin.SuspiciousPackageApp"
+app_token: suspicious-package
+name: Suspicious Package
+desc: Application for inspecting installer packages
+homepage: 'https://www.mothersruin.com/software/SuspiciousPackage/'
+bundle_id: com.mothersruin.SuspiciousPackageApp
 
 sources:
   - type: homebrew
-    cask: "suspicious-package"
+    cask: suspicious-package

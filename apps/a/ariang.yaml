@@ -1,12 +1,12 @@
-app_token: "ariang"
-name: "AriaNg Native"
-desc: "Better aria2 desktop frontend than AriaNg"
-homepage: "https://github.com/mayswind/AriaNg-Native"
-bundle_id: "net.mayswind.ariang"
+app_token: ariang
+name: AriaNg Native
+desc: Better aria2 desktop frontend than AriaNg
+homepage: 'https://github.com/mayswind/AriaNg-Native'
+bundle_id: net.mayswind.ariang
 
 sources:
   - type: homebrew
-    cask: "ariang"
+    cask: ariang
 
   - type: github
-    repo: "mayswind/AriaNg-Native"
+    repo: mayswind/AriaNg-Native

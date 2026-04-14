@@ -1,12 +1,12 @@
-app_token: "macvim-app"
-name: "MacVim"
-desc: "GUI for vim, made for macOS"
-homepage: "https://macvim.org/"
-bundle_id: "org.vim.MacVim"
+app_token: macvim-app
+name: MacVim
+desc: GUI for vim, made for macOS
+homepage: 'https://macvim.org/'
+bundle_id: org.vim.MacVim
 
 sources:
   - type: homebrew
-    cask: "macvim-app"
+    cask: macvim-app
 
   - type: github
-    repo: "macvim-dev/macvim"
+    repo: macvim-dev/macvim

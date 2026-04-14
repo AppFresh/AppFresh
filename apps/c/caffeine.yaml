@@ -1,12 +1,12 @@
-app_token: "caffeine"
-name: "Caffeine"
-desc: "Utility that prevents the system from going to sleep"
-homepage: "https://intelliscapesolutions.com/apps/caffeine"
-bundle_id: "com.intelliscapesolutions.caffeine"
+app_token: caffeine
+name: Caffeine
+desc: Utility that prevents the system from going to sleep
+homepage: 'https://intelliscapesolutions.com/apps/caffeine'
+bundle_id: com.intelliscapesolutions.caffeine
 
 sources:
   - type: homebrew
-    cask: "caffeine"
+    cask: caffeine
 
   - type: github
-    repo: "IntelliScape/caffeine"
+    repo: IntelliScape/caffeine

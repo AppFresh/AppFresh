@@ -1,12 +1,12 @@
-app_token: "kubeterm"
-name: "Kubeterm"
-desc: "Kubernetes graphical management tool"
-homepage: "https://www.kubeterm.com/"
-bundle_id: "com.kubeterm"
+app_token: kubeterm
+name: Kubeterm
+desc: Kubernetes graphical management tool
+homepage: 'https://www.kubeterm.com/'
+bundle_id: com.kubeterm
 
 sources:
   - type: homebrew
-    cask: "kubeterm"
+    cask: kubeterm
 
   - type: github
-    repo: "kbterm/kubeterm"
+    repo: kbterm/kubeterm

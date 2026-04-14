@@ -1,11 +1,11 @@
-app_token: "loom"
-name: "Loom"
-desc: "Screen and video recording software"
-homepage: "https://www.loom.com/"
-bundle_id: "com.loom.desktop"
+app_token: loom
+name: Loom
+desc: Screen and video recording software
+homepage: 'https://www.loom.com/'
+bundle_id: com.loom.desktop
 
 sources:
   - type: homebrew
-    cask: "loom"
+    cask: loom
 
   - type: electron

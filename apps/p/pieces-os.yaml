@@ -1,12 +1,12 @@
-app_token: "pieces-os"
-name: "Pieces OS"
-desc: "Local datastore, server, and ML engine powering the Pieces for Developers Suite"
-homepage: "https://pieces.app/"
-bundle_id: "com.pieces.os"
+app_token: pieces-os
+name: Pieces OS
+desc: Local datastore, server, and ML engine powering the Pieces for Developers Suite
+homepage: 'https://pieces.app/'
+bundle_id: com.pieces.os
 
 sources:
   - type: homebrew
-    cask: "pieces-os"
+    cask: pieces-os
 
   - type: sparkle
-    url: "https://builds.pieces.app/stages/production/os_server/sparkle_arm64"
+    url: 'https://builds.pieces.app/stages/production/os_server/sparkle_arm64'

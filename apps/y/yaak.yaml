@@ -1,15 +1,15 @@
-app_token: "yaak"
-name: "Yaak"
-desc: "REST, GraphQL and gRPC client"
-homepage: "https://yaak.app/"
-bundle_id: "app.yaak.desktop"
+app_token: yaak
+name: Yaak
+desc: REST, GraphQL and gRPC client
+homepage: 'https://yaak.app/'
+bundle_id: app.yaak.desktop
 
 sources:
   - type: homebrew
-    cask: "yaak"
+    cask: yaak
 
   - type: github
-    repo: "mountain-loop/yaak"
+    repo: mountain-loop/yaak
 
   - type: homebrew
-    cask: "yaak@beta"
+    cask: yaak@beta

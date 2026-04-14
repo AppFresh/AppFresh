@@ -1,9 +1,9 @@
-app_token: "videofusion"
-name: "VideoFusion"
-desc: "Free all-in-one video editor"
-homepage: "https://www.capcut.cn/"
-bundle_id: "com.lemon.lvpro"
+app_token: videofusion
+name: VideoFusion
+desc: Free all-in-one video editor
+homepage: 'https://www.capcut.cn/'
+bundle_id: com.lemon.lvpro
 
 sources:
   - type: homebrew
-    cask: "videofusion"
+    cask: videofusion

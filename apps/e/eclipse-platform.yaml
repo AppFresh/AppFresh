@@ -1,9 +1,9 @@
-app_token: "eclipse-platform"
-name: "Eclipse SDK"
-desc: "SDK for the Eclipse IDE"
-homepage: "https://eclipse.org/"
-bundle_id: "org.eclipse.sdk.ide"
+app_token: eclipse-platform
+name: Eclipse SDK
+desc: SDK for the Eclipse IDE
+homepage: 'https://eclipse.org/'
+bundle_id: org.eclipse.sdk.ide
 
 sources:
   - type: homebrew
-    cask: "eclipse-platform"
+    cask: eclipse-platform

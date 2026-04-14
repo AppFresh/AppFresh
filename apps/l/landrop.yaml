@@ -1,12 +1,12 @@
-app_token: "landrop"
-name: "LANDrop"
-desc: "Drop any files to any devices on your LAN"
-homepage: "https://landrop.app/"
-bundle_id: "app.landrop.landrop"
+app_token: landrop
+name: LANDrop
+desc: Drop any files to any devices on your LAN
+homepage: 'https://landrop.app/'
+bundle_id: app.landrop.landrop
 
 sources:
   - type: homebrew
-    cask: "landrop"
+    cask: landrop
 
   - type: github
-    repo: "LANDrop/LANDrop"
+    repo: LANDrop/LANDrop

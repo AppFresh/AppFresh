@@ -1,12 +1,12 @@
-app_token: "cubicsdr"
-name: "CubicSDR"
-desc: "Cross-platform software-defined radio application"
-homepage: "https://cubicsdr.com/"
-bundle_id: "com.cubicproductions.cubicsdr"
+app_token: cubicsdr
+name: CubicSDR
+desc: Cross-platform software-defined radio application
+homepage: 'https://cubicsdr.com/'
+bundle_id: com.cubicproductions.cubicsdr
 
 sources:
   - type: homebrew
-    cask: "cubicsdr"
+    cask: cubicsdr
 
   - type: github
-    repo: "cjcliffe/CubicSDR"
+    repo: cjcliffe/CubicSDR

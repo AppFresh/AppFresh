@@ -1,9 +1,9 @@
-app_token: "waterfox"
-name: "Waterfox"
-desc: "Web browser"
-homepage: "https://www.waterfox.net/"
-bundle_id: "net.waterfox.waterfox"
+app_token: waterfox
+name: Waterfox
+desc: Web browser
+homepage: 'https://www.waterfox.net/'
+bundle_id: net.waterfox.waterfox
 
 sources:
   - type: homebrew
-    cask: "waterfox"
+    cask: waterfox

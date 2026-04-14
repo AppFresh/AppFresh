@@ -1,12 +1,12 @@
-app_token: "zedis"
-name: "Zedis"
-desc: "Redis GUI built with Rust and GPUI"
-homepage: "https://github.com/vicanso/zedis"
-bundle_id: "com.bigtree.zedis"
+app_token: zedis
+name: Zedis
+desc: Redis GUI built with Rust and GPUI
+homepage: 'https://github.com/vicanso/zedis'
+bundle_id: com.bigtree.zedis
 
 sources:
   - type: homebrew
-    cask: "zedis"
+    cask: zedis
 
   - type: github
-    repo: "vicanso/zedis"
+    repo: vicanso/zedis

@@ -1,9 +1,9 @@
-app_token: "utools"
-name: "uTools"
-desc: "Plug-in productivity tool set"
-homepage: "https://www.u-tools.cn/"
-bundle_id: "org.yuanli.utools"
+app_token: utools
+name: uTools
+desc: Plug-in productivity tool set
+homepage: 'https://www.u-tools.cn/'
+bundle_id: org.yuanli.utools
 
 sources:
   - type: homebrew
-    cask: "utools"
+    cask: utools

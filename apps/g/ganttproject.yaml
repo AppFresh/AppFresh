@@ -1,12 +1,12 @@
-app_token: "ganttproject"
-name: "GanttProject"
-desc: "Gantt chart and project management application"
-homepage: "https://www.ganttproject.biz/"
-bundle_id: "com.bardsoftware.ganttproject"
+app_token: ganttproject
+name: GanttProject
+desc: Gantt chart and project management application
+homepage: 'https://www.ganttproject.biz/'
+bundle_id: com.bardsoftware.ganttproject
 
 sources:
   - type: homebrew
-    cask: "ganttproject"
+    cask: ganttproject
 
   - type: github
-    repo: "bardsoftware/ganttproject"
+    repo: bardsoftware/ganttproject

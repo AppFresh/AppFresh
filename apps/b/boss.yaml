@@ -1,12 +1,12 @@
-app_token: "boss"
-name: "BOSS"
-desc: "AI-powered workspace for complex business operations"
-homepage: "https://www.risalabs.ai/"
-bundle_id: "ai.rever.boss"
+app_token: boss
+name: BOSS
+desc: AI-powered workspace for complex business operations
+homepage: 'https://www.risalabs.ai/'
+bundle_id: ai.rever.boss
 
 sources:
   - type: homebrew
-    cask: "boss"
+    cask: boss
 
   - type: github
-    repo: "risa-labs-inc/BOSS-Releases"
+    repo: risa-labs-inc/BOSS-Releases

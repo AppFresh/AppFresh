@@ -1,9 +1,9 @@
-app_token: "script-debugger"
-name: "Script Debugger"
-desc: "Integrated development environment focused entirely on AppleScript"
-homepage: "https://latenightsw.com/"
-bundle_id: "com.latenightsw.ScriptDebugger8"
+app_token: script-debugger
+name: Script Debugger
+desc: Integrated development environment focused entirely on AppleScript
+homepage: 'https://latenightsw.com/'
+bundle_id: com.latenightsw.ScriptDebugger8
 
 sources:
   - type: homebrew
-    cask: "script-debugger"
+    cask: script-debugger

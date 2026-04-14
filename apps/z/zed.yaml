@@ -1,12 +1,12 @@
-app_token: "zed"
-name: "Zed"
-desc: "High-performance, multiplayer code editor"
-homepage: "https://zed.dev/"
-bundle_id: "dev.zed.Zed"
+app_token: zed
+name: Zed
+desc: High-performance, multiplayer code editor
+homepage: 'https://zed.dev/'
+bundle_id: dev.zed.Zed
 
 sources:
   - type: homebrew
-    cask: "zed"
+    cask: zed
 
   - type: github
-    repo: "zed-industries/zed"
+    repo: zed-industries/zed

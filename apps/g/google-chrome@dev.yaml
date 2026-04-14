@@ -1,8 +1,8 @@
-app_token: "google-chrome@dev"
-name: "Chrome Dev"
-desc: "Web browser"
-homepage: "https://www.google.com/chrome/"
+app_token: google-chrome@dev
+name: Chrome Dev
+desc: Web browser
+homepage: 'https://www.google.com/chrome/'
 
 sources:
   - type: homebrew
-    cask: "google-chrome@dev"
+    cask: google-chrome@dev

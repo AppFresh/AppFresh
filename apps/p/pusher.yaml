@@ -1,12 +1,12 @@
-app_token: "pusher"
-name: "NWPusher"
-desc: "Send push notifications through Apple Push Notification Service"
-homepage: "https://github.com/noodlewerk/NWPusher"
-bundle_id: "com.noodlewerk.Pusher"
+app_token: pusher
+name: NWPusher
+desc: Send push notifications through Apple Push Notification Service
+homepage: 'https://github.com/noodlewerk/NWPusher'
+bundle_id: com.noodlewerk.Pusher
 
 sources:
   - type: homebrew
-    cask: "pusher"
+    cask: pusher
 
   - type: github
-    repo: "noodlewerk/NWPusher"
+    repo: noodlewerk/NWPusher

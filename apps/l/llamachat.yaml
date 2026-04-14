@@ -1,12 +1,12 @@
-app_token: "llamachat"
-name: "LlamaChat"
-desc: "Client for LLaMA models"
-homepage: "https://llamachat.app/"
-bundle_id: "com.alexrozanski.LlamaChat"
+app_token: llamachat
+name: LlamaChat
+desc: Client for LLaMA models
+homepage: 'https://llamachat.app/'
+bundle_id: com.alexrozanski.LlamaChat
 
 sources:
   - type: homebrew
-    cask: "llamachat"
+    cask: llamachat
 
   - type: github
-    repo: "alexrozanski/LlamaChat"
+    repo: alexrozanski/LlamaChat

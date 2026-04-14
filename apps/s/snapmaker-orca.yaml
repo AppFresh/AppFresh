@@ -1,12 +1,12 @@
-app_token: "snapmaker-orca"
-name: "Snapmaker Orca"
-desc: "Slicing software for Snapmaker 3D printers, a fork of OrcaSlicer"
-homepage: "https://www.snapmaker.com/snapmaker-orca"
-bundle_id: "com.snapmaker.snapmaker-orca"
+app_token: snapmaker-orca
+name: Snapmaker Orca
+desc: Slicing software for Snapmaker 3D printers, a fork of OrcaSlicer
+homepage: 'https://www.snapmaker.com/snapmaker-orca'
+bundle_id: com.snapmaker.snapmaker-orca
 
 sources:
   - type: homebrew
-    cask: "snapmaker-orca"
+    cask: snapmaker-orca
 
   - type: github
-    repo: "snapmaker/orcaslicer"
+    repo: snapmaker/orcaslicer

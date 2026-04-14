@@ -1,9 +1,9 @@
-app_token: "dbeaver-enterprise"
-name: "DBeaver Enterprise Edition"
-desc: "Universal database tool and SQL client"
-homepage: "https://dbeaver.com/"
-bundle_id: "com.dbeaver.product.enterprise"
+app_token: dbeaver-enterprise
+name: DBeaver Enterprise Edition
+desc: Universal database tool and SQL client
+homepage: 'https://dbeaver.com/'
+bundle_id: com.dbeaver.product.enterprise
 
 sources:
   - type: homebrew
-    cask: "dbeaver-enterprise"
+    cask: dbeaver-enterprise

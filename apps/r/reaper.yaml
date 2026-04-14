@@ -1,9 +1,9 @@
-app_token: "reaper"
-name: "REAPER"
-desc: "Digital audio production application"
-homepage: "https://www.reaper.fm/"
-bundle_id: "com.cockos.reaper"
+app_token: reaper
+name: REAPER
+desc: Digital audio production application
+homepage: 'https://www.reaper.fm/'
+bundle_id: com.cockos.reaper
 
 sources:
   - type: homebrew
-    cask: "reaper"
+    cask: reaper

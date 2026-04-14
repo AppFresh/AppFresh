@@ -1,9 +1,9 @@
-app_token: "tofu"
-name: "Tofu"
-desc: "E-reader software"
-homepage: "https://amarsagoo.info/tofu/"
-bundle_id: "com.asagoo.tofu"
+app_token: tofu
+name: Tofu
+desc: E-reader software
+homepage: 'https://amarsagoo.info/tofu/'
+bundle_id: com.asagoo.tofu
 
 sources:
   - type: homebrew
-    cask: "tofu"
+    cask: tofu

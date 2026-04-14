@@ -1,11 +1,12 @@
-app_token: "youdaonote"
-name: "youdaonote"
-desc: "Multi-platform note application"
-homepage: "https://note.youdao.com/"
-bundle_id: "ynote-desktop"
+app_token: youdaonote
+name: youdaonote
+desc: Multi-platform note application
+homepage: 'https://note.youdao.com/'
+bundle_id: ynote-desktop
 
 sources:
   - type: homebrew
-    cask: "youdaonote"
+    cask: youdaonote
 
   - type: electron
+    url: 'https://artifact.lx.netease.com/download/ynote-electron/latest-mac.yml'

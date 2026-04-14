@@ -1,12 +1,12 @@
-app_token: "cyberghost-vpn"
-name: "CyberGhost"
-desc: "VPN client"
-homepage: "https://www.cyberghostvpn.com/"
-bundle_id: "com.cyberghostsrl.cyberghostmac"
+app_token: cyberghost-vpn
+name: CyberGhost
+desc: VPN client
+homepage: 'https://www.cyberghostvpn.com/'
+bundle_id: com.cyberghostsrl.cyberghostmac
 
 sources:
   - type: homebrew
-    cask: "cyberghost-vpn"
+    cask: cyberghost-vpn
 
   - type: sparkle
-    url: "https://download.cyberghostvpn.com/mac/updates/v7/cyberghost_mac_update_v3.inf"
+    url: 'https://download.cyberghostvpn.com/mac/updates/v7/cyberghost_mac_update_v3.inf'

@@ -1,12 +1,12 @@
-app_token: "betaflight-configurator"
-name: "Betaflight-Configurator"
-desc: "Configuration tool for the Betaflight firmware"
-homepage: "https://github.com/betaflight/betaflight-configurator"
-bundle_id: "com.nw-builder.betaflight-configurator"
+app_token: betaflight-configurator
+name: Betaflight-Configurator
+desc: Configuration tool for the Betaflight firmware
+homepage: 'https://github.com/betaflight/betaflight-configurator'
+bundle_id: com.nw-builder.betaflight-configurator
 
 sources:
   - type: homebrew
-    cask: "betaflight-configurator"
+    cask: betaflight-configurator
 
   - type: github
-    repo: "betaflight/betaflight-configurator"
+    repo: betaflight/betaflight-configurator

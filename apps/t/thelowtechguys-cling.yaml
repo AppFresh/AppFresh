@@ -1,12 +1,12 @@
-app_token: "thelowtechguys-cling"
-name: "Cling"
-desc: "Instant fuzzy find any file on macOS"
-homepage: "https://lowtechguys.com/cling"
-bundle_id: "com.lowtechguys.Cling"
+app_token: thelowtechguys-cling
+name: Cling
+desc: Instant fuzzy find any file on macOS
+homepage: 'https://lowtechguys.com/cling'
+bundle_id: com.lowtechguys.Cling
 
 sources:
   - type: homebrew
-    cask: "thelowtechguys-cling"
+    cask: thelowtechguys-cling
 
   - type: sparkle
-    url: "https://files.lowtechguys.com/cling/appcast.xml"
+    url: 'https://files.lowtechguys.com/cling/appcast.xml'

@@ -1,12 +1,12 @@
-app_token: "natron"
-name: "Natron"
-desc: "Open-source node-graph based video compositing software"
-homepage: "https://NatronGitHub.github.io/"
-bundle_id: "fr.inria.Natron"
+app_token: natron
+name: Natron
+desc: Open-source node-graph based video compositing software
+homepage: 'https://NatronGitHub.github.io/'
+bundle_id: fr.inria.Natron
 
 sources:
   - type: homebrew
-    cask: "natron"
+    cask: natron
 
   - type: github
-    repo: "NatronGitHub/Natron"
+    repo: NatronGitHub/Natron

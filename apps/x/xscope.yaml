@@ -1,12 +1,12 @@
-app_token: "xscope"
-name: "xScope"
-desc: "Tools for measuring, inspecting & testing on-screen graphics and layouts"
-homepage: "https://xscopeapp.com/"
-bundle_id: "com.iconfactory.xScope"
+app_token: xscope
+name: xScope
+desc: Tools for measuring, inspecting & testing on-screen graphics and layouts
+homepage: 'https://xscopeapp.com/'
+bundle_id: com.iconfactory.xScope
 
 sources:
   - type: homebrew
-    cask: "xscope"
+    cask: xscope
 
   - type: sparkle
-    url: "https://iconfactory.com/appcasts/xScope/appcast.xml"
+    url: 'https://iconfactory.com/appcasts/xScope/appcast.xml'

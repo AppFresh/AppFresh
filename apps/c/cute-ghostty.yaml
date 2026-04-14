@@ -1,9 +1,9 @@
-app_token: "cute-ghostty"
-name: "Cute Ghostty"
-desc: "A cute customized Ghostty terminal emulator for macOS"
-homepage: "https://cute-ghostty.vercel.app/"
-bundle_id: "com.amy.cute-ghostty"
+app_token: cute-ghostty
+name: Cute Ghostty
+desc: A cute customized Ghostty terminal emulator for macOS
+homepage: 'https://cute-ghostty.vercel.app/'
+bundle_id: com.amy.cute-ghostty
 
 sources:
   - type: github
-    repo: "amywork777/CuteGhostty"
+    repo: amywork777/CuteGhostty

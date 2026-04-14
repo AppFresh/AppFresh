@@ -1,12 +1,12 @@
-app_token: "mu-editor"
-name: "Mu"
-desc: "Small, simple editor for beginner Python programmers"
-homepage: "https://codewith.mu/"
-bundle_id: "com.github.mu-editor.mu"
+app_token: mu-editor
+name: Mu
+desc: Small, simple editor for beginner Python programmers
+homepage: 'https://codewith.mu/'
+bundle_id: com.github.mu-editor.mu
 
 sources:
   - type: homebrew
-    cask: "mu-editor"
+    cask: mu-editor
 
   - type: github
-    repo: "mu-editor/mu"
+    repo: mu-editor/mu

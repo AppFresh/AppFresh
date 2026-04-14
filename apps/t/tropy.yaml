@@ -1,12 +1,12 @@
-app_token: "tropy"
-name: "Tropy"
-desc: "Research photo management"
-homepage: "https://tropy.org/"
-bundle_id: "org.tropy.tropy"
+app_token: tropy
+name: Tropy
+desc: Research photo management
+homepage: 'https://tropy.org/'
+bundle_id: org.tropy.tropy
 
 sources:
   - type: homebrew
-    cask: "tropy"
+    cask: tropy
 
   - type: github
-    repo: "tropy/tropy"
+    repo: tropy/tropy

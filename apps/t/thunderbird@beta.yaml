@@ -1,9 +1,9 @@
-app_token: "thunderbird@beta"
-name: "Mozilla Thunderbird Beta"
-desc: "Customizable email client"
-homepage: "https://www.thunderbird.net/en-US/"
-bundle_id: "org.mozilla.thunderbirdbeta"
+app_token: thunderbird@beta
+name: Mozilla Thunderbird Beta
+desc: Customizable email client
+homepage: 'https://www.thunderbird.net/en-US/'
+bundle_id: org.mozilla.thunderbirdbeta
 
 sources:
   - type: homebrew
-    cask: "thunderbird@beta"
+    cask: thunderbird@beta

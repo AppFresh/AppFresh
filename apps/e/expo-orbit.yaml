@@ -1,12 +1,12 @@
-app_token: "expo-orbit"
-name: "Expo Orbit"
-desc: "Launch builds and start simulators from your menu bar"
-homepage: "https://github.com/expo/orbit/"
-bundle_id: "dev.expo.orbit"
+app_token: expo-orbit
+name: Expo Orbit
+desc: Launch builds and start simulators from your menu bar
+homepage: 'https://github.com/expo/orbit/'
+bundle_id: dev.expo.orbit
 
 sources:
   - type: homebrew
-    cask: "expo-orbit"
+    cask: expo-orbit
 
   - type: github
-    repo: "expo/orbit"
+    repo: expo/orbit

@@ -1,9 +1,9 @@
-app_token: "latexdraw"
-name: "LaTexDraw"
-desc: "Drawing editor for creating LaTeX PSTricks code"
-homepage: "https://latexdraw.sourceforge.net/"
-bundle_id: "latexdraw"
+app_token: latexdraw
+name: LaTexDraw
+desc: Drawing editor for creating LaTeX PSTricks code
+homepage: 'https://latexdraw.sourceforge.net/'
+bundle_id: latexdraw
 
 sources:
   - type: homebrew
-    cask: "latexdraw"
+    cask: latexdraw

@@ -1,12 +1,12 @@
-app_token: "xemu"
-name: "Xemu"
-desc: "Original Xbox Emulator"
-homepage: "https://xemu.app/"
-bundle_id: "xemu.app.0"
+app_token: xemu
+name: Xemu
+desc: Original Xbox Emulator
+homepage: 'https://xemu.app/'
+bundle_id: xemu.app.0
 
 sources:
   - type: homebrew
-    cask: "xemu"
+    cask: xemu
 
   - type: github
-    repo: "xemu-project/xemu"
+    repo: xemu-project/xemu

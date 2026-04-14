@@ -1,12 +1,12 @@
-app_token: "loopback"
-name: "Loopback"
-desc: "Cable-free audio router"
-homepage: "https://rogueamoeba.com/loopback/"
-bundle_id: "com.rogueamoeba.Loopback"
+app_token: loopback
+name: Loopback
+desc: Cable-free audio router
+homepage: 'https://rogueamoeba.com/loopback/'
+bundle_id: com.rogueamoeba.Loopback
 
 sources:
   - type: homebrew
-    cask: "loopback"
+    cask: loopback
 
   - type: sparkle
-    url: "https://rogueamoeba.net/ping/versionCheck.cgi?format=sparkle&system=999&bundleid=com.rogueamoeba.Loopback&platform=osx&version=2488000"
+    url: 'https://rogueamoeba.net/ping/versionCheck.cgi?format=sparkle&system=999&bundleid=com.rogueamoeba.Loopback&platform=osx&version=2488000'

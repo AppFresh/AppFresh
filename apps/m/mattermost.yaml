@@ -1,12 +1,12 @@
-app_token: "mattermost"
-name: "Mattermost"
-desc: "Open-source, self-hosted Slack-alternative"
-homepage: "https://mattermost.com/"
-bundle_id: "Mattermost.Desktop"
+app_token: mattermost
+name: Mattermost
+desc: Open-source, self-hosted Slack-alternative
+homepage: 'https://mattermost.com/'
+bundle_id: Mattermost.Desktop
 
 sources:
   - type: homebrew
-    cask: "mattermost"
+    cask: mattermost
 
   - type: github
-    repo: "mattermost/desktop"
+    repo: mattermost/desktop

@@ -1,12 +1,12 @@
-app_token: "music-decoy"
-name: "Music Decoy"
-desc: "Music app blocker utility"
-homepage: "https://lowtechguys.com/musicdecoy"
-bundle_id: "com.apple.Music"
+app_token: music-decoy
+name: Music Decoy
+desc: Music app blocker utility
+homepage: 'https://lowtechguys.com/musicdecoy'
+bundle_id: com.apple.Music
 
 sources:
   - type: homebrew
-    cask: "music-decoy"
+    cask: music-decoy
 
   - type: github
-    repo: "FuzzyIdeas/MusicDecoy"
+    repo: FuzzyIdeas/MusicDecoy

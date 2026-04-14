@@ -1,11 +1,11 @@
-app_token: "vrew"
-name: "Vrew"
-desc: "Video editor"
-homepage: "https://vrew.voyagerx.com/"
-bundle_id: "com.voyagerx.vrew"
+app_token: vrew
+name: Vrew
+desc: Video editor
+homepage: 'https://vrew.voyagerx.com/'
+bundle_id: com.voyagerx.vrew
 
 sources:
   - type: homebrew
-    cask: "vrew"
+    cask: vrew
 
   - type: electron

@@ -1,12 +1,12 @@
-app_token: "pomotroid"
-name: "Pomotroid"
-desc: "Timer application"
-homepage: "https://github.com/Splode/pomotroid"
-bundle_id: "com.splode.pomotroid"
+app_token: pomotroid
+name: Pomotroid
+desc: Timer application
+homepage: 'https://github.com/Splode/pomotroid'
+bundle_id: com.splode.pomotroid
 
 sources:
   - type: homebrew
-    cask: "pomotroid"
+    cask: pomotroid
 
   - type: github
-    repo: "Splode/pomotroid"
+    repo: Splode/pomotroid

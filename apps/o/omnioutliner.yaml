@@ -1,9 +1,9 @@
-app_token: "omnioutliner"
-name: "OmniOutliner"
-desc: "Note taking application and information organiser"
-homepage: "https://www.omnigroup.com/omnioutliner/"
-bundle_id: "com.omnigroup.OmniOutliner6"
+app_token: omnioutliner
+name: OmniOutliner
+desc: Note taking application and information organiser
+homepage: 'https://www.omnigroup.com/omnioutliner/'
+bundle_id: com.omnigroup.OmniOutliner6
 
 sources:
   - type: homebrew
-    cask: "omnioutliner"
+    cask: omnioutliner

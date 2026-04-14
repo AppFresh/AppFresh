@@ -1,12 +1,12 @@
-app_token: "persepolis-download-manager"
-name: "Persepolis"
-desc: "Download manager"
-homepage: "https://persepolisdm.github.io/"
-bundle_id: "Persepolis Download Manager"
+app_token: persepolis-download-manager
+name: Persepolis
+desc: Download manager
+homepage: 'https://persepolisdm.github.io/'
+bundle_id: Persepolis Download Manager
 
 sources:
   - type: homebrew
-    cask: "persepolis-download-manager"
+    cask: persepolis-download-manager
 
   - type: github
-    repo: "persepolisdm/persepolis"
+    repo: persepolisdm/persepolis

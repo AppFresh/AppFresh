@@ -1,9 +1,9 @@
-app_token: "bluos-controller"
-name: "BluOS Controller"
-desc: "Manage audio systems"
-homepage: "https://www.bluesound.com/"
-bundle_id: "com.bluesound.bluos"
+app_token: bluos-controller
+name: BluOS Controller
+desc: Manage audio systems
+homepage: 'https://www.bluesound.com/'
+bundle_id: com.bluesound.bluos
 
 sources:
   - type: homebrew
-    cask: "bluos-controller"
+    cask: bluos-controller

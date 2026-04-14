@@ -1,11 +1,11 @@
-app_token: "remnote"
-name: "RemNote"
-desc: "Spaced-repetition powered note-taking tool"
-homepage: "https://www.remnote.com/"
-bundle_id: "io.remnote"
+app_token: remnote
+name: RemNote
+desc: Spaced-repetition powered note-taking tool
+homepage: 'https://www.remnote.com/'
+bundle_id: io.remnote
 
 sources:
   - type: homebrew
-    cask: "remnote"
+    cask: remnote
 
   - type: electron

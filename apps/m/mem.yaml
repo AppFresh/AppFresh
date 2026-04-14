@@ -1,11 +1,11 @@
-app_token: "mem"
-name: "Mem"
-desc: "Capture and access information from anywhere"
-homepage: "https://get.mem.ai/"
-bundle_id: "org.memlabs.Mem"
+app_token: mem
+name: Mem
+desc: Capture and access information from anywhere
+homepage: 'https://get.mem.ai/'
+bundle_id: org.memlabs.Mem
 
 sources:
   - type: homebrew
-    cask: "mem"
+    cask: mem
 
   - type: electron

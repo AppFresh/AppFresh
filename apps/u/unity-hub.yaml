@@ -1,9 +1,9 @@
-app_token: "unity-hub"
-name: "Unity Hub"
-desc: "Management tool for Unity"
-homepage: "https://unity3d.com/get-unity/download"
-bundle_id: "com.unity3d.unityhub"
+app_token: unity-hub
+name: Unity Hub
+desc: Management tool for Unity
+homepage: 'https://unity3d.com/get-unity/download'
+bundle_id: com.unity3d.unityhub
 
 sources:
   - type: homebrew
-    cask: "unity-hub"
+    cask: unity-hub

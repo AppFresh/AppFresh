@@ -1,12 +1,12 @@
-app_token: "colorsnapper"
-name: "ColorSnapper 2"
-desc: "Colour picker"
-homepage: "https://colorsnapper.com/"
-bundle_id: "com.koolesache.ColorSnapper2"
+app_token: colorsnapper
+name: ColorSnapper 2
+desc: Colour picker
+homepage: 'https://colorsnapper.com/'
+bundle_id: com.koolesache.ColorSnapper2
 
 sources:
   - type: homebrew
-    cask: "colorsnapper"
+    cask: colorsnapper
 
   - type: sparkle
-    url: "https://cs2-appcast.s3.amazonaws.com/appcast.xml"
+    url: 'https://cs2-appcast.s3.amazonaws.com/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "aliwangwang"
-name: "AliWangwang"
-desc: "Shopping communication tool for Taobao and Tmall users"
-homepage: "https://pages.tmall.com/wow/qnww/act/index"
-bundle_id: "com.taobao.Aliwangwang"
+app_token: aliwangwang
+name: AliWangwang
+desc: Shopping communication tool for Taobao and Tmall users
+homepage: 'https://pages.tmall.com/wow/qnww/act/index'
+bundle_id: com.taobao.Aliwangwang
 
 sources:
   - type: homebrew
-    cask: "aliwangwang"
+    cask: aliwangwang

@@ -1,12 +1,12 @@
-app_token: "packetsender"
-name: "Packet Sender"
-desc: "Network utility for sending / receiving TCP, UDP, SSL"
-homepage: "https://packetsender.com/"
-bundle_id: "com.packetsender.desktop"
+app_token: packetsender
+name: Packet Sender
+desc: Network utility for sending / receiving TCP, UDP, SSL
+homepage: 'https://packetsender.com/'
+bundle_id: com.packetsender.desktop
 
 sources:
   - type: homebrew
-    cask: "packetsender"
+    cask: packetsender
 
   - type: github
-    repo: "dannagle/PacketSender"
+    repo: dannagle/PacketSender

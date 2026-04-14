@@ -1,12 +1,12 @@
-app_token: "quit-all"
-name: "QuitAll"
-desc: "Quickly quit one, some, or all apps"
-homepage: "https://amicoapps.com/app/quit-all/"
-bundle_id: "com.quitallapp.quitall-paddle"
+app_token: quit-all
+name: QuitAll
+desc: Quickly quit one, some, or all apps
+homepage: 'https://amicoapps.com/app/quit-all/'
+bundle_id: com.quitallapp.quitall-paddle
 
 sources:
   - type: homebrew
-    cask: "quit-all"
+    cask: quit-all
 
   - type: sparkle
-    url: "https://amicoapps.com/wp-content/updates/quitall.xml"
+    url: 'https://amicoapps.com/wp-content/updates/quitall.xml'

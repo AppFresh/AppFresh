@@ -1,9 +1,9 @@
-app_token: "cord"
-name: "CoRD"
-desc: "Remote desktop client"
-homepage: "https://cord.sourceforge.net/"
-bundle_id: "net.sf.cord"
+app_token: cord
+name: CoRD
+desc: Remote desktop client
+homepage: 'https://cord.sourceforge.net/'
+bundle_id: net.sf.cord
 
 sources:
   - type: homebrew
-    cask: "cord"
+    cask: cord

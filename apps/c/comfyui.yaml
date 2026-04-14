@@ -1,9 +1,9 @@
-app_token: "comfyui"
-name: "ComfyUI"
-desc: "Node-based image, video and audio generator"
-homepage: "https://www.comfy.org/"
-bundle_id: "com.todesktop.241012ess7yxs0e"
+app_token: comfyui
+name: ComfyUI
+desc: Node-based image, video and audio generator
+homepage: 'https://www.comfy.org/'
+bundle_id: com.todesktop.241012ess7yxs0e
 
 sources:
   - type: homebrew
-    cask: "comfyui"
+    cask: comfyui

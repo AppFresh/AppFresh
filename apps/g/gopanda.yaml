@@ -1,11 +1,11 @@
-app_token: "gopanda"
-name: "GoPanda"
-desc: "Pandanet client"
-homepage: "https://pandanet-igs.com/communities/gopanda2"
-bundle_id: "pandanet.gopanda"
+app_token: gopanda
+name: GoPanda
+desc: Pandanet client
+homepage: 'https://pandanet-igs.com/communities/gopanda2'
+bundle_id: pandanet.gopanda
 
 sources:
   - type: homebrew
-    cask: "gopanda"
+    cask: gopanda
 
   - type: electron

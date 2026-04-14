@@ -1,12 +1,12 @@
-app_token: "unetbootin"
-name: "UNetbootin"
-desc: "Tool to install Linux/BSD distributions to a partition or USB drive"
-homepage: "https://unetbootin.github.io/"
-bundle_id: "com.yourcompany.unetbootin"
+app_token: unetbootin
+name: UNetbootin
+desc: Tool to install Linux/BSD distributions to a partition or USB drive
+homepage: 'https://unetbootin.github.io/'
+bundle_id: com.yourcompany.unetbootin
 
 sources:
   - type: homebrew
-    cask: "unetbootin"
+    cask: unetbootin
 
   - type: github
-    repo: "unetbootin/unetbootin"
+    repo: unetbootin/unetbootin

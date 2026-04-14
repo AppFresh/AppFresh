@@ -1,12 +1,12 @@
-app_token: "simple-web-server"
-name: "Simple Web Server"
-desc: "Create local web servers"
-homepage: "https://simplewebserver.org/"
-bundle_id: "org.simplewebserver.simplewebserver"
+app_token: simple-web-server
+name: Simple Web Server
+desc: Create local web servers
+homepage: 'https://simplewebserver.org/'
+bundle_id: org.simplewebserver.simplewebserver
 
 sources:
   - type: homebrew
-    cask: "simple-web-server"
+    cask: simple-web-server
 
   - type: github
-    repo: "terreng/simple-web-server"
+    repo: terreng/simple-web-server

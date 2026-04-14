@@ -1,11 +1,11 @@
-app_token: "morgen"
-name: "Morgen"
-desc: "All-in-one calendars, tasks and scheduler"
-homepage: "https://morgen.so/"
-bundle_id: "com.todesktop.210203cqcj00tw1"
+app_token: morgen
+name: Morgen
+desc: All-in-one calendars, tasks and scheduler
+homepage: 'https://morgen.so/'
+bundle_id: com.todesktop.210203cqcj00tw1
 
 sources:
   - type: homebrew
-    cask: "morgen"
+    cask: morgen
 
   - type: electron

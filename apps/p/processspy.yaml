@@ -1,12 +1,12 @@
-app_token: "processspy"
-name: "ProcessSpy"
-desc: "Process monitor"
-homepage: "https://process-spy.app/"
-bundle_id: "com.itone.ProcessSpy"
+app_token: processspy
+name: ProcessSpy
+desc: Process monitor
+homepage: 'https://process-spy.app/'
+bundle_id: com.itone.ProcessSpy
 
 sources:
   - type: homebrew
-    cask: "processspy"
+    cask: processspy
 
   - type: sparkle
-    url: "https://process-spy.app/archive/appcast.xml"
+    url: 'https://process-spy.app/archive/appcast.xml'

@@ -1,12 +1,12 @@
-app_token: "a-better-finder-rename"
-name: "A Better Finder Rename"
-desc: "Renamer for files, music and photos"
-homepage: "https://www.publicspace.net/ABetterFinderRename/"
-bundle_id: "net.publicspace.abfr12"
+app_token: a-better-finder-rename
+name: A Better Finder Rename
+desc: Renamer for files, music and photos
+homepage: 'https://www.publicspace.net/ABetterFinderRename/'
+bundle_id: net.publicspace.abfr12
 
 sources:
   - type: homebrew
-    cask: "a-better-finder-rename"
+    cask: a-better-finder-rename
 
   - type: sparkle
-    url: "https://www.publicspace.net/app/signed_abfr12.xml"
+    url: 'https://www.publicspace.net/app/signed_abfr12.xml'

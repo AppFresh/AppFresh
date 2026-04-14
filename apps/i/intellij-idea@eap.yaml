@@ -1,8 +1,8 @@
-app_token: "intellij-idea@eap"
-name: "IntelliJ IDEA Ultimate (EAP)"
-desc: "Java IDE by JetBrains"
-homepage: "https://www.jetbrains.com/idea/"
+app_token: intellij-idea@eap
+name: IntelliJ IDEA Ultimate (EAP)
+desc: Java IDE by JetBrains
+homepage: 'https://www.jetbrains.com/idea/'
 
 sources:
   - type: homebrew
-    cask: "intellij-idea@eap"
+    cask: intellij-idea@eap

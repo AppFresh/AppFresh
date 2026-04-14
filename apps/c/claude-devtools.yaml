@@ -1,12 +1,12 @@
-app_token: "claude-devtools"
-name: "Claude DevTools"
-desc: "Visualise and analyse Claude Code session executions"
-homepage: "https://github.com/matt1398/claude-devtools"
-bundle_id: "com.claudecode.context"
+app_token: claude-devtools
+name: Claude DevTools
+desc: Visualise and analyse Claude Code session executions
+homepage: 'https://github.com/matt1398/claude-devtools'
+bundle_id: com.claudecode.context
 
 sources:
   - type: homebrew
-    cask: "claude-devtools"
+    cask: claude-devtools
 
   - type: github
-    repo: "matt1398/claude-devtools"
+    repo: matt1398/claude-devtools

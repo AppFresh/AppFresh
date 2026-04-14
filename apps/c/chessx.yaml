@@ -1,9 +1,9 @@
-app_token: "chessx"
-name: "ChessX"
-desc: "Chess database"
-homepage: "https://chessx.sourceforge.io/"
-bundle_id: "net.sourceforge.chessx"
+app_token: chessx
+name: ChessX
+desc: Chess database
+homepage: 'https://chessx.sourceforge.io/'
+bundle_id: net.sourceforge.chessx
 
 sources:
   - type: homebrew
-    cask: "chessx"
+    cask: chessx

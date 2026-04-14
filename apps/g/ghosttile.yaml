@@ -1,9 +1,9 @@
-app_token: "ghosttile"
-name: "Kernelpanic GhostTile"
-desc: "Hide your running applications from Dock"
-homepage: "https://ghosttile.kernelpanic.im/"
-bundle_id: "im.kernelpanic.GhostTile"
+app_token: ghosttile
+name: Kernelpanic GhostTile
+desc: Hide your running applications from Dock
+homepage: 'https://ghosttile.kernelpanic.im/'
+bundle_id: im.kernelpanic.GhostTile
 
 sources:
   - type: homebrew
-    cask: "ghosttile"
+    cask: ghosttile

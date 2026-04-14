@@ -1,15 +1,15 @@
-app_token: "transmission"
-name: "Transmission"
-desc: "Open-source BitTorrent client"
-homepage: "https://transmissionbt.com/"
-bundle_id: "org.m0k.transmission"
+app_token: transmission
+name: Transmission
+desc: Open-source BitTorrent client
+homepage: 'https://transmissionbt.com/'
+bundle_id: org.m0k.transmission
 
 sources:
   - type: homebrew
-    cask: "transmission"
+    cask: transmission
 
   - type: homebrew
-    cask: "transmission@beta"
+    cask: transmission@beta
 
   - type: homebrew
-    cask: "transmission@nightly"
+    cask: transmission@nightly

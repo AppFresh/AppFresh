@@ -1,9 +1,9 @@
-app_token: "chiaki"
-name: "Chiaki"
-desc: "PlayStation remote play client"
-homepage: "https://git.sr.ht/~thestr4ng3r/chiaki"
-bundle_id: "org.chiaki.chiaki"
+app_token: chiaki
+name: Chiaki
+desc: PlayStation remote play client
+homepage: 'https://git.sr.ht/~thestr4ng3r/chiaki'
+bundle_id: org.chiaki.chiaki
 
 sources:
   - type: homebrew
-    cask: "chiaki"
+    cask: chiaki

@@ -1,9 +1,9 @@
-app_token: "cursor"
-name: "Cursor"
-desc: "Write, edit, and chat about your code with AI"
-homepage: "https://www.cursor.com/"
-bundle_id: "com.todesktop.230313mzl4w4u92"
+app_token: cursor
+name: Cursor
+desc: Write, edit, and chat about your code with AI
+homepage: 'https://www.cursor.com/'
+bundle_id: com.todesktop.230313mzl4w4u92
 
 sources:
   - type: homebrew
-    cask: "cursor"
+    cask: cursor

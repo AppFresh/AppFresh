@@ -1,12 +1,12 @@
-app_token: "network-radar"
-name: "Network Radar"
-desc: "Tool to scan and monitor the network"
-homepage: "https://www.witt-software.com/networkradar"
-bundle_id: "com.mac-attender.Network-Radar"
+app_token: network-radar
+name: Network Radar
+desc: Tool to scan and monitor the network
+homepage: 'https://www.witt-software.com/networkradar'
+bundle_id: com.mac-attender.Network-Radar
 
 sources:
   - type: homebrew
-    cask: "network-radar"
+    cask: network-radar
 
   - type: sparkle
-    url: "https://www.witt-software.com/downloads/networkradar/appcast.xml"
+    url: 'https://www.witt-software.com/downloads/networkradar/appcast.xml'

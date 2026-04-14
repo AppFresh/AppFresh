@@ -1,12 +1,12 @@
-app_token: "qq"
-name: "QQ"
-desc: "Instant messaging tool"
-homepage: "https://im.qq.com/macqq/index.shtml"
-bundle_id: "com.tencent.qq"
+app_token: qq
+name: QQ
+desc: Instant messaging tool
+homepage: 'https://im.qq.com/macqq/index.shtml'
+bundle_id: com.tencent.qq
 
 sources:
   - type: homebrew
-    cask: "qq"
+    cask: qq
 
   - type: appstore
-    app_id: "451108668"
+    app_id: '451108668'

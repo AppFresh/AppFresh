@@ -1,12 +1,12 @@
-app_token: "wailbrew"
-name: "WailBrew"
-desc: "Minimalistic Homebrew GUI made with Go, Wails and React."
-homepage: "https://wailbrew.app"
-bundle_id: "io.github.wickenico.wailbrew"
+app_token: wailbrew
+name: WailBrew
+desc: Minimalistic Homebrew GUI made with Go, Wails and React.
+homepage: 'https://wailbrew.app'
+bundle_id: io.github.wickenico.wailbrew
 
 sources:
   - type: homebrew
-    cask: "wailbrew"
+    cask: wailbrew
 
   - type: github
-    repo: "wickenico/WailBrew"
+    repo: wickenico/WailBrew

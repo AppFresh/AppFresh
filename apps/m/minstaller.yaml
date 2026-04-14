@@ -1,12 +1,12 @@
-app_token: "minstaller"
-name: "mInstaller"
-desc: "Downloader and manager for MotionVFX products"
-homepage: "https://www.motionvfx.com/"
-bundle_id: "com.motionvfx.mInstaller"
+app_token: minstaller
+name: mInstaller
+desc: Downloader and manager for MotionVFX products
+homepage: 'https://www.motionvfx.com/'
+bundle_id: com.motionvfx.mInstaller
 
 sources:
   - type: homebrew
-    cask: "minstaller"
+    cask: minstaller
 
   - type: sparkle
-    url: "https://s3.motionvfx.com/mvfxpublic/mInstaller/sparkle/appcast.xml"
+    url: 'https://s3.motionvfx.com/mvfxpublic/mInstaller/sparkle/appcast.xml'

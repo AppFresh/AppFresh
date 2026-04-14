@@ -1,11 +1,12 @@
-app_token: "deezer"
-name: "Deezer"
-desc: "Music player"
-homepage: "https://www.deezer.com/download"
-bundle_id: "com.deezer.deezer-desktop"
+app_token: deezer
+name: Deezer
+desc: Music player
+homepage: 'https://www.deezer.com/download'
+bundle_id: com.deezer.deezer-desktop
 
 sources:
   - type: homebrew
-    cask: "deezer"
+    cask: deezer
 
   - type: electron
+    url: 'https://www.deezer.com/desktop/update/latest.yml?architecture=x64&platform=darwin&platformVersion=99'

@@ -1,12 +1,12 @@
-app_token: "stillcolor"
-name: "Stillcolor"
-desc: "Tool to disable temporal dithering on Apple Silicon Macs"
-homepage: "https://github.com/aiaf/Stillcolor"
-bundle_id: "com.makkuk.Stillcolor"
+app_token: stillcolor
+name: Stillcolor
+desc: Tool to disable temporal dithering on Apple Silicon Macs
+homepage: 'https://github.com/aiaf/Stillcolor'
+bundle_id: com.makkuk.Stillcolor
 
 sources:
   - type: homebrew
-    cask: "stillcolor"
+    cask: stillcolor
 
   - type: github
-    repo: "aiaf/Stillcolor"
+    repo: aiaf/Stillcolor

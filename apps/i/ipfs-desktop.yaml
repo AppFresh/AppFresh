@@ -1,12 +1,12 @@
-app_token: "ipfs-desktop"
-name: "IPFS Desktop"
-desc: "Menu bar application for the IPFS peer-to-peer network"
-homepage: "https://github.com/ipfs/ipfs-desktop"
-bundle_id: "io.ipfs.desktop"
+app_token: ipfs-desktop
+name: IPFS Desktop
+desc: Menu bar application for the IPFS peer-to-peer network
+homepage: 'https://github.com/ipfs/ipfs-desktop'
+bundle_id: io.ipfs.desktop
 
 sources:
   - type: homebrew
-    cask: "ipfs-desktop"
+    cask: ipfs-desktop
 
   - type: github
-    repo: "ipfs/ipfs-desktop"
+    repo: ipfs/ipfs-desktop

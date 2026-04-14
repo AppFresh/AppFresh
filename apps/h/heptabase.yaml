@@ -1,12 +1,12 @@
-app_token: "heptabase"
-name: "Hepta"
-desc: "Note-taking tool for visual learning"
-homepage: "https://heptabase.com/"
-bundle_id: "app.projectmeta.projectmeta"
+app_token: heptabase
+name: Hepta
+desc: Note-taking tool for visual learning
+homepage: 'https://heptabase.com/'
+bundle_id: app.projectmeta.projectmeta
 
 sources:
   - type: homebrew
-    cask: "heptabase"
+    cask: heptabase
 
   - type: github
-    repo: "heptameta/project-meta"
+    repo: heptameta/project-meta

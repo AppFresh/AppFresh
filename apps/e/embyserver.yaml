@@ -1,13 +1,13 @@
-app_token: "embyserver"
-name: "Emby Server"
-desc: "Personal media server with apps on just about every device"
-homepage: "https://emby.media/"
-bundle_id: "com.embyapp.embymediaserver"
+app_token: embyserver
+name: Emby Server
+desc: Personal media server with apps on just about every device
+homepage: 'https://emby.media/'
+bundle_id: com.embyapp.embymediaserver
 
 sources:
   - type: homebrew
-    cask: "embyserver"
+    cask: embyserver
 
   - type: github
-    repo: "MediaBrowser/Emby.Releases"
-    regex: "embyserver-osx-arm64-([\d.]+)\.zip"
+    repo: MediaBrowser/Emby.Releases
+    regex: 'embyserver-osx-arm64-([\d.]+)\.zip'

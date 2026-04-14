@@ -1,12 +1,12 @@
-app_token: "onecast"
-name: "OneCast"
-desc: "Xbox remote play"
-homepage: "https://www.onecast.me/"
-bundle_id: "com.onecast.macos"
+app_token: onecast
+name: OneCast
+desc: Xbox remote play
+homepage: 'https://www.onecast.me/'
+bundle_id: com.onecast.macos
 
 sources:
   - type: homebrew
-    cask: "onecast"
+    cask: onecast
 
   - type: sparkle
-    url: "https://www.onecast.me/updates/appcast.xml"
+    url: 'https://www.onecast.me/updates/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "avidemux"
-name: "Avidemux"
-desc: "Video editor"
-homepage: "https://www.avidemux.org/"
-bundle_id: "Avidemux.org"
+app_token: avidemux
+name: Avidemux
+desc: Video editor
+homepage: 'https://www.avidemux.org/'
+bundle_id: Avidemux.org
 
 sources:
   - type: homebrew
-    cask: "avidemux"
+    cask: avidemux

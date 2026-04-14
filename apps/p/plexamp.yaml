@@ -1,11 +1,11 @@
-app_token: "plexamp"
-name: "Plexamp"
-desc: "Music player focusing on visuals"
-homepage: "https://plexamp.com/"
-bundle_id: "tv.plex.plexamp"
+app_token: plexamp
+name: Plexamp
+desc: Music player focusing on visuals
+homepage: 'https://plexamp.com/'
+bundle_id: tv.plex.plexamp
 
 sources:
   - type: homebrew
-    cask: "plexamp"
+    cask: plexamp
 
   - type: electron

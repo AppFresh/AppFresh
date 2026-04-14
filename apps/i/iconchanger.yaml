@@ -1,12 +1,12 @@
-app_token: "iconchanger"
-name: "IconChanger"
-desc: "Change your app's icon"
-homepage: "https://github.com/underthestars-zhy/IconChanger"
-bundle_id: "com.zhuhaoyu.IconChanger"
+app_token: iconchanger
+name: IconChanger
+desc: Change your app's icon
+homepage: 'https://github.com/underthestars-zhy/IconChanger'
+bundle_id: com.zhuhaoyu.IconChanger
 
 sources:
   - type: homebrew
-    cask: "iconchanger"
+    cask: iconchanger
 
   - type: github
-    repo: "underthestars-zhy/IconChanger"
+    repo: underthestars-zhy/IconChanger

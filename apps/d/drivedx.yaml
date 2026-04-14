@@ -1,12 +1,12 @@
-app_token: "drivedx"
-name: "DriveDX"
-desc: "Drive health diagnostic & monitoring tool"
-homepage: "https://binaryfruit.com/drivedx"
-bundle_id: "com.binaryfruit.DriveDx"
+app_token: drivedx
+name: DriveDX
+desc: Drive health diagnostic & monitoring tool
+homepage: 'https://binaryfruit.com/drivedx'
+bundle_id: com.binaryfruit.DriveDx
 
 sources:
   - type: homebrew
-    cask: "drivedx"
+    cask: drivedx
 
   - type: sparkle
-    url: "https://binaryfruit.com/download/drivedx/mac/1/updates/"
+    url: 'https://binaryfruit.com/download/drivedx/mac/1/updates/'

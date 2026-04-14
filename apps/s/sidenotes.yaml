@@ -1,12 +1,12 @@
-app_token: "sidenotes"
-name: "SideNotes"
-desc: "Note-taking application"
-homepage: "https://www.apptorium.com/sidenotes"
-bundle_id: "com.apptorium.SideNotes-paddle"
+app_token: sidenotes
+name: SideNotes
+desc: Note-taking application
+homepage: 'https://www.apptorium.com/sidenotes'
+bundle_id: com.apptorium.SideNotes-paddle
 
 sources:
   - type: homebrew
-    cask: "sidenotes"
+    cask: sidenotes
 
   - type: sparkle
-    url: "https://www.apptorium.com/updates/sidenotes"
+    url: 'https://www.apptorium.com/updates/sidenotes'

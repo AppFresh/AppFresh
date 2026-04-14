@@ -1,12 +1,12 @@
-app_token: "xbar"
-name: "xbar"
-desc: "View output from scripts in the menu bar"
-homepage: "https://xbarapp.com/"
-bundle_id: "com.xbarapp.app"
+app_token: xbar
+name: xbar
+desc: View output from scripts in the menu bar
+homepage: 'https://xbarapp.com/'
+bundle_id: com.xbarapp.app
 
 sources:
   - type: homebrew
-    cask: "xbar"
+    cask: xbar
 
   - type: github
-    repo: "matryer/xbar"
+    repo: matryer/xbar

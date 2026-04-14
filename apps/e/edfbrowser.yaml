@@ -1,9 +1,9 @@
-app_token: "edfbrowser"
-name: "EDFbrowser"
-desc: "EDF+ and BDF+ viewer and toolbox"
-homepage: "https://www.teuniz.net/edfbrowser"
-bundle_id: "net.teuniz.EDFbrowser"
+app_token: edfbrowser
+name: EDFbrowser
+desc: EDF+ and BDF+ viewer and toolbox
+homepage: 'https://www.teuniz.net/edfbrowser'
+bundle_id: net.teuniz.EDFbrowser
 
 sources:
   - type: homebrew
-    cask: "edfbrowser"
+    cask: edfbrowser

@@ -1,12 +1,12 @@
-app_token: "scummvm-app"
-name: "ScummVM"
-desc: "Run classic graphical adventure and role-playing games"
-homepage: "https://www.scummvm.org/"
-bundle_id: "org.scummvm.app"
+app_token: scummvm-app
+name: ScummVM
+desc: Run classic graphical adventure and role-playing games
+homepage: 'https://www.scummvm.org/'
+bundle_id: org.scummvm.app
 
 sources:
   - type: homebrew
-    cask: "scummvm-app"
+    cask: scummvm-app
 
   - type: sparkle
-    url: "https://www.scummvm.org/appcasts/macosx/release.xml"
+    url: 'https://www.scummvm.org/appcasts/macosx/release.xml'

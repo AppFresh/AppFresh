@@ -1,12 +1,12 @@
-app_token: "smoothscroll"
-name: "SmoothScroll"
-desc: "Smooth mouse scrolling utility"
-homepage: "https://www.smoothscroll.net/"
-bundle_id: "com.galambalazs.SmoothScroll"
+app_token: smoothscroll
+name: SmoothScroll
+desc: Smooth mouse scrolling utility
+homepage: 'https://www.smoothscroll.net/'
+bundle_id: com.galambalazs.SmoothScroll
 
 sources:
   - type: homebrew
-    cask: "smoothscroll"
+    cask: smoothscroll
 
   - type: sparkle
-    url: "https://updater.smoothscroll.net/mac/updater.xml"
+    url: 'https://updater.smoothscroll.net/mac/updater.xml'

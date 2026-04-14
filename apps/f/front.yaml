@@ -1,11 +1,11 @@
-app_token: "front"
-name: "Front"
-desc: "Customer communication platform"
-homepage: "https://front.com/"
-bundle_id: "com.frontapp.Front"
+app_token: front
+name: Front
+desc: Customer communication platform
+homepage: 'https://front.com/'
+bundle_id: com.frontapp.Front
 
 sources:
   - type: homebrew
-    cask: "front"
+    cask: front
 
   - type: electron

@@ -1,12 +1,12 @@
-app_token: "pictogram"
-name: "Pictogram"
-desc: "Customise and maintain app icons"
-homepage: "https://pictogramapp.com/"
-bundle_id: "com.NeilSardesai.Pictogram"
+app_token: pictogram
+name: Pictogram
+desc: Customise and maintain app icons
+homepage: 'https://pictogramapp.com/'
+bundle_id: com.NeilSardesai.Pictogram
 
 sources:
   - type: homebrew
-    cask: "pictogram"
+    cask: pictogram
 
   - type: sparkle
-    url: "https://pictogramapp.com/updates/appcast.xml"
+    url: 'https://pictogramapp.com/updates/appcast.xml'

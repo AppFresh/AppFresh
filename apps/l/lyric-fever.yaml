@@ -1,15 +1,15 @@
-app_token: "lyric-fever"
-name: "Lyric Fever"
-desc: "Lyrics for Apple Music and Spotify"
-homepage: "https://lyricfever.com/"
-bundle_id: "com.aviwadhwa.SpotifyLyricsInMenubar"
+app_token: lyric-fever
+name: Lyric Fever
+desc: Lyrics for Apple Music and Spotify
+homepage: 'https://lyricfever.com/'
+bundle_id: com.aviwadhwa.SpotifyLyricsInMenubar
 
 sources:
   - type: homebrew
-    cask: "lyric-fever"
+    cask: lyric-fever
 
   - type: github
-    repo: "aviwad/LyricFever"
+    repo: aviwad/LyricFever
 
   - type: sparkle
-    url: "https://aviwad.github.io/SpotifyLyricsInMenubar/appcast.xml"
+    url: 'https://aviwad.github.io/SpotifyLyricsInMenubar/appcast.xml'

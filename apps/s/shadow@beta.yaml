@@ -1,8 +1,8 @@
-app_token: "shadow@beta"
-name: "Shadow Beta"
-desc: "Online virtualised computer"
-homepage: "https://shadow.tech/"
+app_token: shadow@beta
+name: Shadow Beta
+desc: Online virtualised computer
+homepage: 'https://shadow.tech/'
 
 sources:
   - type: homebrew
-    cask: "shadow@beta"
+    cask: shadow@beta

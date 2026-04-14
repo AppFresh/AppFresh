@@ -1,12 +1,12 @@
-app_token: "opal-app"
-name: "Opal"
-desc: "Screen time app"
-homepage: "https://www.opal.so/"
-bundle_id: "com.withopal.opalmacos"
+app_token: opal-app
+name: Opal
+desc: Screen time app
+homepage: 'https://www.opal.so/'
+bundle_id: com.withopal.opalmacos
 
 sources:
   - type: homebrew
-    cask: "opal-app"
+    cask: opal-app
 
   - type: sparkle
-    url: "https://downloads.opal.so/mac/appcast.xml"
+    url: 'https://downloads.opal.so/mac/appcast.xml'

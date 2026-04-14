@@ -1,12 +1,12 @@
-app_token: "qlvideo"
-name: "QuickLook Video"
-desc: "Thumbnails, static previews, cover art and metadata for video files"
-homepage: "https://github.com/Marginal/QLVideo"
-bundle_id: "uk.org.marginal.qlvideo"
+app_token: qlvideo
+name: QuickLook Video
+desc: Thumbnails, static previews, cover art and metadata for video files
+homepage: 'https://github.com/Marginal/QLVideo'
+bundle_id: uk.org.marginal.qlvideo
 
 sources:
   - type: homebrew
-    cask: "qlvideo"
+    cask: qlvideo
 
   - type: github
-    repo: "Marginal/QLVideo"
+    repo: Marginal/QLVideo

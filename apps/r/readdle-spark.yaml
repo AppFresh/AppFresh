@@ -1,12 +1,12 @@
-app_token: "readdle-spark"
-name: "Spark"
-desc: "Email client"
-homepage: "https://sparkmailapp.com/"
-bundle_id: "com.readdle.SparkDesktop"
+app_token: readdle-spark
+name: Spark
+desc: Email client
+homepage: 'https://sparkmailapp.com/'
+bundle_id: com.readdle.SparkDesktop
 
 sources:
   - type: homebrew
-    cask: "readdle-spark"
+    cask: readdle-spark
 
   - type: sparkle
-    url: "https://downloads.sparkmailapp.com/Spark3/mac/dist/appcast.xml"
+    url: 'https://downloads.sparkmailapp.com/Spark3/mac/dist/appcast.xml'

@@ -1,15 +1,15 @@
-app_token: "fork"
-name: "Fork"
-desc: "GIT client"
-homepage: "https://fork.dev/"
-bundle_id: "com.DanPristupov.Fork"
+app_token: fork
+name: Fork
+desc: GIT client
+homepage: 'https://fork.dev/'
+bundle_id: com.DanPristupov.Fork
 
 sources:
   - type: homebrew
-    cask: "fork"
+    cask: fork
 
   - type: sparkle
-    url: "https://fork.dev/update/feed-stable.xml"
+    url: 'https://fork.dev/update/feed-stable.xml'
 
   - type: homebrew
-    cask: "fork@dev"
+    cask: fork@dev

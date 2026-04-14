@@ -1,12 +1,12 @@
-app_token: "flycut"
-name: "Flycut"
-desc: "Clipboard manager for developers"
-homepage: "https://github.com/TermiT/Flycut"
-bundle_id: "com.generalarcade.flycut"
+app_token: flycut
+name: Flycut
+desc: Clipboard manager for developers
+homepage: 'https://github.com/TermiT/Flycut'
+bundle_id: com.generalarcade.flycut
 
 sources:
   - type: homebrew
-    cask: "flycut"
+    cask: flycut
 
   - type: github
-    repo: "TermiT/Flycut"
+    repo: TermiT/Flycut

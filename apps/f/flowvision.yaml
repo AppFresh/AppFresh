@@ -1,9 +1,9 @@
-app_token: "flowvision"
-name: "FlowVision"
-desc: "Waterfall-style image viewer"
-homepage: "https://flowvision.app/"
-bundle_id: "netdcy.FlowVision"
+app_token: flowvision
+name: FlowVision
+desc: Waterfall-style image viewer
+homepage: 'https://flowvision.app/'
+bundle_id: netdcy.FlowVision
 
 sources:
   - type: homebrew
-    cask: "flowvision"
+    cask: flowvision

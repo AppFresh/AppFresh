@@ -1,12 +1,12 @@
-app_token: "gyroflow"
-name: "Gyroflow"
-desc: "Video stabilization using gyroscope data"
-homepage: "https://gyroflow.xyz/"
-bundle_id: "xyz.gyroflow"
+app_token: gyroflow
+name: Gyroflow
+desc: Video stabilization using gyroscope data
+homepage: 'https://gyroflow.xyz/'
+bundle_id: xyz.gyroflow
 
 sources:
   - type: homebrew
-    cask: "gyroflow"
+    cask: gyroflow
 
   - type: github
-    repo: "gyroflow/gyroflow"
+    repo: gyroflow/gyroflow

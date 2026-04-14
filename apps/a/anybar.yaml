@@ -1,11 +1,11 @@
-app_token: "anybar"
-name: "AnyBar"
-desc: "OS X menubar status indicator"
-bundle_id: "tonsky.AnyBar"
+app_token: anybar
+name: AnyBar
+desc: OS X menubar status indicator
+bundle_id: tonsky.AnyBar
 
 sources:
   - type: homebrew
-    cask: "anybar"
+    cask: anybar
 
   - type: github
-    repo: "tonsky/AnyBar"
+    repo: tonsky/AnyBar

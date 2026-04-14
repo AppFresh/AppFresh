@@ -1,12 +1,12 @@
-app_token: "balenaetcher"
-name: "Etcher"
-desc: "Tool to flash OS images to SD cards & USB drives"
-homepage: "https://balena.io/etcher"
-bundle_id: "io.balena.etcher"
+app_token: balenaetcher
+name: Etcher
+desc: Tool to flash OS images to SD cards & USB drives
+homepage: 'https://balena.io/etcher'
+bundle_id: io.balena.etcher
 
 sources:
   - type: homebrew
-    cask: "balenaetcher"
+    cask: balenaetcher
 
   - type: github
-    repo: "balena-io/etcher"
+    repo: balena-io/etcher

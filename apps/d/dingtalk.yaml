@@ -1,13 +1,13 @@
-app_token: "dingtalk"
-name: "DingTalk"
-name_cn: "钉钉"
-desc: "Teamwork app by Alibaba Group"
-homepage: "https://www.dingtalk.com/"
-bundle_id: "com.alibaba.DingTalkMac"
+app_token: dingtalk
+name: DingTalk
+name_cn: 钉钉
+desc: Teamwork app by Alibaba Group
+homepage: 'https://www.dingtalk.com/'
+bundle_id: com.alibaba.DingTalkMac
 
 sources:
   - type: homebrew
-    cask: "dingtalk"
+    cask: dingtalk
 
   - type: sparkle
-    url: "https://im.dingtalk.com/manifest/appcast_gray_release.xml"
+    url: 'https://im.dingtalk.com/manifest/appcast_gray_release.xml'

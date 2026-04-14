@@ -1,9 +1,9 @@
-app_token: "jedit"
-name: "jEdit"
-desc: "Text editor"
-homepage: "https://www.jedit.org/"
-bundle_id: "org.gjt.sp.jedit"
+app_token: jedit
+name: jEdit
+desc: Text editor
+homepage: 'https://www.jedit.org/'
+bundle_id: org.gjt.sp.jedit
 
 sources:
   - type: homebrew
-    cask: "jedit"
+    cask: jedit

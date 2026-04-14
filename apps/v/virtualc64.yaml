@@ -1,12 +1,12 @@
-app_token: "virtualc64"
-name: "VirtualC64"
-desc: "Cycle-accurate C64 emulator"
-homepage: "https://dirkwhoffmann.github.io/virtualc64"
-bundle_id: "de.dirkwhoffmann.VC64"
+app_token: virtualc64
+name: VirtualC64
+desc: Cycle-accurate C64 emulator
+homepage: 'https://dirkwhoffmann.github.io/virtualc64'
+bundle_id: de.dirkwhoffmann.VC64
 
 sources:
   - type: homebrew
-    cask: "virtualc64"
+    cask: virtualc64
 
   - type: github
-    repo: "dirkwhoffmann/virtualc64"
+    repo: dirkwhoffmann/virtualc64

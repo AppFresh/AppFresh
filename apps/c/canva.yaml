@@ -1,11 +1,12 @@
-app_token: "canva"
-name: "Canva"
-desc: "Design tool"
-homepage: "https://www.canva.com/"
-bundle_id: "com.canva.CanvaDesktop"
+app_token: canva
+name: Canva
+desc: Design tool
+homepage: 'https://www.canva.com/'
+bundle_id: com.canva.CanvaDesktop
 
 sources:
   - type: homebrew
-    cask: "canva"
+    cask: canva
 
   - type: electron
+    url: 'https://desktop-release.canva.com/latest-mac.yml'

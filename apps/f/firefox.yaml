@@ -1,15 +1,15 @@
-app_token: "firefox"
-name: "Firefox"
-desc: "Web browser"
-homepage: "https://www.firefox.com/"
-bundle_id: "org.mozilla.firefox"
+app_token: firefox
+name: Firefox
+desc: Web browser
+homepage: 'https://www.firefox.com/'
+bundle_id: org.mozilla.firefox
 
 sources:
   - type: homebrew
-    cask: "firefox"
+    cask: firefox
 
   - type: homebrew
-    cask: "firefox@esr"
+    cask: firefox@esr
 
   - type: homebrew
-    cask: "firefox@beta"
+    cask: firefox@beta

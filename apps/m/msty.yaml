@@ -1,9 +1,9 @@
-app_token: "msty"
-name: "Msty"
-desc: "Run LLMs locally"
-homepage: "https://msty.app/"
-bundle_id: "app.msty.app"
+app_token: msty
+name: Msty
+desc: Run LLMs locally
+homepage: 'https://msty.app/'
+bundle_id: app.msty.app
 
 sources:
   - type: homebrew
-    cask: "msty"
+    cask: msty

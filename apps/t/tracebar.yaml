@@ -1,15 +1,15 @@
-app_token: "tracebar"
-name: "TraceBar"
-desc: "an mtr-like traceroute utility that lives in your MacOS menubar"
-bundle_id: "org.evilscheme.TraceBar"
+app_token: tracebar
+name: TraceBar
+desc: an mtr-like traceroute utility that lives in your MacOS menubar
+bundle_id: org.evilscheme.TraceBar
 
 sources:
   - type: homebrew
-    tap: "tracebar-app/tracebar"
-    cask: "tracebar"
+    tap: tracebar-app/tracebar
+    cask: tracebar
 
   - type: github
-    repo: "tracebar-app/tracebar"
+    repo: tracebar-app/tracebar
 
   - type: appstore
-    app_id: "6760156527"
+    app_id: '6760156527'

@@ -1,12 +1,12 @@
-app_token: "passepartout"
-name: "Passepartout"
-desc: "OpenVPN and WireGuard client"
-homepage: "https://passepartoutvpn.app/"
-bundle_id: "com.algoritmico.mac.Passepartout"
+app_token: passepartout
+name: Passepartout
+desc: OpenVPN and WireGuard client
+homepage: 'https://passepartoutvpn.app/'
+bundle_id: com.algoritmico.mac.Passepartout
 
 sources:
   - type: homebrew
-    cask: "passepartout"
+    cask: passepartout
 
   - type: github
-    repo: "passepartoutvpn/passepartout"
+    repo: passepartoutvpn/passepartout

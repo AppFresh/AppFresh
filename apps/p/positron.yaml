@@ -1,9 +1,9 @@
-app_token: "positron"
-name: "Positron"
-desc: "Data science IDE"
-homepage: "https://positron.posit.co/"
-bundle_id: "co.posit.positron"
+app_token: positron
+name: Positron
+desc: Data science IDE
+homepage: 'https://positron.posit.co/'
+bundle_id: co.posit.positron
 
 sources:
   - type: homebrew
-    cask: "positron"
+    cask: positron

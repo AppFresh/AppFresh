@@ -1,9 +1,9 @@
-app_token: "airtable"
-name: "Airtable"
-desc: "Spreadsheet-database hybrid cloud collaboration"
-homepage: "https://airtable.com/"
-bundle_id: "com.FormaGrid.Airtable"
+app_token: airtable
+name: Airtable
+desc: Spreadsheet-database hybrid cloud collaboration
+homepage: 'https://airtable.com/'
+bundle_id: com.FormaGrid.Airtable
 
 sources:
   - type: homebrew
-    cask: "airtable"
+    cask: airtable

@@ -1,12 +1,12 @@
-app_token: "coconutbattery"
-name: "coconutBattery"
-desc: "Tool to show live information about the batteries in various devices"
-homepage: "https://www.coconut-flavour.com/coconutbattery/"
-bundle_id: "com.coconut-flavour.coconutBattery"
+app_token: coconutbattery
+name: coconutBattery
+desc: Tool to show live information about the batteries in various devices
+homepage: 'https://www.coconut-flavour.com/coconutbattery/'
+bundle_id: com.coconut-flavour.coconutBattery
 
 sources:
   - type: homebrew
-    cask: "coconutbattery"
+    cask: coconutbattery
 
   - type: sparkle
-    url: "https://coconut-flavour.com/updates/coconutBattery_4.xml"
+    url: 'https://coconut-flavour.com/updates/coconutBattery_4.xml'

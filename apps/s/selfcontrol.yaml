@@ -1,12 +1,12 @@
-app_token: "selfcontrol"
-name: "SelfControl"
-desc: "Block your own access to distracting websites"
-homepage: "https://selfcontrolapp.com/"
-bundle_id: "org.eyebeam.SelfControl"
+app_token: selfcontrol
+name: SelfControl
+desc: Block your own access to distracting websites
+homepage: 'https://selfcontrolapp.com/'
+bundle_id: org.eyebeam.SelfControl
 
 sources:
   - type: homebrew
-    cask: "selfcontrol"
+    cask: selfcontrol
 
   - type: sparkle
-    url: "https://update.selfcontrolapp.com/feeds/selfcontrol"
+    url: 'https://update.selfcontrolapp.com/feeds/selfcontrol'

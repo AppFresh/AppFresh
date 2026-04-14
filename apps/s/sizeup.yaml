@@ -1,12 +1,12 @@
-app_token: "sizeup"
-name: "SizeUp"
-desc: "Utility to resize and position application windows"
-homepage: "https://www.irradiatedsoftware.com/sizeup/"
-bundle_id: "com.irradiatedsoftware.SizeUp"
+app_token: sizeup
+name: SizeUp
+desc: Utility to resize and position application windows
+homepage: 'https://www.irradiatedsoftware.com/sizeup/'
+bundle_id: com.irradiatedsoftware.SizeUp
 
 sources:
   - type: homebrew
-    cask: "sizeup"
+    cask: sizeup
 
   - type: sparkle
-    url: "https://www.irradiatedsoftware.com/updates/profiles/sizeup.php"
+    url: 'https://www.irradiatedsoftware.com/updates/profiles/sizeup.php'

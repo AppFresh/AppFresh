@@ -1,12 +1,12 @@
-app_token: "tempbox"
-name: "Tempbox"
-desc: "Disposable email client"
-homepage: "https://tempbox.waseem.works/"
-bundle_id: "com.waseem.TempBox"
+app_token: tempbox
+name: Tempbox
+desc: Disposable email client
+homepage: 'https://tempbox.waseem.works/'
+bundle_id: com.waseem.TempBox
 
 sources:
   - type: homebrew
-    cask: "tempbox"
+    cask: tempbox
 
   - type: github
-    repo: "devwaseem/TempBox"
+    repo: devwaseem/TempBox

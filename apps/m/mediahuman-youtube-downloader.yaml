@@ -1,9 +1,9 @@
-app_token: "mediahuman-youtube-downloader"
-name: "MediaHuman YouTube Downloader"
-desc: "YouTube videos downloader"
-homepage: "https://www.mediahuman.net/youtube-video-downloader/"
-bundle_id: "org.qt-project.Qt.QtWebEngineProcess"
+app_token: mediahuman-youtube-downloader
+name: MediaHuman YouTube Downloader
+desc: YouTube videos downloader
+homepage: 'https://www.mediahuman.net/youtube-video-downloader/'
+bundle_id: org.qt-project.Qt.QtWebEngineProcess
 
 sources:
   - type: homebrew
-    cask: "mediahuman-youtube-downloader"
+    cask: mediahuman-youtube-downloader

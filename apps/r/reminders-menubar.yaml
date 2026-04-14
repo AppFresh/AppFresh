@@ -1,12 +1,12 @@
-app_token: "reminders-menubar"
-name: "Reminders MenuBar"
-desc: "Simple menu bar app to view and interact with reminders"
-homepage: "https://github.com/DamascenoRafael/reminders-menubar"
-bundle_id: "br.com.damascenorafael.reminders-menubar"
+app_token: reminders-menubar
+name: Reminders MenuBar
+desc: Simple menu bar app to view and interact with reminders
+homepage: 'https://github.com/DamascenoRafael/reminders-menubar'
+bundle_id: br.com.damascenorafael.reminders-menubar
 
 sources:
   - type: homebrew
-    cask: "reminders-menubar"
+    cask: reminders-menubar
 
   - type: github
-    repo: "DamascenoRafael/reminders-menubar"
+    repo: DamascenoRafael/reminders-menubar

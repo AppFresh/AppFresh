@@ -1,12 +1,12 @@
-app_token: "beamer"
-name: "Beamer"
-desc: "Desktop casting/streaming app for Apple TV and Chromecast"
-homepage: "https://softorino.com/beamer/"
-bundle_id: "com.softorino.beamer"
+app_token: beamer
+name: Beamer
+desc: Desktop casting/streaming app for Apple TV and Chromecast
+homepage: 'https://softorino.com/beamer/'
+bundle_id: com.softorino.beamer
 
 sources:
   - type: homebrew
-    cask: "beamer"
+    cask: beamer
 
   - type: sparkle
-    url: "https://ushining.softorino.com/appcast.php?abbr=bmrm"
+    url: 'https://ushining.softorino.com/appcast.php?abbr=bmrm'

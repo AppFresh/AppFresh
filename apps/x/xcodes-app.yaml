@@ -1,12 +1,12 @@
-app_token: "xcodes-app"
-name: "Xcodes"
-desc: "Install and switch between multiple versions of Xcode"
-homepage: "https://github.com/XcodesOrg/XcodesApp"
-bundle_id: "com.xcodesorg.xcodesapp"
+app_token: xcodes-app
+name: Xcodes
+desc: Install and switch between multiple versions of Xcode
+homepage: 'https://github.com/XcodesOrg/XcodesApp'
+bundle_id: com.xcodesorg.xcodesapp
 
 sources:
   - type: homebrew
-    cask: "xcodes-app"
+    cask: xcodes-app
 
   - type: github
-    repo: "XcodesOrg/XcodesApp"
+    repo: XcodesOrg/XcodesApp

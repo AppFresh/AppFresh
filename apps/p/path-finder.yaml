@@ -1,12 +1,12 @@
-app_token: "path-finder"
-name: "Path Finder"
-desc: "File manager"
-homepage: "https://www.cocoatech.io/"
-bundle_id: "com.cocoatech.PathFinder"
+app_token: path-finder
+name: Path Finder
+desc: File manager
+homepage: 'https://www.cocoatech.io/'
+bundle_id: com.cocoatech.PathFinder
 
 sources:
   - type: homebrew
-    cask: "path-finder"
+    cask: path-finder
 
   - type: sparkle
-    url: "https://get.cocoatech.com/releasecast.xml"
+    url: 'https://get.cocoatech.com/releasecast.xml'

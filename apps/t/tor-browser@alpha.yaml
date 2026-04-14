@@ -1,8 +1,8 @@
-app_token: "tor-browser@alpha"
-name: "Tor Browser Alpha"
-desc: "Web browser focusing on security"
-homepage: "https://www.torproject.org/"
+app_token: tor-browser@alpha
+name: Tor Browser Alpha
+desc: Web browser focusing on security
+homepage: 'https://www.torproject.org/'
 
 sources:
   - type: homebrew
-    cask: "tor-browser@alpha"
+    cask: tor-browser@alpha

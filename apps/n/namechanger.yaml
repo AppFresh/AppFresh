@@ -1,12 +1,12 @@
-app_token: "namechanger"
-name: "NameChanger"
-desc: "Rename a list of files quickly"
-homepage: "https://mrrsoftware.com/namechanger/"
-bundle_id: "com.mrrsoftware.NameChanger"
+app_token: namechanger
+name: NameChanger
+desc: Rename a list of files quickly
+homepage: 'https://mrrsoftware.com/namechanger/'
+bundle_id: com.mrrsoftware.NameChanger
 
 sources:
   - type: homebrew
-    cask: "namechanger"
+    cask: namechanger
 
   - type: sparkle
-    url: "https://mrrsoftware.com/Downloads/NameChanger/Updates/NameChangerSoftwareUpdates.xml"
+    url: 'https://mrrsoftware.com/Downloads/NameChanger/Updates/NameChangerSoftwareUpdates.xml'

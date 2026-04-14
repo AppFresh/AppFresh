@@ -1,12 +1,12 @@
-app_token: "sonixd"
-name: "Sonixd"
-desc: "Desktop client for Subsonic-API and Jellyfin music servers"
-homepage: "https://github.com/jeffvli/sonixd"
-bundle_id: "org.erb.sonixd"
+app_token: sonixd
+name: Sonixd
+desc: Desktop client for Subsonic-API and Jellyfin music servers
+homepage: 'https://github.com/jeffvli/sonixd'
+bundle_id: org.erb.sonixd
 
 sources:
   - type: homebrew
-    cask: "sonixd"
+    cask: sonixd
 
   - type: github
-    repo: "jeffvli/sonixd"
+    repo: jeffvli/sonixd

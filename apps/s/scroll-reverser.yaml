@@ -1,12 +1,12 @@
-app_token: "scroll-reverser"
-name: "Scroll Reverser"
-desc: "Tool to reverse the direction of scrolling"
-homepage: "https://pilotmoon.com/scrollreverser/"
-bundle_id: "com.pilotmoon.scroll-reverser"
+app_token: scroll-reverser
+name: Scroll Reverser
+desc: Tool to reverse the direction of scrolling
+homepage: 'https://pilotmoon.com/scrollreverser/'
+bundle_id: com.pilotmoon.scroll-reverser
 
 sources:
   - type: homebrew
-    cask: "scroll-reverser"
+    cask: scroll-reverser
 
   - type: sparkle
-    url: "https://softwareupdate.pilotmoon.com/update/scrollreverser/appcast.xml"
+    url: 'https://softwareupdate.pilotmoon.com/update/scrollreverser/appcast.xml'

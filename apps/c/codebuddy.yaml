@@ -1,9 +1,9 @@
-app_token: "codebuddy"
-name: "CodeBuddy"
-desc: "AI-powered adaptive IDE"
-homepage: "https://www.codebuddy.ai/ide/"
-bundle_id: "com.tencent.codebuddy"
+app_token: codebuddy
+name: CodeBuddy
+desc: AI-powered adaptive IDE
+homepage: 'https://www.codebuddy.ai/ide/'
+bundle_id: com.tencent.codebuddy
 
 sources:
   - type: homebrew
-    cask: "codebuddy"
+    cask: codebuddy

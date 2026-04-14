@@ -1,12 +1,12 @@
-app_token: "reamp"
-name: "re:AMP"
-desc: "WinAMP clone written in SwiftUI"
-homepage: "https://re-amp.ru/"
-bundle_id: "ru.alexfreud.ReAmp"
+app_token: reamp
+name: re:AMP
+desc: WinAMP clone written in SwiftUI
+homepage: 'https://re-amp.ru/'
+bundle_id: ru.alexfreud.ReAmp
 
 sources:
   - type: homebrew
-    cask: "reamp"
+    cask: reamp
 
   - type: sparkle
-    url: "https://re-amp.ru/app/appcast.xml"
+    url: 'https://re-amp.ru/app/appcast.xml'

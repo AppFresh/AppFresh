@@ -1,9 +1,9 @@
-app_token: "sound-control"
-name: "Sound Control"
-desc: "Per-app audio controls"
-homepage: "https://staticz.com/soundcontrol/"
-bundle_id: "com.staticz.SoundControl"
+app_token: sound-control
+name: Sound Control
+desc: Per-app audio controls
+homepage: 'https://staticz.com/soundcontrol/'
+bundle_id: com.staticz.SoundControl
 
 sources:
   - type: homebrew
-    cask: "sound-control"
+    cask: sound-control

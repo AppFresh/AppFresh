@@ -1,12 +1,12 @@
-app_token: "motrix"
-name: "Motrix"
-desc: "Open-source download manager"
-homepage: "https://motrix.app/"
-bundle_id: "app.motrix.native"
+app_token: motrix
+name: Motrix
+desc: Open-source download manager
+homepage: 'https://motrix.app/'
+bundle_id: app.motrix.native
 
 sources:
   - type: homebrew
-    cask: "motrix"
+    cask: motrix
 
   - type: github
-    repo: "agalwood/Motrix"
+    repo: agalwood/Motrix

@@ -1,8 +1,8 @@
-app_token: "reflector@2"
-name: "Reflector 2"
-desc: "Wireless screen-mirroring application"
-homepage: "https://www.airsquirrels.com/reflector/"
+app_token: reflector@2
+name: Reflector 2
+desc: Wireless screen-mirroring application
+homepage: 'https://www.airsquirrels.com/reflector/'
 
 sources:
   - type: homebrew
-    cask: "reflector@2"
+    cask: reflector@2

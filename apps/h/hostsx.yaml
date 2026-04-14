@@ -1,11 +1,11 @@
-app_token: "hostsx"
-name: "HostsX"
-desc: "A lightweight macOS app for updating local hosts"
-bundle_id: "com.alpha.hostsx"
+app_token: hostsx
+name: HostsX
+desc: A lightweight macOS app for updating local hosts
+bundle_id: com.alpha.hostsx
 
 sources:
   - type: homebrew
-    cask: "hostsx"
+    cask: hostsx
 
   - type: github
-    repo: "ZzzM/HostsX"
+    repo: ZzzM/HostsX

@@ -1,12 +1,12 @@
-app_token: "milkytracker"
-name: "MilkyTracker"
-desc: "Music tracker compatible with FT2"
-homepage: "https://milkytracker.titandemo.org/"
-bundle_id: "com.Titan.MilkyTracker"
+app_token: milkytracker
+name: MilkyTracker
+desc: Music tracker compatible with FT2
+homepage: 'https://milkytracker.titandemo.org/'
+bundle_id: com.Titan.MilkyTracker
 
 sources:
   - type: homebrew
-    cask: "milkytracker"
+    cask: milkytracker
 
   - type: github
-    repo: "milkytracker/MilkyTracker"
+    repo: milkytracker/MilkyTracker

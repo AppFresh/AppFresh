@@ -1,12 +1,12 @@
-app_token: "thecommander"
-name: "TheCommander"
-desc: "Dual-panel file manager inspired by Total Commander"
-homepage: "https://die-gutbrods.de/thecommander/"
-bundle_id: "de.die-gutbrods.TheCommander"
+app_token: thecommander
+name: TheCommander
+desc: Dual-panel file manager inspired by Total Commander
+homepage: 'https://die-gutbrods.de/thecommander/'
+bundle_id: de.die-gutbrods.TheCommander
 
 sources:
   - type: homebrew
-    cask: "thecommander"
+    cask: thecommander
 
   - type: sparkle
-    url: "https://die-gutbrods.de/thecommander/updates/appcast.xml"
+    url: 'https://die-gutbrods.de/thecommander/updates/appcast.xml'

@@ -1,8 +1,8 @@
-app_token: "opera@developer"
-name: "Opera"
-desc: "Web browser"
-homepage: "https://www.opera.com/"
+app_token: opera@developer
+name: Opera
+desc: Web browser
+homepage: 'https://www.opera.com/'
 
 sources:
   - type: homebrew
-    cask: "opera@developer"
+    cask: opera@developer

@@ -1,9 +1,9 @@
-app_token: "apparency"
-name: "Apparency"
-desc: "Inspect application bundles"
-homepage: "https://www.mothersruin.com/software/Apparency/"
-bundle_id: "com.mothersruin.Apparency"
+app_token: apparency
+name: Apparency
+desc: Inspect application bundles
+homepage: 'https://www.mothersruin.com/software/Apparency/'
+bundle_id: com.mothersruin.Apparency
 
 sources:
   - type: homebrew
-    cask: "apparency"
+    cask: apparency

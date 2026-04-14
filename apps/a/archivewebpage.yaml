@@ -1,12 +1,12 @@
-app_token: "archivewebpage"
-name: "ArchiveWeb.page"
-desc: "Archive webpages manually to WARC or WACZ files as you browse the web"
-homepage: "https://archiveweb.page/"
-bundle_id: "net.webrecorder.archivewebpage"
+app_token: archivewebpage
+name: ArchiveWeb.page
+desc: Archive webpages manually to WARC or WACZ files as you browse the web
+homepage: 'https://archiveweb.page/'
+bundle_id: net.webrecorder.archivewebpage
 
 sources:
   - type: homebrew
-    cask: "archivewebpage"
+    cask: archivewebpage
 
   - type: github
-    repo: "webrecorder/archiveweb.page"
+    repo: webrecorder/archiveweb.page

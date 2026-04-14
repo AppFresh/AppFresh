@@ -1,12 +1,12 @@
-app_token: "espanso"
-name: "Espanso"
-desc: "Cross-platform Text Expander written in Rust"
-homepage: "https://espanso.org/"
-bundle_id: "com.federicoterzi.espanso"
+app_token: espanso
+name: Espanso
+desc: Cross-platform Text Expander written in Rust
+homepage: 'https://espanso.org/'
+bundle_id: com.federicoterzi.espanso
 
 sources:
   - type: homebrew
-    cask: "espanso"
+    cask: espanso
 
   - type: github
-    repo: "espanso/espanso"
+    repo: espanso/espanso

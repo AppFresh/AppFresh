@@ -1,9 +1,9 @@
-app_token: "clips-ide"
-name: "CLIPS IDE"
-desc: "Tool for building expert systems"
-homepage: "https://www.clipsrules.net/"
-bundle_id: "com.SSoP.CLIPSIDE"
+app_token: clips-ide
+name: CLIPS IDE
+desc: Tool for building expert systems
+homepage: 'https://www.clipsrules.net/'
+bundle_id: com.SSoP.CLIPSIDE
 
 sources:
   - type: homebrew
-    cask: "clips-ide"
+    cask: clips-ide

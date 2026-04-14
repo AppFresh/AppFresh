@@ -1,12 +1,12 @@
-app_token: "qview"
-name: "qView"
-desc: "Image viewer"
-homepage: "https://github.com/jurplel/qView/"
-bundle_id: "com.interversehq.qView"
+app_token: qview
+name: qView
+desc: Image viewer
+homepage: 'https://github.com/jurplel/qView/'
+bundle_id: com.interversehq.qView
 
 sources:
   - type: homebrew
-    cask: "qview"
+    cask: qview
 
   - type: github
-    repo: "jurplel/qView"
+    repo: jurplel/qView

@@ -1,9 +1,9 @@
-app_token: "spike"
-name: "Lego SPIKE"
-desc: "Develop with Scratch and Python for your LEGO Spike set"
-homepage: "https://education.lego.com/"
-bundle_id: "com.lego.education.spikenext"
+app_token: spike
+name: Lego SPIKE
+desc: Develop with Scratch and Python for your LEGO Spike set
+homepage: 'https://education.lego.com/'
+bundle_id: com.lego.education.spikenext
 
 sources:
   - type: homebrew
-    cask: "spike"
+    cask: spike

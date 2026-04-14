@@ -1,9 +1,9 @@
-app_token: "ai-studio"
-name: "Altair AI Studio"
-desc: "Data science platform"
-homepage: "https://altair.com/altair-rapidminer"
-bundle_id: "com.rapidminer.studio"
+app_token: ai-studio
+name: Altair AI Studio
+desc: Data science platform
+homepage: 'https://altair.com/altair-rapidminer'
+bundle_id: com.rapidminer.studio
 
 sources:
   - type: homebrew
-    cask: "ai-studio"
+    cask: ai-studio

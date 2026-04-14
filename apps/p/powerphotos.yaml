@@ -1,12 +1,12 @@
-app_token: "powerphotos"
-name: "PowerPhotos"
-desc: "Tool to organise photo libraries"
-homepage: "https://www.fatcatsoftware.com/powerphotos/"
-bundle_id: "com.fatcatsoftware.PowerPhotos"
+app_token: powerphotos
+name: PowerPhotos
+desc: Tool to organise photo libraries
+homepage: 'https://www.fatcatsoftware.com/powerphotos/'
+bundle_id: com.fatcatsoftware.PowerPhotos
 
 sources:
   - type: homebrew
-    cask: "powerphotos"
+    cask: powerphotos
 
   - type: sparkle
-    url: "https://www.fatcatsoftware.com/powerphotos/downloads/appcast.xml"
+    url: 'https://www.fatcatsoftware.com/powerphotos/downloads/appcast.xml'

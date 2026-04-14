@@ -1,12 +1,12 @@
-app_token: "floorp"
-name: "Floorp browser"
-desc: "Privacy-focused Firefox-based browser"
-homepage: "https://floorp.app/"
-bundle_id: "org.mozilla.floorp"
+app_token: floorp
+name: Floorp browser
+desc: Privacy-focused Firefox-based browser
+homepage: 'https://floorp.app/'
+bundle_id: org.mozilla.floorp
 
 sources:
   - type: homebrew
-    cask: "floorp"
+    cask: floorp
 
   - type: github
-    repo: "Floorp-Projects/Floorp"
+    repo: Floorp-Projects/Floorp

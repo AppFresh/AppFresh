@@ -1,9 +1,9 @@
-app_token: "scrapp"
-name: "Scrapp"
-desc: "Screenshot tool with cloud storage"
-homepage: "https://scrapp.me/"
-bundle_id: "com.noArt.Scrapp"
+app_token: scrapp
+name: Scrapp
+desc: Screenshot tool with cloud storage
+homepage: 'https://scrapp.me/'
+bundle_id: com.noArt.Scrapp
 
 sources:
   - type: homebrew
-    cask: "scrapp"
+    cask: scrapp

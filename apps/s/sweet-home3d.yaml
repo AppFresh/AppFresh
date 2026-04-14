@@ -1,9 +1,9 @@
-app_token: "sweet-home3d"
-name: "Sweet Home 3D"
-desc: "Interior design application"
-homepage: "https://www.sweethome3d.com/"
-bundle_id: "com.eteks.sweethome3d.SweetHome3D"
+app_token: sweet-home3d
+name: Sweet Home 3D
+desc: Interior design application
+homepage: 'https://www.sweethome3d.com/'
+bundle_id: com.eteks.sweethome3d.SweetHome3D
 
 sources:
   - type: homebrew
-    cask: "sweet-home3d"
+    cask: sweet-home3d

@@ -1,12 +1,12 @@
-app_token: "sage"
-name: "Sage"
-desc: "Mathematics software system"
-homepage: "https://www.sagemath.org/"
-bundle_id: "org.computop.SageMath"
+app_token: sage
+name: Sage
+desc: Mathematics software system
+homepage: 'https://www.sagemath.org/'
+bundle_id: org.computop.SageMath
 
 sources:
   - type: homebrew
-    cask: "sage"
+    cask: sage
 
   - type: github
-    repo: "3-manifolds/Sage_macOS"
+    repo: 3-manifolds/Sage_macOS

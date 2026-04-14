@@ -1,12 +1,12 @@
-app_token: "exifcleaner"
-name: "ExifCleaner"
-desc: "Metadata cleaner"
-homepage: "https://exifcleaner.com/"
-bundle_id: "com.exifcleaner"
+app_token: exifcleaner
+name: ExifCleaner
+desc: Metadata cleaner
+homepage: 'https://exifcleaner.com/'
+bundle_id: com.exifcleaner
 
 sources:
   - type: homebrew
-    cask: "exifcleaner"
+    cask: exifcleaner
 
   - type: github
-    repo: "szTheory/exifcleaner"
+    repo: szTheory/exifcleaner

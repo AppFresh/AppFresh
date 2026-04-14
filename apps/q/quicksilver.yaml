@@ -1,12 +1,12 @@
-app_token: "quicksilver"
-name: "Quicksilver"
-desc: "Productivity application"
-homepage: "https://qsapp.com/"
-bundle_id: "com.blacktree.Quicksilver"
+app_token: quicksilver
+name: Quicksilver
+desc: Productivity application
+homepage: 'https://qsapp.com/'
+bundle_id: com.blacktree.Quicksilver
 
 sources:
   - type: homebrew
-    cask: "quicksilver"
+    cask: quicksilver
 
   - type: github
-    repo: "quicksilver/Quicksilver"
+    repo: quicksilver/Quicksilver

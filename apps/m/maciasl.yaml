@@ -1,12 +1,12 @@
-app_token: "maciasl"
-name: "MaciASL"
-desc: "ACPI Machine Language (AML) compiler and IDE"
-homepage: "https://github.com/acidanthera/MaciASL"
-bundle_id: "org.acidanthera.MaciASL"
+app_token: maciasl
+name: MaciASL
+desc: ACPI Machine Language (AML) compiler and IDE
+homepage: 'https://github.com/acidanthera/MaciASL'
+bundle_id: org.acidanthera.MaciASL
 
 sources:
   - type: homebrew
-    cask: "maciasl"
+    cask: maciasl
 
   - type: github
-    repo: "acidanthera/MaciASL"
+    repo: acidanthera/MaciASL

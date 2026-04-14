@@ -1,9 +1,9 @@
-app_token: "sodamusic"
-name: "SodaMusic"
-desc: "Music app"
-homepage: "https://www.douyin.com/qishui"
-bundle_id: "com.soda.music"
+app_token: sodamusic
+name: SodaMusic
+desc: Music app
+homepage: 'https://www.douyin.com/qishui'
+bundle_id: com.soda.music
 
 sources:
   - type: homebrew
-    cask: "sodamusic"
+    cask: sodamusic

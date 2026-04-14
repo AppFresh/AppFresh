@@ -1,12 +1,12 @@
-app_token: "repobar"
-name: "RepoBar"
-desc: "Menu bar dashboard for GitHub repository health"
-homepage: "https://repobar.app/"
-bundle_id: "com.steipete.repobar"
+app_token: repobar
+name: RepoBar
+desc: Menu bar dashboard for GitHub repository health
+homepage: 'https://repobar.app/'
+bundle_id: com.steipete.repobar
 
 sources:
   - type: homebrew
-    cask: "repobar"
+    cask: repobar
 
   - type: github
-    repo: "steipete/RepoBar"
+    repo: steipete/RepoBar

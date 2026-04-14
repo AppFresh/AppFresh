@@ -1,12 +1,12 @@
-app_token: "protege"
-name: "Protégé"
-desc: "Ontology editor"
-homepage: "https://protege.stanford.edu/"
-bundle_id: "edu.stanford.protege"
+app_token: protege
+name: Protégé
+desc: Ontology editor
+homepage: 'https://protege.stanford.edu/'
+bundle_id: edu.stanford.protege
 
 sources:
   - type: homebrew
-    cask: "protege"
+    cask: protege
 
   - type: github
-    repo: "protegeproject/protege-distribution"
+    repo: protegeproject/protege-distribution

@@ -1,9 +1,9 @@
-app_token: "dataspell"
-name: "DataSpell"
-desc: "IDE for Professional Data Scientists"
-homepage: "https://www.jetbrains.com/dataspell/"
-bundle_id: "com.jetbrains.dataspell"
+app_token: dataspell
+name: DataSpell
+desc: IDE for Professional Data Scientists
+homepage: 'https://www.jetbrains.com/dataspell/'
+bundle_id: com.jetbrains.dataspell
 
 sources:
   - type: homebrew
-    cask: "dataspell"
+    cask: dataspell

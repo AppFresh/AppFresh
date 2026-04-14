@@ -1,12 +1,12 @@
-app_token: "latest"
-name: "Latest"
-desc: "Utility that shows the latest app updates"
-homepage: "https://max.codes/latest"
-bundle_id: "com.max-langer.Latest"
+app_token: latest
+name: Latest
+desc: Utility that shows the latest app updates
+homepage: 'https://max.codes/latest'
+bundle_id: com.max-langer.Latest
 
 sources:
   - type: homebrew
-    cask: "latest"
+    cask: latest
 
   - type: sparkle
-    url: "https://max.codes/latest/update.xml"
+    url: 'https://max.codes/latest/update.xml'

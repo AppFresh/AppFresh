@@ -1,12 +1,12 @@
-app_token: "quakenotch"
-name: "QuakeNotch"
-desc: "MacBook Notch utility"
-homepage: "https://quakenotch.com/"
-bundle_id: "MeowingCat.QuakeNotch"
+app_token: quakenotch
+name: QuakeNotch
+desc: MacBook Notch utility
+homepage: 'https://quakenotch.com/'
+bundle_id: MeowingCat.QuakeNotch
 
 sources:
   - type: homebrew
-    cask: "quakenotch"
+    cask: quakenotch
 
   - type: github
-    repo: "rohanrhu/QuakeNotch"
+    repo: rohanrhu/QuakeNotch

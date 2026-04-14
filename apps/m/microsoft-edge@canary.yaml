@@ -1,8 +1,8 @@
-app_token: "microsoft-edge@canary"
-name: "Microsoft Edge Canary"
-desc: "Multi-platform web browser"
-homepage: "https://www.microsoft.com/en-us/edge?form="
+app_token: microsoft-edge@canary
+name: Microsoft Edge Canary
+desc: Multi-platform web browser
+homepage: 'https://www.microsoft.com/en-us/edge?form='
 
 sources:
   - type: homebrew
-    cask: "microsoft-edge@canary"
+    cask: microsoft-edge@canary

@@ -1,12 +1,12 @@
-app_token: "sky"
-name: "Sky"
-desc: "Bluesky Social client"
-homepage: "https://github.com/jcsalterego/Sky.app"
-bundle_id: "jcsalterego.Sky"
+app_token: sky
+name: Sky
+desc: Bluesky Social client
+homepage: 'https://github.com/jcsalterego/Sky.app'
+bundle_id: jcsalterego.Sky
 
 sources:
   - type: homebrew
-    cask: "sky"
+    cask: sky
 
   - type: github
-    repo: "jcsalterego/Sky.app"
+    repo: jcsalterego/Sky.app

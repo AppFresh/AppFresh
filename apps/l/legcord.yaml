@@ -1,12 +1,12 @@
-app_token: "legcord"
-name: "Legcord"
-desc: "Custom Discord client"
-homepage: "https://legcord.app/"
-bundle_id: "app.legcord.Legcord"
+app_token: legcord
+name: Legcord
+desc: Custom Discord client
+homepage: 'https://legcord.app/'
+bundle_id: app.legcord.Legcord
 
 sources:
   - type: homebrew
-    cask: "legcord"
+    cask: legcord
 
   - type: github
-    repo: "legcord/legcord"
+    repo: legcord/legcord

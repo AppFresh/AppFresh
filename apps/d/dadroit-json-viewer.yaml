@@ -1,9 +1,9 @@
-app_token: "dadroit-json-viewer"
-name: "Dadroit JSON Viewer"
-desc: "JSON Viewer"
-homepage: "https://dadroit.com/"
-bundle_id: "com.dadroit.Viewer"
+app_token: dadroit-json-viewer
+name: Dadroit JSON Viewer
+desc: JSON Viewer
+homepage: 'https://dadroit.com/'
+bundle_id: com.dadroit.Viewer
 
 sources:
   - type: homebrew
-    cask: "dadroit-json-viewer"
+    cask: dadroit-json-viewer

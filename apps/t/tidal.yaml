@@ -1,9 +1,9 @@
-app_token: "tidal"
-name: "TIDAL"
-desc: "Music streaming service with high fidelity sound and hi-def video quality"
-homepage: "https://tidal.com/"
-bundle_id: "com.tidal.desktop"
+app_token: tidal
+name: TIDAL
+desc: Music streaming service with high fidelity sound and hi-def video quality
+homepage: 'https://tidal.com/'
+bundle_id: com.tidal.desktop
 
 sources:
   - type: homebrew
-    cask: "tidal"
+    cask: tidal

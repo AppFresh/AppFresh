@@ -1,12 +1,12 @@
-app_token: "pencil2d"
-name: "Pencil2D"
-desc: "a free and open source animation/drawing software"
-homepage: "http://pencil2d.org/"
-bundle_id: "org.pencil2d.Pencil2D"
+app_token: pencil2d
+name: Pencil2D
+desc: a free and open source animation/drawing software
+homepage: 'http://pencil2d.org/'
+bundle_id: org.pencil2d.Pencil2D
 
 sources:
   - type: homebrew
-    cask: "pencil2d"
+    cask: pencil2d
 
   - type: github
-    repo: "pencil2d/pencil"
+    repo: pencil2d/pencil

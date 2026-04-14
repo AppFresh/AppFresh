@@ -1,11 +1,12 @@
-app_token: "breitbandmessung"
-name: "Breitbandmessung"
-desc: "Official internet speed test from the German Bundesnetzagentur"
-homepage: "https://www.breitbandmessung.de/"
-bundle_id: "com.zafaco.breitbandmessung"
+app_token: breitbandmessung
+name: Breitbandmessung
+desc: Official internet speed test from the German Bundesnetzagentur
+homepage: 'https://www.breitbandmessung.de/'
+bundle_id: com.zafaco.breitbandmessung
 
 sources:
   - type: homebrew
-    cask: "breitbandmessung"
+    cask: breitbandmessung
 
   - type: electron
+    url: 'https://download.breitbandmessung.de/bbm/latest-mac.yml'

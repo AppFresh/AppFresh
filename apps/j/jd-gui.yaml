@@ -1,9 +1,9 @@
-app_token: "jd-gui"
-name: "JD-GUI"
-desc: "Standalone Java Decompiler GUI"
-homepage: "https://java-decompiler.github.io/"
-bundle_id: "jd.jd-gui"
+app_token: jd-gui
+name: JD-GUI
+desc: Standalone Java Decompiler GUI
+homepage: 'https://java-decompiler.github.io/'
+bundle_id: jd.jd-gui
 
 sources:
   - type: homebrew
-    cask: "jd-gui"
+    cask: jd-gui

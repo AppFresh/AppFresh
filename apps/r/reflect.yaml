@@ -1,12 +1,12 @@
-app_token: "reflect"
-name: "Reflect Notes"
-desc: "Note taking app for meetings, ideas, journalling, and research"
-homepage: "https://reflect.app/"
-bundle_id: "app.reflect.ReflectDesktop"
+app_token: reflect
+name: Reflect Notes
+desc: Note taking app for meetings, ideas, journalling, and research
+homepage: 'https://reflect.app/'
+bundle_id: app.reflect.ReflectDesktop
 
 sources:
   - type: homebrew
-    cask: "reflect"
+    cask: reflect
 
   - type: github
-    repo: "team-reflect/reflect-electron-updates"
+    repo: team-reflect/reflect-electron-updates

@@ -1,9 +1,9 @@
-app_token: "launchbar"
-name: "LaunchBar"
-desc: "Productivity tool"
-homepage: "https://www.obdev.at/products/launchbar/index.html"
-bundle_id: "at.obdev.LaunchBar"
+app_token: launchbar
+name: LaunchBar
+desc: Productivity tool
+homepage: 'https://www.obdev.at/products/launchbar/index.html'
+bundle_id: at.obdev.LaunchBar
 
 sources:
   - type: homebrew
-    cask: "launchbar"
+    cask: launchbar

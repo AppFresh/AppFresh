@@ -1,9 +1,9 @@
-app_token: "meridiem"
-name: "Meridiem"
-desc: "Markdown editor"
-homepage: "https://meridiem.markwhen.com/"
-bundle_id: "com.electron.meridiem"
+app_token: meridiem
+name: Meridiem
+desc: Markdown editor
+homepage: 'https://meridiem.markwhen.com/'
+bundle_id: com.electron.meridiem
 
 sources:
   - type: homebrew
-    cask: "meridiem"
+    cask: meridiem

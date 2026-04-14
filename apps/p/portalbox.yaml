@@ -1,12 +1,12 @@
-app_token: "portalbox"
-name: "PortalBox"
-desc: "Share a region of your screen in video calls"
-homepage: "https://portalboxapp.com/"
-bundle_id: "org.friendlyventures.PortalBox"
+app_token: portalbox
+name: PortalBox
+desc: Share a region of your screen in video calls
+homepage: 'https://portalboxapp.com/'
+bundle_id: org.friendlyventures.PortalBox
 
 sources:
   - type: homebrew
-    cask: "portalbox"
+    cask: portalbox
 
   - type: sparkle
-    url: "https://releases.portalbox.friendlyventures.org/appcast.xml"
+    url: 'https://releases.portalbox.friendlyventures.org/appcast.xml'

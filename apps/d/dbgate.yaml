@@ -1,12 +1,12 @@
-app_token: "dbgate"
-name: "DbGate"
-desc: "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
-homepage: "https://dbgate.org/"
-bundle_id: "org.dbgate"
+app_token: dbgate
+name: DbGate
+desc: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
+homepage: 'https://dbgate.org/'
+bundle_id: org.dbgate
 
 sources:
   - type: homebrew
-    cask: "dbgate"
+    cask: dbgate
 
   - type: github
-    repo: "dbgate/dbgate"
+    repo: dbgate/dbgate

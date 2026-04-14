@@ -1,8 +1,8 @@
-app_token: "kaleidoscope@2"
-name: "Kaleidoscope V2"
-desc: "Spot and merge differences in text and image files or folders"
-homepage: "https://kaleidoscope.app/"
+app_token: kaleidoscope@2
+name: Kaleidoscope V2
+desc: Spot and merge differences in text and image files or folders
+homepage: 'https://kaleidoscope.app/'
 
 sources:
   - type: homebrew
-    cask: "kaleidoscope@2"
+    cask: kaleidoscope@2

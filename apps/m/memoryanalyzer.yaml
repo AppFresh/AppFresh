@@ -1,9 +1,9 @@
-app_token: "memoryanalyzer"
-name: "Eclipse Memory Analyzer"
-desc: "Java heap analyzer"
-homepage: "https://eclipse.dev/mat/"
-bundle_id: "org.eclipse.mat.ui.rcp.MemoryAnalyzer"
+app_token: memoryanalyzer
+name: Eclipse Memory Analyzer
+desc: Java heap analyzer
+homepage: 'https://eclipse.dev/mat/'
+bundle_id: org.eclipse.mat.ui.rcp.MemoryAnalyzer
 
 sources:
   - type: homebrew
-    cask: "memoryanalyzer"
+    cask: memoryanalyzer

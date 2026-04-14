@@ -1,12 +1,12 @@
-app_token: "dropshare"
-name: "Dropshare"
-desc: "File sharing solution"
-homepage: "https://dropshare.app/"
-bundle_id: "net.mkswap.Dropshare5"
+app_token: dropshare
+name: Dropshare
+desc: File sharing solution
+homepage: 'https://dropshare.app/'
+bundle_id: net.mkswap.Dropshare5
 
 sources:
   - type: homebrew
-    cask: "dropshare"
+    cask: dropshare
 
   - type: sparkle
-    url: "https://dropshare.app/sparkle/Dropshare6.xml"
+    url: 'https://dropshare.app/sparkle/Dropshare6.xml'

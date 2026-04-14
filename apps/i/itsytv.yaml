@@ -1,12 +1,12 @@
-app_token: "itsytv"
-name: "Itsytv"
-desc: "Menu bar app for controlling your Apple TV"
-homepage: "https://itsytv.app/"
-bundle_id: "com.itsytv.app"
+app_token: itsytv
+name: Itsytv
+desc: Menu bar app for controlling your Apple TV
+homepage: 'https://itsytv.app/'
+bundle_id: com.itsytv.app
 
 sources:
   - type: homebrew
-    cask: "itsytv"
+    cask: itsytv
 
   - type: github
-    repo: "nickustinov/itsytv-macos"
+    repo: nickustinov/itsytv-macos

@@ -1,12 +1,12 @@
-app_token: "reflector"
-name: "Reflector 4"
-desc: "Wireless screen-mirroring application"
-homepage: "https://www.airsquirrels.com/reflector/"
-bundle_id: "com.squirrels.Reflector-4"
+app_token: reflector
+name: Reflector 4
+desc: Wireless screen-mirroring application
+homepage: 'https://www.airsquirrels.com/reflector/'
+bundle_id: com.squirrels.Reflector-4
 
 sources:
   - type: homebrew
-    cask: "reflector"
+    cask: reflector
 
   - type: sparkle
-    url: "https://updates-prod.airsquirrels.com/Reflector4/Mac/updateCheck/"
+    url: 'https://updates-prod.airsquirrels.com/Reflector4/Mac/updateCheck/'

@@ -1,9 +1,9 @@
-app_token: "basecamp"
-name: "Basecamp"
-desc: "All-In-One Toolkit for Working Remotely"
-homepage: "https://3.basecamp-help.com/"
-bundle_id: "com.basecamp.basecamp3"
+app_token: basecamp
+name: Basecamp
+desc: All-In-One Toolkit for Working Remotely
+homepage: 'https://3.basecamp-help.com/'
+bundle_id: com.basecamp.basecamp3
 
 sources:
   - type: homebrew
-    cask: "basecamp"
+    cask: basecamp

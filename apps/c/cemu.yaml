@@ -1,12 +1,12 @@
-app_token: "cemu"
-name: "CEmu"
-desc: "TI-84 Plus CE and TI-83 Premium CE calculator emulator"
-homepage: "https://ce-programming.github.io/CEmu/"
-bundle_id: "com.yourcompany.CEmu"
+app_token: cemu
+name: CEmu
+desc: TI-84 Plus CE and TI-83 Premium CE calculator emulator
+homepage: 'https://ce-programming.github.io/CEmu/'
+bundle_id: com.yourcompany.CEmu
 
 sources:
   - type: homebrew
-    cask: "cemu"
+    cask: cemu
 
   - type: github
-    repo: "CE-Programming/CEmu"
+    repo: CE-Programming/CEmu

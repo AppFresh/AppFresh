@@ -1,9 +1,9 @@
-app_token: "bowtie"
-name: "Bowtie"
-desc: "Control your music with customisable shortcuts"
-homepage: "http://bowtieapp.com/"
-bundle_id: "com.13bold.Bowtie"
+app_token: bowtie
+name: Bowtie
+desc: Control your music with customisable shortcuts
+homepage: 'http://bowtieapp.com/'
+bundle_id: com.13bold.Bowtie
 
 sources:
   - type: homebrew
-    cask: "bowtie"
+    cask: bowtie

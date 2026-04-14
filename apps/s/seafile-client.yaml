@@ -1,9 +1,9 @@
-app_token: "seafile-client"
-name: "Seafile Client"
-desc: "File syncing client"
-homepage: "https://www.seafile.com/"
-bundle_id: "com.seafile.seafile-client"
+app_token: seafile-client
+name: Seafile Client
+desc: File syncing client
+homepage: 'https://www.seafile.com/'
+bundle_id: com.seafile.seafile-client
 
 sources:
   - type: homebrew
-    cask: "seafile-client"
+    cask: seafile-client

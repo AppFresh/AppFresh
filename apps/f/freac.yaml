@@ -1,12 +1,12 @@
-app_token: "freac"
-name: "fre:ac"
-desc: "Audio converter and CD ripper"
-homepage: "https://www.freac.org/"
-bundle_id: "org.freac.freac"
+app_token: freac
+name: fre:ac
+desc: Audio converter and CD ripper
+homepage: 'https://www.freac.org/'
+bundle_id: org.freac.freac
 
 sources:
   - type: homebrew
-    cask: "freac"
+    cask: freac
 
   - type: github
-    repo: "enzo1982/freac"
+    repo: enzo1982/freac

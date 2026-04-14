@@ -1,11 +1,11 @@
-app_token: "syntax-highlight"
-name: "Syntax Highlight"
-desc: "Quick Look extension for highlight source code files"
-bundle_id: "org.sbarex.SourceCodeSyntaxHighlight"
+app_token: syntax-highlight
+name: Syntax Highlight
+desc: Quick Look extension for highlight source code files
+bundle_id: org.sbarex.SourceCodeSyntaxHighlight
 
 sources:
   - type: homebrew
-    cask: "syntax-highlight"
+    cask: syntax-highlight
 
   - type: github
-    repo: "sbarex/SourceCodeSyntaxHighlight"
+    repo: sbarex/SourceCodeSyntaxHighlight

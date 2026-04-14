@@ -1,18 +1,18 @@
-app_token: "mac-mouse-fix"
-name: "Mac Mouse Fix"
-desc: "Mouse utility to add gesture functions and smooth scrolling to 3rd party mice"
-homepage: "https://macmousefix.com/"
-bundle_id: "com.nuebling.mac-mouse-fix"
+app_token: mac-mouse-fix
+name: Mac Mouse Fix
+desc: Mouse utility to add gesture functions and smooth scrolling to 3rd party mice
+homepage: 'https://macmousefix.com/'
+bundle_id: com.nuebling.mac-mouse-fix
 
 sources:
   - type: homebrew
-    cask: "mac-mouse-fix"
+    cask: mac-mouse-fix
 
   - type: github
-    repo: "noah-nuebling/mac-mouse-fix"
+    repo: noah-nuebling/mac-mouse-fix
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/noah-nuebling/mac-mouse-fix/update-feed/appcast.xml"
+    url: 'https://raw.githubusercontent.com/noah-nuebling/mac-mouse-fix/update-feed/appcast.xml'
 
   - type: homebrew
-    cask: "mac-mouse-fix@2"
+    cask: mac-mouse-fix@2

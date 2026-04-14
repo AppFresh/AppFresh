@@ -1,12 +1,12 @@
-app_token: "codexbar"
-name: "CodexBar"
-desc: "Menu bar usage monitor for Codex and Claude"
-homepage: "https://codexbar.app/"
-bundle_id: "com.steipete.codexbar"
+app_token: codexbar
+name: CodexBar
+desc: Menu bar usage monitor for Codex and Claude
+homepage: 'https://codexbar.app/'
+bundle_id: com.steipete.codexbar
 
 sources:
   - type: homebrew
-    cask: "codexbar"
+    cask: codexbar
 
   - type: github
-    repo: "steipete/CodexBar"
+    repo: steipete/CodexBar

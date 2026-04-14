@@ -1,12 +1,12 @@
-app_token: "actual"
-name: "Actual"
-desc: "Privacy-focused app for managing your finances"
-homepage: "https://actualbudget.org/"
-bundle_id: "com.actualbudget.actual"
+app_token: actual
+name: Actual
+desc: Privacy-focused app for managing your finances
+homepage: 'https://actualbudget.org/'
+bundle_id: com.actualbudget.actual
 
 sources:
   - type: homebrew
-    cask: "actual"
+    cask: actual
 
   - type: github
-    repo: "actualbudget/actual"
+    repo: actualbudget/actual

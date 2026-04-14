@@ -1,15 +1,15 @@
-app_token: "mouseless"
-name: "Mouseless"
-desc: "Mouse control with the keyboard"
-homepage: "https://mouseless.click/"
-bundle_id: "net.sonuscape.mouseless"
+app_token: mouseless
+name: Mouseless
+desc: Mouse control with the keyboard
+homepage: 'https://mouseless.click/'
+bundle_id: net.sonuscape.mouseless
 
 sources:
   - type: homebrew
-    cask: "mouseless"
+    cask: mouseless
 
   - type: github
-    repo: "croian/mouseless"
+    repo: croian/mouseless
 
   - type: homebrew
-    cask: "mouseless@preview"
+    cask: mouseless@preview

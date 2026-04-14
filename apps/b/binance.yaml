@@ -1,11 +1,12 @@
-app_token: "binance"
-name: "Binance"
-desc: "Cryptocurrency exchange"
-homepage: "https://binance.com/"
-bundle_id: "com.binance.BinanceDesktop"
+app_token: binance
+name: Binance
+desc: Cryptocurrency exchange
+homepage: 'https://binance.com/'
+bundle_id: com.binance.BinanceDesktop
 
 sources:
   - type: homebrew
-    cask: "binance"
+    cask: binance
 
   - type: electron
+    url: 'https://ftp.binance.com/electron-desktop/mac/production/latest-mac.yml'

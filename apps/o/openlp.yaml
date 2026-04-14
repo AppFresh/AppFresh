@@ -1,9 +1,9 @@
-app_token: "openlp"
-name: "OpenLP"
-desc: "Worship presentation software"
-homepage: "https://openlp.org/"
-bundle_id: "org.openlp.OpenLP"
+app_token: openlp
+name: OpenLP
+desc: Worship presentation software
+homepage: 'https://openlp.org/'
+bundle_id: org.openlp.OpenLP
 
 sources:
   - type: homebrew
-    cask: "openlp"
+    cask: openlp

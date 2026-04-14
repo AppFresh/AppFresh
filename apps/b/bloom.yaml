@@ -1,12 +1,12 @@
-app_token: "bloom"
-name: "Bloom"
-desc: "File manager"
-homepage: "https://bloomapp.club/"
-bundle_id: "com.asiafu.Bloom"
+app_token: bloom
+name: Bloom
+desc: File manager
+homepage: 'https://bloomapp.club/'
+bundle_id: com.asiafu.Bloom
 
 sources:
   - type: homebrew
-    cask: "bloom"
+    cask: bloom
 
   - type: sparkle
-    url: "https://bloomapp.club/downloads/bloom/appcast.xml"
+    url: 'https://bloomapp.club/downloads/bloom/appcast.xml'

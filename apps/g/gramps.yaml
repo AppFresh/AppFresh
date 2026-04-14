@@ -1,12 +1,12 @@
-app_token: "gramps"
-name: "Gramps"
-desc: "Genealogy software"
-homepage: "https://gramps-project.org/blog/"
-bundle_id: "org.gramps-project.gramps"
+app_token: gramps
+name: Gramps
+desc: Genealogy software
+homepage: 'https://gramps-project.org/blog/'
+bundle_id: org.gramps-project.gramps
 
 sources:
   - type: homebrew
-    cask: "gramps"
+    cask: gramps
 
   - type: github
-    repo: "gramps-project/gramps"
+    repo: gramps-project/gramps

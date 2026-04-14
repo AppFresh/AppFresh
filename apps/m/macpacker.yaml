@@ -1,12 +1,12 @@
-app_token: "macpacker"
-name: "MacPacker"
-desc: "Archive manager"
-homepage: "https://macpacker.app/"
-bundle_id: "com.sarensx.MacPacker"
+app_token: macpacker
+name: MacPacker
+desc: Archive manager
+homepage: 'https://macpacker.app/'
+bundle_id: com.sarensx.MacPacker
 
 sources:
   - type: homebrew
-    cask: "macpacker"
+    cask: macpacker
 
   - type: sparkle
-    url: "https://macpacker-releases.s3.amazonaws.com/appcast.xml"
+    url: 'https://macpacker-releases.s3.amazonaws.com/appcast.xml'

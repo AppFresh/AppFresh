@@ -1,8 +1,8 @@
-app_token: "termius@beta"
-name: "Termius"
-desc: "SSH client"
-homepage: "https://www.termius.com/"
+app_token: termius@beta
+name: Termius
+desc: SSH client
+homepage: 'https://www.termius.com/'
 
 sources:
   - type: homebrew
-    cask: "termius@beta"
+    cask: termius@beta

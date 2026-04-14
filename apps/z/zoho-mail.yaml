@@ -1,9 +1,9 @@
-app_token: "zoho-mail"
-name: "Zoho Mail"
-desc: "Email client"
-homepage: "https://www.zoho.com/mail/desktop/"
-bundle_id: "com.zoho.mail.desktop"
+app_token: zoho-mail
+name: Zoho Mail
+desc: Email client
+homepage: 'https://www.zoho.com/mail/desktop/'
+bundle_id: com.zoho.mail.desktop
 
 sources:
   - type: homebrew
-    cask: "zoho-mail"
+    cask: zoho-mail

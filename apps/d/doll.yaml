@@ -1,12 +1,12 @@
-app_token: "doll"
-name: "Doll"
-desc: "Utility to show apps badges from the dock in the menu bar"
-homepage: "https://github.com/xiaogdgenuine/Doll/"
-bundle_id: "com.xiaogd.Doll"
+app_token: doll
+name: Doll
+desc: Utility to show apps badges from the dock in the menu bar
+homepage: 'https://github.com/xiaogdgenuine/Doll/'
+bundle_id: com.xiaogd.Doll
 
 sources:
   - type: homebrew
-    cask: "doll"
+    cask: doll
 
   - type: github
-    repo: "xiaogdgenuine/Doll"
+    repo: xiaogdgenuine/Doll

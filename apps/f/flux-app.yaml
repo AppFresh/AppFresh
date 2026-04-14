@@ -1,12 +1,12 @@
-app_token: "flux-app"
-name: "f.lux"
-desc: "Screen colour temperature controller"
-homepage: "https://justgetflux.com/"
-bundle_id: "org.herf.Flux"
+app_token: flux-app
+name: f.lux
+desc: Screen colour temperature controller
+homepage: 'https://justgetflux.com/'
+bundle_id: org.herf.Flux
 
 sources:
   - type: homebrew
-    cask: "flux-app"
+    cask: flux-app
 
   - type: sparkle
-    url: "https://justgetflux.com/mac/macflux.xml"
+    url: 'https://justgetflux.com/mac/macflux.xml'

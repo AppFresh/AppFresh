@@ -1,11 +1,11 @@
-app_token: "theiaide"
-name: "TheiaIDE"
-desc: "IDE framework"
-homepage: "https://theia-ide.org/"
-bundle_id: "eclipse.theia"
+app_token: theiaide
+name: TheiaIDE
+desc: IDE framework
+homepage: 'https://theia-ide.org/'
+bundle_id: eclipse.theia
 
 sources:
   - type: homebrew
-    cask: "theiaide"
+    cask: theiaide
 
   - type: electron

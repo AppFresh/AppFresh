@@ -1,12 +1,12 @@
-app_token: "poedit"
-name: "Poedit"
-desc: "Translation editor"
-homepage: "https://poedit.net/"
-bundle_id: "net.poedit.Poedit"
+app_token: poedit
+name: Poedit
+desc: Translation editor
+homepage: 'https://poedit.net/'
+bundle_id: net.poedit.Poedit
 
 sources:
   - type: homebrew
-    cask: "poedit"
+    cask: poedit
 
   - type: sparkle
-    url: "https://poedit.net/updates_v2/osx/appcast"
+    url: 'https://poedit.net/updates_v2/osx/appcast'

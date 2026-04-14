@@ -1,12 +1,12 @@
-app_token: "via"
-name: "VIA"
-desc: "Keyboard configurator"
-homepage: "https://caniusevia.com/"
-bundle_id: "org.via.configurator"
+app_token: via
+name: VIA
+desc: Keyboard configurator
+homepage: 'https://caniusevia.com/'
+bundle_id: org.via.configurator
 
 sources:
   - type: homebrew
-    cask: "via"
+    cask: via
 
   - type: github
-    repo: "the-via/releases"
+    repo: the-via/releases

@@ -1,11 +1,12 @@
-app_token: "clay"
-name: "Clay"
-desc: "Private rolodex to remember people better"
-homepage: "https://clay.earth/"
-bundle_id: "com.clay.mac"
+app_token: clay
+name: Clay
+desc: Private rolodex to remember people better
+homepage: 'https://clay.earth/'
+bundle_id: com.clay.mac
 
 sources:
   - type: homebrew
-    cask: "clay"
+    cask: clay
 
   - type: electron
+    url: 'https://assets.clay.earth/desktop/mac/latest-mac.yml'

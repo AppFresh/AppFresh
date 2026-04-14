@@ -1,12 +1,12 @@
-app_token: "synfigstudio"
-name: "Synfig Studio"
-desc: "2D animation software"
-homepage: "https://synfig.org/"
-bundle_id: "org.synfig.SynfigStudio"
+app_token: synfigstudio
+name: Synfig Studio
+desc: 2D animation software
+homepage: 'https://synfig.org/'
+bundle_id: org.synfig.SynfigStudio
 
 sources:
   - type: homebrew
-    cask: "synfigstudio"
+    cask: synfigstudio
 
   - type: github
-    repo: "synfig/synfig"
+    repo: synfig/synfig

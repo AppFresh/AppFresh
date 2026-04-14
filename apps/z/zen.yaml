@@ -1,15 +1,15 @@
-app_token: "zen"
-name: "Zen Browser"
-desc: "Gecko based web browser"
-homepage: "https://zen-browser.app/"
-bundle_id: "app.zen-browser.zen"
+app_token: zen
+name: Zen Browser
+desc: Gecko based web browser
+homepage: 'https://zen-browser.app/'
+bundle_id: app.zen-browser.zen
 
 sources:
   - type: homebrew
-    cask: "zen"
+    cask: zen
 
   - type: github
-    repo: "zen-browser/desktop"
+    repo: zen-browser/desktop
 
   - type: homebrew
-    cask: "zen@twilight"
+    cask: zen@twilight

@@ -1,9 +1,9 @@
-app_token: "textsniper"
-name: "TextSniper"
-desc: "Extract text from images and other digital documents"
-homepage: "https://textsniper.app/"
-bundle_id: "com.valerijs.boguckis.gumroad.TextSniper"
+app_token: textsniper
+name: TextSniper
+desc: Extract text from images and other digital documents
+homepage: 'https://textsniper.app/'
+bundle_id: com.valerijs.boguckis.gumroad.TextSniper
 
 sources:
   - type: homebrew
-    cask: "textsniper"
+    cask: textsniper

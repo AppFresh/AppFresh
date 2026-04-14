@@ -1,12 +1,12 @@
-app_token: "mission-control-plus"
-name: "Mission Control Plus"
-desc: "Manage your windows in Mission Control"
-homepage: "https://fadel.io/MissionControlPlus"
-bundle_id: "io.fadel.MissionControlPlus"
+app_token: mission-control-plus
+name: Mission Control Plus
+desc: Manage your windows in Mission Control
+homepage: 'https://fadel.io/MissionControlPlus'
+bundle_id: io.fadel.MissionControlPlus
 
 sources:
   - type: homebrew
-    cask: "mission-control-plus"
+    cask: mission-control-plus
 
   - type: github
-    repo: "ronyfadel/MissionControlPlusReleases"
+    repo: ronyfadel/MissionControlPlusReleases

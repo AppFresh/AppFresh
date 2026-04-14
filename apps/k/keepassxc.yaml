@@ -1,18 +1,18 @@
-app_token: "keepassxc"
-name: "KeePassXC"
-desc: "Password manager app"
-homepage: "https://keepassxc.org/"
-bundle_id: "org.keepassxc.keepassxc"
+app_token: keepassxc
+name: KeePassXC
+desc: Password manager app
+homepage: 'https://keepassxc.org/'
+bundle_id: org.keepassxc.keepassxc
 
 sources:
   - type: homebrew
-    cask: "keepassxc"
+    cask: keepassxc
 
   - type: github
-    repo: "keepassxreboot/keepassxc"
+    repo: keepassxreboot/keepassxc
 
   - type: homebrew
-    cask: "keepassxc@beta"
+    cask: keepassxc@beta
 
   - type: homebrew
-    cask: "keepassxc@snapshot"
+    cask: keepassxc@snapshot

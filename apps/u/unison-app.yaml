@@ -1,12 +1,12 @@
-app_token: "unison-app"
-name: "Unison"
-desc: "File synchroniser"
-homepage: "https://github.com/bcpierce00/unison/"
-bundle_id: "edu.upenn.cis.Unison"
+app_token: unison-app
+name: Unison
+desc: File synchroniser
+homepage: 'https://github.com/bcpierce00/unison/'
+bundle_id: edu.upenn.cis.Unison
 
 sources:
   - type: homebrew
-    cask: "unison-app"
+    cask: unison-app
 
   - type: github
-    repo: "bcpierce00/unison"
+    repo: bcpierce00/unison

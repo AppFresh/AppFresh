@@ -1,12 +1,12 @@
-app_token: "pareto-security"
-name: "Pareto Security"
-desc: "Security checklist app"
-homepage: "https://paretosecurity.com/"
-bundle_id: "niteo.co.Pareto"
+app_token: pareto-security
+name: Pareto Security
+desc: Security checklist app
+homepage: 'https://paretosecurity.com/'
+bundle_id: niteo.co.Pareto
 
 sources:
   - type: homebrew
-    cask: "pareto-security"
+    cask: pareto-security
 
   - type: github
-    repo: "ParetoSecurity/pareto-mac"
+    repo: ParetoSecurity/pareto-mac

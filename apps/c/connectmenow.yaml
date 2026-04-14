@@ -1,9 +1,9 @@
-app_token: "connectmenow"
-name: "ConnectMeNow"
-desc: "Mount network shares quick and easy"
-homepage: "https://www.tweaking4all.com/os-tips-and-tricks/macosx-tips-and-tricks/connectmenow-v4/"
-bundle_id: "com.Tweaking4all.ConnectMeNow4"
+app_token: connectmenow
+name: ConnectMeNow
+desc: Mount network shares quick and easy
+homepage: 'https://www.tweaking4all.com/os-tips-and-tricks/macosx-tips-and-tricks/connectmenow-v4/'
+bundle_id: com.Tweaking4all.ConnectMeNow4
 
 sources:
   - type: homebrew
-    cask: "connectmenow"
+    cask: connectmenow

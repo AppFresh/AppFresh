@@ -1,9 +1,9 @@
-app_token: "postman"
-name: "Postman"
-desc: "Collaboration platform for API development"
-homepage: "https://www.postman.com/"
-bundle_id: "com.postmanlabs.mac"
+app_token: postman
+name: Postman
+desc: Collaboration platform for API development
+homepage: 'https://www.postman.com/'
+bundle_id: com.postmanlabs.mac
 
 sources:
   - type: homebrew
-    cask: "postman"
+    cask: postman

@@ -1,12 +1,12 @@
-app_token: "glide"
-name: "Glide"
-desc: "Tiling window manager with tree layouts"
-homepage: "https://glidewm.org/"
-bundle_id: "org.glidewm.glide"
+app_token: glide
+name: Glide
+desc: Tiling window manager with tree layouts
+homepage: 'https://glidewm.org/'
+bundle_id: org.glidewm.glide
 
 sources:
   - type: homebrew
-    cask: "glide"
+    cask: glide
 
   - type: github
-    repo: "glide-wm/glide"
+    repo: glide-wm/glide

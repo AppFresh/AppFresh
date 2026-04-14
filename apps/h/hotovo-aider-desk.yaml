@@ -1,12 +1,12 @@
-app_token: "hotovo-aider-desk"
-name: "AiderDesk"
-desc: "Desktop GUI for Aider AI pair programming"
-homepage: "https://github.com/hotovo/aider-desk"
-bundle_id: "com.hotovo.aider-desk"
+app_token: hotovo-aider-desk
+name: AiderDesk
+desc: Desktop GUI for Aider AI pair programming
+homepage: 'https://github.com/hotovo/aider-desk'
+bundle_id: com.hotovo.aider-desk
 
 sources:
   - type: homebrew
-    cask: "hotovo-aider-desk"
+    cask: hotovo-aider-desk
 
   - type: github
-    repo: "hotovo/aider-desk"
+    repo: hotovo/aider-desk

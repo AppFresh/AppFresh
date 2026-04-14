@@ -1,8 +1,8 @@
-app_token: "threema@beta"
-name: "Threema Beta"
-desc: "End-to-end encrypted instant messaging application"
-homepage: "https://threema.ch/"
+app_token: threema@beta
+name: Threema Beta
+desc: End-to-end encrypted instant messaging application
+homepage: 'https://threema.ch/'
 
 sources:
   - type: homebrew
-    cask: "threema@beta"
+    cask: threema@beta

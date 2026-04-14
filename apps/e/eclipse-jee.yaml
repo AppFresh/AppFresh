@@ -1,9 +1,9 @@
-app_token: "eclipse-jee"
-name: "Eclipse IDE for Java EE Developers"
-desc: "Eclipse IDE for Java EE developers"
-homepage: "https://eclipse.org/"
-bundle_id: "epp.package.jee"
+app_token: eclipse-jee
+name: Eclipse IDE for Java EE Developers
+desc: Eclipse IDE for Java EE developers
+homepage: 'https://eclipse.org/'
+bundle_id: epp.package.jee
 
 sources:
   - type: homebrew
-    cask: "eclipse-jee"
+    cask: eclipse-jee

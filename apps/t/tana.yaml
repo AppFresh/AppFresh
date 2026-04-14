@@ -1,12 +1,12 @@
-app_token: "tana"
-name: "Tana"
-desc: "Knowledge management workspace with AI-powered outlining"
-homepage: "https://tana.inc/"
-bundle_id: "inc.tana.desktop"
+app_token: tana
+name: Tana
+desc: Knowledge management workspace with AI-powered outlining
+homepage: 'https://tana.inc/'
+bundle_id: inc.tana.desktop
 
 sources:
   - type: homebrew
-    cask: "tana"
+    cask: tana
 
   - type: github
-    repo: "tanainc/tana-desktop-releases"
+    repo: tanainc/tana-desktop-releases

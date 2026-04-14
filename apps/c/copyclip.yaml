@@ -1,12 +1,12 @@
-app_token: "copyclip"
-name: "CopyClip"
-desc: "Clipboard manager"
-homepage: "https://fiplab.com/apps/copyclip-for-mac"
-bundle_id: "com.fiplab.copyclip2"
+app_token: copyclip
+name: CopyClip
+desc: Clipboard manager
+homepage: 'https://fiplab.com/apps/copyclip-for-mac'
+bundle_id: com.fiplab.copyclip2
 
 sources:
   - type: homebrew
-    cask: "copyclip"
+    cask: copyclip
 
   - type: sparkle
-    url: "https://fiplab.com/updates/copyclip2/appcast.xml"
+    url: 'https://fiplab.com/updates/copyclip2/appcast.xml'

@@ -1,12 +1,12 @@
-app_token: "whisky"
-name: "Whisky"
-desc: "Wine wrapper built with SwiftUI"
-homepage: "https://getwhisky.app/"
-bundle_id: "com.isaacmarovitz.Whisky"
+app_token: whisky
+name: Whisky
+desc: Wine wrapper built with SwiftUI
+homepage: 'https://getwhisky.app/'
+bundle_id: com.isaacmarovitz.Whisky
 
 sources:
   - type: homebrew
-    cask: "whisky"
+    cask: whisky
 
   - type: github
-    repo: "IsaacMarovitz/Whisky"
+    repo: IsaacMarovitz/Whisky

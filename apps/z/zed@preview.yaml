@@ -1,8 +1,8 @@
-app_token: "zed@preview"
-name: "Zed Preview"
-desc: "High-performance, multiplayer code editor"
-homepage: "https://zed.dev/"
+app_token: zed@preview
+name: Zed Preview
+desc: High-performance, multiplayer code editor
+homepage: 'https://zed.dev/'
 
 sources:
   - type: homebrew
-    cask: "zed@preview"
+    cask: zed@preview

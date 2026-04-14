@@ -1,12 +1,12 @@
-app_token: "lidanglesensor"
-name: "LidAngleSensor"
-desc: "Utility to display the lid angle and play a creaking sound"
-homepage: "https://github.com/samhenrigold/LidAngleSensor"
-bundle_id: "gold.samhenri.LidAngleSensor"
+app_token: lidanglesensor
+name: LidAngleSensor
+desc: Utility to display the lid angle and play a creaking sound
+homepage: 'https://github.com/samhenrigold/LidAngleSensor'
+bundle_id: gold.samhenri.LidAngleSensor
 
 sources:
   - type: homebrew
-    cask: "lidanglesensor"
+    cask: lidanglesensor
 
   - type: github
-    repo: "samhenrigold/LidAngleSensor"
+    repo: samhenrigold/LidAngleSensor

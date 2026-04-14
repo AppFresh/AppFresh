@@ -1,12 +1,12 @@
-app_token: "heynote"
-name: "Heynote"
-desc: "Dedicated scratchpad for developers"
-homepage: "https://heynote.com/"
-bundle_id: "com.heynote.app"
+app_token: heynote
+name: Heynote
+desc: Dedicated scratchpad for developers
+homepage: 'https://heynote.com/'
+bundle_id: com.heynote.app
 
 sources:
   - type: homebrew
-    cask: "heynote"
+    cask: heynote
 
   - type: github
-    repo: "heyman/heynote"
+    repo: heyman/heynote

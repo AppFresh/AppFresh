@@ -1,12 +1,12 @@
-app_token: "tmpdisk"
-name: "TmpDisk"
-desc: "Ram disk management"
-homepage: "https://github.com/imothee/tmpdisk"
-bundle_id: "com.imothee.TmpDisk"
+app_token: tmpdisk
+name: TmpDisk
+desc: Ram disk management
+homepage: 'https://github.com/imothee/tmpdisk'
+bundle_id: com.imothee.TmpDisk
 
 sources:
   - type: homebrew
-    cask: "tmpdisk"
+    cask: tmpdisk
 
   - type: github
-    repo: "imothee/tmpdisk"
+    repo: imothee/tmpdisk

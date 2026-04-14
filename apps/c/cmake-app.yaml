@@ -1,9 +1,9 @@
-app_token: "cmake-app"
-name: "CMake"
-desc: "Family of tools to build, test and package software"
-homepage: "https://cmake.org/"
-bundle_id: "org.cmake.cmake"
+app_token: cmake-app
+name: CMake
+desc: Family of tools to build, test and package software
+homepage: 'https://cmake.org/'
+bundle_id: org.cmake.cmake
 
 sources:
   - type: homebrew
-    cask: "cmake-app"
+    cask: cmake-app

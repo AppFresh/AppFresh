@@ -1,12 +1,12 @@
-app_token: "quickwhisper"
-name: "QuickWhisper"
-desc: "Audio transcription tool"
-homepage: "https://quickwhisper.app/"
-bundle_id: "ltd.iwt.QuickWhisper"
+app_token: quickwhisper
+name: QuickWhisper
+desc: Audio transcription tool
+homepage: 'https://quickwhisper.app/'
+bundle_id: ltd.iwt.QuickWhisper
 
 sources:
   - type: homebrew
-    cask: "quickwhisper"
+    cask: quickwhisper
 
   - type: sparkle
-    url: "https://f002.backblazeb2.com/file/quickwhisperapp/appcast.xml"
+    url: 'https://f002.backblazeb2.com/file/quickwhisperapp/appcast.xml'

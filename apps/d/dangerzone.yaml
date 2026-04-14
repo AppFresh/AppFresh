@@ -1,12 +1,12 @@
-app_token: "dangerzone"
-name: "Dangerzone"
-desc: "Convert potentially dangerous PDFs or Office documents into safe PDFs"
-homepage: "https://dangerzone.rocks/"
-bundle_id: "press.freedom.dangerzone"
+app_token: dangerzone
+name: Dangerzone
+desc: Convert potentially dangerous PDFs or Office documents into safe PDFs
+homepage: 'https://dangerzone.rocks/'
+bundle_id: press.freedom.dangerzone
 
 sources:
   - type: homebrew
-    cask: "dangerzone"
+    cask: dangerzone
 
   - type: github
-    repo: "freedomofpress/dangerzone"
+    repo: freedomofpress/dangerzone

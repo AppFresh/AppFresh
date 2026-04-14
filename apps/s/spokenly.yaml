@@ -1,12 +1,12 @@
-app_token: "spokenly"
-name: "Spokenly"
-desc: "Dictation and transcription app with AI-powered editing"
-homepage: "https://spokenly.app/"
-bundle_id: "app.spokenly"
+app_token: spokenly
+name: Spokenly
+desc: Dictation and transcription app with AI-powered editing
+homepage: 'https://spokenly.app/'
+bundle_id: app.spokenly
 
 sources:
   - type: homebrew
-    cask: "spokenly"
+    cask: spokenly
 
   - type: sparkle
-    url: "https://spokenly.app/appcast.xml"
+    url: 'https://spokenly.app/appcast.xml'

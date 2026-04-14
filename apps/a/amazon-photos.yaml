@@ -1,9 +1,9 @@
-app_token: "amazon-photos"
-name: "Amazon Photos"
-desc: "Photo storage and sharing service"
-homepage: "https://www.amazon.com/Amazon-Photos/b?node=13234696011"
-bundle_id: "com.amazon.clouddrive.mac"
+app_token: amazon-photos
+name: Amazon Photos
+desc: Photo storage and sharing service
+homepage: 'https://www.amazon.com/Amazon-Photos/b?node=13234696011'
+bundle_id: com.amazon.clouddrive.mac
 
 sources:
   - type: homebrew
-    cask: "amazon-photos"
+    cask: amazon-photos

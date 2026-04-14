@@ -1,12 +1,12 @@
-app_token: "jottacloud"
-name: "Jottacloud"
-desc: "Client for the Jottacloud cloud storage service"
-homepage: "https://jottacloud.com/"
-bundle_id: "no.jotta.Jottacloud"
+app_token: jottacloud
+name: Jottacloud
+desc: Client for the Jottacloud cloud storage service
+homepage: 'https://jottacloud.com/'
+bundle_id: no.jotta.Jottacloud
 
 sources:
   - type: homebrew
-    cask: "jottacloud"
+    cask: jottacloud
 
   - type: sparkle
-    url: "https://sw.jotta.cloud/desktop/appcast/CUST/release"
+    url: 'https://sw.jotta.cloud/desktop/appcast/CUST/release'

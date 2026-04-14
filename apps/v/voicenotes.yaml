@@ -1,12 +1,12 @@
-app_token: "voicenotes"
-name: "Voicenotes"
-desc: "AI-powered app for recording, transcribing and summarising voice notes"
-homepage: "https://voicenotes.com/"
-bundle_id: "com.voicenotes.app"
+app_token: voicenotes
+name: Voicenotes
+desc: AI-powered app for recording, transcribing and summarising voice notes
+homepage: 'https://voicenotes.com/'
+bundle_id: com.voicenotes.app
 
 sources:
   - type: homebrew
-    cask: "voicenotes"
+    cask: voicenotes
 
   - type: github
-    repo: "brewdotcom/vn-apps-release"
+    repo: brewdotcom/vn-apps-release

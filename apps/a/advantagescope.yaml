@@ -1,12 +1,12 @@
-app_token: "advantagescope"
-name: "AdvantageScope"
-desc: "FRC log analysis tool"
-homepage: "https://docs.advantagescope.org/"
-bundle_id: "org.littletonrobotics.advantagescope"
+app_token: advantagescope
+name: AdvantageScope
+desc: FRC log analysis tool
+homepage: 'https://docs.advantagescope.org/'
+bundle_id: org.littletonrobotics.advantagescope
 
 sources:
   - type: homebrew
-    cask: "advantagescope"
+    cask: advantagescope
 
   - type: github
-    repo: "Mechanical-Advantage/AdvantageScope"
+    repo: Mechanical-Advantage/AdvantageScope

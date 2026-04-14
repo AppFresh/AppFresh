@@ -1,12 +1,12 @@
-app_token: "bettermouse"
-name: "BetterMouse"
-desc: "Utility improving 3rd party mouse performance and functionalities"
-homepage: "https://better-mouse.com/"
-bundle_id: "com.naotanhaocan.BetterMouse"
+app_token: bettermouse
+name: BetterMouse
+desc: Utility improving 3rd party mouse performance and functionalities
+homepage: 'https://better-mouse.com/'
+bundle_id: com.naotanhaocan.BetterMouse
 
 sources:
   - type: homebrew
-    cask: "bettermouse"
+    cask: bettermouse
 
   - type: sparkle
-    url: "https://better-mouse.com/wp-content/uploads/appcast.xml"
+    url: 'https://better-mouse.com/wp-content/uploads/appcast.xml'

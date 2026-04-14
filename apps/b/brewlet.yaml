@@ -1,12 +1,12 @@
-app_token: "brewlet"
-name: "Brewlet"
-desc: "Missing menulet for Homebrew"
-homepage: "https://github.com/zkokaja/Brewlet"
-bundle_id: "zzada.Brewlet"
+app_token: brewlet
+name: Brewlet
+desc: Missing menulet for Homebrew
+homepage: 'https://github.com/zkokaja/Brewlet'
+bundle_id: zzada.Brewlet
 
 sources:
   - type: homebrew
-    cask: "brewlet"
+    cask: brewlet
 
   - type: github
-    repo: "zkokaja/Brewlet"
+    repo: zkokaja/Brewlet

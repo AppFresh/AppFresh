@@ -1,12 +1,12 @@
-app_token: "elgato-game-capture-hd"
-name: "Elgato Game Capture HD"
-desc: "Elgato video capture and streaming app"
-homepage: "https://www.elgato.com/ww/en/s/downloads"
-bundle_id: "com.elgato.GameCaptureHD"
+app_token: elgato-game-capture-hd
+name: Elgato Game Capture HD
+desc: Elgato video capture and streaming app
+homepage: 'https://www.elgato.com/ww/en/s/downloads'
+bundle_id: com.elgato.GameCaptureHD
 
 sources:
   - type: homebrew
-    cask: "elgato-game-capture-hd"
+    cask: elgato-game-capture-hd
 
   - type: sparkle
-    url: "https://gc-updates.elgato.com/mac/egcm-update2-rss/?dbg=0&lang=English"
+    url: 'https://gc-updates.elgato.com/mac/egcm-update2-rss/?dbg=0&lang=English'

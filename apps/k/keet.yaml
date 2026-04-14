@@ -1,9 +1,9 @@
-app_token: "keet"
-name: "keet"
-desc: "Peer-to-peer video and text chat"
-homepage: "https://keet.io/"
-bundle_id: "io.keet.app"
+app_token: keet
+name: keet
+desc: Peer-to-peer video and text chat
+homepage: 'https://keet.io/'
+bundle_id: io.keet.app
 
 sources:
   - type: homebrew
-    cask: "keet"
+    cask: keet

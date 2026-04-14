@@ -1,12 +1,12 @@
-app_token: "opensuperwhisper"
-name: "OpenSuperWhisper"
-desc: "Whisper dictation/transcription app"
-homepage: "https://github.com/starmel/OpenSuperWhisper"
-bundle_id: "ru.starmel.OpenSuperWhisper"
+app_token: opensuperwhisper
+name: OpenSuperWhisper
+desc: Whisper dictation/transcription app
+homepage: 'https://github.com/starmel/OpenSuperWhisper'
+bundle_id: ru.starmel.OpenSuperWhisper
 
 sources:
   - type: homebrew
-    cask: "opensuperwhisper"
+    cask: opensuperwhisper
 
   - type: github
-    repo: "starmel/OpenSuperWhisper"
+    repo: starmel/OpenSuperWhisper

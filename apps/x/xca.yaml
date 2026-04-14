@@ -1,12 +1,12 @@
-app_token: "xca"
-name: "XCA"
-desc: "X Certificate and Key management"
-homepage: "https://hohnstaedt.de/xca/"
-bundle_id: "de.hohnstaedt.xca"
+app_token: xca
+name: XCA
+desc: X Certificate and Key management
+homepage: 'https://hohnstaedt.de/xca/'
+bundle_id: de.hohnstaedt.xca
 
 sources:
   - type: homebrew
-    cask: "xca"
+    cask: xca
 
   - type: github
-    repo: "chris2511/xca"
+    repo: chris2511/xca

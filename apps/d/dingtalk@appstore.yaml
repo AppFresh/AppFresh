@@ -1,10 +1,10 @@
-app_token: "dingtalk@appstore"
-name: "DingTalk - App Store"
-name_cn: "钉钉"
-desc: "Teamwork app by Alibaba Group"
-homepage: "https://www.dingtalk.com/"
-bundle_id: "5ZSL2CJU2T.com.dingtalk.mac"
+app_token: dingtalk@appstore
+name: DingTalk - App Store
+name_cn: 钉钉
+desc: Teamwork app by Alibaba Group
+homepage: 'https://www.dingtalk.com/'
+bundle_id: 5ZSL2CJU2T.com.dingtalk.mac
 
 sources:
   - type: appstore
-    app_id: "1435447041"
+    app_id: '1435447041'

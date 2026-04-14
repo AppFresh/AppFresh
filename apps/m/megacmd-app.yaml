@@ -1,9 +1,9 @@
-app_token: "megacmd-app"
-name: "MEGAcmd"
-desc: "Command-line access to MEGA services"
-homepage: "https://mega.nz/cmd"
-bundle_id: "megacmd.mac"
+app_token: megacmd-app
+name: MEGAcmd
+desc: Command-line access to MEGA services
+homepage: 'https://mega.nz/cmd'
+bundle_id: megacmd.mac
 
 sources:
   - type: homebrew
-    cask: "megacmd-app"
+    cask: megacmd-app

@@ -1,9 +1,9 @@
-app_token: "mumuplayer"
-name: "Mumu Player Pro"
-desc: "Android emulator"
-homepage: "https://mumu.163.com/mac/"
-bundle_id: "com.netease.mumu.nemux"
+app_token: mumuplayer
+name: Mumu Player Pro
+desc: Android emulator
+homepage: 'https://mumu.163.com/mac/'
+bundle_id: com.netease.mumu.nemux
 
 sources:
   - type: homebrew
-    cask: "mumuplayer"
+    cask: mumuplayer

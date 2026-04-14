@@ -1,12 +1,12 @@
-app_token: "stirling-pdf"
-name: "Stirling-PDF"
-desc: "PDF utility"
-homepage: "https://stirlingpdf.com/"
-bundle_id: "stirling.pdf.dev"
+app_token: stirling-pdf
+name: Stirling-PDF
+desc: PDF utility
+homepage: 'https://stirlingpdf.com/'
+bundle_id: stirling.pdf.dev
 
 sources:
   - type: homebrew
-    cask: "stirling-pdf"
+    cask: stirling-pdf
 
   - type: github
-    repo: "Stirling-Tools/Stirling-PDF"
+    repo: Stirling-Tools/Stirling-PDF

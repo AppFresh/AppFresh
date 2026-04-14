@@ -1,9 +1,9 @@
-app_token: "appzapper"
-name: "AppZapper"
-desc: "Tool to uninstall unwanted applications and their support files"
-homepage: "https://www.appzapper.com/"
-bundle_id: "com.appzapper.appzapper2"
+app_token: appzapper
+name: AppZapper
+desc: Tool to uninstall unwanted applications and their support files
+homepage: 'https://www.appzapper.com/'
+bundle_id: com.appzapper.appzapper2
 
 sources:
   - type: homebrew
-    cask: "appzapper"
+    cask: appzapper

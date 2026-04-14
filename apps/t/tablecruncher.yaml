@@ -1,9 +1,9 @@
-app_token: "tablecruncher"
-name: "Tablecruncher"
-desc: "Lightweight CSV editor"
-homepage: "https://tablecruncher.com/"
-bundle_id: "com.tablecruncher.Tablecruncher"
+app_token: tablecruncher
+name: Tablecruncher
+desc: Lightweight CSV editor
+homepage: 'https://tablecruncher.com/'
+bundle_id: com.tablecruncher.Tablecruncher
 
 sources:
   - type: homebrew
-    cask: "tablecruncher"
+    cask: tablecruncher

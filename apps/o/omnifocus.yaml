@@ -1,9 +1,9 @@
-app_token: "omnifocus"
-name: "OmniFocus"
-desc: "Scheduling application focusing on organisation"
-homepage: "https://www.omnigroup.com/omnifocus/"
-bundle_id: "com.omnigroup.OmniFocus4"
+app_token: omnifocus
+name: OmniFocus
+desc: Scheduling application focusing on organisation
+homepage: 'https://www.omnigroup.com/omnifocus/'
+bundle_id: com.omnigroup.OmniFocus4
 
 sources:
   - type: homebrew
-    cask: "omnifocus"
+    cask: omnifocus

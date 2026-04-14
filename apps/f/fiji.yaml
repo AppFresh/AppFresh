@@ -1,9 +1,9 @@
-app_token: "fiji"
-name: "Fiji"
-desc: "Open-source image processing package"
-homepage: "https://fiji.sc/"
-bundle_id: "sc.fiji.fiji"
+app_token: fiji
+name: Fiji
+desc: Open-source image processing package
+homepage: 'https://fiji.sc/'
+bundle_id: sc.fiji.fiji
 
 sources:
   - type: homebrew
-    cask: "fiji"
+    cask: fiji

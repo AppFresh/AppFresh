@@ -1,12 +1,12 @@
-app_token: "rancher"
-name: "Rancher Desktop"
-desc: "Kubernetes and container management on the desktop"
-homepage: "https://rancherdesktop.io/"
-bundle_id: "io.rancherdesktop.app"
+app_token: rancher
+name: Rancher Desktop
+desc: Kubernetes and container management on the desktop
+homepage: 'https://rancherdesktop.io/'
+bundle_id: io.rancherdesktop.app
 
 sources:
   - type: homebrew
-    cask: "rancher"
+    cask: rancher
 
   - type: github
-    repo: "rancher-sandbox/rancher-desktop"
+    repo: rancher-sandbox/rancher-desktop

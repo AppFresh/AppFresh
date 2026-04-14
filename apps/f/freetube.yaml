@@ -1,12 +1,12 @@
-app_token: "freetube"
-name: "FreeTube"
-desc: "YouTube player focusing on privacy"
-homepage: "https://freetubeapp.io/"
-bundle_id: "io.freetubeapp.freetube"
+app_token: freetube
+name: FreeTube
+desc: YouTube player focusing on privacy
+homepage: 'https://freetubeapp.io/'
+bundle_id: io.freetubeapp.freetube
 
 sources:
   - type: homebrew
-    cask: "freetube"
+    cask: freetube
 
   - type: github
-    repo: "FreeTubeApp/FreeTube"
+    repo: FreeTubeApp/FreeTube

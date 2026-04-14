@@ -1,9 +1,9 @@
-app_token: "cakebrewjs"
-name: "Cakebrewjs"
-desc: "Homebrew GUI app"
-homepage: "https://sourceforge.net/projects/cakebrewjs/"
-bundle_id: "com.shemeshg.cakebrewjs"
+app_token: cakebrewjs
+name: Cakebrewjs
+desc: Homebrew GUI app
+homepage: 'https://sourceforge.net/projects/cakebrewjs/'
+bundle_id: com.shemeshg.cakebrewjs
 
 sources:
   - type: homebrew
-    cask: "cakebrewjs"
+    cask: cakebrewjs

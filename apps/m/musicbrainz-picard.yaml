@@ -1,9 +1,9 @@
-app_token: "musicbrainz-picard"
-name: "MusicBrainz Picard"
-desc: "Music tagger"
-homepage: "https://picard.musicbrainz.org/"
-bundle_id: "org.musicbrainz.Picard"
+app_token: musicbrainz-picard
+name: MusicBrainz Picard
+desc: Music tagger
+homepage: 'https://picard.musicbrainz.org/'
+bundle_id: org.musicbrainz.Picard
 
 sources:
   - type: homebrew
-    cask: "musicbrainz-picard"
+    cask: musicbrainz-picard

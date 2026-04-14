@@ -1,15 +1,15 @@
-app_token: "unshaky"
-name: "Unshaky"
-desc: "Software fix for double key presses on Apple's butterfly keyboard"
-homepage: "https://github.com/aahung/Unshaky"
-bundle_id: "com.nestederror.Unshaky"
+app_token: unshaky
+name: Unshaky
+desc: Software fix for double key presses on Apple's butterfly keyboard
+homepage: 'https://github.com/aahung/Unshaky'
+bundle_id: com.nestederror.Unshaky
 
 sources:
   - type: homebrew
-    cask: "unshaky"
+    cask: unshaky
 
   - type: github
-    repo: "aahung/Unshaky"
+    repo: aahung/Unshaky
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/aahung/Unshaky/master/appcast.xml"
+    url: 'https://raw.githubusercontent.com/aahung/Unshaky/master/appcast.xml'

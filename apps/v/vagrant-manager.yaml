@@ -1,11 +1,11 @@
-app_token: "vagrant-manager"
-name: "Vagrant Manager"
-homepage: "https://www.vagrantmanager.com/"
-bundle_id: "lanayo.Vagrant-Manager"
+app_token: vagrant-manager
+name: Vagrant Manager
+homepage: 'https://www.vagrantmanager.com/'
+bundle_id: lanayo.Vagrant-Manager
 
 sources:
   - type: homebrew
-    cask: "vagrant-manager"
+    cask: vagrant-manager
 
   - type: github
-    repo: "lanayotech/vagrant-manager"
+    repo: lanayotech/vagrant-manager

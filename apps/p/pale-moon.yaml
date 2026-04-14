@@ -1,9 +1,9 @@
-app_token: "pale-moon"
-name: "Pale Moon"
-desc: "Web browser"
-homepage: "https://www.palemoon.org/"
-bundle_id: "org.mozilla.plugincontainer"
+app_token: pale-moon
+name: Pale Moon
+desc: Web browser
+homepage: 'https://www.palemoon.org/'
+bundle_id: org.mozilla.plugincontainer
 
 sources:
   - type: homebrew
-    cask: "pale-moon"
+    cask: pale-moon

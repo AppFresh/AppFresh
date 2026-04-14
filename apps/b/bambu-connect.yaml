@@ -1,11 +1,12 @@
-app_token: "bambu-connect"
-name: "Bambu Connect"
-desc: "Tool for linking with Bambu Lab 3D printers"
-homepage: "https://wiki.bambulab.com/en/software/bambu-connect"
-bundle_id: "com.bambulab.bambu-connect"
+app_token: bambu-connect
+name: Bambu Connect
+desc: Tool for linking with Bambu Lab 3D printers
+homepage: 'https://wiki.bambulab.com/en/software/bambu-connect'
+bundle_id: com.bambulab.bambu-connect
 
 sources:
   - type: homebrew
-    cask: "bambu-connect"
+    cask: bambu-connect
 
   - type: electron
+    url: 'https://public-cdn.bblmw.com/upgrade/bambu-connect/updates/beta-mac.yml'

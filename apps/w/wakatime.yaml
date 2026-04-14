@@ -1,12 +1,12 @@
-app_token: "wakatime"
-name: "Wakatime"
-desc: "System tray app for automatic time tracking"
-homepage: "https://wakatime.com/mac"
-bundle_id: "macos-wakatime.WakaTime"
+app_token: wakatime
+name: Wakatime
+desc: System tray app for automatic time tracking
+homepage: 'https://wakatime.com/mac'
+bundle_id: macos-wakatime.WakaTime
 
 sources:
   - type: homebrew
-    cask: "wakatime"
+    cask: wakatime
 
   - type: github
-    repo: "wakatime/macos-wakatime"
+    repo: wakatime/macos-wakatime

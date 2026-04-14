@@ -1,12 +1,12 @@
-app_token: "sidequest"
-name: "SideQuest"
-desc: "Virtual reality content platform"
-homepage: "https://sidequestvr.com/"
-bundle_id: "com.sidequestvr.app"
+app_token: sidequest
+name: SideQuest
+desc: Virtual reality content platform
+homepage: 'https://sidequestvr.com/'
+bundle_id: com.sidequestvr.app
 
 sources:
   - type: homebrew
-    cask: "sidequest"
+    cask: sidequest
 
   - type: github
-    repo: "SideQuestVR/SideQuest"
+    repo: SideQuestVR/SideQuest

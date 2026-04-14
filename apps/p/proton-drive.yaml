@@ -1,12 +1,12 @@
-app_token: "proton-drive"
-name: "Proton Drive"
-desc: "Client for Proton Drive"
-homepage: "https://proton.me/drive"
-bundle_id: "ch.protonmail.drive"
+app_token: proton-drive
+name: Proton Drive
+desc: Client for Proton Drive
+homepage: 'https://proton.me/drive'
+bundle_id: ch.protonmail.drive
 
 sources:
   - type: homebrew
-    cask: "proton-drive"
+    cask: proton-drive
 
   - type: sparkle
-    url: "https://proton.me/download/drive/macos/appcast.xml"
+    url: 'https://proton.me/download/drive/macos/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "wondershare-filmora"
-name: "Wondershare Filmora"
-desc: "Video editor"
-homepage: "https://filmora.wondershare.com/video-editor-mac/"
-bundle_id: "com.wondershare.filmoramacos"
+app_token: wondershare-filmora
+name: Wondershare Filmora
+desc: Video editor
+homepage: 'https://filmora.wondershare.com/video-editor-mac/'
+bundle_id: com.wondershare.filmoramacos
 
 sources:
   - type: homebrew
-    cask: "wondershare-filmora"
+    cask: wondershare-filmora

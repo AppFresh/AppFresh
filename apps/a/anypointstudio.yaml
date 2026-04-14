@@ -1,9 +1,9 @@
-app_token: "anypointstudio"
-name: "Anypoint Studio"
-desc: "Eclipse-based IDE for designing and testing Mule applications"
-homepage: "https://www.mulesoft.com/platform/studio"
-bundle_id: "studio.product"
+app_token: anypointstudio
+name: Anypoint Studio
+desc: Eclipse-based IDE for designing and testing Mule applications
+homepage: 'https://www.mulesoft.com/platform/studio'
+bundle_id: studio.product
 
 sources:
   - type: homebrew
-    cask: "anypointstudio"
+    cask: anypointstudio

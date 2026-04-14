@@ -1,9 +1,9 @@
-app_token: "axure-rp"
-name: "Axure RP"
-desc: "Planning and prototyping tool for developers"
-homepage: "https://www.axure.com/"
-bundle_id: "com.axure.AxureRP11"
+app_token: axure-rp
+name: Axure RP
+desc: Planning and prototyping tool for developers
+homepage: 'https://www.axure.com/'
+bundle_id: com.axure.AxureRP11
 
 sources:
   - type: homebrew
-    cask: "axure-rp"
+    cask: axure-rp

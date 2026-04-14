@@ -1,12 +1,12 @@
-app_token: "corelocationcli"
-name: "Core Location CLI"
-desc: "Prints location information from CoreLocation"
-homepage: "https://github.com/fulldecent/corelocationcli"
-bundle_id: "com.fulldecent.CoreLocationCLI"
+app_token: corelocationcli
+name: Core Location CLI
+desc: Prints location information from CoreLocation
+homepage: 'https://github.com/fulldecent/corelocationcli'
+bundle_id: com.fulldecent.CoreLocationCLI
 
 sources:
   - type: homebrew
-    cask: "corelocationcli"
+    cask: corelocationcli
 
   - type: github
-    repo: "fulldecent/corelocationcli"
+    repo: fulldecent/corelocationcli

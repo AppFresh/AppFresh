@@ -1,9 +1,9 @@
-app_token: "openttd"
-name: "OpenTTD"
-desc: "Open-source transport simulation game"
-homepage: "https://www.openttd.org/"
-bundle_id: "org.openttd.openttd"
+app_token: openttd
+name: OpenTTD
+desc: Open-source transport simulation game
+homepage: 'https://www.openttd.org/'
+bundle_id: org.openttd.openttd
 
 sources:
   - type: homebrew
-    cask: "openttd"
+    cask: openttd

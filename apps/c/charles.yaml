@@ -1,12 +1,12 @@
-app_token: "charles"
-name: "Charles"
-desc: "Web debugging Proxy application"
-homepage: "https://www.charlesproxy.com/"
-bundle_id: "com.xk72.Charles"
+app_token: charles
+name: Charles
+desc: Web debugging Proxy application
+homepage: 'https://www.charlesproxy.com/'
+bundle_id: com.xk72.Charles
 
 sources:
   - type: homebrew
-    cask: "charles"
+    cask: charles
 
   - type: homebrew
-    cask: "charles@4"
+    cask: charles@4

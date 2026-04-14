@@ -1,11 +1,11 @@
-app_token: "whimsical"
-name: "Whimsical"
-desc: "Collaboration and diagramming tool"
-homepage: "https://whimsical.com/"
-bundle_id: "com.whimsical.desktop"
+app_token: whimsical
+name: Whimsical
+desc: Collaboration and diagramming tool
+homepage: 'https://whimsical.com/'
+bundle_id: com.whimsical.desktop
 
 sources:
   - type: homebrew
-    cask: "whimsical"
+    cask: whimsical
 
   - type: electron

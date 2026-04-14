@@ -1,12 +1,12 @@
-app_token: "coderunner"
-name: "CodeRunner"
-desc: "Multi-language programming editor"
-homepage: "https://coderunnerapp.com/"
-bundle_id: "com.krill.CodeRunner"
+app_token: coderunner
+name: CodeRunner
+desc: Multi-language programming editor
+homepage: 'https://coderunnerapp.com/'
+bundle_id: com.krill.CodeRunner
 
 sources:
   - type: homebrew
-    cask: "coderunner"
+    cask: coderunner
 
   - type: sparkle
-    url: "https://coderunnerapp.com/appcast.xml"
+    url: 'https://coderunnerapp.com/appcast.xml'

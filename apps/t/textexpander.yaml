@@ -1,12 +1,12 @@
-app_token: "textexpander"
-name: "TextExpander"
-desc: "Inserts pre-made snippets of text anywhere"
-homepage: "https://textexpander.com/"
-bundle_id: "com.smileonmymac.textexpander"
+app_token: textexpander
+name: TextExpander
+desc: Inserts pre-made snippets of text anywhere
+homepage: 'https://textexpander.com/'
+bundle_id: com.smileonmymac.textexpander
 
 sources:
   - type: homebrew
-    cask: "textexpander"
+    cask: textexpander
 
   - type: sparkle
-    url: "https://cgi.textexpander.com/appcast/TextExpander-macOS.xml"
+    url: 'https://cgi.textexpander.com/appcast/TextExpander-macOS.xml'

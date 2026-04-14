@@ -1,9 +1,9 @@
-app_token: "luminance-hdr"
-name: "Luminance HDR"
-desc: "Provides a workflow for HDR imaging"
-homepage: "https://qtpfsgui.sourceforge.io/"
-bundle_id: "com.luminance-hdr"
+app_token: luminance-hdr
+name: Luminance HDR
+desc: Provides a workflow for HDR imaging
+homepage: 'https://qtpfsgui.sourceforge.io/'
+bundle_id: com.luminance-hdr
 
 sources:
   - type: homebrew
-    cask: "luminance-hdr"
+    cask: luminance-hdr

@@ -1,15 +1,15 @@
-app_token: "processing"
-name: "Processing"
-desc: "Flexible software sketchbook and a language for learning how to code"
-homepage: "https://processing.org/"
-bundle_id: "org.processing.app"
+app_token: processing
+name: Processing
+desc: Flexible software sketchbook and a language for learning how to code
+homepage: 'https://processing.org/'
+bundle_id: org.processing.app
 
 sources:
   - type: homebrew
-    cask: "processing"
+    cask: processing
 
   - type: github
-    repo: "processing/processing4"
+    repo: processing/processing4
 
   - type: homebrew
-    cask: "processing@3"
+    cask: processing@3

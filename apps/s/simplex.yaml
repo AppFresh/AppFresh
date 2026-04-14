@@ -1,12 +1,12 @@
-app_token: "simplex"
-name: "SimpleX Chat"
-desc: "Messenger for SimpleX protocol"
-homepage: "https://simplex.chat/"
-bundle_id: "chat.simplex.app"
+app_token: simplex
+name: SimpleX Chat
+desc: Messenger for SimpleX protocol
+homepage: 'https://simplex.chat/'
+bundle_id: chat.simplex.app
 
 sources:
   - type: homebrew
-    cask: "simplex"
+    cask: simplex
 
   - type: github
-    repo: "simplex-chat/simplex-chat"
+    repo: simplex-chat/simplex-chat

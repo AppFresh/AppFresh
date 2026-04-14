@@ -1,12 +1,12 @@
-app_token: "ayugram"
-name: "AyuGramDesktop"
-desc: "Desktop Telegram client with good customization and Ghost mode."
-homepage: "https://t.me/ayugram"
-bundle_id: "one.ayugram.AyuGramDesktop"
+app_token: ayugram
+name: AyuGramDesktop
+desc: Desktop Telegram client with good customization and Ghost mode.
+homepage: 'https://t.me/ayugram'
+bundle_id: one.ayugram.AyuGramDesktop
 
 sources:
   - type: homebrew
-    cask: "ayugram"
+    cask: ayugram
 
   - type: github
-    repo: "AyuGram/AyuGramDesktop"
+    repo: AyuGram/AyuGramDesktop

@@ -1,12 +1,12 @@
-app_token: "onyx"
-name: "OnyX"
-desc: "Verify system files structure, run miscellaneous maintenance and more"
-homepage: "https://www.titanium-software.fr/en/onyx.html"
-bundle_id: "com.titanium.OnyX"
+app_token: onyx
+name: OnyX
+desc: Verify system files structure, run miscellaneous maintenance and more
+homepage: 'https://www.titanium-software.fr/en/onyx.html'
+bundle_id: com.titanium.OnyX
 
 sources:
   - type: homebrew
-    cask: "onyx"
+    cask: onyx
 
   - type: homebrew
-    cask: "onyx@beta"
+    cask: onyx@beta

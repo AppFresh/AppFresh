@@ -1,12 +1,12 @@
-app_token: "topnotch"
-name: "TopNotch"
-desc: "Utility to hide the notch"
-homepage: "https://topnotch.app/"
-bundle_id: "pl.maketheweb.TopNotch"
+app_token: topnotch
+name: TopNotch
+desc: Utility to hide the notch
+homepage: 'https://topnotch.app/'
+bundle_id: pl.maketheweb.TopNotch
 
 sources:
   - type: homebrew
-    cask: "topnotch"
+    cask: topnotch
 
   - type: sparkle
-    url: "https://updates.topnotch.app/appcast.xml"
+    url: 'https://updates.topnotch.app/appcast.xml'

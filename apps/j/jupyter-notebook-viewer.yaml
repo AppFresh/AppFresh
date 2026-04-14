@@ -1,12 +1,12 @@
-app_token: "jupyter-notebook-viewer"
-name: "Jupyter Notebook Viewer"
-desc: "Utility to render Jupyter notebooks"
-homepage: "https://github.com/tuxu/nbviewer-app"
-bundle_id: "com.tinowagner.nbviewer-app"
+app_token: jupyter-notebook-viewer
+name: Jupyter Notebook Viewer
+desc: Utility to render Jupyter notebooks
+homepage: 'https://github.com/tuxu/nbviewer-app'
+bundle_id: com.tinowagner.nbviewer-app
 
 sources:
   - type: homebrew
-    cask: "jupyter-notebook-viewer"
+    cask: jupyter-notebook-viewer
 
   - type: github
-    repo: "tuxu/nbviewer-app"
+    repo: tuxu/nbviewer-app

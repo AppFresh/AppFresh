@@ -1,12 +1,12 @@
-app_token: "tella"
-name: "Tella"
-desc: "Screen recorder"
-homepage: "https://www.tella.tv/"
-bundle_id: "tv.tella.Tella"
+app_token: tella
+name: Tella
+desc: Screen recorder
+homepage: 'https://www.tella.tv/'
+bundle_id: tv.tella.Tella
 
 sources:
   - type: homebrew
-    cask: "tella"
+    cask: tella
 
   - type: sparkle
-    url: "https://mac.tella.tv/appcast.xml"
+    url: 'https://mac.tella.tv/appcast.xml'

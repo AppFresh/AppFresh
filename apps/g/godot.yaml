@@ -1,16 +1,16 @@
-app_token: "godot"
-name: "Godot Engine"
-desc: "Game development engine"
-homepage: "https://godotengine.org/"
-bundle_id: "org.godotengine.godot"
+app_token: godot
+name: Godot Engine
+desc: Game development engine
+homepage: 'https://godotengine.org/'
+bundle_id: org.godotengine.godot
 
 sources:
   - type: homebrew
-    cask: "godot"
+    cask: godot
 
   - type: github
-    repo: "godotengine/godot"
-    regex: "Godot_v([\d.]+)-stable_macos\.universal\.zip"
+    repo: godotengine/godot
+    regex: 'Godot_v([\d.]+)-stable_macos\.universal\.zip'
 
   - type: homebrew
-    cask: "godot@3"
+    cask: godot@3

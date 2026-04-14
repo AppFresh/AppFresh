@@ -1,12 +1,12 @@
-app_token: "magiccap"
-name: "MagicCap"
-desc: "Image/GIF capture suite"
-homepage: "https://magiccap.me/"
-bundle_id: "com.electron.magiccap"
+app_token: magiccap
+name: MagicCap
+desc: Image/GIF capture suite
+homepage: 'https://magiccap.me/'
+bundle_id: com.electron.magiccap
 
 sources:
   - type: homebrew
-    cask: "magiccap"
+    cask: magiccap
 
   - type: github
-    repo: "magiccap/MagicCap"
+    repo: magiccap/MagicCap

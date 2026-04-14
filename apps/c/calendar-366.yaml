@@ -1,12 +1,12 @@
-app_token: "calendar-366"
-name: "Calendar 366 II"
-desc: "Menu bar calendar for events and reminders"
-homepage: "https://nspektor.com/calendar366/mac"
-bundle_id: "com.nspektor.macos.Calendar-366-II"
+app_token: calendar-366
+name: Calendar 366 II
+desc: Menu bar calendar for events and reminders
+homepage: 'https://nspektor.com/calendar366/mac'
+bundle_id: com.nspektor.macos.Calendar-366-II
 
 sources:
   - type: homebrew
-    cask: "calendar-366"
+    cask: calendar-366
 
   - type: sparkle
-    url: "https://nspektor.com/downloads/Calendar366IIAsset.xml"
+    url: 'https://nspektor.com/downloads/Calendar366IIAsset.xml'

@@ -1,12 +1,12 @@
-app_token: "key-codes"
-name: "Key Codes"
-desc: "Display key code, unicode value and modifier keys state for any key combination"
-homepage: "https://manytricks.com/keycodes/"
-bundle_id: "com.manytricks.KeyCodes"
+app_token: key-codes
+name: Key Codes
+desc: Display key code, unicode value and modifier keys state for any key combination
+homepage: 'https://manytricks.com/keycodes/'
+bundle_id: com.manytricks.KeyCodes
 
 sources:
   - type: homebrew
-    cask: "key-codes"
+    cask: key-codes
 
   - type: sparkle
-    url: "https://manytricks.com/keycodes/appcast/"
+    url: 'https://manytricks.com/keycodes/appcast/'

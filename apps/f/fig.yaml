@@ -1,9 +1,9 @@
-app_token: "fig"
-name: "fig"
-desc: "Reimagine your terminal"
-homepage: "https://fig.io/"
-bundle_id: "com.mschrage.fig"
+app_token: fig
+name: fig
+desc: Reimagine your terminal
+homepage: 'https://fig.io/'
+bundle_id: com.mschrage.fig
 
 sources:
   - type: homebrew
-    cask: "fig"
+    cask: fig

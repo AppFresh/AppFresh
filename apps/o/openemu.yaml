@@ -1,18 +1,18 @@
-app_token: "openemu"
-name: "OpenEmu"
-desc: "Retro video game emulation"
-homepage: "https://openemu.org/"
-bundle_id: "org.openemu.OpenEmu"
+app_token: openemu
+name: OpenEmu
+desc: Retro video game emulation
+homepage: 'https://openemu.org/'
+bundle_id: org.openemu.OpenEmu
 
 sources:
   - type: homebrew
-    cask: "openemu"
+    cask: openemu
 
   - type: github
-    repo: "OpenEmu/OpenEmu"
+    repo: OpenEmu/OpenEmu
 
   - type: sparkle
-    url: "https://raw.github.com/OpenEmu/OpenEmu-Update/master/appcast.xml"
+    url: 'https://raw.github.com/OpenEmu/OpenEmu-Update/master/appcast.xml'
 
   - type: homebrew
-    cask: "openemu@experimental"
+    cask: openemu@experimental

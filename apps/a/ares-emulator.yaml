@@ -1,12 +1,12 @@
-app_token: "ares-emulator"
-name: "ares"
-desc: "Cross-platform, multi-system emulator, focusing on accuracy and preservation"
-homepage: "https://ares-emu.net/"
-bundle_id: "dev.ares.ares"
+app_token: ares-emulator
+name: ares
+desc: Cross-platform, multi-system emulator, focusing on accuracy and preservation
+homepage: 'https://ares-emu.net/'
+bundle_id: dev.ares.ares
 
 sources:
   - type: homebrew
-    cask: "ares-emulator"
+    cask: ares-emulator
 
   - type: github
-    repo: "ares-emulator/ares"
+    repo: ares-emulator/ares

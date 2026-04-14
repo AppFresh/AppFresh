@@ -1,9 +1,9 @@
-app_token: "affinity-photo"
-name: "Affinity Photo 2"
-desc: "Professional image editing software"
-homepage: "https://affinity.serif.com/en-us/photo/"
-bundle_id: "com.seriflabs.affinityphoto2"
+app_token: affinity-photo
+name: Affinity Photo 2
+desc: Professional image editing software
+homepage: 'https://affinity.serif.com/en-us/photo/'
+bundle_id: com.seriflabs.affinityphoto2
 
 sources:
   - type: homebrew
-    cask: "affinity-photo"
+    cask: affinity-photo

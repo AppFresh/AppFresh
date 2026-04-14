@@ -1,13 +1,13 @@
-app_token: "milkman"
-name: "Milkman"
-desc: "Extensible request and response workbench"
-homepage: "https://github.com/warmuuh/milkman"
-bundle_id: "milkman"
+app_token: milkman
+name: Milkman
+desc: Extensible request and response workbench
+homepage: 'https://github.com/warmuuh/milkman'
+bundle_id: milkman
 
 sources:
   - type: homebrew
-    cask: "milkman"
+    cask: milkman
 
   - type: github
-    repo: "warmuuh/milkman"
-    regex: "milkman-dist-appbundle-macos64-bin.tgz"
+    repo: warmuuh/milkman
+    regex: 'milkman-dist-appbundle-macos64-bin.tgz'

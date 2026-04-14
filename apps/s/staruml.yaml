@@ -1,11 +1,11 @@
-app_token: "staruml"
-name: "StarUML"
-desc: "Software modeller"
-homepage: "https://staruml.io/"
-bundle_id: "io.staruml.staruml"
+app_token: staruml
+name: StarUML
+desc: Software modeller
+homepage: 'https://staruml.io/'
+bundle_id: io.staruml.staruml
 
 sources:
   - type: homebrew
-    cask: "staruml"
+    cask: staruml
 
   - type: electron

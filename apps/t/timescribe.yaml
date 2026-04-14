@@ -1,12 +1,12 @@
-app_token: "timescribe"
-name: "TimeScribe"
-desc: "Modern & private time tracking for macOS & Windows."
-homepage: "https://timescribe.app/"
-bundle_id: "de.amplussoftware.timescribe"
+app_token: timescribe
+name: TimeScribe
+desc: Modern & private time tracking for macOS & Windows.
+homepage: 'https://timescribe.app/'
+bundle_id: de.amplussoftware.timescribe
 
 sources:
   - type: homebrew
-    cask: "timescribe"
+    cask: timescribe
 
   - type: github
-    repo: "WINBIGFOX/TimeScribe"
+    repo: WINBIGFOX/TimeScribe

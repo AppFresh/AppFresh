@@ -1,12 +1,12 @@
-app_token: "fluent-reader"
-name: "Fluent Reader"
-desc: "RSS/Atom news aggregator"
-homepage: "https://hyliu.me/fluent-reader/"
-bundle_id: "me.hyliu.fluentreader"
+app_token: fluent-reader
+name: Fluent Reader
+desc: RSS/Atom news aggregator
+homepage: 'https://hyliu.me/fluent-reader/'
+bundle_id: me.hyliu.fluentreader
 
 sources:
   - type: homebrew
-    cask: "fluent-reader"
+    cask: fluent-reader
 
   - type: github
-    repo: "yang991178/fluent-reader"
+    repo: yang991178/fluent-reader

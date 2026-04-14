@@ -1,12 +1,12 @@
-app_token: "cleanclip"
-name: "CleanClip"
-desc: "Clipboard manager"
-homepage: "https://cleanclip.cc/"
-bundle_id: "com.antiless.cleanclip.mac"
+app_token: cleanclip
+name: CleanClip
+desc: Clipboard manager
+homepage: 'https://cleanclip.cc/'
+bundle_id: com.antiless.cleanclip.mac
 
 sources:
   - type: homebrew
-    cask: "cleanclip"
+    cask: cleanclip
 
   - type: sparkle
-    url: "https://cleanclip.cc/appcast.xml"
+    url: 'https://cleanclip.cc/appcast.xml'

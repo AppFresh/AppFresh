@@ -1,9 +1,9 @@
-app_token: "applepi-baker"
-name: "ApplePi-Baker"
-desc: "Backup and restore SD cards, USB drives, external HDD, etc"
-homepage: "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/"
-bundle_id: "com.tweaking4all.ApplePiBaker"
+app_token: applepi-baker
+name: ApplePi-Baker
+desc: Backup and restore SD cards, USB drives, external HDD, etc
+homepage: 'https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/'
+bundle_id: com.tweaking4all.ApplePiBaker
 
 sources:
   - type: homebrew
-    cask: "applepi-baker"
+    cask: applepi-baker

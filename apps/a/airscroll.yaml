@@ -1,12 +1,12 @@
-app_token: "airscroll"
-name: "AirScroll"
-desc: "Smooth mouse scrolling utility"
-homepage: "https://airscroll.net/"
-bundle_id: "com.Awesome.AirScroll"
+app_token: airscroll
+name: AirScroll
+desc: Smooth mouse scrolling utility
+homepage: 'https://airscroll.net/'
+bundle_id: com.Awesome.AirScroll
 
 sources:
   - type: homebrew
-    cask: "airscroll"
+    cask: airscroll
 
   - type: sparkle
-    url: "https://airscroll.net/releases/appcast.xml"
+    url: 'https://airscroll.net/releases/appcast.xml'

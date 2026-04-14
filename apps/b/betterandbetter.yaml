@@ -1,12 +1,12 @@
-app_token: "betterandbetter"
-name: "Better And Better"
-desc: "Keyboard, mouse and touchpad motion gestures"
-homepage: "https://www.better365.cn/bab2.html"
-bundle_id: "cn.better365.BetterAndBetter"
+app_token: betterandbetter
+name: Better And Better
+desc: Keyboard, mouse and touchpad motion gestures
+homepage: 'https://www.better365.cn/bab2.html'
+bundle_id: cn.better365.BetterAndBetter
 
 sources:
   - type: homebrew
-    cask: "betterandbetter"
+    cask: betterandbetter
 
   - type: sparkle
-    url: "https://www.better365.cn/BetterAndBetterUpdate.xml"
+    url: 'https://www.better365.cn/BetterAndBetterUpdate.xml'

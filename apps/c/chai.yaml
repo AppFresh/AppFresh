@@ -1,12 +1,12 @@
-app_token: "chai"
-name: "Chai"
-desc: "Utility to prevent the system from going to sleep"
-homepage: "https://github.com/lvillani/chai"
-bundle_id: "me.villani.lorenzo.Chai"
+app_token: chai
+name: Chai
+desc: Utility to prevent the system from going to sleep
+homepage: 'https://github.com/lvillani/chai'
+bundle_id: me.villani.lorenzo.Chai
 
 sources:
   - type: homebrew
-    cask: "chai"
+    cask: chai
 
   - type: github
-    repo: "lvillani/chai"
+    repo: lvillani/chai

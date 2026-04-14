@@ -1,9 +1,9 @@
-app_token: "wpsoffice"
-name: "WPS Office"
-desc: "All-in-one office suite"
-homepage: "https://www.wps.com/mac/"
-bundle_id: "com.kingsoft.wpsoffice.mac.global"
+app_token: wpsoffice
+name: WPS Office
+desc: All-in-one office suite
+homepage: 'https://www.wps.com/mac/'
+bundle_id: com.kingsoft.wpsoffice.mac.global
 
 sources:
   - type: homebrew
-    cask: "wpsoffice"
+    cask: wpsoffice

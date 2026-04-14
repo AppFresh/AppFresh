@@ -1,9 +1,9 @@
-app_token: "claude"
-name: "Claude"
-desc: "Anthropic's official Claude AI desktop app"
-homepage: "https://claude.com/download"
-bundle_id: "com.anthropic.claudefordesktop"
+app_token: claude
+name: Claude
+desc: Anthropic's official Claude AI desktop app
+homepage: 'https://claude.com/download'
+bundle_id: com.anthropic.claudefordesktop
 
 sources:
   - type: homebrew
-    cask: "claude"
+    cask: claude

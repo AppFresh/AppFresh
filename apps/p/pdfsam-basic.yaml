@@ -1,12 +1,12 @@
-app_token: "pdfsam-basic"
-name: "PDFsam Basic"
-desc: "Extracts pages, splits, merges, mixes and rotates PDF files"
-homepage: "https://pdfsam.org/"
-bundle_id: "org.pdfsam.basic"
+app_token: pdfsam-basic
+name: PDFsam Basic
+desc: Extracts pages, splits, merges, mixes and rotates PDF files
+homepage: 'https://pdfsam.org/'
+bundle_id: org.pdfsam.basic
 
 sources:
   - type: homebrew
-    cask: "pdfsam-basic"
+    cask: pdfsam-basic
 
   - type: github
-    repo: "torakiki/pdfsam"
+    repo: torakiki/pdfsam

@@ -1,9 +1,9 @@
-app_token: "ea"
-name: "EA App"
-desc: "Electronic Arts game launcher"
-homepage: "https://www.ea.com/ea-app"
-bundle_id: "com.ea.mac.eaapp"
+app_token: ea
+name: EA App
+desc: Electronic Arts game launcher
+homepage: 'https://www.ea.com/ea-app'
+bundle_id: com.ea.mac.eaapp
 
 sources:
   - type: homebrew
-    cask: "ea"
+    cask: ea

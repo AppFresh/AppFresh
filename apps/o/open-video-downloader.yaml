@@ -1,12 +1,12 @@
-app_token: "open-video-downloader"
-name: "Open Video Downloader"
-desc: "Cross-platform GUI for youtube-dl made in Electron and node.js"
-homepage: "https://github.com/jely2002/youtube-dl-gui"
-bundle_id: "com.jelleglebbeek.youtube-dl-gui"
+app_token: open-video-downloader
+name: Open Video Downloader
+desc: Cross-platform GUI for youtube-dl made in Electron and node.js
+homepage: 'https://github.com/jely2002/youtube-dl-gui'
+bundle_id: com.jelleglebbeek.youtube-dl-gui
 
 sources:
   - type: homebrew
-    cask: "open-video-downloader"
+    cask: open-video-downloader
 
   - type: github
-    repo: "jely2002/youtube-dl-gui"
+    repo: jely2002/youtube-dl-gui

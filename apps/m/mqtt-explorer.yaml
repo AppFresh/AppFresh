@@ -1,11 +1,11 @@
-app_token: "mqtt-explorer"
-name: "MQTT Explorer"
-homepage: "https://mqtt-explorer.com/"
-bundle_id: "de.t7n.apps.mqtt-explorer"
+app_token: mqtt-explorer
+name: MQTT Explorer
+homepage: 'https://mqtt-explorer.com/'
+bundle_id: de.t7n.apps.mqtt-explorer
 
 sources:
   - type: homebrew
-    cask: "mqtt-explorer"
+    cask: mqtt-explorer
 
   - type: github
-    repo: "thomasnordquist/MQTT-Explorer"
+    repo: thomasnordquist/MQTT-Explorer

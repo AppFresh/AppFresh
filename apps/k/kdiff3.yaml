@@ -1,9 +1,9 @@
-app_token: "kdiff3"
-name: "KDiff3"
-desc: "Utility for comparing and merging files and directories"
-homepage: "https://invent.kde.org/sdk/kdiff3"
-bundle_id: "org.kde.KDiff3"
+app_token: kdiff3
+name: KDiff3
+desc: Utility for comparing and merging files and directories
+homepage: 'https://invent.kde.org/sdk/kdiff3'
+bundle_id: org.kde.KDiff3
 
 sources:
   - type: homebrew
-    cask: "kdiff3"
+    cask: kdiff3

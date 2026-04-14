@@ -1,12 +1,12 @@
-app_token: "pallotron-yubiswitch"
-name: "Yubiswitch"
-desc: "Status bar application to enable/disable Yubikey Nano"
-homepage: "https://github.com/pallotron/yubiswitch"
-bundle_id: "com.pallotron.yubiswitch"
+app_token: pallotron-yubiswitch
+name: Yubiswitch
+desc: Status bar application to enable/disable Yubikey Nano
+homepage: 'https://github.com/pallotron/yubiswitch'
+bundle_id: com.pallotron.yubiswitch
 
 sources:
   - type: homebrew
-    cask: "pallotron-yubiswitch"
+    cask: pallotron-yubiswitch
 
   - type: github
-    repo: "pallotron/yubiswitch"
+    repo: pallotron/yubiswitch

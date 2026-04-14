@@ -1,12 +1,12 @@
-app_token: "pastenow"
-name: "PasteNow"
-desc: "Clipboard manager"
-homepage: "https://pastenow.app/"
-bundle_id: "app.pastenow.PasteNow"
+app_token: pastenow
+name: PasteNow
+desc: Clipboard manager
+homepage: 'https://pastenow.app/'
+bundle_id: app.pastenow.PasteNow
 
 sources:
   - type: homebrew
-    cask: "pastenow"
+    cask: pastenow
 
   - type: sparkle
-    url: "https://pastenow.app/api/release_manager/app.pastenow.PasteNow.xml"
+    url: 'https://pastenow.app/api/release_manager/app.pastenow.PasteNow.xml'

@@ -1,12 +1,12 @@
-app_token: "transocks"
-name: "Transocks"
-desc: "Tool to optimise access to various video music resources"
-homepage: "https://www.transocks.com/"
-bundle_id: "com.transocks.mac.signed"
+app_token: transocks
+name: Transocks
+desc: Tool to optimise access to various video music resources
+homepage: 'https://www.transocks.com/'
+bundle_id: com.transocks.mac.signed
 
 sources:
   - type: homebrew
-    cask: "transocks"
+    cask: transocks
 
   - type: sparkle
-    url: "https://www.transocks.org/updateInfo/official_update.xml"
+    url: 'https://www.transocks.org/updateInfo/official_update.xml'

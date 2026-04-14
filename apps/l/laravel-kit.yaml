@@ -1,12 +1,12 @@
-app_token: "laravel-kit"
-name: "Laravel Kit"
-desc: "Desktop Laravel admin panel app"
-homepage: "https://tmdh.github.io/laravel-kit"
-bundle_id: "com.tmdh.laravel-kit"
+app_token: laravel-kit
+name: Laravel Kit
+desc: Desktop Laravel admin panel app
+homepage: 'https://tmdh.github.io/laravel-kit'
+bundle_id: com.tmdh.laravel-kit
 
 sources:
   - type: homebrew
-    cask: "laravel-kit"
+    cask: laravel-kit
 
   - type: github
-    repo: "tmdh/laravel-kit"
+    repo: tmdh/laravel-kit

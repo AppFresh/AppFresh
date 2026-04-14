@@ -1,12 +1,12 @@
-app_token: "hubstaff"
-name: "Hubstaff"
-desc: "Work time tracker"
-homepage: "https://hubstaff.com/"
-bundle_id: "com.netsoft.Hubstaff"
+app_token: hubstaff
+name: Hubstaff
+desc: Work time tracker
+homepage: 'https://hubstaff.com/'
+bundle_id: com.netsoft.Hubstaff
 
 sources:
   - type: homebrew
-    cask: "hubstaff"
+    cask: hubstaff
 
   - type: sparkle
-    url: "https://app.hubstaff.com/appcast.xml"
+    url: 'https://app.hubstaff.com/appcast.xml'

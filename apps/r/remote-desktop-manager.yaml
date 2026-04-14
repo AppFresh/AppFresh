@@ -1,12 +1,12 @@
-app_token: "remote-desktop-manager"
-name: "Remote Desktop Manager"
-desc: "Centralises all remote connections on a single platform"
-homepage: "https://mac.remotedesktopmanager.com/"
-bundle_id: "com.devolutions.remotedesktopmanager"
+app_token: remote-desktop-manager
+name: Remote Desktop Manager
+desc: Centralises all remote connections on a single platform
+homepage: 'https://mac.remotedesktopmanager.com/'
+bundle_id: com.devolutions.remotedesktopmanager
 
 sources:
   - type: homebrew
-    cask: "remote-desktop-manager"
+    cask: remote-desktop-manager
 
   - type: sparkle
-    url: "https://cdn.devolutions.net/download/Mac/RemoteDesktopManager.xml"
+    url: 'https://cdn.devolutions.net/download/Mac/RemoteDesktopManager.xml'

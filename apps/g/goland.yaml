@@ -1,9 +1,9 @@
-app_token: "goland"
-name: "Goland"
-desc: "Go (golang) IDE"
-homepage: "https://www.jetbrains.com/go/"
-bundle_id: "com.jetbrains.goland"
+app_token: goland
+name: Goland
+desc: Go (golang) IDE
+homepage: 'https://www.jetbrains.com/go/'
+bundle_id: com.jetbrains.goland
 
 sources:
   - type: homebrew
-    cask: "goland"
+    cask: goland

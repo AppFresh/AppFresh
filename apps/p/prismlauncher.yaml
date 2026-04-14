@@ -1,15 +1,15 @@
-app_token: "prismlauncher"
-name: "Prism Launcher"
-desc: "Minecraft launcher"
-homepage: "https://prismlauncher.org/"
-bundle_id: "org.prismlauncher.PrismLauncher"
+app_token: prismlauncher
+name: Prism Launcher
+desc: Minecraft launcher
+homepage: 'https://prismlauncher.org/'
+bundle_id: org.prismlauncher.PrismLauncher
 
 sources:
   - type: homebrew
-    cask: "prismlauncher"
+    cask: prismlauncher
 
   - type: github
-    repo: "PrismLauncher/PrismLauncher"
+    repo: PrismLauncher/PrismLauncher
 
   - type: sparkle
-    url: "https://prismlauncher.org/feed/appcast.xml"
+    url: 'https://prismlauncher.org/feed/appcast.xml'

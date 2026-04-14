@@ -1,9 +1,9 @@
-app_token: "mkvtoolnix-app"
-name: "MKVToolNix"
-desc: "Set of tools to create, alter and inspect Matroska files (MKV)"
-homepage: "https://mkvtoolnix.download/"
-bundle_id: "download.mkvtoolnix.MKVToolNix"
+app_token: mkvtoolnix-app
+name: MKVToolNix
+desc: Set of tools to create, alter and inspect Matroska files (MKV)
+homepage: 'https://mkvtoolnix.download/'
+bundle_id: download.mkvtoolnix.MKVToolNix
 
 sources:
   - type: homebrew
-    cask: "mkvtoolnix-app"
+    cask: mkvtoolnix-app

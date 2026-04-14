@@ -1,12 +1,12 @@
-app_token: "satellite-eyes"
-name: "Satellite Eyes"
-desc: "Changes your desktop wallpaper to the satellite view of where you are"
-homepage: "https://satelliteeyes.tomtaylor.co.uk/"
-bundle_id: "uk.co.tomtaylor.SatelliteEyes"
+app_token: satellite-eyes
+name: Satellite Eyes
+desc: Changes your desktop wallpaper to the satellite view of where you are
+homepage: 'https://satelliteeyes.tomtaylor.co.uk/'
+bundle_id: uk.co.tomtaylor.SatelliteEyes
 
 sources:
   - type: homebrew
-    cask: "satellite-eyes"
+    cask: satellite-eyes
 
   - type: sparkle
-    url: "https://satellite-eyes.s3.amazonaws.com/appcast.xml"
+    url: 'https://satellite-eyes.s3.amazonaws.com/appcast.xml'

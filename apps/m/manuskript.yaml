@@ -1,12 +1,12 @@
-app_token: "manuskript"
-name: "Manuskript"
-desc: "Tool for writers"
-homepage: "https://www.theologeek.ch/manuskript/"
-bundle_id: "ch.theologeek.manuskript"
+app_token: manuskript
+name: Manuskript
+desc: Tool for writers
+homepage: 'https://www.theologeek.ch/manuskript/'
+bundle_id: ch.theologeek.manuskript
 
 sources:
   - type: homebrew
-    cask: "manuskript"
+    cask: manuskript
 
   - type: github
-    repo: "olivierkes/manuskript"
+    repo: olivierkes/manuskript

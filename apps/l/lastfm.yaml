@@ -1,12 +1,12 @@
-app_token: "lastfm"
-name: "Last.fm Scrobbler"
-desc: "Music services manager"
-homepage: "https://www.last.fm/"
-bundle_id: "fm.last.Scrobbler"
+app_token: lastfm
+name: Last.fm Scrobbler
+desc: Music services manager
+homepage: 'https://www.last.fm/'
+bundle_id: fm.last.Scrobbler
 
 sources:
   - type: homebrew
-    cask: "lastfm"
+    cask: lastfm
 
   - type: sparkle
-    url: "https://cdn.last.fm/client/Mac/updates.xml"
+    url: 'https://cdn.last.fm/client/Mac/updates.xml'

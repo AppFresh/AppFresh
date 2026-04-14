@@ -1,12 +1,12 @@
-app_token: "hightop"
-name: "HighTop"
-desc: "File access via the menu bar"
-homepage: "https://hightop.app/"
-bundle_id: "com.knollsoft.HighTop"
+app_token: hightop
+name: HighTop
+desc: File access via the menu bar
+homepage: 'https://hightop.app/'
+bundle_id: com.knollsoft.HighTop
 
 sources:
   - type: homebrew
-    cask: "hightop"
+    cask: hightop
 
   - type: sparkle
-    url: "https://hightop.app/downloads/updates.xml"
+    url: 'https://hightop.app/downloads/updates.xml'

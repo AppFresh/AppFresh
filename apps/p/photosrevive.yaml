@@ -1,12 +1,12 @@
-app_token: "photosrevive"
-name: "PhotosRevive"
-desc: "Colourise old black and white photos automatically"
-homepage: "https://neededapps.com/photosrevive/"
-bundle_id: "com.jeremyvizzini.photosrevive-paddle"
+app_token: photosrevive
+name: PhotosRevive
+desc: Colourise old black and white photos automatically
+homepage: 'https://neededapps.com/photosrevive/'
+bundle_id: com.jeremyvizzini.photosrevive-paddle
 
 sources:
   - type: homebrew
-    cask: "photosrevive"
+    cask: photosrevive
 
   - type: sparkle
-    url: "https://neededapps.com/appcasts/photosrevive/changelog.xml"
+    url: 'https://neededapps.com/appcasts/photosrevive/changelog.xml'

@@ -1,12 +1,12 @@
-app_token: "backuploupe"
-name: "BackupLoupe"
-desc: "Alternative GUI for Time Machine"
-homepage: "https://www.soma-zone.com/BackupLoupe/"
-bundle_id: "com.soma-zone.BackupLoupe"
+app_token: backuploupe
+name: BackupLoupe
+desc: Alternative GUI for Time Machine
+homepage: 'https://www.soma-zone.com/BackupLoupe/'
+bundle_id: com.soma-zone.BackupLoupe
 
 sources:
   - type: homebrew
-    cask: "backuploupe"
+    cask: backuploupe
 
   - type: sparkle
-    url: "https://www.soma-zone.com/BackupLoupe/a/appcast-update-3.xml"
+    url: 'https://www.soma-zone.com/BackupLoupe/a/appcast-update-3.xml'

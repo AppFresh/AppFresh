@@ -1,15 +1,15 @@
-app_token: "vimr"
-name: "VimR"
-desc: "GUI for the Neovim text editor"
-homepage: "https://github.com/qvacua/vimr"
-bundle_id: "com.qvacua.VimR"
+app_token: vimr
+name: VimR
+desc: GUI for the Neovim text editor
+homepage: 'https://github.com/qvacua/vimr'
+bundle_id: com.qvacua.VimR
 
 sources:
   - type: homebrew
-    cask: "vimr"
+    cask: vimr
 
   - type: github
-    repo: "qvacua/vimr"
+    repo: qvacua/vimr
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/qvacua/vimr/refs/heads/master/appcast.xml"
+    url: 'https://raw.githubusercontent.com/qvacua/vimr/refs/heads/master/appcast.xml'

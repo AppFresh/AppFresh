@@ -1,12 +1,12 @@
-app_token: "raspberry-pi-imager"
-name: "Raspberry Pi Imager"
-desc: "Imaging utility to install operating systems to a microSD card"
-homepage: "https://www.raspberrypi.com/software/"
-bundle_id: "com.raspberrypi.rpi-imager"
+app_token: raspberry-pi-imager
+name: Raspberry Pi Imager
+desc: Imaging utility to install operating systems to a microSD card
+homepage: 'https://www.raspberrypi.com/software/'
+bundle_id: com.raspberrypi.rpi-imager
 
 sources:
   - type: homebrew
-    cask: "raspberry-pi-imager"
+    cask: raspberry-pi-imager
 
   - type: github
-    repo: "raspberrypi/rpi-imager"
+    repo: raspberrypi/rpi-imager

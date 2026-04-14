@@ -1,11 +1,11 @@
-app_token: "native-access"
-name: "Native Access"
-desc: "Administration tool for Native Instruments products"
-homepage: "https://www.native-instruments.com/en/specials/native-access-2/"
-bundle_id: "com.native-instruments.nativeaccess2"
+app_token: native-access
+name: Native Access
+desc: Administration tool for Native Instruments products
+homepage: 'https://www.native-instruments.com/en/specials/native-access-2/'
+bundle_id: com.native-instruments.nativeaccess2
 
 sources:
   - type: homebrew
-    cask: "native-access"
+    cask: native-access
 
   - type: electron

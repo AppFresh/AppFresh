@@ -1,12 +1,12 @@
-app_token: "mixxx"
-name: "Mixxx"
-desc: "Open-source DJ software"
-homepage: "https://www.mixxx.org/"
-bundle_id: "org.mixxx.mixxx"
+app_token: mixxx
+name: Mixxx
+desc: Open-source DJ software
+homepage: 'https://www.mixxx.org/'
+bundle_id: org.mixxx.mixxx
 
 sources:
   - type: homebrew
-    cask: "mixxx"
+    cask: mixxx
 
   - type: homebrew
-    cask: "mixxx@snapshot"
+    cask: mixxx@snapshot

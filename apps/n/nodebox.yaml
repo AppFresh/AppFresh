@@ -1,12 +1,12 @@
-app_token: "nodebox"
-name: "NodeBox"
-desc: "Node-based data application for visualisation and generative design"
-homepage: "https://www.nodebox.net/node/"
-bundle_id: "be.emrg.nodebox"
+app_token: nodebox
+name: NodeBox
+desc: Node-based data application for visualisation and generative design
+homepage: 'https://www.nodebox.net/node/'
+bundle_id: be.emrg.nodebox
 
 sources:
   - type: homebrew
-    cask: "nodebox"
+    cask: nodebox
 
   - type: github
-    repo: "nodebox/nodebox"
+    repo: nodebox/nodebox

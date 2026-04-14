@@ -1,12 +1,12 @@
-app_token: "eqmac"
-name: "eqMac"
-desc: "System-wide audio equaliser"
-homepage: "https://eqmac.app/"
-bundle_id: "com.bitgapp.eqmac"
+app_token: eqmac
+name: eqMac
+desc: System-wide audio equaliser
+homepage: 'https://eqmac.app/'
+bundle_id: com.bitgapp.eqmac
 
 sources:
   - type: homebrew
-    cask: "eqmac"
+    cask: eqmac
 
   - type: github
-    repo: "bitgapp/eqMac"
+    repo: bitgapp/eqMac

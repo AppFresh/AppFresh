@@ -1,9 +1,9 @@
-app_token: "ff-works"
-name: "ff·Works"
-desc: "Video-encoding and transcoding app"
-homepage: "https://www.ffworks.net/"
-bundle_id: "com.osbytes.ffworks5"
+app_token: ff-works
+name: ff·Works
+desc: Video-encoding and transcoding app
+homepage: 'https://www.ffworks.net/'
+bundle_id: com.osbytes.ffworks5
 
 sources:
   - type: homebrew
-    cask: "ff-works"
+    cask: ff-works

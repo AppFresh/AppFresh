@@ -1,12 +1,12 @@
-app_token: "pictureview"
-name: "Picture View"
-desc: "Image viewer"
-homepage: "https://wl879.github.io/apps/picview/index.html"
-bundle_id: "com.zouke.PictureView"
+app_token: pictureview
+name: Picture View
+desc: Image viewer
+homepage: 'https://wl879.github.io/apps/picview/index.html'
+bundle_id: com.zouke.PictureView
 
 sources:
   - type: homebrew
-    cask: "pictureview"
+    cask: pictureview
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/wl879/wl879.github.io/master/apps/picview/appcase.xml"
+    url: 'https://raw.githubusercontent.com/wl879/wl879.github.io/master/apps/picview/appcase.xml'

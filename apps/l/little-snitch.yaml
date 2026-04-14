@@ -1,12 +1,12 @@
-app_token: "little-snitch"
-name: "Little Snitch"
-desc: "Host-based application firewall"
-homepage: "https://www.obdev.at/products/littlesnitch/index.html"
-bundle_id: "at.obdev.littlesnitch"
+app_token: little-snitch
+name: Little Snitch
+desc: Host-based application firewall
+homepage: 'https://www.obdev.at/products/littlesnitch/index.html'
+bundle_id: at.obdev.littlesnitch
 
 sources:
   - type: homebrew
-    cask: "little-snitch"
+    cask: little-snitch
 
   - type: homebrew
-    cask: "little-snitch@5"
+    cask: little-snitch@5

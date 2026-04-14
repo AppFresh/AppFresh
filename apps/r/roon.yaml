@@ -1,9 +1,9 @@
-app_token: "roon"
-name: "Roon"
-desc: "Music player"
-homepage: "https://roonlabs.com/"
-bundle_id: "com.roon.Roon"
+app_token: roon
+name: Roon
+desc: Music player
+homepage: 'https://roonlabs.com/'
+bundle_id: com.roon.Roon
 
 sources:
   - type: homebrew
-    cask: "roon"
+    cask: roon

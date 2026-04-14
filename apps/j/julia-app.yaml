@@ -1,15 +1,15 @@
-app_token: "julia-app"
-name: "Julia"
-desc: "Programming language for technical computing"
-homepage: "https://julialang.org/"
-bundle_id: "org.julialang.launcherapp"
+app_token: julia-app
+name: Julia
+desc: Programming language for technical computing
+homepage: 'https://julialang.org/'
+bundle_id: org.julialang.launcherapp
 
 sources:
   - type: homebrew
-    cask: "julia-app"
+    cask: julia-app
 
   - type: homebrew
-    cask: "julia-app@lts"
+    cask: julia-app@lts
 
   - type: homebrew
-    cask: "julia-app@nightly"
+    cask: julia-app@nightly

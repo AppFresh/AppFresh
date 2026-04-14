@@ -1,9 +1,9 @@
-app_token: "skillsgate"
-name: "SkillsGate"
-desc: "Visual skill manager for AI agents."
-homepage: "https://skillsgate.ai/"
-bundle_id: "ai.skillsgate.desktop"
+app_token: skillsgate
+name: SkillsGate
+desc: Visual skill manager for AI agents.
+homepage: 'https://skillsgate.ai/'
+bundle_id: ai.skillsgate.desktop
 
 sources:
   - type: github
-    repo: "skillsgate/skillsgate"
+    repo: skillsgate/skillsgate

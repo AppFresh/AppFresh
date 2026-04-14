@@ -1,15 +1,15 @@
-app_token: "gitup-app"
-name: "GitUp"
-desc: "Git interface focused on visual interaction"
-homepage: "https://gitup.co/"
-bundle_id: "co.gitup.mac"
+app_token: gitup-app
+name: GitUp
+desc: Git interface focused on visual interaction
+homepage: 'https://gitup.co/'
+bundle_id: co.gitup.mac
 
 sources:
   - type: homebrew
-    cask: "gitup-app"
+    cask: gitup-app
 
   - type: github
-    repo: "git-up/GitUp"
+    repo: git-up/GitUp
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/git-up/GitUp/master/appcasts/stable/appcast.xml"
+    url: 'https://raw.githubusercontent.com/git-up/GitUp/master/appcasts/stable/appcast.xml'

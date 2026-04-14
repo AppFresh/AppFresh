@@ -1,9 +1,9 @@
-app_token: "android-studio"
-name: "Android Studio"
-desc: "Tools for building Android applications"
-homepage: "https://developer.android.com/studio/"
-bundle_id: "com.google.android.studio"
+app_token: android-studio
+name: Android Studio
+desc: Tools for building Android applications
+homepage: 'https://developer.android.com/studio/'
+bundle_id: com.google.android.studio
 
 sources:
   - type: homebrew
-    cask: "android-studio"
+    cask: android-studio

@@ -1,12 +1,12 @@
-app_token: "fspy"
-name: "fSpy"
-desc: "Still image camera matching"
-homepage: "https://fspy.io/"
-bundle_id: "com.stuffmatic.fspy"
+app_token: fspy
+name: fSpy
+desc: Still image camera matching
+homepage: 'https://fspy.io/'
+bundle_id: com.stuffmatic.fspy
 
 sources:
   - type: homebrew
-    cask: "fspy"
+    cask: fspy
 
   - type: github
-    repo: "stuffmatic/fSpy"
+    repo: stuffmatic/fSpy

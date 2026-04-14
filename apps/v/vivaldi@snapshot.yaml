@@ -1,8 +1,8 @@
-app_token: "vivaldi@snapshot"
-name: "Vivaldi Snapshot"
-desc: "Web browser with built-in email client focusing on customization and control"
-homepage: "https://vivaldi.com/"
+app_token: vivaldi@snapshot
+name: Vivaldi Snapshot
+desc: Web browser with built-in email client focusing on customization and control
+homepage: 'https://vivaldi.com/'
 
 sources:
   - type: homebrew
-    cask: "vivaldi@snapshot"
+    cask: vivaldi@snapshot

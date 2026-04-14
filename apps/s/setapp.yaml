@@ -1,12 +1,12 @@
-app_token: "setapp"
-name: "Setapp"
-desc: "Collection of apps available by subscription"
-homepage: "https://setapp.com/"
-bundle_id: "com.setapp.DesktopClient"
+app_token: setapp
+name: Setapp
+desc: Collection of apps available by subscription
+homepage: 'https://setapp.com/'
+bundle_id: com.setapp.DesktopClient
 
 sources:
   - type: homebrew
-    cask: "setapp"
+    cask: setapp
 
   - type: sparkle
-    url: "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.DesktopClient/updates.xml"
+    url: 'https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.DesktopClient/updates.xml'

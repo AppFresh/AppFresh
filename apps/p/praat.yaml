@@ -1,12 +1,12 @@
-app_token: "praat"
-name: "Praat"
-desc: "Doing phonetics by computer"
-homepage: "https://praat.org/"
-bundle_id: "org.praat.Praat"
+app_token: praat
+name: Praat
+desc: Doing phonetics by computer
+homepage: 'https://praat.org/'
+bundle_id: org.praat.Praat
 
 sources:
   - type: homebrew
-    cask: "praat"
+    cask: praat
 
   - type: github
-    repo: "praat/praat.github.io"
+    repo: praat/praat.github.io

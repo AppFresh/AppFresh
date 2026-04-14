@@ -1,12 +1,12 @@
-app_token: "bloodhound"
-name: "BloodHound"
-desc: "Six Degrees of Domain Admin"
-homepage: "https://github.com/BloodHoundAD/BloodHound"
-bundle_id: "com.electron.bloodhound"
+app_token: bloodhound
+name: BloodHound
+desc: Six Degrees of Domain Admin
+homepage: 'https://github.com/BloodHoundAD/BloodHound'
+bundle_id: com.electron.bloodhound
 
 sources:
   - type: homebrew
-    cask: "bloodhound"
+    cask: bloodhound
 
   - type: github
-    repo: "BloodHoundAD/BloodHound"
+    repo: BloodHoundAD/BloodHound

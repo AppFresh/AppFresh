@@ -1,12 +1,12 @@
-app_token: "simple-comic"
-name: "Simple Comic"
-desc: "Comic viewer/reader"
-homepage: "https://github.com/MaddTheSane/Simple-Comic"
-bundle_id: "com.ToWatchList.SimpleComic"
+app_token: simple-comic
+name: Simple Comic
+desc: Comic viewer/reader
+homepage: 'https://github.com/MaddTheSane/Simple-Comic'
+bundle_id: com.ToWatchList.SimpleComic
 
 sources:
   - type: homebrew
-    cask: "simple-comic"
+    cask: simple-comic
 
   - type: github
-    repo: "MaddTheSane/Simple-Comic"
+    repo: MaddTheSane/Simple-Comic

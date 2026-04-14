@@ -1,9 +1,9 @@
-app_token: "skint"
-name: "Skint"
-desc: "Check status of key security settings and features"
-homepage: "https://eclecticlight.co/lockrattler-systhist/"
-bundle_id: "co.eclecticlight.Skint"
+app_token: skint
+name: Skint
+desc: Check status of key security settings and features
+homepage: 'https://eclecticlight.co/lockrattler-systhist/'
+bundle_id: co.eclecticlight.Skint
 
 sources:
   - type: homebrew
-    cask: "skint"
+    cask: skint

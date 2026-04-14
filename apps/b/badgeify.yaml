@@ -1,9 +1,9 @@
-app_token: "badgeify"
-name: "Badgeify"
-desc: "Add apps to the menu bar"
-homepage: "https://badgeify.app/"
-bundle_id: "studio.techflow.badgeify"
+app_token: badgeify
+name: Badgeify
+desc: Add apps to the menu bar
+homepage: 'https://badgeify.app/'
+bundle_id: studio.techflow.badgeify
 
 sources:
   - type: homebrew
-    cask: "badgeify"
+    cask: badgeify

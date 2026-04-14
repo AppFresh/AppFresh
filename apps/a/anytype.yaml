@@ -1,17 +1,18 @@
-app_token: "anytype"
-name: "Anytype"
-desc: "Local-first and end-to-end encrypted notes app"
-homepage: "https://anytype.io/"
-bundle_id: "com.anytype.anytype"
+app_token: anytype
+name: Anytype
+desc: Local-first and end-to-end encrypted notes app
+homepage: 'https://anytype.io/'
+bundle_id: com.anytype.anytype
 
 sources:
   - type: homebrew
-    cask: "anytype"
+    cask: anytype
 
   - type: electron
+    url: 'https://anytype-release.fra1.cdn.digitaloceanspaces.com/latest-mac.yml'
 
   - type: homebrew
-    cask: "anytype@alpha"
+    cask: anytype@alpha
 
   - type: homebrew
-    cask: "anytype@beta"
+    cask: anytype@beta

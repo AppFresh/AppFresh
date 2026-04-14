@@ -1,12 +1,12 @@
-app_token: "cog-app"
-name: "Cog"
-desc: "Audio player"
-homepage: "https://cog.losno.co/"
-bundle_id: "org.cogx.cog"
+app_token: cog-app
+name: Cog
+desc: Audio player
+homepage: 'https://cog.losno.co/'
+bundle_id: org.cogx.cog
 
 sources:
   - type: homebrew
-    cask: "cog-app"
+    cask: cog-app
 
   - type: sparkle
-    url: "https://cogcdn.cog.losno.co/mercury.xml"
+    url: 'https://cogcdn.cog.losno.co/mercury.xml'

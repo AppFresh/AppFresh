@@ -1,11 +1,11 @@
-app_token: "linear-linear"
-name: "Linear"
-desc: "App to manage software development and track bugs"
-homepage: "https://linear.app/"
-bundle_id: "com.linear"
+app_token: linear-linear
+name: Linear
+desc: App to manage software development and track bugs
+homepage: 'https://linear.app/'
+bundle_id: com.linear
 
 sources:
   - type: homebrew
-    cask: "linear-linear"
+    cask: linear-linear
 
   - type: electron

@@ -1,15 +1,15 @@
-app_token: "autopkgr"
-name: "AutoPkgr"
-desc: "Install and configure AutoPkg"
-homepage: "https://www.lindegroup.com/autopkgr"
-bundle_id: "com.lindegroup.AutoPkgr"
+app_token: autopkgr
+name: AutoPkgr
+desc: Install and configure AutoPkg
+homepage: 'https://www.lindegroup.com/autopkgr'
+bundle_id: com.lindegroup.AutoPkgr
 
 sources:
   - type: homebrew
-    cask: "autopkgr"
+    cask: autopkgr
 
   - type: github
-    repo: "lindegroup/autopkgr"
+    repo: lindegroup/autopkgr
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/lindegroup/autopkgr/appcast/appcast.xml"
+    url: 'https://raw.githubusercontent.com/lindegroup/autopkgr/appcast/appcast.xml'

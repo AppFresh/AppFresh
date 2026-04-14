@@ -1,12 +1,12 @@
-app_token: "ok-json"
-name: "OK JSON"
-desc: "Scriptable JSON formatter and editor"
-homepage: "https://okjson.app/"
-bundle_id: "net.shinystone.OKJSON"
+app_token: ok-json
+name: OK JSON
+desc: Scriptable JSON formatter and editor
+homepage: 'https://okjson.app/'
+bundle_id: net.shinystone.OKJSON
 
 sources:
   - type: homebrew
-    cask: "ok-json"
+    cask: ok-json
 
   - type: sparkle
-    url: "https://okjson.app/download/appcast.xml"
+    url: 'https://okjson.app/download/appcast.xml'

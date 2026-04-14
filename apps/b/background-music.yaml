@@ -1,11 +1,11 @@
-app_token: "background-music"
-name: "BackgroundMusic"
-desc: "automatically pause your music, set individual apps' volumes and record system audio."
-bundle_id: "com.bearisdriving.BGM.App"
+app_token: background-music
+name: BackgroundMusic
+desc: automatically pause your music, set individual apps' volumes and record system audio.
+bundle_id: com.bearisdriving.BGM.App
 
 sources:
   - type: homebrew
-    cask: "background-music"
+    cask: background-music
 
   - type: github
-    repo: "kyleneideck/BackgroundMusic"
+    repo: kyleneideck/BackgroundMusic

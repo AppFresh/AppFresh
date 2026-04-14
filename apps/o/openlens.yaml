@@ -1,12 +1,12 @@
-app_token: "openlens"
-name: "OpenLens"
-desc: "Open source build of Lens Kubernetes IDE"
-homepage: "https://github.com/MuhammedKalkan/OpenLens/"
-bundle_id: "com.electron.open-lens"
+app_token: openlens
+name: OpenLens
+desc: Open source build of Lens Kubernetes IDE
+homepage: 'https://github.com/MuhammedKalkan/OpenLens/'
+bundle_id: com.electron.open-lens
 
 sources:
   - type: homebrew
-    cask: "openlens"
+    cask: openlens
 
   - type: github
-    repo: "MuhammedKalkan/OpenLens"
+    repo: MuhammedKalkan/OpenLens

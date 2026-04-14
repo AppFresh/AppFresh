@@ -1,9 +1,9 @@
-app_token: "resilio-sync"
-name: "Resilio Sync"
-desc: "File sync and share software"
-homepage: "https://www.resilio.com/"
-bundle_id: "com.resilio.Sync"
+app_token: resilio-sync
+name: Resilio Sync
+desc: File sync and share software
+homepage: 'https://www.resilio.com/'
+bundle_id: com.resilio.Sync
 
 sources:
   - type: homebrew
-    cask: "resilio-sync"
+    cask: resilio-sync

@@ -1,12 +1,12 @@
-app_token: "netiquette"
-name: "Netiquette"
-desc: "Network monitor"
-homepage: "https://objective-see.org/products/netiquette.html"
-bundle_id: "com.objective-see.Netiquette"
+app_token: netiquette
+name: Netiquette
+desc: Network monitor
+homepage: 'https://objective-see.org/products/netiquette.html'
+bundle_id: com.objective-see.Netiquette
 
 sources:
   - type: homebrew
-    cask: "netiquette"
+    cask: netiquette
 
   - type: github
-    repo: "objective-see/Netiquette"
+    repo: objective-see/Netiquette

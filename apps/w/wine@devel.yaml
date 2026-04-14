@@ -1,8 +1,8 @@
-app_token: "wine@devel"
-name: "WineHQ Devel"
-desc: "Compatibility layer to run Windows applications"
-homepage: "https://wiki.winehq.org/MacOS"
+app_token: wine@devel
+name: WineHQ Devel
+desc: Compatibility layer to run Windows applications
+homepage: 'https://wiki.winehq.org/MacOS'
 
 sources:
   - type: homebrew
-    cask: "wine@devel"
+    cask: wine@devel

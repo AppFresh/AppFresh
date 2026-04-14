@@ -1,12 +1,12 @@
-app_token: "neohtop"
-name: "NeoHtop"
-desc: "Htop on steroids"
-homepage: "https://abdenasser.github.io/neohtop/"
-bundle_id: "com.neohtop.dev"
+app_token: neohtop
+name: NeoHtop
+desc: Htop on steroids
+homepage: 'https://abdenasser.github.io/neohtop/'
+bundle_id: com.neohtop.dev
 
 sources:
   - type: homebrew
-    cask: "neohtop"
+    cask: neohtop
 
   - type: github
-    repo: "Abdenasser/neohtop"
+    repo: Abdenasser/neohtop

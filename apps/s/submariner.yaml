@@ -1,12 +1,12 @@
-app_token: "submariner"
-name: "Submariner"
-desc: "Subsonic client"
-homepage: "https://submarinerapp.com/"
-bundle_id: "fr.read-write.Submariner"
+app_token: submariner
+name: Submariner
+desc: Subsonic client
+homepage: 'https://submarinerapp.com/'
+bundle_id: fr.read-write.Submariner
 
 sources:
   - type: homebrew
-    cask: "submariner"
+    cask: submariner
 
   - type: github
-    repo: "NattyNarwhal/Submariner"
+    repo: NattyNarwhal/Submariner

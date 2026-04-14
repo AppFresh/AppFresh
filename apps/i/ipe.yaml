@@ -1,12 +1,12 @@
-app_token: "ipe"
-name: "Ipe"
-desc: "Drawing editor for creating figures in PDF format"
-homepage: "https://ipe.otfried.org/"
-bundle_id: "org.otfried.ipe.Ipe"
+app_token: ipe
+name: Ipe
+desc: Drawing editor for creating figures in PDF format
+homepage: 'https://ipe.otfried.org/'
+bundle_id: org.otfried.ipe.Ipe
 
 sources:
   - type: homebrew
-    cask: "ipe"
+    cask: ipe
 
   - type: github
-    repo: "otfried/ipe"
+    repo: otfried/ipe

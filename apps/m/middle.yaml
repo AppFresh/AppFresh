@@ -1,12 +1,12 @@
-app_token: "middle"
-name: "Middle"
-desc: "Add middle click for Trackpad and Magic Mouse"
-homepage: "https://middleclick.app/"
-bundle_id: "com.knollsoft.Middle"
+app_token: middle
+name: Middle
+desc: Add middle click for Trackpad and Magic Mouse
+homepage: 'https://middleclick.app/'
+bundle_id: com.knollsoft.Middle
 
 sources:
   - type: homebrew
-    cask: "middle"
+    cask: middle
 
   - type: sparkle
-    url: "https://middleclick.app/downloads/updates.xml"
+    url: 'https://middleclick.app/downloads/updates.xml'

@@ -1,12 +1,12 @@
-app_token: "menubar-countdown"
-name: "Menubar Countdown"
-desc: "Countdown timer for the menu bar"
-homepage: "https://github.com/kristopherjohnson/MenubarCountdown"
-bundle_id: "net.kristopherjohnson.MenubarCountdown"
+app_token: menubar-countdown
+name: Menubar Countdown
+desc: Countdown timer for the menu bar
+homepage: 'https://github.com/kristopherjohnson/MenubarCountdown'
+bundle_id: net.kristopherjohnson.MenubarCountdown
 
 sources:
   - type: homebrew
-    cask: "menubar-countdown"
+    cask: menubar-countdown
 
   - type: github
-    repo: "kristopherjohnson/MenubarCountdown"
+    repo: kristopherjohnson/MenubarCountdown

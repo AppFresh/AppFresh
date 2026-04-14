@@ -1,12 +1,12 @@
-app_token: "gimp"
-name: "GIMP"
-desc: "Free and open-source image editor"
-homepage: "https://www.gimp.org/"
-bundle_id: "org.gimp.gimp"
+app_token: gimp
+name: GIMP
+desc: Free and open-source image editor
+homepage: 'https://www.gimp.org/'
+bundle_id: org.gimp.gimp
 
 sources:
   - type: homebrew
-    cask: "gimp"
+    cask: gimp
 
   - type: homebrew
-    cask: "gimp@dev"
+    cask: gimp@dev

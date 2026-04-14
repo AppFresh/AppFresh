@@ -1,8 +1,8 @@
-app_token: "boltai@1"
-name: "BoltAI 1"
-desc: "AI chat client"
-homepage: "https://boltai.com/"
+app_token: boltai@1
+name: BoltAI 1
+desc: AI chat client
+homepage: 'https://boltai.com/'
 
 sources:
   - type: homebrew
-    cask: "boltai@1"
+    cask: boltai@1

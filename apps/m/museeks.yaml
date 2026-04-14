@@ -1,12 +1,12 @@
-app_token: "museeks"
-name: "Museeks"
-desc: "Music player"
-homepage: "https://museeks.io/"
-bundle_id: "io.museeks.app"
+app_token: museeks
+name: Museeks
+desc: Music player
+homepage: 'https://museeks.io/'
+bundle_id: io.museeks.app
 
 sources:
   - type: homebrew
-    cask: "museeks"
+    cask: museeks
 
   - type: github
-    repo: "martpie/museeks"
+    repo: martpie/museeks

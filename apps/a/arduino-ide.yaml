@@ -1,15 +1,15 @@
-app_token: "arduino-ide"
-name: "Arduino IDE"
-desc: "Electronics prototyping platform"
-homepage: "https://www.arduino.cc/en/software"
-bundle_id: "cc.arduino.IDE2"
+app_token: arduino-ide
+name: Arduino IDE
+desc: Electronics prototyping platform
+homepage: 'https://www.arduino.cc/en/software'
+bundle_id: cc.arduino.IDE2
 
 sources:
   - type: homebrew
-    cask: "arduino-ide"
+    cask: arduino-ide
 
   - type: github
-    repo: "arduino/arduino-ide"
+    repo: arduino/arduino-ide
 
   - type: homebrew
-    cask: "arduino-ide@nightly"
+    cask: arduino-ide@nightly

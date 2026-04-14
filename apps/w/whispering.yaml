@@ -1,12 +1,12 @@
-app_token: "whispering"
-name: "Whispering"
-desc: "Audio transcription that works with local and cloud models"
-homepage: "https://whispering.epicenter.so/"
-bundle_id: "com.bradenwong.whispering"
+app_token: whispering
+name: Whispering
+desc: Audio transcription that works with local and cloud models
+homepage: 'https://whispering.epicenter.so/'
+bundle_id: com.bradenwong.whispering
 
 sources:
   - type: homebrew
-    cask: "whispering"
+    cask: whispering
 
   - type: github
-    repo: "epicenter-os/epicenter"
+    repo: epicenter-os/epicenter

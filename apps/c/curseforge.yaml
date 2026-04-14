@@ -1,11 +1,12 @@
-app_token: "curseforge"
-name: "CurseForge"
-desc: "Download and manage your addons and mods"
-homepage: "https://curseforge.overwolf.com/"
-bundle_id: "com.overwolf.curseforge"
+app_token: curseforge
+name: CurseForge
+desc: Download and manage your addons and mods
+homepage: 'https://curseforge.overwolf.com/'
+bundle_id: com.overwolf.curseforge
 
 sources:
   - type: homebrew
-    cask: "curseforge"
+    cask: curseforge
 
   - type: electron
+    url: 'https://curseforge.overwolf.com/electron/mac/latest-mac.yml'

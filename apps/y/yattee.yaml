@@ -1,12 +1,12 @@
-app_token: "yattee"
-name: "Yattee"
-desc: "Alternative and privacy-friendly YouTube frontend"
-homepage: "https://github.com/yattee/yattee"
-bundle_id: "stream.yattee.app"
+app_token: yattee
+name: Yattee
+desc: Alternative and privacy-friendly YouTube frontend
+homepage: 'https://github.com/yattee/yattee'
+bundle_id: stream.yattee.app
 
 sources:
   - type: homebrew
-    cask: "yattee"
+    cask: yattee
 
   - type: github
-    repo: "yattee/yattee"
+    repo: yattee/yattee

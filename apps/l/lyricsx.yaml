@@ -1,15 +1,15 @@
-app_token: "lyricsx"
-name: "LyricsX"
-desc: "Lyrics for iTunes, Spotify, Vox and Audirvana Plus"
-homepage: "https://github.com/ddddxxx/LyricsX"
-bundle_id: "ddddxxx.LyricsX"
+app_token: lyricsx
+name: LyricsX
+desc: Lyrics for iTunes, Spotify, Vox and Audirvana Plus
+homepage: 'https://github.com/ddddxxx/LyricsX'
+bundle_id: ddddxxx.LyricsX
 
 sources:
   - type: homebrew
-    cask: "lyricsx"
+    cask: lyricsx
 
   - type: github
-    repo: "ddddxxx/LyricsX"
+    repo: ddddxxx/LyricsX
 
   - type: sparkle
-    url: "https://ddddxxx.github.io/LyricsX/appcast.xml"
+    url: 'https://ddddxxx.github.io/LyricsX/appcast.xml'

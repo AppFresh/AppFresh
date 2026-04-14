@@ -1,9 +1,9 @@
-app_token: "shortcutdetective"
-name: "ShortcutDetective"
-desc: "Detects which app receives a keyboard shortcut (hotkey)"
-homepage: "https://www.irradiatedsoftware.com/labs/"
-bundle_id: "com.irradiatedsoftware.ShortcutDetective"
+app_token: shortcutdetective
+name: ShortcutDetective
+desc: Detects which app receives a keyboard shortcut (hotkey)
+homepage: 'https://www.irradiatedsoftware.com/labs/'
+bundle_id: com.irradiatedsoftware.ShortcutDetective
 
 sources:
   - type: homebrew
-    cask: "shortcutdetective"
+    cask: shortcutdetective

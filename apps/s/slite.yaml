@@ -1,11 +1,11 @@
-app_token: "slite"
-name: "Slite"
-desc: "Team communication and collaboration software"
-homepage: "https://slite.com/"
-bundle_id: "com.slite.desktop"
+app_token: slite
+name: Slite
+desc: Team communication and collaboration software
+homepage: 'https://slite.com/'
+bundle_id: com.slite.desktop
 
 sources:
   - type: homebrew
-    cask: "slite"
+    cask: slite
 
   - type: electron

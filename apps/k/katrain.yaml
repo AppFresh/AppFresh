@@ -1,12 +1,12 @@
-app_token: "katrain"
-name: "KaTrain"
-desc: "Tool for analyzing games and playing go with AI feedback from KataGo"
-homepage: "https://github.com/sanderland/katrain"
-bundle_id: "org.katrain.KaTrain"
+app_token: katrain
+name: KaTrain
+desc: Tool for analyzing games and playing go with AI feedback from KataGo
+homepage: 'https://github.com/sanderland/katrain'
+bundle_id: org.katrain.KaTrain
 
 sources:
   - type: homebrew
-    cask: "katrain"
+    cask: katrain
 
   - type: github
-    repo: "sanderland/katrain"
+    repo: sanderland/katrain

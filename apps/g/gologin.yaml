@@ -1,11 +1,11 @@
-app_token: "gologin"
-name: "Gologin"
-desc: "Antidetect browser"
-homepage: "https://gologin.com/"
-bundle_id: "com.gologin.desktop"
+app_token: gologin
+name: Gologin
+desc: Antidetect browser
+homepage: 'https://gologin.com/'
+bundle_id: com.gologin.desktop
 
 sources:
   - type: homebrew
-    cask: "gologin"
+    cask: gologin
 
   - type: electron

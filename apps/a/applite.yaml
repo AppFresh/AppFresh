@@ -1,15 +1,15 @@
-app_token: "applite"
-name: "Applite"
-desc: "User-friendly GUI app for Homebrew"
-homepage: "https://aerolite.dev/applite"
-bundle_id: "dev.aerolite.Applite"
+app_token: applite
+name: Applite
+desc: User-friendly GUI app for Homebrew
+homepage: 'https://aerolite.dev/applite'
+bundle_id: dev.aerolite.Applite
 
 sources:
   - type: homebrew
-    cask: "applite"
+    cask: applite
 
   - type: github
-    repo: "milanvarady/Applite"
+    repo: milanvarady/Applite
 
   - type: sparkle
-    url: "https://milanvarady.github.io/Applite/appcast.xml"
+    url: 'https://milanvarady.github.io/Applite/appcast.xml'

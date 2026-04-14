@@ -1,12 +1,12 @@
-app_token: "dockmate"
-name: "Dock Mate"
-desc: "Window previews and controls"
-homepage: "https://www.macenhance.com/dockmate"
-bundle_id: "com.macenhance.dockmate"
+app_token: dockmate
+name: Dock Mate
+desc: Window previews and controls
+homepage: 'https://www.macenhance.com/dockmate'
+bundle_id: com.macenhance.dockmate
 
 sources:
   - type: homebrew
-    cask: "dockmate"
+    cask: dockmate
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/appcast.xml"
+    url: 'https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/appcast.xml'

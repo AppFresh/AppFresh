@@ -1,12 +1,12 @@
-app_token: "bbedit"
-name: "BBEdit"
-desc: "Text, code, and markup editor"
-homepage: "https://www.barebones.com/products/bbedit/"
-bundle_id: "com.barebones.bbedit"
+app_token: bbedit
+name: BBEdit
+desc: Text, code, and markup editor
+homepage: 'https://www.barebones.com/products/bbedit/'
+bundle_id: com.barebones.bbedit
 
 sources:
   - type: homebrew
-    cask: "bbedit"
+    cask: bbedit
 
   - type: homebrew
-    cask: "bbedit@14"
+    cask: bbedit@14

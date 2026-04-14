@@ -1,12 +1,12 @@
-app_token: "cd-to"
-name: "cd to"
-desc: "Finder Toolbar app to open the current directory in the Terminal"
-homepage: "https://github.com/jbtule/cdto"
-bundle_id: "name.tuley.jay.cd-to"
+app_token: cd-to
+name: cd to
+desc: Finder Toolbar app to open the current directory in the Terminal
+homepage: 'https://github.com/jbtule/cdto'
+bundle_id: name.tuley.jay.cd-to
 
 sources:
   - type: homebrew
-    cask: "cd-to"
+    cask: cd-to
 
   - type: github
-    repo: "jbtule/cdto"
+    repo: jbtule/cdto

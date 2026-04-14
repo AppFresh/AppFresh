@@ -1,12 +1,12 @@
-app_token: "tabby"
-name: "Tabby"
-desc: "Terminal emulator, SSH and serial client"
-homepage: "https://eugeny.github.io/tabby/"
-bundle_id: "org.tabby"
+app_token: tabby
+name: Tabby
+desc: Terminal emulator, SSH and serial client
+homepage: 'https://eugeny.github.io/tabby/'
+bundle_id: org.tabby
 
 sources:
   - type: homebrew
-    cask: "tabby"
+    cask: tabby
 
   - type: github
-    repo: "Eugeny/tabby"
+    repo: Eugeny/tabby

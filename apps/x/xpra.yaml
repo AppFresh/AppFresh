@@ -1,9 +1,9 @@
-app_token: "xpra"
-name: "Xpra"
-desc: "Screen and application forwarding system"
-homepage: "https://github.com/Xpra-org/xpra/"
-bundle_id: "org.xpra.xpra"
+app_token: xpra
+name: Xpra
+desc: Screen and application forwarding system
+homepage: 'https://github.com/Xpra-org/xpra/'
+bundle_id: org.xpra.xpra
 
 sources:
   - type: homebrew
-    cask: "xpra"
+    cask: xpra

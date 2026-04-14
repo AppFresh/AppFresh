@@ -1,12 +1,12 @@
-app_token: "quip"
-name: "Quip"
-desc: "Tool for teams to create living documents"
-homepage: "https://quip.com/"
-bundle_id: "com.quip.Desktop"
+app_token: quip
+name: Quip
+desc: Tool for teams to create living documents
+homepage: 'https://quip.com/'
+bundle_id: com.quip.Desktop
 
 sources:
   - type: homebrew
-    cask: "quip"
+    cask: quip
 
   - type: sparkle
-    url: "https://api.quip.com/-/sparkle-feed?manual=0"
+    url: 'https://api.quip.com/-/sparkle-feed?manual=0'

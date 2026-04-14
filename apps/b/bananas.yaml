@@ -1,12 +1,12 @@
-app_token: "bananas"
-name: "Bananas Screen Sharing"
-desc: "Cross-platform screen sharing tool"
-homepage: "https://getbananas.net/"
-bundle_id: "net.getbananas.desktop"
+app_token: bananas
+name: Bananas Screen Sharing
+desc: Cross-platform screen sharing tool
+homepage: 'https://getbananas.net/'
+bundle_id: net.getbananas.desktop
 
 sources:
   - type: homebrew
-    cask: "bananas"
+    cask: bananas
 
   - type: github
-    repo: "mistweaverco/bananas"
+    repo: mistweaverco/bananas

@@ -1,9 +1,9 @@
-app_token: "meteorologist"
-name: "Meteorologist"
-desc: "Adjustable weather viewing application"
-homepage: "https://heat-meteo.sourceforge.io/"
-bundle_id: "com.heat.Meteorologist"
+app_token: meteorologist
+name: Meteorologist
+desc: Adjustable weather viewing application
+homepage: 'https://heat-meteo.sourceforge.io/'
+bundle_id: com.heat.Meteorologist
 
 sources:
   - type: homebrew
-    cask: "meteorologist"
+    cask: meteorologist

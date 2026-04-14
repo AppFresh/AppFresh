@@ -1,9 +1,9 @@
-app_token: "qflipper"
-name: "qFlipper"
-desc: "Companion app for Flipper Zero devices"
-homepage: "https://update.flipperzero.one/"
-bundle_id: "com.yourcompany.qFlipper"
+app_token: qflipper
+name: qFlipper
+desc: Companion app for Flipper Zero devices
+homepage: 'https://update.flipperzero.one/'
+bundle_id: com.yourcompany.qFlipper
 
 sources:
   - type: homebrew
-    cask: "qflipper"
+    cask: qflipper

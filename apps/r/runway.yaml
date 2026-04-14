@@ -1,11 +1,11 @@
-app_token: "runway"
-name: "Runway"
-desc: "Creative toolkit powered by machine learning"
-homepage: "https://runwayml.com/"
-bundle_id: "com.runwayai.runway"
+app_token: runway
+name: Runway
+desc: Creative toolkit powered by machine learning
+homepage: 'https://runwayml.com/'
+bundle_id: com.runwayai.runway
 
 sources:
   - type: homebrew
-    cask: "runway"
+    cask: runway
 
   - type: electron

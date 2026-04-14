@@ -1,12 +1,12 @@
-app_token: "ipaverse"
-name: "ipaverse"
-desc: "Tool for downloading and managing iOS apps from the App Store"
-homepage: "https://github.com/bahattinkoc/ipaverse"
-bundle_id: "com.ipaverse"
+app_token: ipaverse
+name: ipaverse
+desc: Tool for downloading and managing iOS apps from the App Store
+homepage: 'https://github.com/bahattinkoc/ipaverse'
+bundle_id: com.ipaverse
 
 sources:
   - type: homebrew
-    cask: "ipaverse"
+    cask: ipaverse
 
   - type: github
-    repo: "bahattinkoc/ipaverse"
+    repo: bahattinkoc/ipaverse

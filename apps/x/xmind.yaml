@@ -1,12 +1,12 @@
-app_token: "xmind"
-name: "XMind"
-desc: "Mind mapping and brainstorming tool"
-homepage: "https://www.xmind.net/"
-bundle_id: "net.xmind.vana.app"
+app_token: xmind
+name: XMind
+desc: Mind mapping and brainstorming tool
+homepage: 'https://www.xmind.net/'
+bundle_id: net.xmind.vana.app
 
 sources:
   - type: homebrew
-    cask: "xmind"
+    cask: xmind
 
   - type: homebrew
-    cask: "xmind@beta"
+    cask: xmind@beta

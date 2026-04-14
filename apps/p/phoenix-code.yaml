@@ -1,12 +1,12 @@
-app_token: "phoenix-code"
-name: "Phoenix Code"
-desc: "Code editor"
-homepage: "https://phcode.io/"
-bundle_id: "io.phcode"
+app_token: phoenix-code
+name: Phoenix Code
+desc: Code editor
+homepage: 'https://phcode.io/'
+bundle_id: io.phcode
 
 sources:
   - type: homebrew
-    cask: "phoenix-code"
+    cask: phoenix-code
 
   - type: github
-    repo: "phcode-dev/phoenix-desktop"
+    repo: phcode-dev/phoenix-desktop

@@ -1,9 +1,9 @@
-app_token: "psi"
-name: "Psi"
-desc: "Instant messaging application designed for the XMPP network"
-homepage: "https://psi-im.org/"
-bundle_id: "org.psi-im"
+app_token: psi
+name: Psi
+desc: Instant messaging application designed for the XMPP network
+homepage: 'https://psi-im.org/'
+bundle_id: org.psi-im
 
 sources:
   - type: homebrew
-    cask: "psi"
+    cask: psi

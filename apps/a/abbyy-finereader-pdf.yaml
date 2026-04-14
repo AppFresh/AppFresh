@@ -1,9 +1,9 @@
-app_token: "abbyy-finereader-pdf"
-name: "ABBYY FineReader PDF"
-desc: "Scan, OCR, and convert documents to searchable PDFs and other formats"
-homepage: "https://pdf.abbyy.com/finereader-pdf-for-mac/"
-bundle_id: "com.abbyy.FineReader"
+app_token: abbyy-finereader-pdf
+name: ABBYY FineReader PDF
+desc: Scan, OCR, and convert documents to searchable PDFs and other formats
+homepage: 'https://pdf.abbyy.com/finereader-pdf-for-mac/'
+bundle_id: com.abbyy.FineReader
 
 sources:
   - type: homebrew
-    cask: "abbyy-finereader-pdf"
+    cask: abbyy-finereader-pdf

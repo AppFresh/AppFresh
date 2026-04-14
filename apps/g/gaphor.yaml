@@ -1,12 +1,12 @@
-app_token: "gaphor"
-name: "Gaphor"
-desc: "Gaphor is the simple modeling tool"
-homepage: "https://gaphor.org/"
-bundle_id: "org.gaphor.gaphor"
+app_token: gaphor
+name: Gaphor
+desc: Gaphor is the simple modeling tool
+homepage: 'https://gaphor.org/'
+bundle_id: org.gaphor.gaphor
 
 sources:
   - type: homebrew
-    cask: "gaphor"
+    cask: gaphor
 
   - type: github
-    repo: "gaphor/gaphor"
+    repo: gaphor/gaphor

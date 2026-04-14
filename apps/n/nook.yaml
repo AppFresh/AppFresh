@@ -1,12 +1,12 @@
-app_token: "nook"
-name: "Nook"
-desc: "Minimal browser with a sidebar-first design"
-homepage: "https://browsewithnook.com/"
-bundle_id: "io.browsewithnook.nook"
+app_token: nook
+name: Nook
+desc: Minimal browser with a sidebar-first design
+homepage: 'https://browsewithnook.com/'
+bundle_id: io.browsewithnook.nook
 
 sources:
   - type: homebrew
-    cask: "nook"
+    cask: nook
 
   - type: github
-    repo: "nook-browser/Nook"
+    repo: nook-browser/Nook

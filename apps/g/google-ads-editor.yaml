@@ -1,9 +1,9 @@
-app_token: "google-ads-editor"
-name: "Google Ads Editor"
-desc: "Managing your campaigns"
-homepage: "https://ads.google.com/home/tools/ads-editor/"
-bundle_id: "com.google.googleadseditor"
+app_token: google-ads-editor
+name: Google Ads Editor
+desc: Managing your campaigns
+homepage: 'https://ads.google.com/home/tools/ads-editor/'
+bundle_id: com.google.googleadseditor
 
 sources:
   - type: homebrew
-    cask: "google-ads-editor"
+    cask: google-ads-editor

@@ -1,12 +1,12 @@
-app_token: "prisma-studio"
-name: "Prisma Studio"
-desc: "Visual database editor for Prisma projects"
-homepage: "https://www.prisma.io/studio"
-bundle_id: "io.prisma.studio"
+app_token: prisma-studio
+name: Prisma Studio
+desc: Visual database editor for Prisma projects
+homepage: 'https://www.prisma.io/studio'
+bundle_id: io.prisma.studio
 
 sources:
   - type: homebrew
-    cask: "prisma-studio"
+    cask: prisma-studio
 
   - type: github
-    repo: "prisma/studio"
+    repo: prisma/studio

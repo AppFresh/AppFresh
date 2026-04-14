@@ -1,16 +1,16 @@
-app_token: "wechat"
-name: "WeChat for Mac"
-name_cn: "微信 Mac 版"
-desc: "Free messaging and calling application"
-homepage: "https://mac.weixin.qq.com/"
-bundle_id: "com.tencent.xinWeChat"
+app_token: wechat
+name: WeChat for Mac
+name_cn: 微信 Mac 版
+desc: Free messaging and calling application
+homepage: 'https://mac.weixin.qq.com/'
+bundle_id: com.tencent.xinWeChat
 
 sources:
   - type: homebrew
-    cask: "wechat"
+    cask: wechat
 
   - type: sparkle
-    url: "https://dldir1.qq.com/weixin/mac/mac-release.xml"
+    url: 'https://dldir1.qq.com/weixin/mac/mac-release.xml'
 
   - type: appstore
-    app_id: "836500024"
+    app_id: '836500024'

@@ -1,12 +1,12 @@
-app_token: "slack"
-name: "Slack"
-desc: "Team communication and collaboration software"
-homepage: "https://slack.com/"
-bundle_id: "com.tinyspeck.slackmacgap"
+app_token: slack
+name: Slack
+desc: Team communication and collaboration software
+homepage: 'https://slack.com/'
+bundle_id: com.tinyspeck.slackmacgap
 
 sources:
   - type: homebrew
-    cask: "slack"
+    cask: slack
 
   - type: homebrew
-    cask: "slack@beta"
+    cask: slack@beta

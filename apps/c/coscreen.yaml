@@ -1,11 +1,12 @@
-app_token: "coscreen"
-name: "CoScreen"
-desc: "Collaboration tool with multi-user screen sharing"
-homepage: "https://www.coscreen.co/"
-bundle_id: "org.coscreen.CoScreen"
+app_token: coscreen
+name: CoScreen
+desc: Collaboration tool with multi-user screen sharing
+homepage: 'https://www.coscreen.co/'
+bundle_id: org.coscreen.CoScreen
 
 sources:
   - type: homebrew
-    cask: "coscreen"
+    cask: coscreen
 
   - type: electron
+    url: 'https://update.coscreen.org/stable-mac.yml'

@@ -1,15 +1,15 @@
-app_token: "trailer"
-name: "Trailer"
-desc: "Managing Pull Requests and Issues For GitHub & GitHub Enterprise"
-homepage: "https://ptsochantaris.github.io/trailer/"
-bundle_id: "com.housetrip.Trailer"
+app_token: trailer
+name: Trailer
+desc: Managing Pull Requests and Issues For GitHub & GitHub Enterprise
+homepage: 'https://ptsochantaris.github.io/trailer/'
+bundle_id: com.housetrip.Trailer
 
 sources:
   - type: homebrew
-    cask: "trailer"
+    cask: trailer
 
   - type: github
-    repo: "ptsochantaris/trailer"
+    repo: ptsochantaris/trailer
 
   - type: sparkle
-    url: "https://ptsochantaris.github.io/trailer/appcast.xml"
+    url: 'https://ptsochantaris.github.io/trailer/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "macupdater"
-name: "MacUpdater"
-desc: "Track and update to the latest versions of installed software"
-homepage: "https://www.corecode.io/macupdater/index.html"
-bundle_id: "com.corecode.MacUpdater"
+app_token: macupdater
+name: MacUpdater
+desc: Track and update to the latest versions of installed software
+homepage: 'https://www.corecode.io/macupdater/index.html'
+bundle_id: com.corecode.MacUpdater
 
 sources:
   - type: homebrew
-    cask: "macupdater"
+    cask: macupdater

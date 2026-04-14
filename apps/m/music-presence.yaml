@@ -1,12 +1,12 @@
-app_token: "music-presence"
-name: "Music Presence"
-desc: "Discord music status that works with any media player"
-homepage: "https://musicpresence.app/"
-bundle_id: "app.musicpresence.desktop"
+app_token: music-presence
+name: Music Presence
+desc: Discord music status that works with any media player
+homepage: 'https://musicpresence.app/'
+bundle_id: app.musicpresence.desktop
 
 sources:
   - type: homebrew
-    cask: "music-presence"
+    cask: music-presence
 
   - type: github
-    repo: "ungive/discord-music-presence"
+    repo: ungive/discord-music-presence

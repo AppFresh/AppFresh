@@ -1,9 +1,9 @@
-app_token: "clipgrab"
-name: "ClipGrab"
-desc: "Downloads videos and audio from websites"
-homepage: "https://clipgrab.org/"
-bundle_id: "de.clipgrab.ClipGrab"
+app_token: clipgrab
+name: ClipGrab
+desc: Downloads videos and audio from websites
+homepage: 'https://clipgrab.org/'
+bundle_id: de.clipgrab.ClipGrab
 
 sources:
   - type: homebrew
-    cask: "clipgrab"
+    cask: clipgrab

@@ -1,11 +1,11 @@
-app_token: "label-live"
-name: "Label LIVE"
-desc: "Label design and printer software"
-homepage: "https://label.live/"
-bundle_id: "com.semireg.LabelLIVE"
+app_token: label-live
+name: Label LIVE
+desc: Label design and printer software
+homepage: 'https://label.live/'
+bundle_id: com.semireg.LabelLIVE
 
 sources:
   - type: homebrew
-    cask: "label-live"
+    cask: label-live
 
   - type: electron

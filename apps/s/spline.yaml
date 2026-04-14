@@ -1,11 +1,11 @@
-app_token: "spline"
-name: "Spline"
-desc: "Design and collaborate in 3D"
-homepage: "https://spline.design/"
-bundle_id: "com.design.spline"
+app_token: spline
+name: Spline
+desc: Design and collaborate in 3D
+homepage: 'https://spline.design/'
+bundle_id: com.design.spline
 
 sources:
   - type: homebrew
-    cask: "spline"
+    cask: spline
 
   - type: electron

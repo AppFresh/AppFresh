@@ -1,9 +1,9 @@
-app_token: "microsoft-edge"
-name: "Microsoft Edge"
-desc: "Multi-platform web browser"
-homepage: "https://www.microsoft.com/en-us/edge?form="
-bundle_id: "com.microsoft.edgemac"
+app_token: microsoft-edge
+name: Microsoft Edge
+desc: Multi-platform web browser
+homepage: 'https://www.microsoft.com/en-us/edge?form='
+bundle_id: com.microsoft.edgemac
 
 sources:
   - type: homebrew
-    cask: "microsoft-edge"
+    cask: microsoft-edge

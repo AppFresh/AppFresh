@@ -1,9 +1,9 @@
-app_token: "eclipse-installer"
-name: "Eclipse Installer"
-desc: "Install and update your Eclipse Development Environment"
-homepage: "https://eclipse.org/"
-bundle_id: "org.eclipse.oomph.setup.installer.product.with-jre.restricted"
+app_token: eclipse-installer
+name: Eclipse Installer
+desc: Install and update your Eclipse Development Environment
+homepage: 'https://eclipse.org/'
+bundle_id: org.eclipse.oomph.setup.installer.product.with-jre.restricted
 
 sources:
   - type: homebrew
-    cask: "eclipse-installer"
+    cask: eclipse-installer

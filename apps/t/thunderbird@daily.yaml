@@ -1,9 +1,9 @@
-app_token: "thunderbird@daily"
-name: "Mozilla Thunderbird Daily"
-desc: "Customizable email client"
-homepage: "https://www.thunderbird.net/en-US/"
-bundle_id: "org.mozilla.thunderbird-daily"
+app_token: thunderbird@daily
+name: Mozilla Thunderbird Daily
+desc: Customizable email client
+homepage: 'https://www.thunderbird.net/en-US/'
+bundle_id: org.mozilla.thunderbird-daily
 
 sources:
   - type: homebrew
-    cask: "thunderbird@daily"
+    cask: thunderbird@daily

@@ -1,12 +1,12 @@
-app_token: "melonds"
-name: "melonDS"
-desc: "Nintendo DS and DSi emulator"
-homepage: "https://melonds.kuribo64.net/"
-bundle_id: "net.kuribo64.melonDS"
+app_token: melonds
+name: melonDS
+desc: Nintendo DS and DSi emulator
+homepage: 'https://melonds.kuribo64.net/'
+bundle_id: net.kuribo64.melonDS
 
 sources:
   - type: homebrew
-    cask: "melonds"
+    cask: melonds
 
   - type: github
-    repo: "melonDS-emu/melonDS"
+    repo: melonDS-emu/melonDS

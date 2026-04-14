@@ -1,9 +1,9 @@
-app_token: "jdk-mission-control"
-name: "JDK Mission Control"
-desc: "Tools to manage, monitor, profile and troubleshoot Java applications"
-homepage: "https://jdk.java.net/jmc/9/"
-bundle_id: "org.openjdk.jmc"
+app_token: jdk-mission-control
+name: JDK Mission Control
+desc: Tools to manage, monitor, profile and troubleshoot Java applications
+homepage: 'https://jdk.java.net/jmc/9/'
+bundle_id: org.openjdk.jmc
 
 sources:
   - type: homebrew
-    cask: "jdk-mission-control"
+    cask: jdk-mission-control

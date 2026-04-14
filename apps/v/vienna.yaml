@@ -1,12 +1,12 @@
-app_token: "vienna"
-name: "Vienna"
-desc: "a free and open-source RSS/Atom/JSON feed newsreader for macOS."
-homepage: "https://www.vienna-rss.com/"
-bundle_id: "uk.co.opencommunity.vienna2"
+app_token: vienna
+name: Vienna
+desc: a free and open-source RSS/Atom/JSON feed newsreader for macOS.
+homepage: 'https://www.vienna-rss.com/'
+bundle_id: uk.co.opencommunity.vienna2
 
 sources:
   - type: homebrew
-    cask: "vienna"
+    cask: vienna
 
   - type: github
-    repo: "ViennaRSS/vienna-rss"
+    repo: ViennaRSS/vienna-rss

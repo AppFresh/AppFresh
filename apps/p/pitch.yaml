@@ -1,11 +1,11 @@
-app_token: "pitch"
-name: "Pitch"
-desc: "Collaborative presentation software"
-homepage: "https://pitch.com/"
-bundle_id: "io.pitch.pitch-macos"
+app_token: pitch
+name: Pitch
+desc: Collaborative presentation software
+homepage: 'https://pitch.com/'
+bundle_id: io.pitch.pitch-macos
 
 sources:
   - type: homebrew
-    cask: "pitch"
+    cask: pitch
 
   - type: electron

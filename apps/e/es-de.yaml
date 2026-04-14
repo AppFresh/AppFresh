@@ -1,9 +1,9 @@
-app_token: "es-de"
-name: "ES-DE"
-desc: "Frontend for browsing and launching games from your multi-platform collection"
-homepage: "https://www.es-de.org/"
-bundle_id: "3.4.0"
+app_token: es-de
+name: ES-DE
+desc: Frontend for browsing and launching games from your multi-platform collection
+homepage: 'https://www.es-de.org/'
+bundle_id: 3.4.0
 
 sources:
   - type: homebrew
-    cask: "es-de"
+    cask: es-de

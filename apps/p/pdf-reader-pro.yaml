@@ -1,12 +1,12 @@
-app_token: "pdf-reader-pro"
-name: "PDF Reader Pro"
-desc: "Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs"
-homepage: "https://www.pdfreaderpro.com/"
-bundle_id: "com.brother.pdfreaderprofree.mac"
+app_token: pdf-reader-pro
+name: PDF Reader Pro
+desc: Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs
+homepage: 'https://www.pdfreaderpro.com/'
+bundle_id: com.brother.pdfreaderprofree.mac
 
 sources:
   - type: homebrew
-    cask: "pdf-reader-pro"
+    cask: pdf-reader-pro
 
   - type: sparkle
-    url: "https://www.pdfreaderpro.com/downloads/pdfreaderprocast.xml"
+    url: 'https://www.pdfreaderpro.com/downloads/pdfreaderprocast.xml'

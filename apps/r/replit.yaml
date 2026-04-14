@@ -1,12 +1,12 @@
-app_token: "replit"
-name: "Replit"
-desc: "Software development and deployment platform"
-homepage: "https://replit.com/"
-bundle_id: "com.electron.replit"
+app_token: replit
+name: Replit
+desc: Software development and deployment platform
+homepage: 'https://replit.com/'
+bundle_id: com.electron.replit
 
 sources:
   - type: homebrew
-    cask: "replit"
+    cask: replit
 
   - type: github
-    repo: "replit/desktop"
+    repo: replit/desktop

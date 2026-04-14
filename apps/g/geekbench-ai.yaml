@@ -1,9 +1,9 @@
-app_token: "geekbench-ai"
-name: "Geekbench AI"
-desc: "Cross-platform AI benchmark to evaluate AI workload performance"
-homepage: "https://www.geekbench.com/ai/"
-bundle_id: "com.primatelabs.macos.geekbenchml"
+app_token: geekbench-ai
+name: Geekbench AI
+desc: Cross-platform AI benchmark to evaluate AI workload performance
+homepage: 'https://www.geekbench.com/ai/'
+bundle_id: com.primatelabs.macos.geekbenchml
 
 sources:
   - type: homebrew
-    cask: "geekbench-ai"
+    cask: geekbench-ai

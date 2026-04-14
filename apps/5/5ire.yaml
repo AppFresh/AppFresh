@@ -1,12 +1,12 @@
-app_token: "5ire"
-name: "5ire"
-desc: "AI assistant and MCP client"
-homepage: "https://5ire.app/"
-bundle_id: "app.5ire.desktop"
+app_token: 5ire
+name: 5ire
+desc: AI assistant and MCP client
+homepage: 'https://5ire.app/'
+bundle_id: app.5ire.desktop
 
 sources:
   - type: homebrew
-    cask: "5ire"
+    cask: 5ire
 
   - type: github
-    repo: "nanbingxyz/5ire"
+    repo: nanbingxyz/5ire

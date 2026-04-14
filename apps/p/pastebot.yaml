@@ -1,9 +1,9 @@
-app_token: "pastebot"
-name: "Pastebot"
-desc: "Workflow application to improve productivity"
-homepage: "https://tapbots.com/pastebot/"
-bundle_id: "com.tapbots.Pastebot2Mac"
+app_token: pastebot
+name: Pastebot
+desc: Workflow application to improve productivity
+homepage: 'https://tapbots.com/pastebot/'
+bundle_id: com.tapbots.Pastebot2Mac
 
 sources:
   - type: homebrew
-    cask: "pastebot"
+    cask: pastebot

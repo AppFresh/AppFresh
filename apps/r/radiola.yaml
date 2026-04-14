@@ -1,15 +1,15 @@
-app_token: "radiola"
-name: "Radiola"
-desc: "Internet radio player for the menu bar"
-homepage: "https://github.com/SokoloffA/radiola"
-bundle_id: "com.github.SokoloffA.Radiola"
+app_token: radiola
+name: Radiola
+desc: Internet radio player for the menu bar
+homepage: 'https://github.com/SokoloffA/radiola'
+bundle_id: com.github.SokoloffA.Radiola
 
 sources:
   - type: homebrew
-    cask: "radiola"
+    cask: radiola
 
   - type: github
-    repo: "SokoloffA/radiola"
+    repo: SokoloffA/radiola
 
   - type: sparkle
-    url: "https://sokoloffa.github.io/radiola/feed.xml"
+    url: 'https://sokoloffa.github.io/radiola/feed.xml'

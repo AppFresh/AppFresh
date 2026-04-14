@@ -1,12 +1,12 @@
-app_token: "optimage"
-name: "Optimage"
-desc: "Image optimisation tool"
-homepage: "https://optimage.app/"
-bundle_id: "com.vmdanilov.optimage"
+app_token: optimage
+name: Optimage
+desc: Image optimisation tool
+homepage: 'https://optimage.app/'
+bundle_id: com.vmdanilov.optimage
 
 sources:
   - type: homebrew
-    cask: "optimage"
+    cask: optimage
 
   - type: sparkle
-    url: "https://optimage.app/appcast.xml"
+    url: 'https://optimage.app/appcast.xml'

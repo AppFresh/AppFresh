@@ -1,12 +1,12 @@
-app_token: "bob-app"
-name: "Bob"
-desc: "Translation application for text, pictures, and manual input"
-homepage: "https://github.com/ripperhe/Bob"
-bundle_id: "com.ripperhe.Bob"
+app_token: bob-app
+name: Bob
+desc: Translation application for text, pictures, and manual input
+homepage: 'https://github.com/ripperhe/Bob'
+bundle_id: com.ripperhe.Bob
 
 sources:
   - type: homebrew
-    cask: "bob-app"
+    cask: bob-app
 
   - type: github
-    repo: "ripperhe/Bob"
+    repo: ripperhe/Bob

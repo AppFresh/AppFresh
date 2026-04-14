@@ -1,12 +1,12 @@
-app_token: "qmk-toolbox"
-name: "QMK Toolbox"
-desc: "Toolbox companion for QMK Firmware"
-homepage: "https://qmk.fm/"
-bundle_id: "fm.qmk.toolbox"
+app_token: qmk-toolbox
+name: QMK Toolbox
+desc: Toolbox companion for QMK Firmware
+homepage: 'https://qmk.fm/'
+bundle_id: fm.qmk.toolbox
 
 sources:
   - type: homebrew
-    cask: "qmk-toolbox"
+    cask: qmk-toolbox
 
   - type: github
-    repo: "qmk/qmk_toolbox"
+    repo: qmk/qmk_toolbox

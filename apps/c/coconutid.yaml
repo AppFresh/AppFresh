@@ -1,12 +1,12 @@
-app_token: "coconutid"
-name: "coconutID"
-desc: "Shows a Macs or iPhones manufacturing date"
-homepage: "https://www.coconut-flavour.com/coconutid/"
-bundle_id: "com.coconut-flavour.coconutID"
+app_token: coconutid
+name: coconutID
+desc: Shows a Macs or iPhones manufacturing date
+homepage: 'https://www.coconut-flavour.com/coconutid/'
+bundle_id: com.coconut-flavour.coconutID
 
 sources:
   - type: homebrew
-    cask: "coconutid"
+    cask: coconutid
 
   - type: sparkle
-    url: "https://www.coconut-flavour.com/updates/coconutID.xml"
+    url: 'https://www.coconut-flavour.com/updates/coconutID.xml'

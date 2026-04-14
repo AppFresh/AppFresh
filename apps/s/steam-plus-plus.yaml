@@ -1,12 +1,12 @@
-app_token: "steam-plus-plus"
-name: "Steam++"
-desc: "Steam helper tools"
-homepage: "https://steampp.net/"
-bundle_id: "net.steampp.app"
+app_token: steam-plus-plus
+name: Steam++
+desc: Steam helper tools
+homepage: 'https://steampp.net/'
+bundle_id: net.steampp.app
 
 sources:
   - type: homebrew
-    cask: "steam-plus-plus"
+    cask: steam-plus-plus
 
   - type: github
-    repo: "BeyondDimension/SteamTools"
+    repo: BeyondDimension/SteamTools

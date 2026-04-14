@@ -1,9 +1,9 @@
-app_token: "transnomino"
-name: "Transnomino"
-desc: "Batch rename utility"
-homepage: "https://www.transnomino.com/"
-bundle_id: "com.bastiaanverreijt.Transnomino"
+app_token: transnomino
+name: Transnomino
+desc: Batch rename utility
+homepage: 'https://www.transnomino.com/'
+bundle_id: com.bastiaanverreijt.Transnomino
 
 sources:
   - type: homebrew
-    cask: "transnomino"
+    cask: transnomino

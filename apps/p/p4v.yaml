@@ -1,9 +1,9 @@
-app_token: "p4v"
-name: "Perforce Helix Visual Client"
-desc: "Visual client for Helix Core"
-homepage: "https://www.perforce.com/products/helix-core-apps/helix-visual-client-p4v"
-bundle_id: "com.perforce.p4admin"
+app_token: p4v
+name: Perforce Helix Visual Client
+desc: Visual client for Helix Core
+homepage: 'https://www.perforce.com/products/helix-core-apps/helix-visual-client-p4v'
+bundle_id: com.perforce.p4admin
 
 sources:
   - type: homebrew
-    cask: "p4v"
+    cask: p4v

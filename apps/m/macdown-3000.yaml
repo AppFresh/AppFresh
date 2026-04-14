@@ -1,12 +1,12 @@
-app_token: "macdown-3000"
-name: "MacDown 3000"
-desc: "Markdown editor with live preview and syntax highlighting"
-homepage: "https://macdown.app/"
-bundle_id: "app.macdown.macdown3000"
+app_token: macdown-3000
+name: MacDown 3000
+desc: Markdown editor with live preview and syntax highlighting
+homepage: 'https://macdown.app/'
+bundle_id: app.macdown.macdown3000
 
 sources:
   - type: homebrew
-    cask: "macdown-3000"
+    cask: macdown-3000
 
   - type: github
-    repo: "schuyler/macdown3000"
+    repo: schuyler/macdown3000

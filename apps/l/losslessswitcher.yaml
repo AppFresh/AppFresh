@@ -1,12 +1,12 @@
-app_token: "losslessswitcher"
-name: "LosslessSwitcher"
-desc: "Lossless sample rate switcher for Apple Music"
-homepage: "https://github.com/vincentneo/LosslessSwitcher"
-bundle_id: "com.vincent-neo.LosslessSwitcher"
+app_token: losslessswitcher
+name: LosslessSwitcher
+desc: Lossless sample rate switcher for Apple Music
+homepage: 'https://github.com/vincentneo/LosslessSwitcher'
+bundle_id: com.vincent-neo.LosslessSwitcher
 
 sources:
   - type: homebrew
-    cask: "losslessswitcher"
+    cask: losslessswitcher
 
   - type: github
-    repo: "vincentneo/LosslessSwitcher"
+    repo: vincentneo/LosslessSwitcher

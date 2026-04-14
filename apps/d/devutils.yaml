@@ -1,12 +1,12 @@
-app_token: "devutils"
-name: "DevUtils"
-desc: "All-in-one toolbox for developers"
-homepage: "https://devutils.com/"
-bundle_id: "tonyapp.devutils"
+app_token: devutils
+name: DevUtils
+desc: All-in-one toolbox for developers
+homepage: 'https://devutils.com/'
+bundle_id: tonyapp.devutils
 
 sources:
   - type: homebrew
-    cask: "devutils"
+    cask: devutils
 
   - type: sparkle
-    url: "https://devutils.com/archives/appcast.xml"
+    url: 'https://devutils.com/archives/appcast.xml'

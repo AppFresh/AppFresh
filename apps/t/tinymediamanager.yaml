@@ -1,9 +1,9 @@
-app_token: "tinymediamanager"
-name: "tinyMediaManager"
-desc: "Media management tool"
-homepage: "https://www.tinymediamanager.org/"
-bundle_id: "org.tinyMediaManager.tinymediamanager"
+app_token: tinymediamanager
+name: tinyMediaManager
+desc: Media management tool
+homepage: 'https://www.tinymediamanager.org/'
+bundle_id: org.tinyMediaManager.tinymediamanager
 
 sources:
   - type: homebrew
-    cask: "tinymediamanager"
+    cask: tinymediamanager

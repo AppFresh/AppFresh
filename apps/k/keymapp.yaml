@@ -1,9 +1,9 @@
-app_token: "keymapp"
-name: "Keymapp"
-desc: "ZSA keyboard firmware flasher"
-homepage: "https://www.zsa.io/flash"
-bundle_id: "io.zsa.keymapp"
+app_token: keymapp
+name: Keymapp
+desc: ZSA keyboard firmware flasher
+homepage: 'https://www.zsa.io/flash'
+bundle_id: io.zsa.keymapp
 
 sources:
   - type: homebrew
-    cask: "keymapp"
+    cask: keymapp

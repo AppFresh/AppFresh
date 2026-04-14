@@ -1,9 +1,9 @@
-app_token: "flrig"
-name: "flrig"
-desc: "Ham radio rig control"
-homepage: "https://www.w1hkj.org/"
-bundle_id: "com.w1hkj.flrig"
+app_token: flrig
+name: flrig
+desc: Ham radio rig control
+homepage: 'https://www.w1hkj.org/'
+bundle_id: com.w1hkj.flrig
 
 sources:
   - type: homebrew
-    cask: "flrig"
+    cask: flrig

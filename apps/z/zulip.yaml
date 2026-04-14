@@ -1,12 +1,12 @@
-app_token: "zulip"
-name: "Zulip"
-desc: "Desktop client for the Zulip team chat platform"
-homepage: "https://zulip.com/"
-bundle_id: "org.zulip.zulip-electron"
+app_token: zulip
+name: Zulip
+desc: Desktop client for the Zulip team chat platform
+homepage: 'https://zulip.com/'
+bundle_id: org.zulip.zulip-electron
 
 sources:
   - type: homebrew
-    cask: "zulip"
+    cask: zulip
 
   - type: github
-    repo: "zulip/zulip-desktop"
+    repo: zulip/zulip-desktop

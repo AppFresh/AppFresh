@@ -1,12 +1,12 @@
-app_token: "sigil"
-name: "Sigil"
-desc: "EPUB ebook editor"
-homepage: "https://sigil-ebook.com/"
-bundle_id: "com.sigil-ebook.Sigil.app"
+app_token: sigil
+name: Sigil
+desc: EPUB ebook editor
+homepage: 'https://sigil-ebook.com/'
+bundle_id: com.sigil-ebook.Sigil.app
 
 sources:
   - type: homebrew
-    cask: "sigil"
+    cask: sigil
 
   - type: github
-    repo: "Sigil-Ebook/Sigil"
+    repo: Sigil-Ebook/Sigil

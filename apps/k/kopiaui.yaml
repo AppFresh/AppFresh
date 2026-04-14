@@ -1,12 +1,12 @@
-app_token: "kopiaui"
-name: "KopiaUI"
-desc: "Backup/restore tool"
-homepage: "https://kopia.io/"
-bundle_id: "io.kopia.ui"
+app_token: kopiaui
+name: KopiaUI
+desc: Backup/restore tool
+homepage: 'https://kopia.io/'
+bundle_id: io.kopia.ui
 
 sources:
   - type: homebrew
-    cask: "kopiaui"
+    cask: kopiaui
 
   - type: github
-    repo: "kopia/kopia"
+    repo: kopia/kopia

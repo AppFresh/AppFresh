@@ -1,15 +1,15 @@
-app_token: "osu"
-name: "osu!"
-desc: "Rhythm game"
-homepage: "https://github.com/ppy/osu/"
-bundle_id: "sh.ppy.osu.lazer"
+app_token: osu
+name: osu!
+desc: Rhythm game
+homepage: 'https://github.com/ppy/osu/'
+bundle_id: sh.ppy.osu.lazer
 
 sources:
   - type: homebrew
-    cask: "osu"
+    cask: osu
 
   - type: github
-    repo: "ppy/osu"
+    repo: ppy/osu
 
   - type: homebrew
-    cask: "osu@tachyon"
+    cask: osu@tachyon

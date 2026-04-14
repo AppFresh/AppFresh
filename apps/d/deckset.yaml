@@ -1,12 +1,12 @@
-app_token: "deckset"
-name: "Deckset"
-desc: "Presentations from Markdown"
-homepage: "https://www.decksetapp.com/"
-bundle_id: "com.unsignedinteger.Deckset-Paddle"
+app_token: deckset
+name: Deckset
+desc: Presentations from Markdown
+homepage: 'https://www.decksetapp.com/'
+bundle_id: com.unsignedinteger.Deckset-Paddle
 
 sources:
   - type: homebrew
-    cask: "deckset"
+    cask: deckset
 
   - type: sparkle
-    url: "https://dl.decksetapp.com/appcast.xml"
+    url: 'https://dl.decksetapp.com/appcast.xml'

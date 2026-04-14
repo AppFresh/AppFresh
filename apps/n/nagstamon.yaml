@@ -1,12 +1,12 @@
-app_token: "nagstamon"
-name: "Nagstamon"
-desc: "Nagios status monitor"
-homepage: "https://nagstamon.de/"
-bundle_id: "de.nagstamon"
+app_token: nagstamon
+name: Nagstamon
+desc: Nagios status monitor
+homepage: 'https://nagstamon.de/'
+bundle_id: de.nagstamon
 
 sources:
   - type: homebrew
-    cask: "nagstamon"
+    cask: nagstamon
 
   - type: github
-    repo: "HenriWahl/Nagstamon"
+    repo: HenriWahl/Nagstamon

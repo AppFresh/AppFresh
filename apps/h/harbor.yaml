@@ -1,12 +1,12 @@
-app_token: "harbor"
-name: "Harbor"
-desc: "Tool to monitor Codeship builds from the status bar"
-homepage: "https://github.com/madeintandem/harbor"
-bundle_id: "com.dvm.Harbor"
+app_token: harbor
+name: Harbor
+desc: Tool to monitor Codeship builds from the status bar
+homepage: 'https://github.com/madeintandem/harbor'
+bundle_id: com.dvm.Harbor
 
 sources:
   - type: homebrew
-    cask: "harbor"
+    cask: harbor
 
   - type: github
-    repo: "madeintandem/harbor"
+    repo: madeintandem/harbor

@@ -1,9 +1,9 @@
-app_token: "viable"
-name: "Viable"
-desc: "Create and run macOS virtual machines on Apple silicon Macs"
-homepage: "https://eclecticlight.co/virtualisation-on-apple-silicon/"
-bundle_id: "co.eclecticlight.Viable"
+app_token: viable
+name: Viable
+desc: Create and run macOS virtual machines on Apple silicon Macs
+homepage: 'https://eclecticlight.co/virtualisation-on-apple-silicon/'
+bundle_id: co.eclecticlight.Viable
 
 sources:
   - type: homebrew
-    cask: "viable"
+    cask: viable

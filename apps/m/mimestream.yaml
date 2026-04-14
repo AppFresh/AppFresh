@@ -1,12 +1,12 @@
-app_token: "mimestream"
-name: "Mimestream"
-desc: "Native app email client for Gmail"
-homepage: "https://mimestream.com/"
-bundle_id: "com.mimestream.Mimestream"
+app_token: mimestream
+name: Mimestream
+desc: Native app email client for Gmail
+homepage: 'https://mimestream.com/'
+bundle_id: com.mimestream.Mimestream
 
 sources:
   - type: homebrew
-    cask: "mimestream"
+    cask: mimestream
 
   - type: sparkle
-    url: "https://mimestream.com/appcast.xml"
+    url: 'https://mimestream.com/appcast.xml'

@@ -1,11 +1,11 @@
-app_token: "papers"
-name: "ReadCube Papers"
-desc: "Reference management software for researchers"
-homepage: "https://www.readcube.com/home"
-bundle_id: "com.ReadCube.Papers"
+app_token: papers
+name: ReadCube Papers
+desc: Reference management software for researchers
+homepage: 'https://www.readcube.com/home'
+bundle_id: com.ReadCube.Papers
 
 sources:
   - type: homebrew
-    cask: "papers"
+    cask: papers
 
   - type: electron

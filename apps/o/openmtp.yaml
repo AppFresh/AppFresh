@@ -1,12 +1,12 @@
-app_token: "openmtp"
-name: "OpenMTP"
-desc: "Android file transfer"
-homepage: "https://openmtp.ganeshrvel.com/"
-bundle_id: "io.ganeshrvel.openmtp"
+app_token: openmtp
+name: OpenMTP
+desc: Android file transfer
+homepage: 'https://openmtp.ganeshrvel.com/'
+bundle_id: io.ganeshrvel.openmtp
 
 sources:
   - type: homebrew
-    cask: "openmtp"
+    cask: openmtp
 
   - type: github
-    repo: "ganeshrvel/openmtp"
+    repo: ganeshrvel/openmtp

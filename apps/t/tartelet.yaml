@@ -1,12 +1,12 @@
-app_token: "tartelet"
-name: "Tartelet"
-desc: "Manage GitHub Actions runners in virtual machines"
-homepage: "https://github.com/shapehq/tartelet"
-bundle_id: "dk.shape.Tartelet"
+app_token: tartelet
+name: Tartelet
+desc: Manage GitHub Actions runners in virtual machines
+homepage: 'https://github.com/shapehq/tartelet'
+bundle_id: dk.shape.Tartelet
 
 sources:
   - type: homebrew
-    cask: "tartelet"
+    cask: tartelet
 
   - type: github
-    repo: "shapehq/tartelet"
+    repo: shapehq/tartelet

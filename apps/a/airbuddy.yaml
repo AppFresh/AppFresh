@@ -1,12 +1,12 @@
-app_token: "airbuddy"
-name: "AirBuddy"
-desc: "AirPods companion app"
-homepage: "https://airbuddy.app/"
-bundle_id: "codes.rambo.AirBuddy"
+app_token: airbuddy
+name: AirBuddy
+desc: AirPods companion app
+homepage: 'https://airbuddy.app/'
+bundle_id: codes.rambo.AirBuddy
 
 sources:
   - type: homebrew
-    cask: "airbuddy"
+    cask: airbuddy
 
   - type: sparkle
-    url: "https://su.airbuddy.app/kCRSAmcjBc/appcast_hyeon.xml"
+    url: 'https://su.airbuddy.app/kCRSAmcjBc/appcast_hyeon.xml'

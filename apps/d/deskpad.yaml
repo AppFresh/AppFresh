@@ -1,12 +1,12 @@
-app_token: "deskpad"
-name: "DeskPad"
-desc: "Virtual monitor for screen sharing"
-homepage: "https://github.com/Stengo/DeskPad"
-bundle_id: "com.stengo.DeskPad"
+app_token: deskpad
+name: DeskPad
+desc: Virtual monitor for screen sharing
+homepage: 'https://github.com/Stengo/DeskPad'
+bundle_id: com.stengo.DeskPad
 
 sources:
   - type: homebrew
-    cask: "deskpad"
+    cask: deskpad
 
   - type: github
-    repo: "Stengo/DeskPad"
+    repo: Stengo/DeskPad

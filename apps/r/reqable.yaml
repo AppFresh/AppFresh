@@ -1,12 +1,12 @@
-app_token: "reqable"
-name: "Reqable"
-desc: "Advanced API Debugging Proxy"
-homepage: "https://reqable.com/"
-bundle_id: "com.reqable.macosx"
+app_token: reqable
+name: Reqable
+desc: Advanced API Debugging Proxy
+homepage: 'https://reqable.com/'
+bundle_id: com.reqable.macosx
 
 sources:
   - type: homebrew
-    cask: "reqable"
+    cask: reqable
 
   - type: github
-    repo: "reqable/reqable-app"
+    repo: reqable/reqable-app

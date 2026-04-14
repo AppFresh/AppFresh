@@ -1,12 +1,12 @@
-app_token: "protokol"
-name: "protokol"
-desc: "MIDI and OSC Monitor"
-homepage: "https://hexler.net/protokol"
-bundle_id: "net.hexler.Protokol"
+app_token: protokol
+name: protokol
+desc: MIDI and OSC Monitor
+homepage: 'https://hexler.net/protokol'
+bundle_id: net.hexler.Protokol
 
 sources:
   - type: homebrew
-    cask: "protokol"
+    cask: protokol
 
   - type: sparkle
-    url: "https://hexler.net/protokol/appcast/macos/"
+    url: 'https://hexler.net/protokol/appcast/macos/'

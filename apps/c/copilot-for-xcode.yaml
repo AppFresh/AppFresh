@@ -1,15 +1,15 @@
-app_token: "copilot-for-xcode"
-name: "Copilot for Xcode"
-desc: "Xcode extension for GitHub Copilot"
-homepage: "https://github.com/intitni/CopilotForXcode"
-bundle_id: "com.intii.CopilotForXcode"
+app_token: copilot-for-xcode
+name: Copilot for Xcode
+desc: Xcode extension for GitHub Copilot
+homepage: 'https://github.com/intitni/CopilotForXcode'
+bundle_id: com.intii.CopilotForXcode
 
 sources:
   - type: homebrew
-    cask: "copilot-for-xcode"
+    cask: copilot-for-xcode
 
   - type: github
-    repo: "intitni/CopilotForXcode"
+    repo: intitni/CopilotForXcode
 
   - type: sparkle
-    url: "https://copilotforxcode.intii.com/appcast.xml"
+    url: 'https://copilotforxcode.intii.com/appcast.xml'

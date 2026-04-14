@@ -1,12 +1,12 @@
-app_token: "diffusionbee"
-name: "Diffusion Bee"
-desc: "Run Stable Diffusion locally"
-homepage: "https://diffusionbee.com/"
-bundle_id: "com.diffusionbee.diffusionbee"
+app_token: diffusionbee
+name: Diffusion Bee
+desc: Run Stable Diffusion locally
+homepage: 'https://diffusionbee.com/'
+bundle_id: com.diffusionbee.diffusionbee
 
 sources:
   - type: homebrew
-    cask: "diffusionbee"
+    cask: diffusionbee
 
   - type: github
-    repo: "divamgupta/diffusionbee-stable-diffusion-ui"
+    repo: divamgupta/diffusionbee-stable-diffusion-ui

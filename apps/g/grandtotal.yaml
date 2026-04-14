@@ -1,12 +1,12 @@
-app_token: "grandtotal"
-name: "GrandTotal"
-desc: "Create invoices and estimates"
-homepage: "https://www.mediaatelier.com/GrandTotal/"
-bundle_id: "com.mediaatelier.GrandTotal3"
+app_token: grandtotal
+name: GrandTotal
+desc: Create invoices and estimates
+homepage: 'https://www.mediaatelier.com/GrandTotal/'
+bundle_id: com.mediaatelier.GrandTotal3
 
 sources:
   - type: homebrew
-    cask: "grandtotal"
+    cask: grandtotal
 
   - type: sparkle
-    url: "https://www.mediaatelier.com/GrandTotal9/feed.php"
+    url: 'https://www.mediaatelier.com/GrandTotal9/feed.php'

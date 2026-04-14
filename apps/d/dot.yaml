@@ -1,12 +1,12 @@
-app_token: "dot"
-name: "Dot"
-desc: "Menu bar calendar with meeting reminders"
-homepage: "https://www.trydot.app/"
-bundle_id: "com.dot.app"
+app_token: dot
+name: Dot
+desc: Menu bar calendar with meeting reminders
+homepage: 'https://www.trydot.app/'
+bundle_id: com.dot.app
 
 sources:
   - type: homebrew
-    cask: "dot"
+    cask: dot
 
   - type: github
-    repo: "prateekkeshari/dot-releases"
+    repo: prateekkeshari/dot-releases

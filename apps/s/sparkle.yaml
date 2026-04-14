@@ -1,9 +1,9 @@
-app_token: "sparkle"
-name: "Sparkle"
-desc: "Software update framework for Cocoa developers"
-homepage: "https://sparkle-project.org/"
-bundle_id: "org.sparkle-project.SparkleTestApp"
+app_token: sparkle
+name: Sparkle
+desc: Software update framework for Cocoa developers
+homepage: 'https://sparkle-project.org/'
+bundle_id: org.sparkle-project.SparkleTestApp
 
 sources:
   - type: homebrew
-    cask: "sparkle"
+    cask: sparkle

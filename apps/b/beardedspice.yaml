@@ -1,12 +1,12 @@
-app_token: "beardedspice"
-name: "BeardedSpice"
-desc: "Control web-based media players with media keys"
-homepage: "https://github.com/beardedspice/beardedspice/"
-bundle_id: "com.beardedspice.BeardedSpice"
+app_token: beardedspice
+name: BeardedSpice
+desc: Control web-based media players with media keys
+homepage: 'https://github.com/beardedspice/beardedspice/'
+bundle_id: com.beardedspice.BeardedSpice
 
 sources:
   - type: homebrew
-    cask: "beardedspice"
+    cask: beardedspice
 
   - type: github
-    repo: "beardedspice/beardedspice"
+    repo: beardedspice/beardedspice

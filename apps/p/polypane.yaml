@@ -1,12 +1,12 @@
-app_token: "polypane"
-name: "Polypane"
-desc: "Browser for ambitious developers"
-homepage: "https://polypane.app/"
-bundle_id: "com.firstversionist.polypane"
+app_token: polypane
+name: Polypane
+desc: Browser for ambitious developers
+homepage: 'https://polypane.app/'
+bundle_id: com.firstversionist.polypane
 
 sources:
   - type: homebrew
-    cask: "polypane"
+    cask: polypane
 
   - type: github
-    repo: "firstversionist/polypane"
+    repo: firstversionist/polypane

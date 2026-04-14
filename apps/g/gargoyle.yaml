@@ -1,12 +1,12 @@
-app_token: "gargoyle"
-name: "Gargoyle"
-desc: "IO layer for interactive fiction players"
-homepage: "https://github.com/garglk/garglk"
-bundle_id: "com.googlecode.garglk.Launcher"
+app_token: gargoyle
+name: Gargoyle
+desc: IO layer for interactive fiction players
+homepage: 'https://github.com/garglk/garglk'
+bundle_id: com.googlecode.garglk.Launcher
 
 sources:
   - type: homebrew
-    cask: "gargoyle"
+    cask: gargoyle
 
   - type: github
-    repo: "garglk/garglk"
+    repo: garglk/garglk

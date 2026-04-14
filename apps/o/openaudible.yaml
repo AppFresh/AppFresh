@@ -1,12 +1,12 @@
-app_token: "openaudible"
-name: "OpenAudible"
-desc: "Audiobook manager for Audible users"
-homepage: "https://openaudible.org/"
-bundle_id: "org.openaudible.openaudible"
+app_token: openaudible
+name: OpenAudible
+desc: Audiobook manager for Audible users
+homepage: 'https://openaudible.org/'
+bundle_id: org.openaudible.openaudible
 
 sources:
   - type: homebrew
-    cask: "openaudible"
+    cask: openaudible
 
   - type: github
-    repo: "openaudible/openaudible"
+    repo: openaudible/openaudible

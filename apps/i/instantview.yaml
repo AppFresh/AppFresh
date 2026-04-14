@@ -1,12 +1,12 @@
-app_token: "instantview"
-name: "SiliconMotion InstantView"
-desc: "Driver for SM76x with UI"
-homepage: "https://www.siliconmotion.com/"
-bundle_id: "com.SMI-Inc.InstantView"
+app_token: instantview
+name: SiliconMotion InstantView
+desc: Driver for SM76x with UI
+homepage: 'https://www.siliconmotion.com/'
+bundle_id: com.SMI-Inc.InstantView
 
 sources:
   - type: homebrew
-    cask: "instantview"
+    cask: instantview
 
   - type: sparkle
-    url: "https://www.siliconmotion.com/downloads/InstantView/Mac/MacAppupdate.V4.xml"
+    url: 'https://www.siliconmotion.com/downloads/InstantView/Mac/MacAppupdate.V4.xml'

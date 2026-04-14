@@ -1,15 +1,15 @@
-app_token: "surge"
-name: "Surge"
-desc: "Network toolbox"
-homepage: "https://nssurge.com/"
-bundle_id: "com.nssurge.surge-mac"
+app_token: surge
+name: Surge
+desc: Network toolbox
+homepage: 'https://nssurge.com/'
+bundle_id: com.nssurge.surge-mac
 
 sources:
   - type: homebrew
-    cask: "surge"
+    cask: surge
 
   - type: sparkle
-    url: "https://nssurge.com/mac/latest/appcast-signed.xml"
+    url: 'https://nssurge.com/mac/latest/appcast-signed.xml'
 
   - type: homebrew
-    cask: "surge@4"
+    cask: surge@4

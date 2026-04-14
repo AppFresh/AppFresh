@@ -1,9 +1,9 @@
-app_token: "imagej"
-name: "ImageJ"
-desc: "Image Processing and Analysis in Java"
-homepage: "https://imagej.net/ij/"
-bundle_id: "ImageJ"
+app_token: imagej
+name: ImageJ
+desc: Image Processing and Analysis in Java
+homepage: 'https://imagej.net/ij/'
+bundle_id: ImageJ
 
 sources:
   - type: homebrew
-    cask: "imagej"
+    cask: imagej

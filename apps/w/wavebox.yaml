@@ -1,12 +1,12 @@
-app_token: "wavebox"
-name: "Wavebox"
-desc: "Web browser"
-homepage: "https://wavebox.io/"
-bundle_id: "com.bookry.wavebox"
+app_token: wavebox
+name: Wavebox
+desc: Web browser
+homepage: 'https://wavebox.io/'
+bundle_id: com.bookry.wavebox
 
 sources:
   - type: homebrew
-    cask: "wavebox"
+    cask: wavebox
 
   - type: sparkle
-    url: "https://download.wavebox.app/stable/macarm64/appcast.xml"
+    url: 'https://download.wavebox.app/stable/macarm64/appcast.xml'

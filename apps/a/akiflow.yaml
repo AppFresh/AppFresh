@@ -1,11 +1,12 @@
-app_token: "akiflow"
-name: "Akiflow"
-desc: "Time blocking and productivity platform"
-homepage: "https://akiflow.com/"
-bundle_id: "com.akiflow.akiflow"
+app_token: akiflow
+name: Akiflow
+desc: Time blocking and productivity platform
+homepage: 'https://akiflow.com/'
+bundle_id: com.akiflow.akiflow
 
 sources:
   - type: homebrew
-    cask: "akiflow"
+    cask: akiflow
 
   - type: electron
+    url: 'https://download.akiflow.com/builds/latest-mac.yml'

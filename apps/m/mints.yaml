@@ -1,9 +1,9 @@
-app_token: "mints"
-name: "Mints"
-desc: "Logging tool suite"
-homepage: "https://eclecticlight.co/mints-a-multifunction-utility/"
-bundle_id: "co.eclecticlight.Mints"
+app_token: mints
+name: Mints
+desc: Logging tool suite
+homepage: 'https://eclecticlight.co/mints-a-multifunction-utility/'
+bundle_id: co.eclecticlight.Mints
 
 sources:
   - type: homebrew
-    cask: "mints"
+    cask: mints

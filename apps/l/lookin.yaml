@@ -1,12 +1,12 @@
-app_token: "lookin"
-name: "Lookin"
-desc: "App for iOS view debugging"
-homepage: "https://lookin.work/"
-bundle_id: "hughkli.Lookin"
+app_token: lookin
+name: Lookin
+desc: App for iOS view debugging
+homepage: 'https://lookin.work/'
+bundle_id: hughkli.Lookin
 
 sources:
   - type: homebrew
-    cask: "lookin"
+    cask: lookin
 
   - type: sparkle
-    url: "https://lookin.work/release/appcast.xml"
+    url: 'https://lookin.work/release/appcast.xml'

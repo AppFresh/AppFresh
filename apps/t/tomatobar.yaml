@@ -1,12 +1,12 @@
-app_token: "tomatobar"
-name: "TomatoBar"
-desc: "Menu bar pomodoro timer"
-homepage: "https://github.com/ivoronin/TomatoBar"
-bundle_id: "com.github.ivoronin.TomatoBar"
+app_token: tomatobar
+name: TomatoBar
+desc: Menu bar pomodoro timer
+homepage: 'https://github.com/ivoronin/TomatoBar'
+bundle_id: com.github.ivoronin.TomatoBar
 
 sources:
   - type: homebrew
-    cask: "tomatobar"
+    cask: tomatobar
 
   - type: github
-    repo: "ivoronin/TomatoBar"
+    repo: ivoronin/TomatoBar

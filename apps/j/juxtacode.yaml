@@ -1,12 +1,12 @@
-app_token: "juxtacode"
-name: "JuxtaCode"
-desc: "Diff, merge, and compare code"
-homepage: "https://juxtacode.app/"
-bundle_id: "com.naiveapps.juxtacode"
+app_token: juxtacode
+name: JuxtaCode
+desc: Diff, merge, and compare code
+homepage: 'https://juxtacode.app/'
+bundle_id: com.naiveapps.juxtacode
 
 sources:
   - type: homebrew
-    cask: "juxtacode"
+    cask: juxtacode
 
   - type: sparkle
-    url: "https://appcast.juxtacode.app/juxtacode"
+    url: 'https://appcast.juxtacode.app/juxtacode'

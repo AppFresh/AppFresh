@@ -1,12 +1,12 @@
-app_token: "windterm"
-name: "WindTerm"
-desc: "SSH/SFTP/Shell/Telnet/Serial terminal"
-homepage: "https://github.com/kingToolbox/WindTerm"
-bundle_id: "KingToolbox.WindTerm"
+app_token: windterm
+name: WindTerm
+desc: SSH/SFTP/Shell/Telnet/Serial terminal
+homepage: 'https://github.com/kingToolbox/WindTerm'
+bundle_id: KingToolbox.WindTerm
 
 sources:
   - type: homebrew
-    cask: "windterm"
+    cask: windterm
 
   - type: github
-    repo: "kingToolbox/WindTerm"
+    repo: kingToolbox/WindTerm

@@ -1,12 +1,12 @@
-app_token: "workbench"
-name: "Workbench"
-desc: "Seamless, automatic, “dotfile” sync to iCloud"
-homepage: "https://github.com/mxcl/Workbench"
-bundle_id: "com.codebasesaga.macOS.Workbench"
+app_token: workbench
+name: Workbench
+desc: Seamless, automatic, “dotfile” sync to iCloud
+homepage: 'https://github.com/mxcl/Workbench'
+bundle_id: com.codebasesaga.macOS.Workbench
 
 sources:
   - type: homebrew
-    cask: "workbench"
+    cask: workbench
 
   - type: github
-    repo: "mxcl/Workbench"
+    repo: mxcl/Workbench

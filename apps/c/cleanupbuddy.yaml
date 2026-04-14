@@ -1,12 +1,12 @@
-app_token: "cleanupbuddy"
-name: "CleanupBuddy"
-desc: "Clean keyboard and trackpad"
-homepage: "https://cleanupbuddy.app/"
-bundle_id: "codes.rambo.CleanupBuddy"
+app_token: cleanupbuddy
+name: CleanupBuddy
+desc: Clean keyboard and trackpad
+homepage: 'https://cleanupbuddy.app/'
+bundle_id: codes.rambo.CleanupBuddy
 
 sources:
   - type: homebrew
-    cask: "cleanupbuddy"
+    cask: cleanupbuddy
 
   - type: sparkle
-    url: "https://sparkle.cleanupbuddy.app/appcast.xml"
+    url: 'https://sparkle.cleanupbuddy.app/appcast.xml'

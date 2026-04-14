@@ -1,8 +1,8 @@
-app_token: "firefox@nightly"
-name: "Firefox Nightly"
-desc: "Web browser"
-homepage: "https://www.firefox.com/"
+app_token: firefox@nightly
+name: Firefox Nightly
+desc: Web browser
+homepage: 'https://www.firefox.com/'
 
 sources:
   - type: homebrew
-    cask: "firefox@nightly"
+    cask: firefox@nightly

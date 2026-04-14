@@ -1,15 +1,15 @@
-app_token: "pika"
-name: "Pika"
-desc: "An open-source colour picker app for macOS"
-homepage: "https://superhighfives.com/pika"
-bundle_id: "com.superhighfives.Pika"
+app_token: pika
+name: Pika
+desc: An open-source colour picker app for macOS
+homepage: 'https://superhighfives.com/pika'
+bundle_id: com.superhighfives.Pika
 
 sources:
   - type: homebrew
-    cask: "pika"
+    cask: pika
 
   - type: github
-    repo: "superhighfives/pika"
+    repo: superhighfives/pika
 
   - type: homebrew
-    cask: "pika@beta"
+    cask: pika@beta

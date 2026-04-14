@@ -1,15 +1,15 @@
-app_token: "extradock"
-name: "ExtraDock"
-desc: "Add fully customizable extra docks"
-homepage: "https://extradock.app/"
-bundle_id: "dignicy.extraDock"
+app_token: extradock
+name: ExtraDock
+desc: Add fully customizable extra docks
+homepage: 'https://extradock.app/'
+bundle_id: dignicy.extraDock
 
 sources:
   - type: homebrew
-    cask: "extradock"
+    cask: extradock
 
   - type: github
-    repo: "AppitStudio/extra-dock-updates"
+    repo: AppitStudio/extra-dock-updates
 
   - type: sparkle
-    url: "https://raw.githubusercontent.com/AppitStudio/extra-dock-updates/refs/heads/main/appcast.xml"
+    url: 'https://raw.githubusercontent.com/AppitStudio/extra-dock-updates/refs/heads/main/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "spamsieve"
-name: "SpamSieve"
-desc: "Spam filtering extension for e-mail clients"
-homepage: "https://c-command.com/spamsieve/"
-bundle_id: "com.c-command.SpamSieve"
+app_token: spamsieve
+name: SpamSieve
+desc: Spam filtering extension for e-mail clients
+homepage: 'https://c-command.com/spamsieve/'
+bundle_id: com.c-command.SpamSieve
 
 sources:
   - type: homebrew
-    cask: "spamsieve"
+    cask: spamsieve

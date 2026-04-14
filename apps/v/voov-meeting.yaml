@@ -1,9 +1,9 @@
-app_token: "voov-meeting"
-name: "VooV Meeting"
-desc: "Video conferencing software"
-homepage: "https://voovmeeting.com/"
-bundle_id: "com.tencent.tencentmeeting"
+app_token: voov-meeting
+name: VooV Meeting
+desc: Video conferencing software
+homepage: 'https://voovmeeting.com/'
+bundle_id: com.tencent.tencentmeeting
 
 sources:
   - type: homebrew
-    cask: "voov-meeting"
+    cask: voov-meeting

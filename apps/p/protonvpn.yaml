@@ -1,12 +1,12 @@
-app_token: "protonvpn"
-name: "ProtonVPN"
-desc: "VPN client focusing on security"
-homepage: "https://protonvpn.com/"
-bundle_id: "ch.protonvpn.mac"
+app_token: protonvpn
+name: ProtonVPN
+desc: VPN client focusing on security
+homepage: 'https://protonvpn.com/'
+bundle_id: ch.protonvpn.mac
 
 sources:
   - type: homebrew
-    cask: "protonvpn"
+    cask: protonvpn
 
   - type: sparkle
-    url: "https://protonvpn.com/download/macos/updates/v5/sparkle.xml"
+    url: 'https://protonvpn.com/download/macos/updates/v5/sparkle.xml'

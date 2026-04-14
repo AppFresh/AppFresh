@@ -1,9 +1,9 @@
-app_token: "waves-central"
-name: "Waves Central"
-desc: "Client to install and activate Waves products"
-homepage: "https://www.waves.com/"
-bundle_id: "com.WavesAudio.central"
+app_token: waves-central
+name: Waves Central
+desc: Client to install and activate Waves products
+homepage: 'https://www.waves.com/'
+bundle_id: com.WavesAudio.central
 
 sources:
   - type: homebrew
-    cask: "waves-central"
+    cask: waves-central

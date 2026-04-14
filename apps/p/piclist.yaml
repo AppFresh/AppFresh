@@ -1,14 +1,14 @@
-app_token: "piclist"
-name: "PicList"
-desc: "Cloud storage manager tool"
-homepage: "https://piclist.cn/"
-bundle_id: "com.kuingsmile.piclist"
+app_token: piclist
+name: PicList
+desc: Cloud storage manager tool
+homepage: 'https://piclist.cn/'
+bundle_id: com.kuingsmile.piclist
 
 sources:
   - type: homebrew
-    cask: "piclist"
+    cask: piclist
 
   - type: github
-    repo: "Kuingsmile/PicList"
+    repo: Kuingsmile/PicList
 
   - type: electron

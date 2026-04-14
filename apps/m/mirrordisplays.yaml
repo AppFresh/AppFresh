@@ -1,12 +1,12 @@
-app_token: "mirrordisplays"
-name: "Mirror Displays"
-homepage: "https://fabiancanas.com/open-source/mirror-displays"
-bundle_id: "com.fabiancanas.MirrorDisplays"
+app_token: mirrordisplays
+name: Mirror Displays
+homepage: 'https://fabiancanas.com/open-source/mirror-displays'
+bundle_id: com.fabiancanas.MirrorDisplays
 
 sources:
   - type: homebrew
-    cask: "mirrordisplays"
+    cask: mirrordisplays
 
   - type: github
-    repo: "fcanas/mirror-displays"
-    regex: "MirrorDisplays.zip"
+    repo: fcanas/mirror-displays
+    regex: 'MirrorDisplays.zip'

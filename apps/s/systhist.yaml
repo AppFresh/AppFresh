@@ -1,9 +1,9 @@
-app_token: "systhist"
-name: "SystHist"
-desc: "Lists full system and security update installation history"
-homepage: "https://eclecticlight.co/lockrattler-systhist/"
-bundle_id: "co.eclecticlight.SystHist"
+app_token: systhist
+name: SystHist
+desc: Lists full system and security update installation history
+homepage: 'https://eclecticlight.co/lockrattler-systhist/'
+bundle_id: co.eclecticlight.SystHist
 
 sources:
   - type: homebrew
-    cask: "systhist"
+    cask: systhist

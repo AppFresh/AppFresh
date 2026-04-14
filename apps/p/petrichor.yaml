@@ -1,12 +1,12 @@
-app_token: "petrichor"
-name: "Petrichor"
-desc: "Offline Music Player"
-homepage: "https://github.com/kushalpandya/Petrichor"
-bundle_id: "org.Petrichor"
+app_token: petrichor
+name: Petrichor
+desc: Offline Music Player
+homepage: 'https://github.com/kushalpandya/Petrichor'
+bundle_id: org.Petrichor
 
 sources:
   - type: homebrew
-    cask: "petrichor"
+    cask: petrichor
 
   - type: github
-    repo: "kushalpandya/Petrichor"
+    repo: kushalpandya/Petrichor

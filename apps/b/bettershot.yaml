@@ -1,12 +1,12 @@
-app_token: "bettershot"
-name: "Better Shot"
-desc: "Screen capturing and editing tool"
-homepage: "https://bettershot.site/"
-bundle_id: "com.kartiklabhshetwar.bettershot"
+app_token: bettershot
+name: Better Shot
+desc: Screen capturing and editing tool
+homepage: 'https://bettershot.site/'
+bundle_id: com.kartiklabhshetwar.bettershot
 
 sources:
   - type: homebrew
-    cask: "bettershot"
+    cask: bettershot
 
   - type: github
-    repo: "KartikLabhshetwar/better-shot"
+    repo: KartikLabhshetwar/better-shot

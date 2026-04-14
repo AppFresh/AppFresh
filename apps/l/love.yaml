@@ -1,9 +1,9 @@
-app_token: "love"
-name: "LÖVE"
-desc: "2D game framework for Lua"
-homepage: "https://love2d.org/"
-bundle_id: "org.love2d.love"
+app_token: love
+name: LÖVE
+desc: 2D game framework for Lua
+homepage: 'https://love2d.org/'
+bundle_id: org.love2d.love
 
 sources:
   - type: homebrew
-    cask: "love"
+    cask: love

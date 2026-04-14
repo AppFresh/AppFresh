@@ -1,12 +1,12 @@
-app_token: "puppetry"
-name: "Puppetry"
-desc: "Web testing solution for non-developers on top of Puppeteer and Jest"
-homepage: "https://puppetry.app/"
-bundle_id: "com.dsheiko.puppetry"
+app_token: puppetry
+name: Puppetry
+desc: Web testing solution for non-developers on top of Puppeteer and Jest
+homepage: 'https://puppetry.app/'
+bundle_id: com.dsheiko.puppetry
 
 sources:
   - type: homebrew
-    cask: "puppetry"
+    cask: puppetry
 
   - type: github
-    repo: "dsheiko/puppetry"
+    repo: dsheiko/puppetry

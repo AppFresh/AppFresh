@@ -1,12 +1,12 @@
-app_token: "psst"
-name: "Psst"
-desc: "Spotify client"
-homepage: "https://github.com/jpochyla/psst/"
-bundle_id: "com.jpochyla.psst"
+app_token: psst
+name: Psst
+desc: Spotify client
+homepage: 'https://github.com/jpochyla/psst/'
+bundle_id: com.jpochyla.psst
 
 sources:
   - type: homebrew
-    cask: "psst"
+    cask: psst
 
   - type: github
-    repo: "jpochyla/psst"
+    repo: jpochyla/psst

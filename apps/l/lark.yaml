@@ -1,9 +1,9 @@
-app_token: "lark"
-name: "Lark"
-desc: "Project management software"
-homepage: "https://www.larksuite.com/"
-bundle_id: "com.larksuite.larkApp"
+app_token: lark
+name: Lark
+desc: Project management software
+homepage: 'https://www.larksuite.com/'
+bundle_id: com.larksuite.larkApp
 
 sources:
   - type: homebrew
-    cask: "lark"
+    cask: lark

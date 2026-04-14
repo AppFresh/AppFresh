@@ -1,12 +1,12 @@
-app_token: "github-copilot-for-xcode"
-name: "GitHub Copilot for Xcode"
-desc: "Xcode extension for GitHub Copilot"
-homepage: "https://github.com/github/CopilotForXcode"
-bundle_id: "com.github.CopilotForXcode"
+app_token: github-copilot-for-xcode
+name: GitHub Copilot for Xcode
+desc: Xcode extension for GitHub Copilot
+homepage: 'https://github.com/github/CopilotForXcode'
+bundle_id: com.github.CopilotForXcode
 
 sources:
   - type: homebrew
-    cask: "github-copilot-for-xcode"
+    cask: github-copilot-for-xcode
 
   - type: sparkle
-    url: "https://githubcopilotide.z13.web.core.windows.net/appcast.xml"
+    url: 'https://githubcopilotide.z13.web.core.windows.net/appcast.xml'

@@ -1,9 +1,9 @@
-app_token: "glkvm"
-name: "GLKVM"
-desc: "App for controlling GL.iNet KVM devices"
-homepage: "https://www.gl-inet.com/app-rm/"
-bundle_id: "com.glinet.kvmdesk"
+app_token: glkvm
+name: GLKVM
+desc: App for controlling GL.iNet KVM devices
+homepage: 'https://www.gl-inet.com/app-rm/'
+bundle_id: com.glinet.kvmdesk
 
 sources:
   - type: homebrew
-    cask: "glkvm"
+    cask: glkvm

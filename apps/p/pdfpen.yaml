@@ -1,9 +1,9 @@
-app_token: "pdfpen"
-name: "PDFpen"
-desc: "PDF editing software"
-homepage: "https://smilesoftware.com/PDFpen"
-bundle_id: "com.smileonmymac.PDFpen"
+app_token: pdfpen
+name: PDFpen
+desc: PDF editing software
+homepage: 'https://smilesoftware.com/PDFpen'
+bundle_id: com.smileonmymac.PDFpen
 
 sources:
   - type: homebrew
-    cask: "pdfpen"
+    cask: pdfpen

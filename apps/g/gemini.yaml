@@ -1,12 +1,12 @@
-app_token: "gemini"
-name: "Gemini"
-desc: "Disk space cleaner that finds and deletes duplicated and similar files"
-homepage: "https://macpaw.com/gemini"
-bundle_id: "com.macpaw.site.Gemini2"
+app_token: gemini
+name: Gemini
+desc: Disk space cleaner that finds and deletes duplicated and similar files
+homepage: 'https://macpaw.com/gemini'
+bundle_id: com.macpaw.site.Gemini2
 
 sources:
   - type: homebrew
-    cask: "gemini"
+    cask: gemini
 
   - type: sparkle
-    url: "https://updates.devmate.com/com.macpaw.site.Gemini2.xml"
+    url: 'https://updates.devmate.com/com.macpaw.site.Gemini2.xml'

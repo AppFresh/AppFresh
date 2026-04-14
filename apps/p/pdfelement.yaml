@@ -1,9 +1,9 @@
-app_token: "pdfelement"
-name: "Wondershare PDFelement for Mac"
-desc: "Create, edit, convert and sign PDF documents"
-homepage: "https://pdf.wondershare.com/"
-bundle_id: "com.wondershare.PDFelement"
+app_token: pdfelement
+name: Wondershare PDFelement for Mac
+desc: Create, edit, convert and sign PDF documents
+homepage: 'https://pdf.wondershare.com/'
+bundle_id: com.wondershare.PDFelement
 
 sources:
   - type: homebrew
-    cask: "pdfelement"
+    cask: pdfelement

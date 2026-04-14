@@ -1,12 +1,12 @@
-app_token: "amiberry"
-name: "Amiberry"
-desc: "Amiga emulator"
-homepage: "https://amiberry.com/"
-bundle_id: "com.blitterstudio.Amiberry"
+app_token: amiberry
+name: Amiberry
+desc: Amiga emulator
+homepage: 'https://amiberry.com/'
+bundle_id: com.blitterstudio.Amiberry
 
 sources:
   - type: homebrew
-    cask: "amiberry"
+    cask: amiberry
 
   - type: github
-    repo: "BlitterStudio/amiberry"
+    repo: BlitterStudio/amiberry

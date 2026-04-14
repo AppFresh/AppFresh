@@ -1,12 +1,12 @@
-app_token: "middleclick"
-name: "MiddleClick"
-desc: "Utility to extend trackpad functionality"
-homepage: "https://github.com/artginzburg/MiddleClick"
-bundle_id: "art.ginzburg.MiddleClick"
+app_token: middleclick
+name: MiddleClick
+desc: Utility to extend trackpad functionality
+homepage: 'https://github.com/artginzburg/MiddleClick'
+bundle_id: art.ginzburg.MiddleClick
 
 sources:
   - type: homebrew
-    cask: "middleclick"
+    cask: middleclick
 
   - type: github
-    repo: "artginzburg/MiddleClick"
+    repo: artginzburg/MiddleClick

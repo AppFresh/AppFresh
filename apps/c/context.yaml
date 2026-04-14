@@ -1,12 +1,12 @@
-app_token: "context"
-name: "Context"
-desc: "MCP client and inspector"
-homepage: "https://www.contextmcp.app/"
-bundle_id: "com.indragie.Context"
+app_token: context
+name: Context
+desc: MCP client and inspector
+homepage: 'https://www.contextmcp.app/'
+bundle_id: com.indragie.Context
 
 sources:
   - type: homebrew
-    cask: "context"
+    cask: context
 
   - type: github
-    repo: "indragiek/Context"
+    repo: indragiek/Context

@@ -1,12 +1,12 @@
-app_token: "jbrowse"
-name: "JBrowse"
-desc: "Genome browser"
-homepage: "https://jbrowse.org/"
-bundle_id: "org.jbrowse2.app"
+app_token: jbrowse
+name: JBrowse
+desc: Genome browser
+homepage: 'https://jbrowse.org/'
+bundle_id: org.jbrowse2.app
 
 sources:
   - type: homebrew
-    cask: "jbrowse"
+    cask: jbrowse
 
   - type: github
-    repo: "GMOD/jbrowse-components"
+    repo: GMOD/jbrowse-components

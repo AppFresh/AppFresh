@@ -1,12 +1,12 @@
-app_token: "macmediakeyforwarder"
-name: "Mac Media Key Forwarder"
-desc: "Media key forwarder for iTunes and Spotify"
-homepage: "https://github.com/quentinlesceller/macmediakeyforwarder/"
-bundle_id: "com.milgra.hsmke"
+app_token: macmediakeyforwarder
+name: Mac Media Key Forwarder
+desc: Media key forwarder for iTunes and Spotify
+homepage: 'https://github.com/quentinlesceller/macmediakeyforwarder/'
+bundle_id: com.milgra.hsmke
 
 sources:
   - type: homebrew
-    cask: "macmediakeyforwarder"
+    cask: macmediakeyforwarder
 
   - type: github
-    repo: "quentinlesceller/macmediakeyforwarder"
+    repo: quentinlesceller/macmediakeyforwarder

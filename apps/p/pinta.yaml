@@ -1,12 +1,12 @@
-app_token: "pinta"
-name: "Pinta"
-desc: "Simple Gtk# Paint Program"
-homepage: "https://www.pinta-project.com/"
-bundle_id: "com.ximian.pinta"
+app_token: pinta
+name: Pinta
+desc: Simple Gtk# Paint Program
+homepage: 'https://www.pinta-project.com/'
+bundle_id: com.ximian.pinta
 
 sources:
   - type: homebrew
-    cask: "pinta"
+    cask: pinta
 
   - type: github
-    repo: "PintaProject/Pinta"
+    repo: PintaProject/Pinta

@@ -1,15 +1,15 @@
-app_token: "clipy"
-name: "Clipy"
-desc: "Clipboard extension app"
-homepage: "https://clipy-app.com/"
-bundle_id: "com.clipy-app.Clipy"
+app_token: clipy
+name: Clipy
+desc: Clipboard extension app
+homepage: 'https://clipy-app.com/'
+bundle_id: com.clipy-app.Clipy
 
 sources:
   - type: homebrew
-    cask: "clipy"
+    cask: clipy
 
   - type: github
-    repo: "Clipy/Clipy"
+    repo: Clipy/Clipy
 
   - type: sparkle
-    url: "https://clipy-app.com/appcast.xml"
+    url: 'https://clipy-app.com/appcast.xml'

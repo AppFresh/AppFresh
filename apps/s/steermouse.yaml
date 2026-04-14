@@ -1,9 +1,9 @@
-app_token: "steermouse"
-name: "SteerMouse"
-desc: "Customise mouse buttons, wheels and cursor speed"
-homepage: "https://plentycom.jp/en/steermouse/"
-bundle_id: "jp.plentycom.app.SteerMouse"
+app_token: steermouse
+name: SteerMouse
+desc: Customise mouse buttons, wheels and cursor speed
+homepage: 'https://plentycom.jp/en/steermouse/'
+bundle_id: jp.plentycom.app.SteerMouse
 
 sources:
   - type: homebrew
-    cask: "steermouse"
+    cask: steermouse

@@ -1,12 +1,12 @@
-app_token: "jami"
-name: "Jami"
-desc: "Decentralised instant messenger and softphone"
-homepage: "https://jami.net/"
-bundle_id: "cx.ring"
+app_token: jami
+name: Jami
+desc: Decentralised instant messenger and softphone
+homepage: 'https://jami.net/'
+bundle_id: cx.ring
 
 sources:
   - type: homebrew
-    cask: "jami"
+    cask: jami
 
   - type: sparkle
-    url: "https://dl.jami.net/mac_osx/sparkle-ring.xml"
+    url: 'https://dl.jami.net/mac_osx/sparkle-ring.xml'

@@ -1,12 +1,12 @@
-app_token: "detectx-swift"
-name: "DetectX Swift"
-desc: "Searching and troubleshooting tool"
-homepage: "https://sqwarq.com/detectx/"
-bundle_id: "com.sqwarq.DetectX-Swift"
+app_token: detectx-swift
+name: DetectX Swift
+desc: Searching and troubleshooting tool
+homepage: 'https://sqwarq.com/detectx/'
+bundle_id: com.sqwarq.DetectX-Swift
 
 sources:
   - type: homebrew
-    cask: "detectx-swift"
+    cask: detectx-swift
 
   - type: sparkle
-    url: "https://s3.amazonaws.com/sqwarq.com/AppCasts/dtxswift.xml"
+    url: 'https://s3.amazonaws.com/sqwarq.com/AppCasts/dtxswift.xml'

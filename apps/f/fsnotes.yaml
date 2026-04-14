@@ -1,15 +1,15 @@
-app_token: "fsnotes"
-name: "FSNotes"
-desc: "a modern notes manager for macOS and iOS."
-homepage: "https://fsnot.es/"
-bundle_id: "co.fluder.FSNotes"
+app_token: fsnotes
+name: FSNotes
+desc: a modern notes manager for macOS and iOS.
+homepage: 'https://fsnot.es/'
+bundle_id: co.fluder.FSNotes
 
 sources:
   - type: homebrew
-    cask: "fsnotes"
+    cask: fsnotes
 
   - type: github
-    repo: "glushchenko/fsnotes"
+    repo: glushchenko/fsnotes
 
   - type: appstore
-    app_id: "1277179284"
+    app_id: '1277179284'

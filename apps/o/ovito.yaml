@@ -1,9 +1,9 @@
-app_token: "ovito"
-name: "OVITO"
-desc: "Scientific data visualization and analysis software"
-homepage: "https://www.ovito.org/"
-bundle_id: "org.ovito"
+app_token: ovito
+name: OVITO
+desc: Scientific data visualization and analysis software
+homepage: 'https://www.ovito.org/'
+bundle_id: org.ovito
 
 sources:
   - type: homebrew
-    cask: "ovito"
+    cask: ovito

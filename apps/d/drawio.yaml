@@ -1,12 +1,12 @@
-app_token: "drawio"
-name: "draw.io Desktop"
-desc: "Online diagram software"
-homepage: "https://www.diagrams.net/"
-bundle_id: "com.jgraph.drawio.desktop"
+app_token: drawio
+name: draw.io Desktop
+desc: Online diagram software
+homepage: 'https://www.diagrams.net/'
+bundle_id: com.jgraph.drawio.desktop
 
 sources:
   - type: homebrew
-    cask: "drawio"
+    cask: drawio
 
   - type: github
-    repo: "jgraph/drawio-desktop"
+    repo: jgraph/drawio-desktop

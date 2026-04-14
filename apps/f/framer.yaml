@@ -1,9 +1,9 @@
-app_token: "framer"
-name: "Framer"
-desc: "Tool that helps teams design every part of the product experience"
-homepage: "https://www.framer.com/"
-bundle_id: "com.framer.electron"
+app_token: framer
+name: Framer
+desc: Tool that helps teams design every part of the product experience
+homepage: 'https://www.framer.com/'
+bundle_id: com.framer.electron
 
 sources:
   - type: homebrew
-    cask: "framer"
+    cask: framer

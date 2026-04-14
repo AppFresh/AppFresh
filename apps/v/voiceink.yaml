@@ -1,15 +1,15 @@
-app_token: "voiceink"
-name: "VoiceInk"
-desc: "Voice to text app"
-homepage: "https://tryvoiceink.com/"
-bundle_id: "com.prakashjoshipax.VoiceInk"
+app_token: voiceink
+name: VoiceInk
+desc: Voice to text app
+homepage: 'https://tryvoiceink.com/'
+bundle_id: com.prakashjoshipax.VoiceInk
 
 sources:
   - type: homebrew
-    cask: "voiceink"
+    cask: voiceink
 
   - type: github
-    repo: "Beingpax/VoiceInk"
+    repo: Beingpax/VoiceInk
 
   - type: sparkle
-    url: "https://beingpax.github.io/VoiceInk/appcast.xml"
+    url: 'https://beingpax.github.io/VoiceInk/appcast.xml'

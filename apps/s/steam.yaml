@@ -1,9 +1,9 @@
-app_token: "steam"
-name: "Steam"
-desc: "Video game digital distribution service"
-homepage: "https://store.steampowered.com/about/"
-bundle_id: "com.valvesoftware.steam"
+app_token: steam
+name: Steam
+desc: Video game digital distribution service
+homepage: 'https://store.steampowered.com/about/'
+bundle_id: com.valvesoftware.steam
 
 sources:
   - type: homebrew
-    cask: "steam"
+    cask: steam

@@ -1,12 +1,12 @@
-app_token: "karing"
-name: "Karing"
-desc: "Proxy utility"
-homepage: "https://karing.app/"
-bundle_id: "com.nebula.karing"
+app_token: karing
+name: Karing
+desc: Proxy utility
+homepage: 'https://karing.app/'
+bundle_id: com.nebula.karing
 
 sources:
   - type: homebrew
-    cask: "karing"
+    cask: karing
 
   - type: github
-    repo: "KaringX/karing"
+    repo: KaringX/karing

@@ -1,12 +1,12 @@
-app_token: "wifi-explorer"
-name: "WiFi Explorer"
-desc: "Scan, monitor, and troubleshoot wireless networks"
-homepage: "https://www.intuitibits.com/products/wifi-explorer/"
-bundle_id: "wifiexplorer"
+app_token: wifi-explorer
+name: WiFi Explorer
+desc: Scan, monitor, and troubleshoot wireless networks
+homepage: 'https://www.intuitibits.com/products/wifi-explorer/'
+bundle_id: wifiexplorer
 
 sources:
   - type: homebrew
-    cask: "wifi-explorer"
+    cask: wifi-explorer
 
   - type: sparkle
-    url: "https://www.intuitibits.com/appcasts/wifiexplorercast.xml"
+    url: 'https://www.intuitibits.com/appcasts/wifiexplorercast.xml'

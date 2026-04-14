@@ -1,12 +1,12 @@
-app_token: "wifispoof"
-name: "WiFiSpoof"
-desc: "Change your computer's MAC address"
-homepage: "https://wifispoof.com/"
-bundle_id: "com.sweetpproductions.WiFiSpoof4"
+app_token: wifispoof
+name: WiFiSpoof
+desc: Change your computer's MAC address
+homepage: 'https://wifispoof.com/'
+bundle_id: com.sweetpproductions.WiFiSpoof4
 
 sources:
   - type: homebrew
-    cask: "wifispoof"
+    cask: wifispoof
 
   - type: sparkle
-    url: "https://sweetpproductions.com/products/wifispoof4/appcast.xml"
+    url: 'https://sweetpproductions.com/products/wifispoof4/appcast.xml'

@@ -1,12 +1,12 @@
-app_token: "midiview"
-name: "Midi View"
-desc: "Monitor MIDI inputs and outputs"
-homepage: "https://hautetechnique.com/midi/midiview/"
-bundle_id: "com.hautetechnique.midiview"
+app_token: midiview
+name: Midi View
+desc: Monitor MIDI inputs and outputs
+homepage: 'https://hautetechnique.com/midi/midiview/'
+bundle_id: com.hautetechnique.midiview
 
 sources:
   - type: homebrew
-    cask: "midiview"
+    cask: midiview
 
   - type: sparkle
-    url: "https://hautetechnique.com/apps/backend/v1/apps/midiview/cast"
+    url: 'https://hautetechnique.com/apps/backend/v1/apps/midiview/cast'

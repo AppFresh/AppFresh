@@ -1,11 +1,11 @@
-app_token: "filen"
-name: "Filen"
-desc: "Desktop client for Filen.io"
-homepage: "https://filen.io/"
-bundle_id: "io.filen.desktop"
+app_token: filen
+name: Filen
+desc: Desktop client for Filen.io
+homepage: 'https://filen.io/'
+bundle_id: io.filen.desktop
 
 sources:
   - type: homebrew
-    cask: "filen"
+    cask: filen
 
   - type: electron

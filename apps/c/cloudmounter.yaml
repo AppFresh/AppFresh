@@ -1,12 +1,12 @@
-app_token: "cloudmounter"
-name: "Eltima CloudMounter"
-desc: "Mounts cloud storages as local discs"
-homepage: "https://mac.eltima.com/mount-cloud-drive.html"
-bundle_id: "com.eltima.cloudmounter"
+app_token: cloudmounter
+name: Eltima CloudMounter
+desc: Mounts cloud storages as local discs
+homepage: 'https://mac.eltima.com/mount-cloud-drive.html'
+bundle_id: com.eltima.cloudmounter
 
 sources:
   - type: homebrew
-    cask: "cloudmounter"
+    cask: cloudmounter
 
   - type: sparkle
-    url: "https://cdn.electronic.us/products/cloudmounter/mac/update/settings.xml"
+    url: 'https://cdn.electronic.us/products/cloudmounter/mac/update/settings.xml'

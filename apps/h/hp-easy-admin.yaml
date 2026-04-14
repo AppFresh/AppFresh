@@ -1,9 +1,9 @@
-app_token: "hp-easy-admin"
-name: "HP Easy Admin"
-desc: "Tool to directly download HP printing and/or scanning drivers"
-homepage: "https://support.hp.com/"
-bundle_id: "com.hp.hp-easy-admin"
+app_token: hp-easy-admin
+name: HP Easy Admin
+desc: Tool to directly download HP printing and/or scanning drivers
+homepage: 'https://support.hp.com/'
+bundle_id: com.hp.hp-easy-admin
 
 sources:
   - type: homebrew
-    cask: "hp-easy-admin"
+    cask: hp-easy-admin

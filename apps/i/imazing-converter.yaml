@@ -1,12 +1,12 @@
-app_token: "imazing-converter"
-name: "iMazing Converter"
-desc: "Free tool to convert HEIC to JPEG and HEVC to MP4"
-homepage: "https://imazing.com/converter"
-bundle_id: "com.DigiDNA.iMazingHEICConverterMac"
+app_token: imazing-converter
+name: iMazing Converter
+desc: Free tool to convert HEIC to JPEG and HEVC to MP4
+homepage: 'https://imazing.com/converter'
+bundle_id: com.DigiDNA.iMazingHEICConverterMac
 
 sources:
   - type: homebrew
-    cask: "imazing-converter"
+    cask: imazing-converter
 
   - type: sparkle
-    url: "https://downloads.imazing.com/com.DigiDNA.iMazingConverterMac.xml"
+    url: 'https://downloads.imazing.com/com.DigiDNA.iMazingConverterMac.xml'

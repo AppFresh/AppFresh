@@ -1,12 +1,12 @@
-app_token: "cardinal-search"
-name: "Cardinal Search"
-desc: "Fastest file searching tool"
-homepage: "https://github.com/cardisoft/Cardinal"
-bundle_id: "com.cardinal.one"
+app_token: cardinal-search
+name: Cardinal Search
+desc: Fastest file searching tool
+homepage: 'https://github.com/cardisoft/Cardinal'
+bundle_id: com.cardinal.one
 
 sources:
   - type: homebrew
-    cask: "cardinal-search"
+    cask: cardinal-search
 
   - type: github
-    repo: "cardisoft/cardinal"
+    repo: cardisoft/cardinal

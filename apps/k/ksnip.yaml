@@ -1,12 +1,12 @@
-app_token: "ksnip"
-name: "ksnip"
-desc: "Screenshot and annotation tool"
-homepage: "https://github.com/ksnip/ksnip"
-bundle_id: "org.ksnip.ksnip"
+app_token: ksnip
+name: ksnip
+desc: Screenshot and annotation tool
+homepage: 'https://github.com/ksnip/ksnip'
+bundle_id: org.ksnip.ksnip
 
 sources:
   - type: homebrew
-    cask: "ksnip"
+    cask: ksnip
 
   - type: github
-    repo: "ksnip/ksnip"
+    repo: ksnip/ksnip

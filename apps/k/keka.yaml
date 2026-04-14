@@ -1,19 +1,19 @@
-app_token: "keka"
-name: "Keka"
-desc: "File archiver"
-homepage: "https://www.keka.io/"
-bundle_id: "com.aone.keka"
+app_token: keka
+name: Keka
+desc: File archiver
+homepage: 'https://www.keka.io/'
+bundle_id: com.aone.keka
 
 sources:
   - type: homebrew
-    cask: "keka"
+    cask: keka
 
   - type: github
-    repo: "aonez/Keka"
-    regex: "Keka-([\d.]+)\.dmg"
+    repo: aonez/Keka
+    regex: 'Keka-([\d.]+)\.dmg'
 
   - type: sparkle
-    url: "https://u.keka.io/keka.xml"
+    url: 'https://u.keka.io/keka.xml'
 
   - type: homebrew
-    cask: "keka@beta"
+    cask: keka@beta

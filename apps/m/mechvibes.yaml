@@ -1,12 +1,12 @@
-app_token: "mechvibes"
-name: "Mechvibes"
-desc: "Play mechanical keyboard sounds as you type"
-homepage: "https://mechvibes.com/"
-bundle_id: "com.electron.mechvibes"
+app_token: mechvibes
+name: Mechvibes
+desc: Play mechanical keyboard sounds as you type
+homepage: 'https://mechvibes.com/'
+bundle_id: com.electron.mechvibes
 
 sources:
   - type: homebrew
-    cask: "mechvibes"
+    cask: mechvibes
 
   - type: github
-    repo: "hainguyents13/mechvibes"
+    repo: hainguyents13/mechvibes

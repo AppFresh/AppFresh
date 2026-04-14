@@ -1,12 +1,12 @@
-app_token: "unclutter"
-name: "Unclutter"
-desc: "Desktop storage area for notes, files and pasteboard clips"
-homepage: "https://unclutterapp.com/"
-bundle_id: "com.softwareambience.Unclutter"
+app_token: unclutter
+name: Unclutter
+desc: Desktop storage area for notes, files and pasteboard clips
+homepage: 'https://unclutterapp.com/'
+bundle_id: com.softwareambience.Unclutter
 
 sources:
   - type: homebrew
-    cask: "unclutter"
+    cask: unclutter
 
   - type: sparkle
-    url: "https://unclutterapp.com/updates/feed/?osVersion=99"
+    url: 'https://unclutterapp.com/updates/feed/?osVersion=99'

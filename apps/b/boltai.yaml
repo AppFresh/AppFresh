@@ -1,12 +1,12 @@
-app_token: "boltai"
-name: "BoltAI 2"
-desc: "AI chat client"
-homepage: "https://boltai.com/"
-bundle_id: "co.podzim.boltai-mobile"
+app_token: boltai
+name: BoltAI 2
+desc: AI chat client
+homepage: 'https://boltai.com/'
+bundle_id: co.podzim.boltai-mobile
 
 sources:
   - type: homebrew
-    cask: "boltai"
+    cask: boltai
 
   - type: sparkle
-    url: "https://updates.boltai.com/appcast.xml"
+    url: 'https://updates.boltai.com/appcast.xml'

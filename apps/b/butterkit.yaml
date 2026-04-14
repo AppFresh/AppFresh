@@ -1,12 +1,12 @@
-app_token: "butterkit"
-name: "ButterKit"
-desc: "App Store screenshots editor"
-homepage: "https://butterkit.app/"
-bundle_id: "app.butterkit.direct"
+app_token: butterkit
+name: ButterKit
+desc: App Store screenshots editor
+homepage: 'https://butterkit.app/'
+bundle_id: app.butterkit.direct
 
 sources:
   - type: homebrew
-    cask: "butterkit"
+    cask: butterkit
 
   - type: sparkle
-    url: "https://butterkit.app/updates/appcast.xml"
+    url: 'https://butterkit.app/updates/appcast.xml'

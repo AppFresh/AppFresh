@@ -1,8 +1,8 @@
-app_token: "telegram-air"
-name: "Telegram Air"
-desc: "Telegram Web A, GPL v3"
-homepage: "https://github.com/Ajaxy/telegram-tt"
+app_token: telegram-air
+name: Telegram Air
+desc: Telegram Web A, GPL v3
+homepage: 'https://github.com/Ajaxy/telegram-tt'
 
 sources:
   - type: github
-    repo: "Ajaxy/telegram-tt"
+    repo: Ajaxy/telegram-tt

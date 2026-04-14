@@ -1,12 +1,12 @@
-app_token: "profind"
-name: "ProFind"
-desc: "File search app"
-homepage: "https://www.zeroonetwenty.com/profind/"
-bundle_id: "com.zeroonetwenty.ProFind"
+app_token: profind
+name: ProFind
+desc: File search app
+homepage: 'https://www.zeroonetwenty.com/profind/'
+bundle_id: com.zeroonetwenty.ProFind
 
 sources:
   - type: homebrew
-    cask: "profind"
+    cask: profind
 
   - type: sparkle
-    url: "https://www.zeroonetwenty.com/profind/downloads/ProFindVersionInfo.xml"
+    url: 'https://www.zeroonetwenty.com/profind/downloads/ProFindVersionInfo.xml'

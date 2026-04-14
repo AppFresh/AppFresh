@@ -1,12 +1,12 @@
-app_token: "dhs"
-name: "Dylib Hijack Scanner"
-desc: "Scans for dylib hijacking"
-homepage: "https://objective-see.org/products/dhs.html"
-bundle_id: "com.objective-see.DHS"
+app_token: dhs
+name: Dylib Hijack Scanner
+desc: Scans for dylib hijacking
+homepage: 'https://objective-see.org/products/dhs.html'
+bundle_id: com.objective-see.DHS
 
 sources:
   - type: homebrew
-    cask: "dhs"
+    cask: dhs
 
   - type: github
-    repo: "objective-see/DylibHijackScanner"
+    repo: objective-see/DylibHijackScanner

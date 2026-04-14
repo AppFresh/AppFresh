@@ -1,11 +1,11 @@
-app_token: "todoist-app"
-name: "Todoist"
-desc: "To-do list"
-homepage: "https://todoist.com/home"
-bundle_id: "com.todoist.mac.Todoist"
+app_token: todoist-app
+name: Todoist
+desc: To-do list
+homepage: 'https://todoist.com/home'
+bundle_id: com.todoist.mac.Todoist
 
 sources:
   - type: homebrew
-    cask: "todoist-app"
+    cask: todoist-app
 
   - type: electron

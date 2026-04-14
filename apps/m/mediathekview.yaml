@@ -1,9 +1,9 @@
-app_token: "mediathekview"
-name: "MediathekView"
-desc: "Manages online multimedia libs of German, Austrian and Swiss public broadcasters"
-homepage: "https://mediathekview.de/"
-bundle_id: "org.mediathekview.MediathekView"
+app_token: mediathekview
+name: MediathekView
+desc: Manages online multimedia libs of German, Austrian and Swiss public broadcasters
+homepage: 'https://mediathekview.de/'
+bundle_id: org.mediathekview.MediathekView
 
 sources:
   - type: homebrew
-    cask: "mediathekview"
+    cask: mediathekview

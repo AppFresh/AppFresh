@@ -1,12 +1,12 @@
-app_token: "iina-plus"
-name: "IINA+"
-desc: "Extra danmaku support for iina (iina 弹幕支持)"
-homepage: "https://github.com/xjbeta/iina-plus"
-bundle_id: "com.xjbeta.iina-plus"
+app_token: iina-plus
+name: IINA+
+desc: Extra danmaku support for iina (iina 弹幕支持)
+homepage: 'https://github.com/xjbeta/iina-plus'
+bundle_id: com.xjbeta.iina-plus
 
 sources:
   - type: homebrew
-    cask: "iina+"
+    cask: iina+
 
   - type: github
-    repo: "xjbeta/iina-plus"
+    repo: xjbeta/iina-plus

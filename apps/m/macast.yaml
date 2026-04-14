@@ -1,12 +1,12 @@
-app_token: "macast"
-name: "Macast"
-desc: "DLNA Media Renderer"
-homepage: "https://github.com/xfangfang/Macast"
-bundle_id: "cn.xfangfang.Macast"
+app_token: macast
+name: Macast
+desc: DLNA Media Renderer
+homepage: 'https://github.com/xfangfang/Macast'
+bundle_id: cn.xfangfang.Macast
 
 sources:
   - type: homebrew
-    cask: "macast"
+    cask: macast
 
   - type: github
-    repo: "xfangfang/Macast"
+    repo: xfangfang/Macast

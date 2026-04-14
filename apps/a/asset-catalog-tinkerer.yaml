@@ -1,11 +1,11 @@
-app_token: "asset-catalog-tinkerer"
-name: "Asset Catalog Tinkerer"
-desc: "An app that lets you open .car files and browse/extract their images."
-bundle_id: "br.com.guilhermerambo.Asset-Catalog-Tinkerer"
+app_token: asset-catalog-tinkerer
+name: Asset Catalog Tinkerer
+desc: An app that lets you open .car files and browse/extract their images.
+bundle_id: br.com.guilhermerambo.Asset-Catalog-Tinkerer
 
 sources:
   - type: homebrew
-    cask: "asset-catalog-tinkerer"
+    cask: asset-catalog-tinkerer
 
   - type: github
-    repo: "insidegui/AssetCatalogTinkerer"
+    repo: insidegui/AssetCatalogTinkerer

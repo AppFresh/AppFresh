@@ -1,9 +1,9 @@
-app_token: "languagetool-desktop"
-name: "LanguageTool for Desktop"
-desc: "Grammar, spelling and style suggestions in all the writing apps"
-homepage: "https://languagetool.org/"
-bundle_id: "org.languagetool.desktop"
+app_token: languagetool-desktop
+name: LanguageTool for Desktop
+desc: Grammar, spelling and style suggestions in all the writing apps
+homepage: 'https://languagetool.org/'
+bundle_id: org.languagetool.desktop
 
 sources:
   - type: homebrew
-    cask: "languagetool-desktop"
+    cask: languagetool-desktop

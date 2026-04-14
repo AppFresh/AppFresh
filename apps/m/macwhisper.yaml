@@ -1,12 +1,12 @@
-app_token: "macwhisper"
-name: "MacWhisper"
-desc: "Speech recognition tool"
-homepage: "https://goodsnooze.gumroad.com/l/macwhisper"
-bundle_id: "com.goodsnooze.MacWhisper"
+app_token: macwhisper
+name: MacWhisper
+desc: Speech recognition tool
+homepage: 'https://goodsnooze.gumroad.com/l/macwhisper'
+bundle_id: com.goodsnooze.MacWhisper
 
 sources:
   - type: homebrew
-    cask: "macwhisper"
+    cask: macwhisper
 
   - type: sparkle
-    url: "https://macwhisper-site.vercel.app/appcast.xml"
+    url: 'https://macwhisper-site.vercel.app/appcast.xml'

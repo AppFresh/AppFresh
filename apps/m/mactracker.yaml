@@ -1,12 +1,12 @@
-app_token: "mactracker"
-name: "Mactracker"
-desc: "Detailed information on every Apple product ever made"
-homepage: "https://mactracker.ca/"
-bundle_id: "com.mactrackerapp.Mactracker"
+app_token: mactracker
+name: Mactracker
+desc: Detailed information on every Apple product ever made
+homepage: 'https://mactracker.ca/'
+bundle_id: com.mactrackerapp.Mactracker
 
 sources:
   - type: homebrew
-    cask: "mactracker"
+    cask: mactracker
 
   - type: sparkle
-    url: "https://update.mactracker.ca/appcast-b.xml"
+    url: 'https://update.mactracker.ca/appcast-b.xml'

@@ -1,9 +1,9 @@
-app_token: "qobuz"
-name: "Qobuz"
-desc: "Catalogue of hi-res music for streaming and download"
-homepage: "https://www.qobuz.com/applications"
-bundle_id: "com.qobuz.desktop"
+app_token: qobuz
+name: Qobuz
+desc: Catalogue of hi-res music for streaming and download
+homepage: 'https://www.qobuz.com/applications'
+bundle_id: com.qobuz.desktop
 
 sources:
   - type: homebrew
-    cask: "qobuz"
+    cask: qobuz

@@ -1,8 +1,8 @@
-app_token: "mongodb-compass@beta"
-name: "MongoDB Compass Beta"
-desc: "Interactive tool for analyzing MongoDB data"
-homepage: "https://www.mongodb.com/products/compass"
+app_token: mongodb-compass@beta
+name: MongoDB Compass Beta
+desc: Interactive tool for analyzing MongoDB data
+homepage: 'https://www.mongodb.com/products/compass'
 
 sources:
   - type: homebrew
-    cask: "mongodb-compass@beta"
+    cask: mongodb-compass@beta

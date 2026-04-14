@@ -1,12 +1,12 @@
-app_token: "dropbox"
-name: "Dropbox"
-desc: "Client for the Dropbox cloud storage service"
-homepage: "https://www.dropbox.com/"
-bundle_id: "com.getdropbox.dropbox"
+app_token: dropbox
+name: Dropbox
+desc: Client for the Dropbox cloud storage service
+homepage: 'https://www.dropbox.com/'
+bundle_id: com.getdropbox.dropbox
 
 sources:
   - type: homebrew
-    cask: "dropbox"
+    cask: dropbox
 
   - type: homebrew
-    cask: "dropbox@beta"
+    cask: dropbox@beta

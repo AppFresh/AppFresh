@@ -1,12 +1,12 @@
-app_token: "hydrogen"
-name: "Hydrogen"
-desc: "Drum machine and sequencer"
-homepage: "http://www.hydrogen-music.org/"
-bundle_id: "Hydrogen"
+app_token: hydrogen
+name: Hydrogen
+desc: Drum machine and sequencer
+homepage: 'http://www.hydrogen-music.org/'
+bundle_id: Hydrogen
 
 sources:
   - type: homebrew
-    cask: "hydrogen"
+    cask: hydrogen
 
   - type: github
-    repo: "hydrogen-music/hydrogen"
+    repo: hydrogen-music/hydrogen

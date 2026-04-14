@@ -1,9 +1,9 @@
-app_token: "lm-studio"
-name: "LM Studio"
-desc: "Discover, download, and run local LLMs"
-homepage: "https://lmstudio.ai/"
-bundle_id: "ai.elementlabs.lmstudio"
+app_token: lm-studio
+name: LM Studio
+desc: Discover, download, and run local LLMs
+homepage: 'https://lmstudio.ai/'
+bundle_id: ai.elementlabs.lmstudio
 
 sources:
   - type: homebrew
-    cask: "lm-studio"
+    cask: lm-studio

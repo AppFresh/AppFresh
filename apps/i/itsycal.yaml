@@ -1,12 +1,12 @@
-app_token: "itsycal"
-name: "Itsycal"
-desc: "Menu bar calendar"
-homepage: "https://www.mowglii.com/itsycal/"
-bundle_id: "com.mowglii.ItsycalApp"
+app_token: itsycal
+name: Itsycal
+desc: Menu bar calendar
+homepage: 'https://www.mowglii.com/itsycal/'
+bundle_id: com.mowglii.ItsycalApp
 
 sources:
   - type: homebrew
-    cask: "itsycal"
+    cask: itsycal
 
   - type: sparkle
-    url: "https://itsycal.s3.amazonaws.com/itsycal.xml"
+    url: 'https://itsycal.s3.amazonaws.com/itsycal.xml'

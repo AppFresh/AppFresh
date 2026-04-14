@@ -1,0 +1,13 @@
+app_token: "capso"
+name: "Capso"
+desc: "Open-source screenshot and screen recording for macOS."
+homepage: "https://www.awesomemacapp.com/app/capso"
+bundle_id: "com.awesomemacapps.capso"
+
+sources:
+  - type: homebrew
+    tap: "tw93/tap"
+    cask: "capso"
+
+  - type: github
+    repo: "lzhgus/Capso"

@@ -6,7 +6,7 @@ bundle_id: "com.awesomemacapps.capso"
 
 sources:
   - type: homebrew
-    tap: "tw93/tap"
+    tap: "lzhgus/tap"
     cask: "capso"
 
   - type: github

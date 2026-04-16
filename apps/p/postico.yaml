@@ -9,7 +9,7 @@ sources:
     cask: postico
 
   - type: sparkle
-    url: 'https://releases.eggerapps.at/postico#{version.major}/appcast.xml?update_channel=2'
+    url: 'https://releases.eggerapps.at/postico2/appcast.xml?update_channel=2'
 
   - type: homebrew
     cask: postico@1

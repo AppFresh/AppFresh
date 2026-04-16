@@ -8,8 +8,5 @@ sources:
   - type: homebrew
     cask: youtype
 
-  - type: github
-    repo: freefelt/YouType
-
   - type: sparkle
     url: 'https://raw.githubusercontent.com/freefelt/YouType/main/appcast.xml'

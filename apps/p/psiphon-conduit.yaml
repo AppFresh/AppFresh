@@ -10,3 +10,4 @@ sources:
 
   - type: github
     repo: Psiphon-Inc/conduit
+    regex: 'conduit.dmg'

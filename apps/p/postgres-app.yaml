@@ -1,4 +1,4 @@
-app_token: postgres-unofficial
+app_token: postgres-app
 name: Postgres
 desc: App wrapper for Postgres
 homepage: 'https://postgresapp.com/'
@@ -6,7 +6,7 @@ bundle_id: com.postgresapp.Postgres2
 
 sources:
   - type: homebrew
-    cask: postgres-unofficial
+    cask: postgres-app
 
   - type: github
     repo: PostgresApp/PostgresApp

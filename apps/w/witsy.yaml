@@ -1,6 +1,6 @@
 app_token: witsy
 name: Witsy
-desc: BYOK (Bring Your Own Keys) AI assistant
+desc: desktop AI assistant / universal MCP client
 homepage: 'https://witsyai.com/'
 bundle_id: com.nabocorp.witsy
 
@@ -9,4 +9,4 @@ sources:
     cask: witsy
 
   - type: github
-    repo: nbonamy/witsy
+    repo: Kochava-Studios/witsy

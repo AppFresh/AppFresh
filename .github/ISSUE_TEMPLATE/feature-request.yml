@@ -1,0 +1,109 @@
+name: Feature Request
+description: Suggest an improvement for the macOS app
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea.
+        Please focus on the user problem, the proposed improvement, and the expected value.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Feature summary
+      description: Short description of the requested feature
+      placeholder: Describe the feature in one or two sentences
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What user problem or limitation does this request address?
+      placeholder: I am frustrated when ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed solution
+      description: Describe the change you would like to see
+      placeholder: The app should support ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Describe any alternative solutions or workarounds you have considered
+      placeholder: I also considered ...
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: Explain when and how this feature would be used
+      placeholder: This would help when ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Expected impact
+      description: How valuable would this feature be?
+      options:
+        - High - unlocks an important workflow
+        - Medium - meaningful improvement
+        - Low - nice to have
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      description: Which part of the macOS app does this relate to?
+      options:
+        - Onboarding
+        - App updates
+        - Search
+        - UI / UX
+        - Performance
+        - Notifications
+        - Settings
+        - Integrations
+        - Accessibility
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups, references, or examples
+      description: Add links, screenshots, sketches, or examples from other apps if helpful
+      placeholder: Paste links or attach images here
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional context
+      description: Anything else that would help evaluate this request
+      placeholder: Technical constraints, edge cases, related issues, etc.
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing issues and did not find the same request
+          required: true
+        - label: This request is based on a real user problem or workflow
+          required: true

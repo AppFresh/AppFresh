@@ -1,0 +1,135 @@
+name: Bug Report
+description: Report a bug in the macOS app
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug.
+        Please provide enough detail so the issue can be reproduced and investigated.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Bug summary
+      description: Clear and concise description of the problem
+      placeholder: Describe what is broken
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the exact steps needed to reproduce the issue
+      placeholder: |
+        1. Open the app
+        2. Go to ...
+        3. Click ...
+        4. Observe the issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+      placeholder: The app should ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What actually happened?
+      placeholder: The app instead ...
+    validations:
+      required: true
+
+  - type: input
+    id: app_version
+    attributes:
+      label: App version
+      description: Version of the app where the bug occurs
+      placeholder: e.g. v1.2.3
+    validations:
+      required: true
+
+  - type: input
+    id: macos_version
+    attributes:
+      label: macOS version
+      description: macOS version on the affected machine
+      placeholder: e.g. macOS 15.4
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Mac model
+      description: Mac model or chip if relevant
+      placeholder: e.g. MacBook Pro (M3 Pro)
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: Reproducibility
+      description: How often does this happen?
+      options:
+        - Always
+        - Often
+        - Sometimes
+        - Rarely
+        - Unable to reproduce consistently
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How much does this issue affect usage?
+      options:
+        - Critical - app crash, data loss, or blocked workflow
+        - Major - core feature is significantly impacted
+        - Minor - workaround exists
+        - Trivial - cosmetic or low impact
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs, crash reports, or console output
+      description: Paste any relevant technical details here
+      render: shell
+      placeholder: Paste logs or crash details here
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or recordings
+      description: Add screenshots, screen recordings, or other context if available
+      placeholder: Drag and drop images or paste links here
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional context
+      description: Any other details that may help investigation
+      placeholder: Recent changes, related settings, temporary workaround, etc.
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing issues and did not find a duplicate
+          required: true
+        - label: I included clear reproduction steps and environment details
+          required: true

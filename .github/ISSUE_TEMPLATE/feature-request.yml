@@ -1,4 +1,4 @@
-name: Feature Request
+name: 🎁 Feature Request
 description: Suggest an improvement for the macOS app
 title: "[Feature]: "
 labels:
@@ -34,22 +34,6 @@ body:
       label: Proposed solution
       description: Describe the change you would like to see
       placeholder: The app should support ...
-    validations:
-      required: true
-
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives considered
-      description: Describe any alternative solutions or workarounds you have considered
-      placeholder: I also considered ...
-
-  - type: textarea
-    id: use_case
-    attributes:
-      label: Use case
-      description: Explain when and how this feature would be used
-      placeholder: This would help when ...
     validations:
       required: true
 
@@ -97,13 +81,3 @@ body:
       label: Additional context
       description: Anything else that would help evaluate this request
       placeholder: Technical constraints, edge cases, related issues, etc.
-
-  - type: checkboxes
-    id: confirm
-    attributes:
-      label: Confirmation
-      options:
-        - label: I searched existing issues and did not find the same request
-          required: true
-        - label: This request is based on a real user problem or workflow
-          required: true

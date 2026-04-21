@@ -1,4 +1,4 @@
-name: Bug Report
+name: 🐛 Bug Report
 description: Report a bug in the macOS app
 title: "[Bug]: "
 labels:
@@ -14,8 +14,8 @@ body:
     id: summary
     attributes:
       label: Bug summary
-      description: Clear and concise description of the problem
-      placeholder: Describe what is broken
+      description: Clear and concise description of the problem. What did you expect to happen? What actually happened?
+      placeholder: Describe what is broken...   The app should ...   The app instead ...
     validations:
       required: true
 
@@ -29,24 +29,6 @@ body:
         2. Go to ...
         3. Click ...
         4. Observe the issue
-    validations:
-      required: true
-
-  - type: textarea
-    id: expected
-    attributes:
-      label: Expected behavior
-      description: What did you expect to happen?
-      placeholder: The app should ...
-    validations:
-      required: true
-
-  - type: textarea
-    id: actual
-    attributes:
-      label: Actual behavior
-      description: What actually happened?
-      placeholder: The app instead ...
     validations:
       required: true
 
@@ -116,20 +98,3 @@ body:
       label: Screenshots or recordings
       description: Add screenshots, screen recordings, or other context if available
       placeholder: Drag and drop images or paste links here
-
-  - type: textarea
-    id: additional_context
-    attributes:
-      label: Additional context
-      description: Any other details that may help investigation
-      placeholder: Recent changes, related settings, temporary workaround, etc.
-
-  - type: checkboxes
-    id: confirm
-    attributes:
-      label: Confirmation
-      options:
-        - label: I searched existing issues and did not find a duplicate
-          required: true
-        - label: I included clear reproduction steps and environment details
-          required: true

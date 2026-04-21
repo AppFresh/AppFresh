@@ -7,7 +7,3 @@ bundle_id = "com.esrlabs.chipmunk"
 [[sources]]
 type = "homebrew"
 cask = "chipmunk"
-
-[[sources]]
-type = "github"
-repo = "esrlabs/chipmunk"

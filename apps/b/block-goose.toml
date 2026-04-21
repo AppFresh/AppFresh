@@ -7,7 +7,3 @@ bundle_id = "com.electron.goose"
 [[sources]]
 type = "homebrew"
 cask = "block-goose"
-
-[[sources]]
-type = "github"
-repo = "block/goose"

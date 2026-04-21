@@ -1,0 +1,17 @@
+app_token = "folo"
+name = "Folo"
+desc = "Information browser"
+homepage = "https://follow.is/"
+bundle_id = "is.follow"
+
+[[sources]]
+type = "homebrew"
+cask = "folo"
+
+[[sources]]
+type = "github"
+repo = "RSSNext/Folo"
+
+[[sources]]
+type = "homebrew"
+cask = "folo@nightly"

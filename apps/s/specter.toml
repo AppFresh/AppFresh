@@ -1,0 +1,13 @@
+app_token = "specter"
+name = "Specter"
+desc = "Desktop GUI for Bitcoin Core optimised to work with hardware wallets"
+homepage = "https://specter.solutions/"
+bundle_id = "solutions.specter.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "specter"
+
+[[sources]]
+type = "github"
+repo = "cryptoadvance/specter-desktop"

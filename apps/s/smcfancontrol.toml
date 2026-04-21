@@ -1,0 +1,17 @@
+app_token = "smcfancontrol"
+name = "smcFanControl"
+desc = "Sets a minimum speed for built-in fans"
+homepage = "https://github.com/hholtmann/smcFanControl"
+bundle_id = "com.eidac.smcFanControl2"
+
+[[sources]]
+type = "homebrew"
+cask = "smcfancontrol"
+
+[[sources]]
+type = "github"
+repo = "hholtmann/smcFanControl"
+
+[[sources]]
+type = "homebrew"
+cask = "smcfancontrol@beta"

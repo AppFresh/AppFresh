@@ -1,9 +1,0 @@
-app_token: get-api
-name: GetAPI
-desc: HTTP Client
-homepage: 'https://getapi.io/'
-bundle_id: com.getapi.GetAPI
-
-sources:
-  - type: homebrew
-    cask: get-api

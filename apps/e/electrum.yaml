@@ -1,9 +1,0 @@
-app_token: electrum
-name: Electrum
-desc: Bitcoin thin client
-homepage: 'https://electrum.org/'
-bundle_id: Electrum
-
-sources:
-  - type: homebrew
-    cask: electrum

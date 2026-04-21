@@ -1,9 +1,0 @@
-app_token: openclaw
-name: OpenClaw
-desc: Personal AI assistant
-homepage: 'https://openclaw.ai/'
-bundle_id: ai.openclaw.mac
-
-sources:
-  - type: homebrew
-    cask: openclaw

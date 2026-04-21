@@ -1,0 +1,13 @@
+app_token = "tuxguitar"
+name = "TuxGuitar"
+desc = "Multitrack guitar tablature editor and player"
+homepage = "https://www.tuxguitar.app/"
+bundle_id = "app.tuxguitar"
+
+[[sources]]
+type = "homebrew"
+cask = "tuxguitar"
+
+[[sources]]
+type = "github"
+repo = "helge17/tuxguitar"

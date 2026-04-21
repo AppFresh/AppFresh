@@ -1,9 +1,0 @@
-app_token: icon-composer
-name: Icon Composer
-desc: Apple tool to create multi-platform icons
-homepage: 'https://developer.apple.com/icon-composer/'
-bundle_id: com.apple.IconComposer
-
-sources:
-  - type: homebrew
-    cask: icon-composer

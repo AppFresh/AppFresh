@@ -1,0 +1,13 @@
+app_token = "witsy"
+name = "Witsy"
+desc = "desktop AI assistant / universal MCP client"
+homepage = "https://witsyai.com/"
+bundle_id = "com.nabocorp.witsy"
+
+[[sources]]
+type = "homebrew"
+cask = "witsy"
+
+[[sources]]
+type = "github"
+repo = "Kochava-Studios/witsy"

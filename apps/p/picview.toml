@@ -1,0 +1,13 @@
+app_token = "picview"
+name = "PicView"
+desc = "Fast, free and customizable picture viewer"
+homepage = "https://picview.org/"
+bundle_id = "com.ruben2776.picview"
+
+[[sources]]
+type = "homebrew"
+cask = "picview"
+
+[[sources]]
+type = "github"
+repo = "Ruben2776/PicView"

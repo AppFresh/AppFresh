@@ -1,0 +1,17 @@
+app_token = "moves"
+name = "Moves"
+desc = "Window manager"
+homepage = "https://mikkelmalmberg.com/moves"
+bundle_id = "com.brnbw.Moves"
+
+[[sources]]
+type = "homebrew"
+cask = "moves"
+
+[[sources]]
+type = "github"
+repo = "mikker/Moves.app"
+
+[[sources]]
+type = "sparkle"
+url = "https://mikker.github.io/Moves.app/appcast.xml"

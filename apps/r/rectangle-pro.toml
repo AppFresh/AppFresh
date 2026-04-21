@@ -1,0 +1,13 @@
+app_token = "rectangle-pro"
+name = "Rectangle Pro"
+desc = "Superior window management on macOS"
+homepage = "https://rectangleapp.com/pro/"
+bundle_id = "com.knollsoft.Hookshot"
+
+[[sources]]
+type = "homebrew"
+cask = "rectangle-pro"
+
+[[sources]]
+type = "sparkle"
+url = "https://rectangleapp.com/pro/downloads/updates.xml"

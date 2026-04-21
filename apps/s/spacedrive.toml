@@ -1,0 +1,13 @@
+app_token = "spacedrive"
+name = "Spacedrive"
+desc = "Open source cross-platform file explorer"
+homepage = "https://github.com/spacedriveapp/spacedrive"
+bundle_id = "com.spacedrive.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "spacedrive"
+
+[[sources]]
+type = "github"
+repo = "spacedriveapp/spacedrive"

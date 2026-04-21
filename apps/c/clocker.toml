@@ -1,0 +1,13 @@
+app_token = "clocker"
+name = "Clocker"
+desc = "Menu bar timezone tracker and compact calendar"
+homepage = "https://abhishekbanthia.com/clocker"
+bundle_id = "com.abhishek.Clocker"
+
+[[sources]]
+type = "homebrew"
+cask = "clocker"
+
+[[sources]]
+type = "github"
+repo = "n0shake/Clocker"

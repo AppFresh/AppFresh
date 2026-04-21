@@ -1,0 +1,13 @@
+app_token = "netviews"
+name = "NetViews"
+desc = "Network and Wi-Fi diagnostic tool"
+homepage = "https://www.netviews.app/"
+bundle_id = "com.bmmup.PingStalker"
+
+[[sources]]
+type = "homebrew"
+cask = "netviews"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.netviews.app/appcast.xml"

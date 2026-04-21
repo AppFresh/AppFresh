@@ -1,0 +1,8 @@
+app_token = "visual-studio-code@insiders"
+name = "Visual Studio Code Insiders"
+desc = "The open source AI code editor."
+homepage = "https://code.visualstudio.com"
+
+[[sources]]
+type = "homebrew"
+cask = "visual-studio-code@insiders"

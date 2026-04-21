@@ -1,0 +1,13 @@
+app_token = "rectangle"
+name = "Rectangle"
+desc = "Move and resize windows using keyboard shortcuts or snap areas"
+homepage = "https://rectangleapp.com/"
+bundle_id = "com.knollsoft.Rectangle"
+
+[[sources]]
+type = "homebrew"
+cask = "rectangle"
+
+[[sources]]
+type = "sparkle"
+url = "https://rectangleapp.com/downloads/updates.xml"

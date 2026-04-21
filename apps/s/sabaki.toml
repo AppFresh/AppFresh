@@ -1,0 +1,13 @@
+app_token = "sabaki"
+name = "Sabaki"
+desc = "An elegant Go board and SGF editor for a more civilized age."
+homepage = "https://sabaki.yichuanshen.de/"
+bundle_id = "de.yichuanshen.sabaki"
+
+[[sources]]
+type = "homebrew"
+cask = "sabaki"
+
+[[sources]]
+type = "github"
+repo = "SabakiHQ/Sabaki"

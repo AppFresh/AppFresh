@@ -1,0 +1,21 @@
+app_token = "keepassxc"
+name = "KeePassXC"
+desc = "Password manager app"
+homepage = "https://keepassxc.org/"
+bundle_id = "org.keepassxc.keepassxc"
+
+[[sources]]
+type = "homebrew"
+cask = "keepassxc"
+
+[[sources]]
+type = "github"
+repo = "keepassxreboot/keepassxc"
+
+[[sources]]
+type = "homebrew"
+cask = "keepassxc@beta"
+
+[[sources]]
+type = "homebrew"
+cask = "keepassxc@snapshot"

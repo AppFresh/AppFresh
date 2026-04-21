@@ -1,0 +1,9 @@
+app_token = "wpsoffice-cn"
+name = "WPS Office"
+desc = "All-in-one office service platform in Chinese"
+homepage = "https://mac.wps.cn/"
+bundle_id = "com.kingsoft.wpsoffice.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "wpsoffice-cn"

@@ -1,9 +1,0 @@
-app_token: dataflare
-name: Dataflare
-desc: Database manager
-homepage: 'https://dataflare.app/'
-bundle_id: app.dataflare.desktop
-
-sources:
-  - type: homebrew
-    cask: dataflare

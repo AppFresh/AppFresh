@@ -1,0 +1,13 @@
+app_token = "pomatez"
+name = "Pomatez"
+desc = "Pomodoro timer"
+homepage = "https://zidoro.github.io/pomatez"
+bundle_id = "com.roldanjr.pomatez"
+
+[[sources]]
+type = "homebrew"
+cask = "pomatez"
+
+[[sources]]
+type = "github"
+repo = "zidoro/pomatez"

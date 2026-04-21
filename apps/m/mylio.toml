@@ -1,0 +1,9 @@
+app_token = "mylio"
+name = "Mylio"
+desc = "Photo organiser"
+homepage = "https://mylio.com/"
+bundle_id = "mylollc.Mylio"
+
+[[sources]]
+type = "homebrew"
+cask = "mylio"

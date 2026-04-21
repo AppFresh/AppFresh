@@ -1,0 +1,13 @@
+app_token = "tickeys"
+name = "Tickeys"
+desc = "Utility for producing audio feedback when typing"
+homepage = "https://www.yingdev.com/projects/tickeys"
+bundle_id = "com.yingDev.Tickeys"
+
+[[sources]]
+type = "homebrew"
+cask = "tickeys"
+
+[[sources]]
+type = "github"
+repo = "yingDev/Tickeys"

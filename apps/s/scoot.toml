@@ -1,0 +1,13 @@
+app_token = "scoot"
+name = "Scoot"
+desc = "Keyboard-driven cursor actuator"
+homepage = "https://github.com/mjrusso/scoot"
+bundle_id = "com.mjrusso.Scoot"
+
+[[sources]]
+type = "homebrew"
+cask = "scoot"
+
+[[sources]]
+type = "github"
+repo = "mjrusso/scoot"

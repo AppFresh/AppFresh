@@ -1,0 +1,9 @@
+app_token = "bean"
+name = "Bean"
+desc = "Word processor"
+homepage = "https://www.bean-osx.com/Bean.html"
+bundle_id = "com.bean-osx.Bean"
+
+[[sources]]
+type = "homebrew"
+cask = "bean"

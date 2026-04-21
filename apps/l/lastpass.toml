@@ -1,0 +1,13 @@
+app_token = "lastpass"
+name = "LastPass"
+desc = "Password manager"
+homepage = "https://www.lastpass.com/"
+bundle_id = "com.lastpass.lastpassmacdesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "lastpass"
+
+[[sources]]
+type = "sparkle"
+url = "https://download.cloud.lastpass.com/mac/AppCast.xml"

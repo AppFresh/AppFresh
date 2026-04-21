@@ -1,0 +1,9 @@
+app_token = "routine"
+name = "Routine"
+desc = "Calendar for productive people"
+homepage = "https://www.routine.co/"
+bundle_id = "co.routine.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "routine"

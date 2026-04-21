@@ -1,0 +1,13 @@
+app_token = "hackintool"
+name = "Hackintool"
+desc = "Hackintosh patching tool"
+homepage = "https://github.com/headkaze/Hackintool"
+bundle_id = "com.Headsoft.Hackintool"
+
+[[sources]]
+type = "homebrew"
+cask = "hackintool"
+
+[[sources]]
+type = "github"
+repo = "headkaze/Hackintool"

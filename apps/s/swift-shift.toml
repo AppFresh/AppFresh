@@ -1,0 +1,17 @@
+app_token = "swift-shift"
+name = "Swift Shift"
+desc = "Window manager"
+homepage = "https://www.swiftshift.app/"
+bundle_id = "com.pablopunk.Swift-Shift"
+
+[[sources]]
+type = "homebrew"
+cask = "swift-shift"
+
+[[sources]]
+type = "github"
+repo = "pablopunk/SwiftShift"
+
+[[sources]]
+type = "sparkle"
+url = "https://pablopunk.github.io/SwiftShift/appcast.xml"

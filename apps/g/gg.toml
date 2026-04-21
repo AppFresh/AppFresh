@@ -1,0 +1,13 @@
+app_token = "gg"
+name = "GG"
+desc = "GUI for Jujutsu"
+homepage = "https://github.com/gulbanana/gg"
+bundle_id = "au.gulbanana.gg"
+
+[[sources]]
+type = "homebrew"
+cask = "gg"
+
+[[sources]]
+type = "github"
+repo = "gulbanana/gg"

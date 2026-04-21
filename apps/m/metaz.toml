@@ -1,0 +1,13 @@
+app_token = "metaz"
+name = "MetaZ"
+desc = "Mp4 meta-data editor"
+homepage = "https://metaz.maven-group.org/"
+bundle_id = "org.maven-group.MetaZ"
+
+[[sources]]
+type = "homebrew"
+cask = "metaz"
+
+[[sources]]
+type = "github"
+repo = "griff/metaz"

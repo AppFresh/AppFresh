@@ -1,0 +1,17 @@
+app_token = "surge"
+name = "Surge"
+desc = "Network toolbox"
+homepage = "https://nssurge.com/"
+bundle_id = "com.nssurge.surge-mac"
+
+[[sources]]
+type = "homebrew"
+cask = "surge"
+
+[[sources]]
+type = "sparkle"
+url = "https://nssurge.com/mac/latest/appcast-signed.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "surge@4"

@@ -1,0 +1,13 @@
+app_token = "pitch"
+name = "Pitch"
+desc = "Collaborative presentation software"
+homepage = "https://pitch.com/"
+bundle_id = "io.pitch.pitch-macos"
+
+[[sources]]
+type = "homebrew"
+cask = "pitch"
+
+[[sources]]
+type = "electron"
+url = "https://desktop-app-builds.pitch.com/latest-mac.yml"

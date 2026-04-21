@@ -1,0 +1,13 @@
+app_token = "bloop"
+name = "bloop"
+desc = "Code search engine"
+homepage = "https://bloop.ai/"
+bundle_id = "ai.bloop.bloop"
+
+[[sources]]
+type = "homebrew"
+cask = "bloop"
+
+[[sources]]
+type = "github"
+repo = "BloopAI/bloop"

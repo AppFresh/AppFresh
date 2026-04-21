@@ -1,0 +1,13 @@
+app_token = "omnidisksweeper"
+name = "OmniDiskSweeper"
+desc = "Finds large, unwanted files and deletes them"
+homepage = "https://www.omnigroup.com/more/"
+bundle_id = "com.omnigroup.OmniDiskSweeper"
+
+[[sources]]
+type = "homebrew"
+cask = "omnidisksweeper"
+
+[[sources]]
+type = "sparkle"
+url = "https://update.omnigroup.com/appcast/com.omnigroup.OmniDiskSweeper"

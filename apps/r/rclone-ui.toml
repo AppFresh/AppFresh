@@ -1,0 +1,13 @@
+app_token = "rclone-ui"
+name = "Rclone UI"
+desc = "GUI for Rclone"
+homepage = "https://github.com/rclone-ui/rclone-ui"
+bundle_id = "com.rclone.ui"
+
+[[sources]]
+type = "homebrew"
+cask = "rclone-ui"
+
+[[sources]]
+type = "github"
+repo = "rclone-ui/rclone-ui"

@@ -1,0 +1,9 @@
+app_token = "sonic-pi"
+name = "Sonic Pi"
+desc = "Code-based music creation and performance tool"
+homepage = "https://sonic-pi.net/"
+bundle_id = "net.sonic-pi.app"
+
+[[sources]]
+type = "homebrew"
+cask = "sonic-pi"

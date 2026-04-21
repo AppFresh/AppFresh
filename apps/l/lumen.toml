@@ -1,0 +1,13 @@
+app_token = "lumen"
+name = "Lumen"
+desc = "Magic auto brightness based on screen contents"
+homepage = "https://github.com/anishathalye/lumen"
+bundle_id = "com.anishathalye.Lumen"
+
+[[sources]]
+type = "homebrew"
+cask = "lumen"
+
+[[sources]]
+type = "github"
+repo = "anishathalye/lumen"

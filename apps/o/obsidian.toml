@@ -1,0 +1,13 @@
+app_token = "obsidian"
+name = "Obsidian"
+desc = "Knowledge base that works on top of a local folder of plain text Markdown files"
+homepage = "https://obsidian.md/"
+bundle_id = "md.obsidian"
+
+[[sources]]
+type = "homebrew"
+cask = "obsidian"
+
+[[sources]]
+type = "github"
+repo = "obsidianmd/obsidian-releases"

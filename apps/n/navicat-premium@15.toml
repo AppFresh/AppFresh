@@ -1,0 +1,8 @@
+app_token = "navicat-premium@15"
+name = "Navicat Premium 15"
+desc = "Database administration and development tool"
+homepage = "https://www.navicat.com/products/navicat-premium"
+
+[[sources]]
+type = "homebrew"
+cask = "navicat-premium@15"

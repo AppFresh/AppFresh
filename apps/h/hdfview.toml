@@ -1,0 +1,13 @@
+app_token = "hdfview"
+name = "HDFView"
+desc = "Tool for browsing and editing HDF files"
+homepage = "https://www.hdfgroup.org/download-hdfview/"
+bundle_id = "hdf.view"
+
+[[sources]]
+type = "homebrew"
+cask = "hdfview"
+
+[[sources]]
+type = "github"
+repo = "HDFGroup/hdfview"

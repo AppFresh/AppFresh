@@ -1,9 +1,0 @@
-app_token: viber
-name: Viber
-desc: Calling and messaging application focusing on security
-homepage: 'https://www.viber.com/'
-bundle_id: com.viber.osx
-
-sources:
-  - type: homebrew
-    cask: viber

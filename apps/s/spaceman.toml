@@ -1,0 +1,13 @@
+app_token = "spaceman"
+name = "Spaceman"
+desc = "View Spaces / Virtual Desktops in the menu bar"
+homepage = "https://www.jaysce.dev/projects/spaceman"
+bundle_id = "dev.jaysce.Spaceman"
+
+[[sources]]
+type = "homebrew"
+cask = "spaceman"
+
+[[sources]]
+type = "sparkle"
+url = "https://s3.amazonaws.com/dev.jaysce.spaceman/appcast.xml"

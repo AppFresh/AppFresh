@@ -1,0 +1,13 @@
+app_token = "freetube"
+name = "FreeTube"
+desc = "YouTube player focusing on privacy"
+homepage = "https://freetubeapp.io/"
+bundle_id = "io.freetubeapp.freetube"
+
+[[sources]]
+type = "homebrew"
+cask = "freetube"
+
+[[sources]]
+type = "github"
+repo = "FreeTubeApp/FreeTube"

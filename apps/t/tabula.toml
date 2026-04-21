@@ -1,0 +1,13 @@
+app_token = "tabula"
+name = "Tabula"
+desc = "Tool for liberating data tables trapped inside PDF files"
+homepage = "https://tabula.technology/"
+bundle_id = "org.nerdpower.tabula.Tabula"
+
+[[sources]]
+type = "homebrew"
+cask = "tabula"
+
+[[sources]]
+type = "github"
+repo = "tabulapdf/tabula"

@@ -1,9 +1,0 @@
-app_token: macpilot
-name: MacPilot
-desc: Graphical user interface for the command terminal
-homepage: 'https://www.koingosw.com/products/macpilot/'
-bundle_id: com.koingosw.MacPilot
-
-sources:
-  - type: homebrew
-    cask: macpilot

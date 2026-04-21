@@ -1,0 +1,13 @@
+app_token = "joplin"
+name = "Joplin"
+desc = "Note taking and to-do application with synchronisation capabilities"
+homepage = "https://joplinapp.org/"
+bundle_id = "net.cozic.joplin-desktop"
+
+[[sources]]
+type = "github"
+repo = "laurent22/joplin"
+
+[[sources]]
+type = "homebrew"
+cask = "joplin"

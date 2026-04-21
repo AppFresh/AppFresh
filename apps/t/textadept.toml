@@ -1,0 +1,13 @@
+app_token = "textadept"
+name = "Textadept"
+desc = "Text editor"
+homepage = "https://orbitalquark.github.io/textadept/"
+bundle_id = "com.textadept"
+
+[[sources]]
+type = "homebrew"
+cask = "textadept"
+
+[[sources]]
+type = "github"
+repo = "orbitalquark/textadept"

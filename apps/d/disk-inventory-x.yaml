@@ -1,9 +1,0 @@
-app_token: disk-inventory-x
-name: Disk Inventory X
-desc: Disk usage utility
-homepage: 'https://www.derlien.com/'
-bundle_id: com.derlien.DiskInventoryX
-
-sources:
-  - type: homebrew
-    cask: disk-inventory-x

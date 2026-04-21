@@ -1,0 +1,13 @@
+app_token = "openscad"
+name = "OpenSCAD"
+desc = "Programmable solid 3D CAD modeller"
+homepage = "https://www.openscad.org/"
+bundle_id = "org.openscad.OpenSCAD"
+
+[[sources]]
+type = "homebrew"
+cask = "openscad"
+
+[[sources]]
+type = "homebrew"
+cask = "openscad@snapshot"

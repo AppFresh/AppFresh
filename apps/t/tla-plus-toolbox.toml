@@ -1,0 +1,13 @@
+app_token = "tla-plus-toolbox"
+name = "TLA+ Toolbox"
+desc = "IDE for TLA+"
+homepage = "https://lamport.azurewebsites.net/tla/toolbox.html"
+bundle_id = "org.lamport.tla.toolbox.product.product"
+
+[[sources]]
+type = "homebrew"
+cask = "tla+-toolbox"
+
+[[sources]]
+type = "github"
+repo = "tlaplus/tlaplus"

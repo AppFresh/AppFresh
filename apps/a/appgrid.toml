@@ -1,0 +1,13 @@
+app_token = "appgrid"
+name = "AppGrid"
+desc = "Window manager with Vim–like hotkeys"
+homepage = "https://github.com/mjolnirapp/AppGrid/"
+bundle_id = "com.sdegutis.AppGrid"
+
+[[sources]]
+type = "homebrew"
+cask = "appgrid"
+
+[[sources]]
+type = "github"
+repo = "mjolnirapp/AppGrid"

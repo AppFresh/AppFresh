@@ -1,0 +1,13 @@
+app_token = "outline"
+name = "Outline"
+desc = "Note taking app"
+homepage = "https://www.outline.app/"
+bundle_id = "com.gorillized.outlinemac.standalone"
+
+[[sources]]
+type = "homebrew"
+cask = "outline"
+
+[[sources]]
+type = "sparkle"
+url = "https://static.outline.app/direct/main/update_channel.xml"

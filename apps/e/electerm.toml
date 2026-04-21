@@ -1,0 +1,13 @@
+app_token = "electerm"
+name = "electerm"
+desc = "Terminal/ssh/sftp client"
+homepage = "https://electerm.html5beta.com/"
+bundle_id = "org.electerm.electerm"
+
+[[sources]]
+type = "homebrew"
+cask = "electerm"
+
+[[sources]]
+type = "github"
+repo = "electerm/electerm"

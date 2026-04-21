@@ -1,0 +1,13 @@
+app_token = "mstystudio"
+name = "Msty Studio"
+desc = "AI platform with local and online models"
+homepage = "https://msty.ai/"
+bundle_id = "MstyStudio"
+
+[[sources]]
+type = "homebrew"
+cask = "mstystudio"
+
+[[sources]]
+type = "electron"
+url = "https://next-assets.msty.studio/app/latest/mac/latest-mac.yml"

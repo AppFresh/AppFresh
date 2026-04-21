@@ -1,0 +1,9 @@
+app_token = "dbeaverlite"
+name = "DBeaver Lite Edition"
+desc = "Universal database tool and SQL client"
+homepage = "https://dbeaver.com/dbeaver-lite/"
+bundle_id = "com.dbeaver.product.lite"
+
+[[sources]]
+type = "homebrew"
+cask = "dbeaverlite"

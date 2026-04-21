@@ -1,0 +1,13 @@
+app_token = "dictionaries"
+name = "Dictionaries"
+desc = "Translate words without ever opening a dictionary"
+homepage = "https://dictionaries.io/"
+bundle_id = "io.dictionaries.Dictionaries"
+
+[[sources]]
+type = "homebrew"
+cask = "dictionaries"
+
+[[sources]]
+type = "sparkle"
+url = "https://dictionaries.io/updates/mac/v2/appcast"

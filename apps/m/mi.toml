@@ -1,0 +1,17 @@
+app_token = "mi"
+name = "mi"
+desc = "Text editor"
+homepage = "https://www.mimikaki.net/"
+bundle_id = "net.mimikaki.mi"
+
+[[sources]]
+type = "homebrew"
+cask = "mi"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.mimikaki.net/download/appcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "mi@beta"

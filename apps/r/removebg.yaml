@@ -1,9 +1,0 @@
-app_token: removebg
-name: remove.bg
-desc: Automatic bulk background removal
-homepage: 'https://www.remove.bg/'
-bundle_id: bg.remove.mac.new
-
-sources:
-  - type: homebrew
-    cask: removebg

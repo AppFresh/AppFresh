@@ -1,0 +1,17 @@
+app_token = "sonarr"
+name = "Sonarr"
+desc = "PVR for Usenet and BitTorrent users"
+homepage = "https://sonarr.tv/"
+bundle_id = "com.osx.sonarr.tv"
+
+[[sources]]
+type = "homebrew"
+cask = "sonarr"
+
+[[sources]]
+type = "github"
+repo = "Sonarr/Sonarr"
+
+[[sources]]
+type = "homebrew"
+cask = "sonarr@beta"

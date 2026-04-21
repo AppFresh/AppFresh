@@ -1,9 +1,0 @@
-app_token: jetbrains-toolbox
-name: JetBrains Toolbox
-desc: JetBrains tools manager
-homepage: 'https://www.jetbrains.com/toolbox-app/'
-bundle_id: com.jetbrains.toolbox
-
-sources:
-  - type: homebrew
-    cask: jetbrains-toolbox

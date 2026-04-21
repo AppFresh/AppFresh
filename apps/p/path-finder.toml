@@ -1,0 +1,13 @@
+app_token = "path-finder"
+name = "Path Finder"
+desc = "File manager"
+homepage = "https://www.cocoatech.io/"
+bundle_id = "com.cocoatech.PathFinder"
+
+[[sources]]
+type = "homebrew"
+cask = "path-finder"
+
+[[sources]]
+type = "sparkle"
+url = "https://get.cocoatech.com/releasecast.xml"

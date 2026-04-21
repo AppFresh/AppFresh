@@ -1,0 +1,13 @@
+app_token = "altair-graphql-client"
+name = "Altair GraphQL Client"
+desc = "GraphQL client"
+homepage = "https://altairgraphql.dev/"
+bundle_id = "com.xkoji.altair"
+
+[[sources]]
+type = "homebrew"
+cask = "altair-graphql-client"
+
+[[sources]]
+type = "github"
+repo = "imolorhe/altair"

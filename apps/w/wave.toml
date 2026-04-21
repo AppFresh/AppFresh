@@ -1,0 +1,13 @@
+app_token = "wave"
+name = "Wave Terminal"
+desc = "Terminal emulator"
+homepage = "https://www.waveterm.dev/"
+bundle_id = "dev.commandline.waveterm"
+
+[[sources]]
+type = "homebrew"
+cask = "wave"
+
+[[sources]]
+type = "electron"
+url = "https://dl.waveterm.dev/releases-w2/latest-mac.yml"

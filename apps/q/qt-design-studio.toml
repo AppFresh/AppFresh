@@ -1,0 +1,9 @@
+app_token = "qt-design-studio"
+name = "Qt Design Studio"
+desc = "UI design and development tool"
+homepage = "https://www.qt.io/product/ui-design-tools"
+bundle_id = "org.qt-project.qtdesignstudio"
+
+[[sources]]
+type = "homebrew"
+cask = "qt-design-studio"

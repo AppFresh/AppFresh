@@ -1,0 +1,9 @@
+app_token = "wordpresscom-studio"
+name = "Wordpress Studio"
+desc = "WordPress local development environment"
+homepage = "https://developer.wordpress.com/studio/"
+bundle_id = "com.electron.studio"
+
+[[sources]]
+type = "homebrew"
+cask = "wordpresscom-studio"

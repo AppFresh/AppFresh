@@ -1,0 +1,9 @@
+app_token = "smultron"
+name = "Smultron"
+desc = "General-purpose text editor"
+homepage = "https://www.peterborgapps.com/smultron/"
+bundle_id = "com.peterborgapps.Smultron14"
+
+[[sources]]
+type = "homebrew"
+cask = "smultron"

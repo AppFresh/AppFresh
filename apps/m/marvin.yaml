@@ -1,9 +1,0 @@
-app_token: marvin
-name: Amazing Marvin
-desc: Personal productivity app
-homepage: 'https://www.amazingmarvin.com/'
-bundle_id: com.amazingmarvin.marvindesktop
-
-sources:
-  - type: homebrew
-    cask: marvin

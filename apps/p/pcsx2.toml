@@ -1,0 +1,13 @@
+app_token = "pcsx2"
+name = "PCSX2"
+desc = "Playstation 2 Emulator"
+homepage = "https://pcsx2.net/"
+bundle_id = "net.pcsx2.pcsx2"
+
+[[sources]]
+type = "homebrew"
+cask = "pcsx2"
+
+[[sources]]
+type = "github"
+repo = "PCSX2/pcsx2"

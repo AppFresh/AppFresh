@@ -1,0 +1,13 @@
+app_token = "mate-translate"
+name = "Mate Translate"
+desc = "Select text in any app and translate it"
+homepage = "https://gikken.co/mate-translate/mac/"
+bundle_id = "com.twopeoplesoftware.InstantTranslate-nomas"
+
+[[sources]]
+type = "homebrew"
+cask = "mate-translate"
+
+[[sources]]
+type = "sparkle"
+url = "https://gikken.co/mate/appcast-sub.xml"

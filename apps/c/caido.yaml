@@ -1,9 +1,0 @@
-app_token: caido
-name: Caido
-desc: Web security auditing toolkit
-homepage: 'https://caido.io/'
-bundle_id: io.caido.Caido
-
-sources:
-  - type: homebrew
-    cask: caido

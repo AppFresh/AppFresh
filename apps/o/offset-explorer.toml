@@ -1,0 +1,9 @@
+app_token = "offset-explorer"
+name = "Offset Explorer"
+desc = "GUI for managing and using Apache Kafka clusters"
+homepage = "https://www.kafkatool.com/index.html"
+bundle_id = "com.install4j.8153-2964-2028-4488-3.23"
+
+[[sources]]
+type = "homebrew"
+cask = "offset-explorer"

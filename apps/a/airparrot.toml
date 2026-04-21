@@ -1,0 +1,13 @@
+app_token = "airparrot"
+name = "AirParrot"
+desc = "Tool to wirelessly mirror the screen or stream media files"
+homepage = "https://www.airsquirrels.com/airparrot/"
+bundle_id = "com.squirrels.AirParrot-3"
+
+[[sources]]
+type = "homebrew"
+cask = "airparrot"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates-prod.airsquirrels.com/AirParrot3/Mac/updateCheck/"

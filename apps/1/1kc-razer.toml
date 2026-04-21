@@ -1,0 +1,13 @@
+app_token = "1kc-razer"
+name = "Razer macOS"
+desc = "Open source colour effects manager for Razer devices"
+homepage = "https://github.com/1kc/razer-macos"
+bundle_id = "com.electron.razer-macos"
+
+[[sources]]
+type = "homebrew"
+cask = "1kc-razer"
+
+[[sources]]
+type = "github"
+repo = "1kc/razer-macos"

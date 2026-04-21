@@ -1,0 +1,13 @@
+app_token = "there"
+name = "There"
+desc = "Tool to display the local times of friends, teammates, cities or any time zone"
+homepage = "https://there.pm/"
+bundle_id = "pm.there.There"
+
+[[sources]]
+type = "homebrew"
+cask = "there"
+
+[[sources]]
+type = "github"
+repo = "dena-sohrabi/There"

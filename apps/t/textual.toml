@@ -1,0 +1,9 @@
+app_token = "textual"
+name = "Textual"
+desc = "Application for interacting with Internet Relay Chat (IRC) chatrooms"
+homepage = "https://www.codeux.com/textual/"
+bundle_id = "com.codeux.apps.textual"
+
+[[sources]]
+type = "homebrew"
+cask = "textual"

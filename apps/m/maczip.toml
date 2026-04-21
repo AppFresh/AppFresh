@@ -1,0 +1,9 @@
+app_token = "maczip"
+name = "MacZip"
+desc = "Utility to open, create and modify archive files"
+homepage = "https://ezip.awehunt.com/"
+bundle_id = "com.jinghaoshe.ezip"
+
+[[sources]]
+type = "homebrew"
+cask = "maczip"

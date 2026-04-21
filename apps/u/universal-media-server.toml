@@ -1,0 +1,13 @@
+app_token = "universal-media-server"
+name = "Universal Media Server"
+desc = "Media server supporting DLNA, UPnP and HTTP(S)"
+homepage = "https://www.universalmediaserver.com/"
+bundle_id = "net.pms.PMS"
+
+[[sources]]
+type = "homebrew"
+cask = "universal-media-server"
+
+[[sources]]
+type = "github"
+repo = "UniversalMediaServer/UniversalMediaServer"

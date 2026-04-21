@@ -1,0 +1,13 @@
+app_token = "kap"
+name = "Kap"
+desc = "Open-source screen recorder built with web technology"
+homepage = "https://getkap.co/"
+bundle_id = "com.wulkano.kap"
+
+[[sources]]
+type = "homebrew"
+cask = "kap"
+
+[[sources]]
+type = "github"
+repo = "wulkano/kap"

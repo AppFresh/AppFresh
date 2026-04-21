@@ -1,0 +1,13 @@
+app_token = "bit-slicer"
+name = "Bit Slicer"
+desc = "Universal game trainer"
+homepage = "https://github.com/zorgiepoo/bit-slicer/"
+bundle_id = "com.zgcoder.BitSlicer"
+
+[[sources]]
+type = "homebrew"
+cask = "bit-slicer"
+
+[[sources]]
+type = "github"
+repo = "zorgiepoo/Bit-Slicer"

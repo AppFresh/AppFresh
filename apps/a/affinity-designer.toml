@@ -1,0 +1,9 @@
+app_token = "affinity-designer"
+name = "Affinity Designer 2"
+desc = "Professional graphic design software"
+homepage = "https://affinity.serif.com/en-us/designer/"
+bundle_id = "com.seriflabs.affinitydesigner2"
+
+[[sources]]
+type = "homebrew"
+cask = "affinity-designer"

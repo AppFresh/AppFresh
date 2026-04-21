@@ -1,9 +1,0 @@
-app_token: coq-platform
-name: Coq Platform
-desc: Formal proof management system
-homepage: 'https://rocq-prover.org/'
-bundle_id: fr.inria.coq.coqide
-
-sources:
-  - type: homebrew
-    cask: coq-platform

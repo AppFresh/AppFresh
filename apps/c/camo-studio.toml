@@ -1,0 +1,13 @@
+app_token = "camo-studio"
+name = "Camo Studio"
+desc = "Use your phone as a high-quality webcam with image tuning controls"
+homepage = "https://reincubate.com/camo/"
+bundle_id = "com.reincubate.macos.cam"
+
+[[sources]]
+type = "homebrew"
+cask = "camo-studio"
+
+[[sources]]
+type = "sparkle"
+url = "https://uds.reincubate.com/release-notes/camo/?format=sparkle"

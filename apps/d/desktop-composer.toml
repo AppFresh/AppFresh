@@ -1,0 +1,13 @@
+app_token = "desktop-composer"
+name = "Desktop Composer"
+desc = "Appearance manager for the system and individual applications"
+homepage = "https://www.apptorium.com/desktop-composer"
+bundle_id = "com.apptorium.DesktopComposer"
+
+[[sources]]
+type = "homebrew"
+cask = "desktop-composer"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.apptorium.com/updates/desktop-composer"

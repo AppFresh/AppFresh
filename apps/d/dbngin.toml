@@ -1,0 +1,13 @@
+app_token = "dbngin"
+name = "DBngin"
+desc = "Database version management tool"
+homepage = "https://dbngin.com/"
+bundle_id = "com.tinyapp.DBngin"
+
+[[sources]]
+type = "homebrew"
+cask = "dbngin"
+
+[[sources]]
+type = "sparkle"
+url = "https://dbngin.com/osx/version.xml"

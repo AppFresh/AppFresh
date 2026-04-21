@@ -1,0 +1,13 @@
+app_token = "bluetility"
+name = "Bluetility"
+desc = "Bluetooth Low Energy browser"
+homepage = "https://github.com/jnross/Bluetility"
+bundle_id = "com.rossible.Bluetility"
+
+[[sources]]
+type = "homebrew"
+cask = "bluetility"
+
+[[sources]]
+type = "github"
+repo = "jnross/Bluetility"

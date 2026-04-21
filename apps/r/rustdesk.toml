@@ -1,0 +1,13 @@
+app_token = "rustdesk"
+name = "RustDesk"
+desc = "The Fast Open-Source Remote Access and Support Software."
+homepage = "https://rustdesk.com/"
+bundle_id = "com.carriez.rustdesk"
+
+[[sources]]
+type = "github"
+repo = "rustdesk/rustdesk"
+
+[[sources]]
+type = "homebrew"
+cask = "rustdesk"

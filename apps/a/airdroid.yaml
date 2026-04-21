@@ -1,9 +1,0 @@
-app_token: airdroid
-name: AirDroid
-desc: Mobile device management suite
-homepage: 'https://www.airdroid.com/'
-bundle_id: com.sandstudio.airdroid
-
-sources:
-  - type: homebrew
-    cask: airdroid

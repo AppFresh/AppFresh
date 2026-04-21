@@ -1,9 +1,0 @@
-app_token: plex
-name: Plex
-desc: Home media player
-homepage: 'https://www.plex.tv/'
-bundle_id: tv.plex.desktop
-
-sources:
-  - type: homebrew
-    cask: plex

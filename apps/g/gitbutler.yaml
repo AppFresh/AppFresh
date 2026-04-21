@@ -1,9 +1,0 @@
-app_token: gitbutler
-name: GitButler
-desc: Git client for simultaneous branches on top of your existing workflow
-homepage: 'https://gitbutler.com/'
-bundle_id: com.gitbutler.app
-
-sources:
-  - type: homebrew
-    cask: gitbutler

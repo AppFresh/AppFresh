@@ -1,0 +1,13 @@
+app_token = "shadowsocksx-ng"
+name = "ShadowsocksX-NG"
+desc = "Tunneling proxy"
+homepage = "https://github.com/shadowsocks/ShadowsocksX-NG/"
+bundle_id = "com.qiuyuzhou.ShadowsocksX-NG"
+
+[[sources]]
+type = "homebrew"
+cask = "shadowsocksx-ng"
+
+[[sources]]
+type = "github"
+repo = "shadowsocks/ShadowsocksX-NG"

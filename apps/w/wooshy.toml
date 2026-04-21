@@ -1,0 +1,13 @@
+app_token = "wooshy"
+name = "Wooshy"
+desc = "Click and more on UI Elements through typing"
+homepage = "https://wooshy.app/"
+bundle_id = "mo.com.sleeplessmind.Wooshy"
+
+[[sources]]
+type = "homebrew"
+cask = "wooshy"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.wooshy.app/appcast.xml"

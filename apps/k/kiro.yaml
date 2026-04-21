@@ -1,9 +1,0 @@
-app_token: kiro
-name: kiro
-desc: Agent-centric IDE with spec-driven development
-homepage: 'https://kiro.dev/'
-bundle_id: dev.kiro.desktop
-
-sources:
-  - type: homebrew
-    cask: kiro

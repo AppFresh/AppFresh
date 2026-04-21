@@ -1,0 +1,13 @@
+app_token = "panda"
+name = "Panda"
+desc = "Utility to switch from light to dark mode"
+homepage = "https://github.com/pablosproject/Panda-Mac-app"
+bundle_id = "com.pablosproject.Panda"
+
+[[sources]]
+type = "homebrew"
+cask = "panda"
+
+[[sources]]
+type = "github"
+repo = "pablosproject/Panda-Mac-app"

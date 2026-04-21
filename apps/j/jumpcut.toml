@@ -1,0 +1,13 @@
+app_token = "jumpcut"
+name = "Jumpcut"
+desc = "Clipboard manager"
+homepage = "https://snark.github.io/jumpcut/"
+bundle_id = "net.sf.Jumpcut"
+
+[[sources]]
+type = "homebrew"
+cask = "jumpcut"
+
+[[sources]]
+type = "github"
+repo = "snark/jumpcut"

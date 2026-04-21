@@ -1,9 +1,0 @@
-app_token: easyfind
-name: EasyFind
-desc: Find files, folders, or contents in any file
-homepage: 'https://www.devontechnologies.com/apps/freeware'
-bundle_id: org.grunenberg.EasyFind
-
-sources:
-  - type: homebrew
-    cask: easyfind

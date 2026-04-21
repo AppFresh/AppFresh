@@ -1,0 +1,9 @@
+app_token = "aw-edid-editor"
+name = "AW EDID Editor"
+desc = "Edit any standard EDID binary file, supports DisplayID and CEA-861-G extensions"
+homepage = "https://www.analogway.com/products/aw-edid-editor"
+bundle_id = "com.analogway.AW-EDID-EDITOR"
+
+[[sources]]
+type = "homebrew"
+cask = "aw-edid-editor"

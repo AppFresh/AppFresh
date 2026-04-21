@@ -1,0 +1,9 @@
+app_token = "keyboardcleantool"
+name = "KeyboardCleanTool"
+desc = "Blocks all Keyboard and TouchBar input"
+homepage = "https://folivora.ai/keyboardcleantool"
+bundle_id = "com.hegenberg.KeyboardCleanTool"
+
+[[sources]]
+type = "homebrew"
+cask = "keyboardcleantool"

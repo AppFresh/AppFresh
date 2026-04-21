@@ -1,0 +1,9 @@
+app_token = "mongodb-compass-readonly"
+name = "MongoDB Compass Readonly"
+desc = "Interactive tool for analyzing MongoDB data"
+homepage = "https://www.mongodb.com/products/compass"
+bundle_id = "com.mongodb.compass.readonly"
+
+[[sources]]
+type = "homebrew"
+cask = "mongodb-compass-readonly"

@@ -1,0 +1,13 @@
+app_token = "lunarbar"
+name = "LunarBar"
+desc = "Lunar calendar for menu bar"
+homepage = "https://github.com/LunarBar-app/LunarBar"
+bundle_id = "app.cyan.lunarbar"
+
+[[sources]]
+type = "homebrew"
+cask = "lunarbar"
+
+[[sources]]
+type = "github"
+repo = "LunarBar-app/LunarBar"

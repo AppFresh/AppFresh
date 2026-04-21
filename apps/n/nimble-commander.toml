@@ -1,0 +1,13 @@
+app_token = "nimble-commander"
+name = "Nimble Commander"
+desc = "Dual-pane file manager"
+homepage = "https://magnumbytes.com/"
+bundle_id = "info.filesmanager.Files"
+
+[[sources]]
+type = "homebrew"
+cask = "nimble-commander"
+
+[[sources]]
+type = "sparkle"
+url = "https://magnumbytes.com/downloads/releases/sparkle-nimble-commander.xml"

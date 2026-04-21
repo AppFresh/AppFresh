@@ -1,0 +1,17 @@
+app_token = "coteditor"
+name = "CotEditor"
+desc = "Plain-text editor for web pages, program source codes and more"
+homepage = "https://coteditor.com/"
+bundle_id = "com.coteditor.CotEditor"
+
+[[sources]]
+type = "homebrew"
+cask = "coteditor"
+
+[[sources]]
+type = "github"
+repo = "coteditor/CotEditor"
+
+[[sources]]
+type = "sparkle"
+url = "https://coteditor.com/appcast.xml"

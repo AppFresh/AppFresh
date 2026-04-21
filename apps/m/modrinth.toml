@@ -1,0 +1,9 @@
+app_token = "modrinth"
+name = "Modrinth App"
+desc = "Minecraft modding platform"
+homepage = "https://modrinth.com/"
+bundle_id = "ModrinthApp"
+
+[[sources]]
+type = "homebrew"
+cask = "modrinth"

@@ -1,9 +1,0 @@
-app_token: bitcoin-core
-name: Bitcoin Core
-desc: Bitcoin client and wallet
-homepage: 'https://bitcoincore.org/'
-bundle_id: org.bitcoinfoundation.Bitcoin-Qt
-
-sources:
-  - type: homebrew
-    cask: bitcoin-core

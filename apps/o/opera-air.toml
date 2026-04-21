@@ -1,0 +1,9 @@
+app_token = "opera-air"
+name = "Opera Air"
+desc = "Web browser"
+homepage = "https://www.opera.com/air"
+bundle_id = "com.operasoftware.OperaAir"
+
+[[sources]]
+type = "homebrew"
+cask = "opera-air"

@@ -1,0 +1,13 @@
+app_token = "glide-browser"
+name = "Glide Browser"
+desc = "Extensible, firefox-based web browser"
+homepage = "https://glide-browser.app/"
+bundle_id = "app.glide-browser.glide"
+
+[[sources]]
+type = "homebrew"
+cask = "glide-browser"
+
+[[sources]]
+type = "github"
+repo = "glide-browser/glide"

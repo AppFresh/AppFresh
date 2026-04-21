@@ -1,0 +1,13 @@
+app_token = "bluesnooze"
+name = "Bluesnooze"
+desc = "Prevents your sleeping computer from connecting to Bluetooth accessories"
+homepage = "https://github.com/odlp/bluesnooze"
+bundle_id = "com.oliverpeate.Bluesnooze"
+
+[[sources]]
+type = "homebrew"
+cask = "bluesnooze"
+
+[[sources]]
+type = "github"
+repo = "odlp/bluesnooze"

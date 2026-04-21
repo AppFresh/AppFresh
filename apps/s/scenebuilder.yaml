@@ -1,9 +1,0 @@
-app_token: scenebuilder
-name: Scene Builder
-desc: Drag & drop GUI designer for JavaFX
-homepage: 'https://gluonhq.com/products/scene-builder/'
-bundle_id: com.gluonhq.scenebuilder
-
-sources:
-  - type: homebrew
-    cask: scenebuilder

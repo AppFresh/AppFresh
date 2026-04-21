@@ -1,0 +1,16 @@
+app_token = "devcleaner"
+name = "DevCleaner for Xcode"
+desc = "Reclaim storage used for Xcode caches"
+bundle_id = "com.oneminutegames.XcodeCleaner"
+
+[[sources]]
+type = "github"
+repo = "vashpan/xcode-dev-cleaner"
+
+[[sources]]
+type = "appstore"
+app_id = "1388020431"
+
+[[sources]]
+type = "homebrew"
+cask = "devcleaner"

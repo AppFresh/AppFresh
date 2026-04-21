@@ -1,0 +1,13 @@
+app_token = "resolutionator"
+name = "Resolutionator"
+desc = "Use any of your display's available resolutions"
+homepage = "https://manytricks.com/resolutionator/"
+bundle_id = "com.manytricks.Resolutionator"
+
+[[sources]]
+type = "homebrew"
+cask = "resolutionator"
+
+[[sources]]
+type = "sparkle"
+url = "https://manytricks.com/resolutionator/appcast/"

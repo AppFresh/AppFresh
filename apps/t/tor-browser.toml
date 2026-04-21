@@ -1,0 +1,9 @@
+app_token = "tor-browser"
+name = "Tor Browser"
+desc = "Web browser focusing on security"
+homepage = "https://www.torproject.org/"
+bundle_id = "org.torproject.torbrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "tor-browser"

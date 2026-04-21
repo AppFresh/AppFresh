@@ -1,9 +1,0 @@
-app_token: monarch
-name: Monarch
-desc: Spotlight Search
-homepage: 'https://monarchlauncher.com/'
-bundle_id: com.monarch.macos
-
-sources:
-  - type: homebrew
-    cask: monarch

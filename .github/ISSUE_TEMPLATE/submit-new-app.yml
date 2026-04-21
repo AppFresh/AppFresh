@@ -1,0 +1,91 @@
+name: Submit New App
+description: Request adding a new app to the catalog
+title: "[New App]: "
+labels:
+  - new-app
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in the app metadata as completely as possible.
+        The fields below map to the app config used in `appfresh_public/apps`.
+
+  - type: input
+    id: app_token
+    attributes:
+      label: App token
+      description: Unique lowercase token used as the TOML filename, for example `raycast` or `windsurf@next`
+      placeholder: e.g. raycast
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: App name
+      description: Official product name
+      placeholder: e.g. Raycast
+    validations:
+      required: true
+
+  - type: textarea
+    id: desc
+    attributes:
+      label: Description
+      description: Short one-line app description
+      placeholder: e.g. Productivity tool launcher for macOS
+    validations:
+      required: true
+
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage URL
+      description: Official product website
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: input
+    id: bundle_id
+    attributes:
+      label: Bundle ID
+      description: macOS bundle identifier if known
+      placeholder: e.g. com.example.MyApp
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: |
+        List one or more update sources. Prefer the exact fields that can be converted into TOML.
+        Examples:
+        - homebrew: cask=raycast
+        - github: repo=owner/repo
+        - sparkle: url=https://example.com/appcast.xml
+        - electron: url=https://example.com/latest-mac.yml
+        - page_match/header_match: url=... ; regex=... ; version=... ; download=...
+      placeholder: |
+        - type: homebrew
+          cask: raycast
+        - type: github
+          repo: owner/repo
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Optional notes such as beta channel, download page quirks, duplicate risk, or related references
+      placeholder: Add any extra context here
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing app configs and did not find the same app already listed
+          required: true
+        - label: I provided official or verifiable source information for this app
+          required: true

@@ -1,9 +1,0 @@
-app_token: sharemouse
-name: ShareMouse
-desc: Share peripherals between computers
-homepage: 'https://www.sharemouse.com/'
-bundle_id: com.bartelsmedia.ShareMouse
-
-sources:
-  - type: homebrew
-    cask: sharemouse

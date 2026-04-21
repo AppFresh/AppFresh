@@ -1,9 +1,0 @@
-app_token: dosbox
-name: DOSBox
-desc: Emulator for x86 with DOS
-homepage: 'https://www.dosbox.com/'
-bundle_id: com.dosbox.dosbox
-
-sources:
-  - type: homebrew
-    cask: dosbox

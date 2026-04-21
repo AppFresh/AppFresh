@@ -1,0 +1,9 @@
+app_token = "readwise-ibooks"
+name = "Readwise iBooks"
+desc = "Import highlights from Apple Books to Readwise"
+homepage = "https://readwise.io/ibooks"
+bundle_id = "readwise.Readwise-iBooks"
+
+[[sources]]
+type = "homebrew"
+cask = "readwise-ibooks"

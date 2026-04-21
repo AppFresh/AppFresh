@@ -1,9 +1,0 @@
-app_token: screaming-frog-seo-spider
-name: Screaming Frog SEO Spider
-desc: SEO site audit tool
-homepage: 'https://www.screamingfrog.co.uk/seo-spider/'
-bundle_id: uk.co.screamingfrog.seo.spider
-
-sources:
-  - type: homebrew
-    cask: screaming-frog-seo-spider

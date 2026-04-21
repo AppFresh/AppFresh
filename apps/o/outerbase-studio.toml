@@ -1,0 +1,13 @@
+app_token = "outerbase-studio"
+name = "Outerbase Studio Desktop"
+desc = "Database GUI"
+homepage = "https://github.com/outerbase/studio-desktop"
+bundle_id = "com.outerbase.studio"
+
+[[sources]]
+type = "homebrew"
+cask = "outerbase-studio"
+
+[[sources]]
+type = "github"
+repo = "outerbase/studio-desktop"

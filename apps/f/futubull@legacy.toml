@@ -1,0 +1,9 @@
+app_token = "futubull@legacy"
+name = "Futubull Legacy For Mac"
+name_cn = "富途牛牛 Mac 桌面经典版"
+desc = "Trading application"
+homepage = "https://www.futunn.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "futubull@legacy"

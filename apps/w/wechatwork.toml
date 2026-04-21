@@ -1,0 +1,9 @@
+app_token = "wechatwork"
+name = "WeChat Work"
+desc = "Messaging and calling application"
+homepage = "https://work.weixin.qq.com/"
+bundle_id = "com.tencent.WeWorkMac"
+
+[[sources]]
+type = "homebrew"
+cask = "wechatwork"

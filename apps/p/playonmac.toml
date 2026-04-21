@@ -1,0 +1,9 @@
+app_token = "playonmac"
+name = "PlayOnMac"
+desc = "Allows installation and use of software designed for Windows"
+homepage = "https://www.playonmac.com/"
+bundle_id = "org.playonmac.playonmac"
+
+[[sources]]
+type = "homebrew"
+cask = "playonmac"

@@ -1,0 +1,22 @@
+app_token = "keka"
+name = "Keka"
+desc = "File archiver"
+homepage = "https://www.keka.io/"
+bundle_id = "com.aone.keka"
+
+[[sources]]
+type = "homebrew"
+cask = "keka"
+
+[[sources]]
+type = "github"
+repo = "aonez/Keka"
+regex = 'Keka-([\d.]+)\.dmg'
+
+[[sources]]
+type = "sparkle"
+url = "https://u.keka.io/keka.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "keka@beta"

@@ -1,0 +1,9 @@
+app_token = "qr-journal"
+name = "QR Journal"
+desc = "Allows users with an iSight (or compatible) camera to read QR codes"
+homepage = "https://www.joshjacob.com/mac-development/qrjournal.php"
+bundle_id = "com.joshjacob.qrjournal"
+
+[[sources]]
+type = "homebrew"
+cask = "qr-journal"

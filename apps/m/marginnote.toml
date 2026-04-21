@@ -1,0 +1,13 @@
+app_token = "marginnote"
+name = "MarginNote"
+desc = "E-reader"
+homepage = "https://www.marginnote.com/"
+bundle_id = "QReader.MarginStudy.easy"
+
+[[sources]]
+type = "homebrew"
+cask = "marginnote"
+
+[[sources]]
+type = "sparkle"
+url = "https://dist.marginnote.cn/marginnote4.xml"

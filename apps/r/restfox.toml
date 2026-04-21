@@ -1,0 +1,13 @@
+app_token = "restfox"
+name = "Restfox"
+desc = "Offline-first web HTTP client"
+homepage = "https://restfox.dev/"
+bundle_id = "com.electron.restfox"
+
+[[sources]]
+type = "homebrew"
+cask = "restfox"
+
+[[sources]]
+type = "github"
+repo = "flawiddsouza/Restfox"

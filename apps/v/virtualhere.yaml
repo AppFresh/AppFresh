@@ -1,9 +1,0 @@
-app_token: virtualhere
-name: VirtualHere
-desc: Use USB devices remotely over a network
-homepage: 'https://www.virtualhere.com/usb_client_software'
-bundle_id: com.virtualhere.client
-
-sources:
-  - type: homebrew
-    cask: virtualhere

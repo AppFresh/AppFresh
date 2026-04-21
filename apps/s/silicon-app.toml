@@ -1,0 +1,13 @@
+app_token = "silicon-app"
+name = "Silicon"
+desc = "Identify Intel-only apps"
+homepage = "https://github.com/DigiDNA/Silicon"
+bundle_id = "com.DigiDNA.Silicon"
+
+[[sources]]
+type = "homebrew"
+cask = "silicon-app"
+
+[[sources]]
+type = "github"
+repo = "DigiDNA/Silicon"

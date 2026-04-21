@@ -1,9 +1,0 @@
-app_token: shottr
-name: Shottr
-desc: Screenshot measurement and annotation tool
-homepage: 'https://shottr.cc/'
-bundle_id: cc.ffitch.shottr
-
-sources:
-  - type: homebrew
-    cask: shottr

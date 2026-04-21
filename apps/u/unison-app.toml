@@ -1,0 +1,13 @@
+app_token = "unison-app"
+name = "Unison"
+desc = "File synchroniser"
+homepage = "https://github.com/bcpierce00/unison/"
+bundle_id = "edu.upenn.cis.Unison"
+
+[[sources]]
+type = "homebrew"
+cask = "unison-app"
+
+[[sources]]
+type = "github"
+repo = "bcpierce00/unison"

@@ -1,0 +1,8 @@
+app_token = "petal"
+name = "Petal"
+desc = "a native macOS app for fast, local-first audio transcription in a clean, minimal interface."
+bundle_id = "com.optimalapps.petal"
+
+[[sources]]
+type = "github"
+repo = "Aayush9029/petal"

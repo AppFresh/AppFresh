@@ -1,0 +1,13 @@
+app_token = "versions"
+name = "Versions"
+desc = "Subversion client"
+homepage = "https://versionsapp.com/"
+bundle_id = "com.versionsapp.v2"
+
+[[sources]]
+type = "homebrew"
+cask = "versions"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.versionsapp.com/v2/prod/appcast"

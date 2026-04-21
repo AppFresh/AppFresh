@@ -1,0 +1,9 @@
+app_token = "gitdock"
+name = "GitDock"
+desc = "Displays all your GitLab activities in one place"
+homepage = "https://gitlab.com/mvanremmerden/gitdock"
+bundle_id = "com.electron.gitdock"
+
+[[sources]]
+type = "homebrew"
+cask = "gitdock"

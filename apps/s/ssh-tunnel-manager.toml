@@ -1,0 +1,9 @@
+app_token = "ssh-tunnel-manager"
+name = "SSH Tunnel Manager"
+desc = "Application for managing SSH tunnels"
+homepage = "https://tynsoe.org/stm/"
+bundle_id = "org.tynsoe.sshtunnelmanager"
+
+[[sources]]
+type = "homebrew"
+cask = "ssh-tunnel-manager"

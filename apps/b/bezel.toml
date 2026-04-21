@@ -1,0 +1,13 @@
+app_token = "bezel"
+name = "Bezel"
+desc = "iOS screen output recorder"
+homepage = "https://getbezel.app/"
+bundle_id = "com.nonstrict.Bezel-direct"
+
+[[sources]]
+type = "homebrew"
+cask = "bezel"
+
+[[sources]]
+type = "sparkle"
+url = "https://download.nonstrict.eu/bezel/appcast.xml"

@@ -1,0 +1,13 @@
+app_token = "folx"
+name = "Folx"
+desc = "Download manager with a torrent client"
+homepage = "https://mac.eltima.com/download-manager.html"
+bundle_id = "com.eltima.Folx3"
+
+[[sources]]
+type = "homebrew"
+cask = "folx"
+
+[[sources]]
+type = "sparkle"
+url = "https://cdn.electronic.us/products/folx/mac/update/settings.xml"

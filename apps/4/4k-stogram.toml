@@ -1,0 +1,9 @@
+app_token = "4k-stogram"
+name = "4K Stogram"
+desc = "Download Instagram photos, accounts, hashtags and locations"
+homepage = "https://www.4kdownload.com/products/product-stogram"
+bundle_id = "com.openmedia.4kstogram"
+
+[[sources]]
+type = "homebrew"
+cask = "4k-stogram"

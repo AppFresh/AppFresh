@@ -1,9 +1,0 @@
-app_token: vuescan
-name: VueScan
-desc: App that provides drivers for older model scanners that are no longer supported
-homepage: 'https://www.hamrick.com/'
-bundle_id: com.hamrick.vuescan
-
-sources:
-  - type: homebrew
-    cask: vuescan

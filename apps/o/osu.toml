@@ -1,0 +1,17 @@
+app_token = "osu"
+name = "osu!"
+desc = "Rhythm game"
+homepage = "https://github.com/ppy/osu/"
+bundle_id = "sh.ppy.osu.lazer"
+
+[[sources]]
+type = "homebrew"
+cask = "osu"
+
+[[sources]]
+type = "github"
+repo = "ppy/osu"
+
+[[sources]]
+type = "homebrew"
+cask = "osu@tachyon"

@@ -1,9 +1,0 @@
-app_token: keybase
-name: Keybase
-desc: End-to-end encryption software
-homepage: 'https://keybase.io/'
-bundle_id: keybase.Electron
-
-sources:
-  - type: homebrew
-    cask: keybase

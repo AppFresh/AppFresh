@@ -1,0 +1,13 @@
+app_token = "fontforge-app"
+name = "FontForge"
+desc = "Font editor and converter for outline and bitmap fonts"
+homepage = "https://fontforge.github.io/en-US/"
+bundle_id = "net.sourceforge.fontforge"
+
+[[sources]]
+type = "homebrew"
+cask = "fontforge-app"
+
+[[sources]]
+type = "github"
+repo = "fontforge/fontforge"

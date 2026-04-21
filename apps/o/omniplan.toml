@@ -1,0 +1,9 @@
+app_token = "omniplan"
+name = "OmniPlan"
+desc = "Project planning and management software"
+homepage = "https://www.omnigroup.com/omniplan/"
+bundle_id = "com.omnigroup.OmniPlan4"
+
+[[sources]]
+type = "homebrew"
+cask = "omniplan"

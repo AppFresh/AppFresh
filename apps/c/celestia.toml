@@ -1,0 +1,13 @@
+app_token = "celestia"
+name = "Celestia"
+desc = "Space simulation for exploring the universe in three dimensions"
+homepage = "https://celestiaproject.space/"
+bundle_id = "space.celestia.Celestia"
+
+[[sources]]
+type = "homebrew"
+cask = "celestia"
+
+[[sources]]
+type = "github"
+repo = "CelestiaProject/Celestia"

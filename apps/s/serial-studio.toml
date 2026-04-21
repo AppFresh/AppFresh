@@ -1,0 +1,13 @@
+app_token = "serial-studio"
+name = "Serial Studio"
+desc = "Data visualisation software for embedded devices and projects"
+homepage = "https://serial-studio.github.io/"
+bundle_id = "org.alexspataru.serial-studio"
+
+[[sources]]
+type = "homebrew"
+cask = "serial-studio"
+
+[[sources]]
+type = "github"
+repo = "Serial-Studio/Serial-Studio"

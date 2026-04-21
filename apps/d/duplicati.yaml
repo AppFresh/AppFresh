@@ -1,9 +1,0 @@
-app_token: duplicati
-name: Duplicati
-desc: Store securely encrypted backups in the cloud
-homepage: 'https://duplicati.com/'
-bundle_id: com.duplicati.app
-
-sources:
-  - type: homebrew
-    cask: duplicati

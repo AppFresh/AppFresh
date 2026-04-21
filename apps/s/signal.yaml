@@ -1,9 +1,0 @@
-app_token: signal
-name: Signal
-desc: Instant messaging application focusing on security
-homepage: 'https://signal.org/'
-bundle_id: org.whispersystems.signal-desktop
-
-sources:
-  - type: homebrew
-    cask: signal

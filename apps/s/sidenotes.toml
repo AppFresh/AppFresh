@@ -1,0 +1,13 @@
+app_token = "sidenotes"
+name = "SideNotes"
+desc = "Note-taking application"
+homepage = "https://www.apptorium.com/sidenotes"
+bundle_id = "com.apptorium.SideNotes-paddle"
+
+[[sources]]
+type = "homebrew"
+cask = "sidenotes"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.apptorium.com/updates/sidenotes"

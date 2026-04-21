@@ -1,8 +1,0 @@
-app_token: microsoft-edge@dev
-name: Microsoft Edge Dev
-desc: Multi-platform web browser
-homepage: 'https://www.microsoft.com/en-us/edge?form='
-
-sources:
-  - type: homebrew
-    cask: microsoft-edge@dev

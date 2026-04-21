@@ -1,9 +1,0 @@
-app_token: grandperspective
-name: GrandPerspective
-desc: Graphically shows disk usage within a file system
-homepage: 'https://grandperspectiv.sourceforge.net/'
-bundle_id: net.sourceforge.grandperspectiv
-
-sources:
-  - type: homebrew
-    cask: grandperspective

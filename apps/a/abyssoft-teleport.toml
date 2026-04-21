@@ -1,0 +1,13 @@
+app_token = "abyssoft-teleport"
+name = "teleport"
+desc = "Virtual KVM"
+homepage = "https://github.com/abyssoft/teleport"
+bundle_id = "com.abyssoft.teleport"
+
+[[sources]]
+type = "homebrew"
+cask = "abyssoft-teleport"
+
+[[sources]]
+type = "github"
+repo = "abyssoft/teleport"

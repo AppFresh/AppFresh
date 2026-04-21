@@ -1,8 +1,0 @@
-app_token: affinity-photo@1
-name: Affinity Photo 1
-desc: Professional image editing software
-homepage: 'https://affinity.serif.com/en-us/photo/'
-
-sources:
-  - type: homebrew
-    cask: affinity-photo@1

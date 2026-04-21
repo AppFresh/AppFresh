@@ -1,0 +1,13 @@
+app_token = "replit"
+name = "Replit"
+desc = "Software development and deployment platform"
+homepage = "https://replit.com/"
+bundle_id = "com.electron.replit"
+
+[[sources]]
+type = "homebrew"
+cask = "replit"
+
+[[sources]]
+type = "github"
+repo = "replit/desktop"

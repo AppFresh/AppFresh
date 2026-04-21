@@ -1,0 +1,9 @@
+app_token = "coverload"
+name = "CoverLoad"
+desc = "Download high quality artwork for movies, music albums, and more"
+homepage = "https://coverloadapp.com/"
+bundle_id = "com.happeningstudios.coverload"
+
+[[sources]]
+type = "homebrew"
+cask = "coverload"

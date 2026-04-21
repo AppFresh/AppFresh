@@ -1,9 +1,0 @@
-app_token: saoimageds9
-name: SAOImage DS9
-desc: Astronomical data visualisation tool
-homepage: 'https://sites.google.com/cfa.harvard.edu/saoimageds9/home'
-bundle_id: com.sao.SAOImageDS9
-
-sources:
-  - type: homebrew
-    cask: saoimageds9

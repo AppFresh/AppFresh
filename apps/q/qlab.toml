@@ -1,0 +1,13 @@
+app_token = "qlab"
+name = "QLab"
+desc = "Sound, video and lighting control"
+homepage = "https://qlab.app/"
+bundle_id = "com.figure53.QLab.5"
+
+[[sources]]
+type = "homebrew"
+cask = "qlab"
+
+[[sources]]
+type = "sparkle"
+url = "https://qlab.app/appcast/v5/"

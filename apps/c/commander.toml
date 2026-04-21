@@ -1,0 +1,13 @@
+app_token = "commander"
+name = "Commander"
+desc = "AI agent operator"
+homepage = "https://commanderai.app/"
+bundle_id = "com.krzyzanowskim.Commander"
+
+[[sources]]
+type = "homebrew"
+cask = "commander"
+
+[[sources]]
+type = "sparkle"
+url = "https://softwareupdate.thecommander.app/appcast/commanderai-appcast.xml"

@@ -1,9 +1,0 @@
-app_token: google-chrome
-name: Chrome
-desc: Web browser
-homepage: 'https://www.google.com/chrome/'
-bundle_id: com.google.Chrome
-
-sources:
-  - type: homebrew
-    cask: google-chrome

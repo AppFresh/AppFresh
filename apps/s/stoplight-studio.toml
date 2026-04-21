@@ -1,0 +1,13 @@
+app_token = "stoplight-studio"
+name = "Stoplight Studio"
+desc = "Editor for designing and documenting APIs"
+homepage = "https://stoplight.io/studio/"
+bundle_id = "com.stoplight.studio"
+
+[[sources]]
+type = "homebrew"
+cask = "stoplight-studio"
+
+[[sources]]
+type = "github"
+repo = "stoplightio/studio"

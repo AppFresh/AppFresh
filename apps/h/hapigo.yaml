@@ -1,9 +1,0 @@
-app_token: hapigo
-name: HapiGo
-desc: Application launcher and productivity software
-homepage: 'https://www.hapigo.com/'
-bundle_id: com.xunyong.hapigo
-
-sources:
-  - type: homebrew
-    cask: hapigo

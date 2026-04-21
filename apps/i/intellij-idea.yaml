@@ -1,9 +1,0 @@
-app_token: intellij-idea
-name: IntelliJ IDEA Ultimate
-desc: Java IDE by JetBrains
-homepage: 'https://www.jetbrains.com/idea/'
-bundle_id: com.jetbrains.intellij
-
-sources:
-  - type: homebrew
-    cask: intellij-idea

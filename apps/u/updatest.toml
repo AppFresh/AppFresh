@@ -1,0 +1,14 @@
+app_token = "updatest"
+name = "Updatest"
+desc = "Utility that shows the latest app updates"
+homepage = "https://updatest.app/"
+bundle_id = "app.updatest.Updatest"
+tags = ["Trial"]
+
+[[sources]]
+type = "homebrew"
+cask = "updatest"
+
+[[sources]]
+type = "sparkle"
+url = "https://updatest.app/download/appcast.xml"

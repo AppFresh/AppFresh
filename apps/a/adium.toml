@@ -1,0 +1,13 @@
+app_token = "adium"
+name = "Adium"
+desc = "Instant messaging application"
+homepage = "https://www.adium.im/"
+bundle_id = "com.adiumX.adiumX"
+
+[[sources]]
+type = "homebrew"
+cask = "adium"
+
+[[sources]]
+type = "sparkle"
+url = "https://sparkle.adium.im/appcast-release.xml"

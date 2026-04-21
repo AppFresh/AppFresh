@@ -1,0 +1,9 @@
+app_token = "kodi"
+name = "Kodi"
+desc = "Free and open-source media player"
+homepage = "https://kodi.tv/"
+bundle_id = "org.xbmc.kodi"
+
+[[sources]]
+type = "homebrew"
+cask = "kodi"

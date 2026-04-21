@@ -1,0 +1,13 @@
+app_token = "qgroundcontrol"
+name = "QGroundControl"
+desc = "Ground control station for drones"
+homepage = "https://qgroundcontrol.com/"
+bundle_id = "org.qgroundcontrol.QGroundControl"
+
+[[sources]]
+type = "homebrew"
+cask = "qgroundcontrol"
+
+[[sources]]
+type = "github"
+repo = "mavlink/qgroundcontrol"

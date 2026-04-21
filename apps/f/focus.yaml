@@ -1,9 +1,0 @@
-app_token: focus
-name: Focus
-desc: Website and application blocker
-homepage: 'https://heyfocus.com/'
-bundle_id: BradJasper.focus
-
-sources:
-  - type: homebrew
-    cask: focus

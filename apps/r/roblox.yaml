@@ -1,9 +1,0 @@
-app_token: roblox
-name: Roblox
-desc: Online multiplayer game platform
-homepage: 'https://www.roblox.com/'
-bundle_id: com.roblox.RobloxPlayer
-
-sources:
-  - type: homebrew
-    cask: roblox

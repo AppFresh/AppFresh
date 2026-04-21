@@ -1,0 +1,13 @@
+app_token = "uvtools"
+name = "UVtools"
+desc = "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation"
+homepage = "https://github.com/sn4k3/UVtools"
+bundle_id = "com.UVtools"
+
+[[sources]]
+type = "homebrew"
+cask = "uvtools"
+
+[[sources]]
+type = "github"
+repo = "sn4k3/UVtools"

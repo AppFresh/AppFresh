@@ -1,0 +1,13 @@
+app_token = "whodb"
+name = "WhoDB"
+desc = "Database management tool with AI-powered features"
+homepage = "https://github.com/clidey/whodb"
+bundle_id = "com.clidey.whodb"
+
+[[sources]]
+type = "homebrew"
+cask = "whodb"
+
+[[sources]]
+type = "github"
+repo = "clidey/whodb"

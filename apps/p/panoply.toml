@@ -1,0 +1,9 @@
+app_token = "panoply"
+name = "Panoply netCDF, HDF and GRIB Data Viewer"
+desc = "Plot geo-referenced data from netCDF, HDF, and GRIB"
+homepage = "https://www.giss.nasa.gov/tools/panoply/"
+bundle_id = "gov.nasa.giss.panoply"
+
+[[sources]]
+type = "homebrew"
+cask = "panoply"

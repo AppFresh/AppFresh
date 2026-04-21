@@ -1,0 +1,9 @@
+app_token = "topcat"
+name = "TOPCAT"
+desc = "Interactive graphical viewer and editor for tabular data"
+homepage = "https://www.star.bristol.ac.uk/mbt/topcat/"
+bundle_id = "com.install4j.5652-3466-7516-4810.70"
+
+[[sources]]
+type = "homebrew"
+cask = "topcat"

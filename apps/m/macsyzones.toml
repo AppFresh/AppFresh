@@ -1,0 +1,13 @@
+app_token = "macsyzones"
+name = "MacsyZones"
+desc = "Window management utility"
+homepage = "https://macsyzones.com/"
+bundle_id = "MeowingCat.MacsyZones"
+
+[[sources]]
+type = "homebrew"
+cask = "macsyzones"
+
+[[sources]]
+type = "github"
+repo = "rohanrhu/MacsyZones"

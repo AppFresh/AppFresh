@@ -1,9 +1,0 @@
-app_token: linphone
-name: Linphone
-desc: Software for communication systems developers
-homepage: 'https://www.linphone.org/'
-bundle_id: com.belledonnecommunications.linphone
-
-sources:
-  - type: homebrew
-    cask: linphone

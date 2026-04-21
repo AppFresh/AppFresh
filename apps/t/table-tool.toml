@@ -1,0 +1,13 @@
+app_token = "table-tool"
+name = "Table Tool"
+desc = "CSV file editor"
+homepage = "https://github.com/jakob/TableTool"
+bundle_id = "at.eggerapps.tabletool"
+
+[[sources]]
+type = "homebrew"
+cask = "table-tool"
+
+[[sources]]
+type = "github"
+repo = "jakob/TableTool"

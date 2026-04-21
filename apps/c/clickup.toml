@@ -1,0 +1,13 @@
+app_token = "clickup"
+name = "ClickUp"
+desc = "Productivity platform for tasks, docs, goals, and chat"
+homepage = "https://clickup.com/"
+bundle_id = "com.clickup.desktop-app"
+
+[[sources]]
+type = "homebrew"
+cask = "clickup"
+
+[[sources]]
+type = "electron"
+url = "https://download.todesktop.com/221003ra4tebclw/latest-mac.yml"

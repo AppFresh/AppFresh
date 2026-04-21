@@ -1,9 +1,0 @@
-app_token: apipost
-name: Apipost
-desc: Platform for API documentation, debugging, Mock and testing
-homepage: 'https://www.apipost.cn/'
-bundle_id: com.apipost.apipost.fe.desctop.cn.8.x
-
-sources:
-  - type: homebrew
-    cask: apipost

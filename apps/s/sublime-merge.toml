@@ -1,0 +1,13 @@
+app_token = "sublime-merge"
+name = "Sublime Merge"
+desc = "Git client"
+homepage = "https://www.sublimemerge.com/"
+bundle_id = "com.sublimemerge"
+
+[[sources]]
+type = "homebrew"
+cask = "sublime-merge"
+
+[[sources]]
+type = "homebrew"
+cask = "sublime-merge@dev"

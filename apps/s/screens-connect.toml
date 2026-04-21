@@ -1,0 +1,13 @@
+app_token = "screens-connect"
+name = "Screens Connect"
+desc = "Remote desktop software"
+homepage = "https://edovia.com/en/screens-connect/"
+bundle_id = "com.edovia.Screens-Connect"
+
+[[sources]]
+type = "homebrew"
+cask = "screens-connect"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.edovia.com/com.edovia.screens.connect.mac/appcast.xml"

@@ -1,0 +1,13 @@
+app_token = "icanhazshortcut"
+name = "iCanHazShortcut"
+desc = "Shortcut manager"
+homepage = "https://github.com/deseven/icanhazshortcut/"
+bundle_id = "info.deseven.icanhazshortcut"
+
+[[sources]]
+type = "homebrew"
+cask = "icanhazshortcut"
+
+[[sources]]
+type = "github"
+repo = "deseven/icanhazshortcut"

@@ -1,0 +1,13 @@
+app_token = "startupfolder"
+name = "Startup Folder"
+desc = "Run anything at startup by simply placing it in a special folder"
+homepage = "https://lowtechguys.com/startupfolder"
+bundle_id = "com.lowtechguys.StartupFolder"
+
+[[sources]]
+type = "homebrew"
+cask = "startupfolder"
+
+[[sources]]
+type = "sparkle"
+url = "https://files.lowtechguys.com/startupfolder/appcast.xml"

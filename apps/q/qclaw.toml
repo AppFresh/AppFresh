@@ -1,0 +1,11 @@
+app_token = "qclaw"
+name = "QClaw"
+desc = "a user-friendly launcher for the AI agent OpenClaw"
+homepage = "https://qclaw.qq.com/"
+bundle_id = "com.tencent.qclaw"
+
+[[sources]]
+type = "manual_check"
+url = "https://qclaw.qq.com/"
+version = "0.2.9"
+download_url = "https://package-cdn.qclaw.qq.com/qclaw/mac/arm64/0.2.9-5001-362/QClaw-0.2.9-5001-362-arm64.dmg"

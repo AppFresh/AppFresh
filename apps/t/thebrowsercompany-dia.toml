@@ -1,0 +1,13 @@
+app_token = "thebrowsercompany-dia"
+name = "Dia"
+desc = "A new AI browser from the makers of Arc"
+homepage = "https://www.diabrowser.com/"
+bundle_id = "company.thebrowser.dia"
+
+[[sources]]
+type = "homebrew"
+cask = "thebrowsercompany-dia"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.diabrowser.com/BoostBrowser-updates.xml"

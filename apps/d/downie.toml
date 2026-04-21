@@ -1,0 +1,13 @@
+app_token = "downie"
+name = "Downie"
+desc = "Downloads videos from different websites"
+homepage = "https://software.charliemonroe.net/downie.php"
+bundle_id = "com.charliemonroe.Downie-4"
+
+[[sources]]
+type = "homebrew"
+cask = "downie"
+
+[[sources]]
+type = "sparkle"
+url = "https://software.charliemonroe.net/trial/downie/v4/updates.xml"

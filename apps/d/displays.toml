@@ -1,0 +1,13 @@
+app_token = "displays"
+name = "Displays"
+desc = "Monitor resolution and settings manager"
+homepage = "https://www.jibapps.com/apps/displays/"
+bundle_id = "com.jibapps.Displays"
+
+[[sources]]
+type = "homebrew"
+cask = "displays"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.jibapps.com/ressources/displays/appcast.xml"

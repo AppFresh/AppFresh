@@ -1,9 +1,0 @@
-app_token: ioquake3
-name: ioquake3
-desc: First person shooter engine
-homepage: 'https://ioquake3.org/'
-bundle_id: org.ioquake.ioquake3
-
-sources:
-  - type: homebrew
-    cask: ioquake3

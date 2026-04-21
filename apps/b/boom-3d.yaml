@@ -1,9 +1,0 @@
-app_token: boom-3d
-name: Boom 3D
-desc: Volume booster and equaliser software
-homepage: 'https://www.globaldelight.com/boom/'
-bundle_id: com.globaldelight.Boom3D
-
-sources:
-  - type: homebrew
-    cask: boom-3d

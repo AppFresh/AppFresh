@@ -1,0 +1,13 @@
+app_token = "handbrake-app"
+name = "HandBrake"
+desc = "Open-source video transcoder"
+homepage = "https://handbrake.fr/"
+bundle_id = "fr.handbrake.HandBrake"
+
+[[sources]]
+type = "homebrew"
+cask = "handbrake-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://handbrake.fr/appcast.arm64.xml"

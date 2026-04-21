@@ -1,9 +1,0 @@
-app_token: screen-studio
-name: Screen Studio
-desc: Screen recorder and editor
-homepage: 'https://screen.studio/'
-bundle_id: com.timpler.screenstudio
-
-sources:
-  - type: homebrew
-    cask: screen-studio

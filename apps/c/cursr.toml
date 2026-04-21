@@ -1,0 +1,13 @@
+app_token = "cursr"
+name = "Cursr"
+desc = "Customise mouse movements between multiple displays"
+homepage = "https://cursr.app/"
+bundle_id = "com.bitgapp.cursr"
+
+[[sources]]
+type = "homebrew"
+cask = "cursr"
+
+[[sources]]
+type = "github"
+repo = "bitgapp/Cursr"

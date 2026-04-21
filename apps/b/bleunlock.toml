@@ -1,0 +1,13 @@
+app_token = "bleunlock"
+name = "BLEUnlock"
+desc = "Lock/unlock Apple computers using the proximity of a bluetooth low energy device"
+homepage = "https://github.com/ts1/BLEUnlock"
+bundle_id = "jp.sone.BLEUnlock"
+
+[[sources]]
+type = "homebrew"
+cask = "bleunlock"
+
+[[sources]]
+type = "github"
+repo = "ts1/BLEUnlock"

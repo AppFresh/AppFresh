@@ -1,0 +1,12 @@
+app_token = "gifcapture"
+name = "GifCapture"
+homepage = "https://github.com/onmyway133/GifCapture"
+bundle_id = "com.fantageek.GifCapture"
+
+[[sources]]
+type = "homebrew"
+cask = "gifcapture"
+
+[[sources]]
+type = "github"
+repo = "onmyway133/GifCapture"

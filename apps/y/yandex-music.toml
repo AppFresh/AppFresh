@@ -1,0 +1,13 @@
+app_token = "yandex-music"
+name = "Yandex Music"
+desc = "Tune in to Yandex Music and get personal recommendations"
+homepage = "https://music.yandex.ru/"
+bundle_id = "ru.yandex.desktop.music"
+
+[[sources]]
+type = "homebrew"
+cask = "yandex-music"
+
+[[sources]]
+type = "electron"
+url = "https://music-desktop-application.s3.yandex.net/stable/latest-mac.yml"

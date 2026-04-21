@@ -1,0 +1,17 @@
+app_token = "github"
+name = "GitHub Desktop"
+desc = "Desktop client for GitHub repositories"
+homepage = "https://desktop.github.com/"
+bundle_id = "com.github.GitHubClient"
+
+[[sources]]
+type = "homebrew"
+cask = "github"
+
+[[sources]]
+type = "github"
+repo = "desktop/desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "github@beta"

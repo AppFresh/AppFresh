@@ -1,0 +1,13 @@
+app_token = "v2ray-unofficial"
+name = "V2Ray Desktop"
+desc = "GUI client that supports Shadowsocks(R), V2Ray, and Trojan protocols"
+homepage = "https://github.com/Dr-Incognito/V2Ray-Desktop"
+bundle_id = "com.yourcompany.V2Ray-Desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "v2ray-unofficial"
+
+[[sources]]
+type = "github"
+repo = "Dr-Incognito/V2Ray-Desktop"

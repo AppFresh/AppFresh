@@ -1,0 +1,13 @@
+app_token = "cork"
+name = "Cork"
+desc = "GUI companion app for Homebrew"
+homepage = "https://corkmac.app/"
+bundle_id = "eu.davidbures.cork"
+
+[[sources]]
+type = "homebrew"
+cask = "cork"
+
+[[sources]]
+type = "github"
+repo = "buresdv/Cork"

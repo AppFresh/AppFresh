@@ -1,0 +1,9 @@
+app_token = "vlc-setup"
+name = "VLC Remote Setup Helper"
+desc = "Set up VLC for VLC Remote"
+homepage = "https://hobbyistsoftware.com/VLC"
+bundle_id = "com.HobbyistSoftware.VLCSetup"
+
+[[sources]]
+type = "homebrew"
+cask = "vlc-setup"

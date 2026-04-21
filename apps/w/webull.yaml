@@ -1,9 +1,0 @@
-app_token: webull
-name: Webull
-desc: Desktop client for Webull Financial LLC
-homepage: 'https://www.webull.com/'
-bundle_id: com.webull.desktop.v1
-
-sources:
-  - type: homebrew
-    cask: webull

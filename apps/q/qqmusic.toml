@@ -1,0 +1,11 @@
+app_token = "qqmusic"
+name = "QQ Music"
+name_cn = "QQ音乐"
+desc = "Chinese music streaming application"
+homepage = "https://y.qq.com/"
+bundle_id = "com.tencent.QQMusicMac"
+tags = ["Regional"]
+
+[[sources]]
+type = "homebrew"
+cask = "qqmusic"

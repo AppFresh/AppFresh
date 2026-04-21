@@ -1,0 +1,13 @@
+app_token = "wowup"
+name = "WowUp"
+desc = "World of Warcraft addon manager"
+homepage = "https://wowup.io/"
+bundle_id = "io.wowup.jliddev"
+
+[[sources]]
+type = "homebrew"
+cask = "wowup"
+
+[[sources]]
+type = "github"
+repo = "WowUp/WowUp"

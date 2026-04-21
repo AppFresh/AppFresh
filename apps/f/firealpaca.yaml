@@ -1,9 +1,0 @@
-app_token: firealpaca
-name: Fire Alpaca
-desc: Digital painting software
-homepage: 'https://firealpaca.com/'
-bundle_id: com.firealpaca
-
-sources:
-  - type: homebrew
-    cask: firealpaca

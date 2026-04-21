@@ -1,0 +1,13 @@
+app_token = "qutebrowser"
+name = "qutebrowser"
+desc = "Keyboard-driven, vim-like browser based on PyQt5"
+homepage = "https://www.qutebrowser.org/"
+bundle_id = "org.qutebrowser.qutebrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "qutebrowser"
+
+[[sources]]
+type = "github"
+repo = "qutebrowser/qutebrowser"

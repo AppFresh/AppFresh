@@ -1,9 +1,0 @@
-app_token: arc
-name: Arc
-desc: Chromium based browser
-homepage: 'https://arc.net/'
-bundle_id: company.thebrowser.Browser
-
-sources:
-  - type: homebrew
-    cask: arc

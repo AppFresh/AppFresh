@@ -1,0 +1,13 @@
+app_token = "serial"
+name = "Serial"
+desc = "Connect to almost anything with a serial port"
+homepage = "https://www.decisivetactics.com/products/serial/"
+bundle_id = "com.decisivetactics.serial.direct"
+
+[[sources]]
+type = "homebrew"
+cask = "serial"
+
+[[sources]]
+type = "sparkle"
+url = "https://api.decisivetactics.com/api/v1/public/appcast?app=serial"

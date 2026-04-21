@@ -1,0 +1,12 @@
+app_token = "transmission-remote-gui"
+name = "Transmission Remote GUI"
+homepage = "https://github.com/transmission-remote-gui/transgui"
+bundle_id = "com.transgui"
+
+[[sources]]
+type = "homebrew"
+cask = "transmission-remote-gui"
+
+[[sources]]
+type = "github"
+repo = "transmission-remote-gui/transgui"

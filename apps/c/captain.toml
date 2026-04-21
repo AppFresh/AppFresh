@@ -1,0 +1,13 @@
+app_token = "captain"
+name = "Captain"
+desc = "Manage Docker containers from the menu bar"
+homepage = "https://getcaptain.co/"
+bundle_id = "com.electron.captain"
+
+[[sources]]
+type = "homebrew"
+cask = "captain"
+
+[[sources]]
+type = "github"
+repo = "RickWong/Captain"

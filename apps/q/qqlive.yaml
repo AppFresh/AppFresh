@@ -1,9 +1,0 @@
-app_token: qqlive
-name: QQLive
-desc: Tencent video streaming and sharing platform
-homepage: 'https://v.qq.com/download.html#mac'
-bundle_id: com.tencent.tenvideo
-
-sources:
-  - type: homebrew
-    cask: qqlive

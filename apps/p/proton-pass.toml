@@ -1,0 +1,9 @@
+app_token = "proton-pass"
+name = "Proton Pass"
+desc = "Desktop client for Proton Pass"
+homepage = "https://proton.me/pass"
+bundle_id = "me.proton.pass.electron"
+
+[[sources]]
+type = "homebrew"
+cask = "proton-pass"

@@ -1,0 +1,17 @@
+app_token = "sourcetree"
+name = "SourceTree"
+desc = "Graphical client for Git version control"
+homepage = "https://www.sourcetreeapp.com/"
+bundle_id = "com.torusknot.SourceTreeNotMAS"
+
+[[sources]]
+type = "homebrew"
+cask = "sourcetree"
+
+[[sources]]
+type = "sparkle"
+url = "https://product-downloads.atlassian.com/software/sourcetree/Appcast/SparkleAppcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "sourcetree@beta"

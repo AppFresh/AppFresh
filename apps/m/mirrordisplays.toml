@@ -1,0 +1,13 @@
+app_token = "mirrordisplays"
+name = "Mirror Displays"
+homepage = "https://fabiancanas.com/open-source/mirror-displays"
+bundle_id = "com.fabiancanas.MirrorDisplays"
+
+[[sources]]
+type = "homebrew"
+cask = "mirrordisplays"
+
+[[sources]]
+type = "github"
+repo = "fcanas/mirror-displays"
+regex = 'MirrorDisplays.zip'

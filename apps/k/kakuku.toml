@@ -1,0 +1,13 @@
+app_token = "kakuku"
+name = "Kaku"
+desc = "A fast, out-of-the-box terminal built for AI coding."
+bundle_id = "fun.tw93.kaku"
+
+[[sources]]
+type = "github"
+repo = "tw93/Kaku"
+
+[[sources]]
+type = "homebrew"
+tap = "tw93/tap"
+cask = "kakuku"

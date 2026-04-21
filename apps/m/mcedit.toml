@@ -1,0 +1,13 @@
+app_token = "mcedit"
+name = "MCEdit-Unified"
+desc = "Minecraft world editor"
+homepage = "https://www.mcedit.net/"
+bundle_id = "org.pythonmac.unspecified.mcedit"
+
+[[sources]]
+type = "homebrew"
+cask = "mcedit"
+
+[[sources]]
+type = "github"
+repo = "Podshot/MCEdit-Unified"

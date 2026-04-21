@@ -1,9 +1,0 @@
-app_token: json-viewer
-name: JSON Viewer
-desc: App to visualise, validate and format JSON datasets
-homepage: 'https://jsonviewer.app/'
-bundle_id: com.pascalgiguere.JSON-Viewer
-
-sources:
-  - type: homebrew
-    cask: json-viewer

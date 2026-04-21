@@ -1,0 +1,13 @@
+app_token = "cleanupbuddy"
+name = "CleanupBuddy"
+desc = "Clean keyboard and trackpad"
+homepage = "https://cleanupbuddy.app/"
+bundle_id = "codes.rambo.CleanupBuddy"
+
+[[sources]]
+type = "homebrew"
+cask = "cleanupbuddy"
+
+[[sources]]
+type = "sparkle"
+url = "https://sparkle.cleanupbuddy.app/appcast.xml"

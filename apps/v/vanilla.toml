@@ -1,0 +1,13 @@
+app_token = "vanilla"
+name = "Vanilla"
+desc = "Tool to hide menu bar icons"
+homepage = "https://matthewpalmer.net/vanilla/"
+bundle_id = "net.matthewpalmer.Vanilla"
+
+[[sources]]
+type = "homebrew"
+cask = "vanilla"
+
+[[sources]]
+type = "sparkle"
+url = "https://macrelease.matthewpalmer.net/distribution/appcasts/vanilla.xml?beta=false"

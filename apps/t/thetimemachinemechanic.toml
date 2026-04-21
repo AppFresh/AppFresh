@@ -1,0 +1,9 @@
+app_token = "thetimemachinemechanic"
+name = "The Time Machine Mechanic"
+desc = "Time Machine log viewer & status inspector"
+homepage = "https://eclecticlight.co/consolation-t2m2-and-log-utilities/"
+bundle_id = "co.eclecticlight.TheTimeMachineMechanic2"
+
+[[sources]]
+type = "homebrew"
+cask = "thetimemachinemechanic"

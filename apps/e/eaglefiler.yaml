@@ -1,9 +1,0 @@
-app_token: eaglefiler
-name: EagleFiler
-desc: Organise files, archive e-mails, save Web pages and notes, search everything
-homepage: 'https://c-command.com/eaglefiler/'
-bundle_id: com.c-command.EagleFiler
-
-sources:
-  - type: homebrew
-    cask: eaglefiler

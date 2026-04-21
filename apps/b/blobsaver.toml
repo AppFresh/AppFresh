@@ -1,0 +1,13 @@
+app_token = "blobsaver"
+name = "blobsaver"
+desc = "GUI for automatically saving SHSH blobs"
+homepage = "https://github.com/airsquared/blobsaver"
+bundle_id = "airsquared.blobsaver.app"
+
+[[sources]]
+type = "homebrew"
+cask = "blobsaver"
+
+[[sources]]
+type = "github"
+repo = "airsquared/blobsaver"

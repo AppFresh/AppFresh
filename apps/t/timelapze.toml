@@ -1,0 +1,13 @@
+app_token = "timelapze"
+name = "TimeLapze"
+desc = "Record screen and camera time lapses in a menu bar interface"
+homepage = "https://github.com/wkaisertexas/ScreenTimeLapse"
+bundle_id = "com.smartservices.TimeLapze"
+
+[[sources]]
+type = "homebrew"
+cask = "timelapze"
+
+[[sources]]
+type = "github"
+repo = "wkaisertexas/ScreenTimeLapse"

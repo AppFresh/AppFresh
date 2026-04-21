@@ -1,9 +1,0 @@
-app_token: teleport-connect
-name: Teleport Connect
-desc: Developer-friendly browser for cloud infrastructure
-homepage: 'https://goteleport.com/'
-bundle_id: gravitational.teleport.connect
-
-sources:
-  - type: homebrew
-    cask: teleport-connect

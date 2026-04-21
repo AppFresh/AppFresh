@@ -1,0 +1,13 @@
+app_token = "activitywatch"
+name = "ActivityWatch"
+desc = "Time tracker"
+homepage = "https://activitywatch.net/"
+bundle_id = "net.activitywatch.ActivityWatch"
+
+[[sources]]
+type = "homebrew"
+cask = "activitywatch"
+
+[[sources]]
+type = "github"
+repo = "ActivityWatch/activitywatch"

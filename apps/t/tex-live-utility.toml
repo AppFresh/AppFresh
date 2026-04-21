@@ -1,0 +1,13 @@
+app_token = "tex-live-utility"
+name = "TeX Live Utility"
+desc = "Graphical user interface for TeX Live Manager"
+homepage = "https://github.com/amaxwell/tlutility"
+bundle_id = "com.googlecode.mactlmgr.tlu"
+
+[[sources]]
+type = "homebrew"
+cask = "tex-live-utility"
+
+[[sources]]
+type = "github"
+repo = "amaxwell/tlutility"

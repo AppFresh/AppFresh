@@ -1,0 +1,17 @@
+app_token = "llamabarn"
+name = "LlamaBarn"
+desc = "Menu bar app for running local LLMs"
+homepage = "https://github.com/ggml-org/LlamaBarn"
+bundle_id = "app.llamabarn.LlamaBarn"
+
+[[sources]]
+type = "homebrew"
+cask = "llamabarn"
+
+[[sources]]
+type = "github"
+repo = "ggml-org/LlamaBarn"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.llamabarn.app/appcast.xml"

@@ -1,0 +1,9 @@
+app_token = "pandora"
+name = "Pandora"
+desc = "Desktop client for the Pandora web radio service"
+homepage = "https://www.pandora.com/desktop"
+bundle_id = "com.pandora.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "pandora"

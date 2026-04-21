@@ -1,0 +1,13 @@
+app_token = "gopanda"
+name = "GoPanda"
+desc = "Pandanet client"
+homepage = "https://pandanet-igs.com/communities/gopanda2"
+bundle_id = "pandanet.gopanda"
+
+[[sources]]
+type = "homebrew"
+cask = "gopanda"
+
+[[sources]]
+type = "electron"
+url = "https://pandanet-igs.com/gopanda2/download/latest-mac.yml"

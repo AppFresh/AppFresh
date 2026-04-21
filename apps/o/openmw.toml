@@ -1,0 +1,13 @@
+app_token = "openmw"
+name = "OpenMW"
+desc = "Open-source open-world RPG game engine that supports playing Morrowind"
+homepage = "https://openmw.org/"
+bundle_id = "org.openmw.openmw"
+
+[[sources]]
+type = "homebrew"
+cask = "openmw"
+
+[[sources]]
+type = "github"
+repo = "OpenMW/openmw"

@@ -1,0 +1,13 @@
+app_token = "impactor"
+name = "Impactor"
+desc = "Sideloading application for iOS/tvOS"
+homepage = "https://github.com/khcrysalis/Impactor/"
+bundle_id = "dev.khcrysalis.PlumeImpactor"
+
+[[sources]]
+type = "homebrew"
+cask = "impactor"
+
+[[sources]]
+type = "github"
+repo = "khcrysalis/Impactor"

@@ -1,9 +1,0 @@
-app_token: wwdc
-name: WWDC
-desc: The unofficial WWDC app for macOS.
-homepage: 'https://wwdc.io/'
-bundle_id: io.wwdc.app
-
-sources:
-  - type: github
-    repo: insidegui/WWDC

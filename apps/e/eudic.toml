@@ -1,0 +1,9 @@
+app_token = "eudic"
+name = "Eudic"
+desc = "English dictionary"
+homepage = "https://www.eudic.net/v4/en/app/eudic"
+bundle_id = "com.eusoft.eudic"
+
+[[sources]]
+type = "homebrew"
+cask = "eudic"

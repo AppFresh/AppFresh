@@ -1,0 +1,9 @@
+app_token = "snipaste"
+name = "Snipaste"
+desc = "Snip or pin screenshots"
+homepage = "https://www.snipaste.com/"
+bundle_id = "com.Snipaste"
+
+[[sources]]
+type = "homebrew"
+cask = "snipaste"

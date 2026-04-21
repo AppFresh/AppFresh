@@ -1,0 +1,13 @@
+app_token = "nota"
+name = "Nota"
+desc = "Markdown files editor"
+homepage = "https://nota.md/"
+bundle_id = "md.nota.macos"
+
+[[sources]]
+type = "homebrew"
+cask = "nota"
+
+[[sources]]
+type = "github"
+repo = "notaapp/releases"

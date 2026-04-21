@@ -1,0 +1,12 @@
+app_token = "mqtt-explorer"
+name = "MQTT Explorer"
+homepage = "https://mqtt-explorer.com/"
+bundle_id = "de.t7n.apps.mqtt-explorer"
+
+[[sources]]
+type = "homebrew"
+cask = "mqtt-explorer"
+
+[[sources]]
+type = "github"
+repo = "thomasnordquist/MQTT-Explorer"

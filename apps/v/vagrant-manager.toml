@@ -1,0 +1,12 @@
+app_token = "vagrant-manager"
+name = "Vagrant Manager"
+homepage = "https://www.vagrantmanager.com/"
+bundle_id = "lanayo.Vagrant-Manager"
+
+[[sources]]
+type = "homebrew"
+cask = "vagrant-manager"
+
+[[sources]]
+type = "github"
+repo = "lanayotech/vagrant-manager"

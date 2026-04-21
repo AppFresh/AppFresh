@@ -1,0 +1,13 @@
+app_token = "jan"
+name = "Jan"
+desc = "Offline AI chat tool"
+homepage = "https://jan.ai/"
+bundle_id = "jan.ai.app"
+
+[[sources]]
+type = "homebrew"
+cask = "jan"
+
+[[sources]]
+type = "github"
+repo = "janhq/jan"

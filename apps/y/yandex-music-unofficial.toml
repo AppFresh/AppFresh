@@ -1,0 +1,13 @@
+app_token = "yandex-music-unofficial"
+name = "Yandex Music Unofficial"
+desc = "Unofficial app for Yandex Music"
+homepage = "https://yandex-music.juvs.dev/"
+bundle_id = "dev.juvs.yandex-music"
+
+[[sources]]
+type = "homebrew"
+cask = "yandex-music-unofficial"
+
+[[sources]]
+type = "github"
+repo = "juvirez/yandex-music-app"

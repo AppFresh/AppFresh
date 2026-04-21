@@ -1,9 +1,0 @@
-app_token: nestopia
-name: Nestopia
-desc: Nintendo Entertainment System (NES) emulator
-homepage: 'https://www.bannister.org/software/nestopia.htm'
-bundle_id: com.bannister.Nestopia
-
-sources:
-  - type: homebrew
-    cask: nestopia

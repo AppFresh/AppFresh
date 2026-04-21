@@ -1,0 +1,13 @@
+app_token = "runelite"
+name = "RuneLite"
+desc = "Client for Old School RuneScape"
+homepage = "https://runelite.net/"
+bundle_id = "net.runelite.launcher"
+
+[[sources]]
+type = "homebrew"
+cask = "runelite"
+
+[[sources]]
+type = "github"
+repo = "runelite/launcher"

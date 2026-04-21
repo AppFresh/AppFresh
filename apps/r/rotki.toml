@@ -1,0 +1,13 @@
+app_token = "rotki"
+name = "Rotki"
+desc = "Portfolio tracking and accounting tool"
+homepage = "https://rotki.com/"
+bundle_id = "com.rotki.app"
+
+[[sources]]
+type = "homebrew"
+cask = "rotki"
+
+[[sources]]
+type = "github"
+repo = "rotki/rotki"

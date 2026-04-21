@@ -1,0 +1,13 @@
+app_token = "xca"
+name = "XCA"
+desc = "X Certificate and Key management"
+homepage = "https://hohnstaedt.de/xca/"
+bundle_id = "de.hohnstaedt.xca"
+
+[[sources]]
+type = "homebrew"
+cask = "xca"
+
+[[sources]]
+type = "github"
+repo = "chris2511/xca"

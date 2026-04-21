@@ -1,0 +1,13 @@
+app_token = "yippy"
+name = "Yippy"
+desc = "Open source clipboard manager"
+homepage = "https://github.com/mattDavo/Yippy"
+bundle_id = "MatthewDavidson.Yippy"
+
+[[sources]]
+type = "homebrew"
+cask = "yippy"
+
+[[sources]]
+type = "github"
+repo = "mattDavo/Yippy"

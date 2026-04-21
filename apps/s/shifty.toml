@@ -1,0 +1,17 @@
+app_token = "shifty"
+name = "Shifty"
+desc = "Menu bar app that provides more control over Night Shift"
+homepage = "https://shifty.natethompson.io/"
+bundle_id = "io.natethompson.Shifty"
+
+[[sources]]
+type = "homebrew"
+cask = "shifty"
+
+[[sources]]
+type = "github"
+repo = "thompsonate/Shifty"
+
+[[sources]]
+type = "sparkle"
+url = "https://shifty.natethompson.io/ShiftyAppcast.xml"

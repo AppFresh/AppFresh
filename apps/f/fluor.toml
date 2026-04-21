@@ -1,0 +1,13 @@
+app_token = "fluor"
+name = "Fluor"
+desc = "Change the behavior of the fn keys depending on the active application"
+homepage = "https://github.com/Pyroh/Fluor"
+bundle_id = "com.pyrolyse.Fluor"
+
+[[sources]]
+type = "homebrew"
+cask = "fluor"
+
+[[sources]]
+type = "github"
+repo = "Pyroh/Fluor"

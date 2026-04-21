@@ -1,0 +1,13 @@
+app_token = "tartelet"
+name = "Tartelet"
+desc = "Manage GitHub Actions runners in virtual machines"
+homepage = "https://github.com/shapehq/tartelet"
+bundle_id = "dk.shape.Tartelet"
+
+[[sources]]
+type = "homebrew"
+cask = "tartelet"
+
+[[sources]]
+type = "github"
+repo = "shapehq/tartelet"

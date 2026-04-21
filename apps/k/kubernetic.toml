@@ -1,0 +1,13 @@
+app_token = "kubernetic"
+name = "Kubernetic"
+desc = "Kubernetes desktop client"
+homepage = "https://kubernetic.com/"
+bundle_id = "com.kubernetic.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "kubernetic"
+
+[[sources]]
+type = "electron"
+url = "https://kubernetic.s3.amazonaws.com/latest-mac.yml"

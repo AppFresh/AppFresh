@@ -1,0 +1,13 @@
+app_token = "smoothcsv"
+name = "SmoothCSV"
+desc = "CSV editor"
+homepage = "https://smoothcsv.com/"
+bundle_id = "com.smoothcsv.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "smoothcsv"
+
+[[sources]]
+type = "github"
+repo = "kohii/smoothcsv3"

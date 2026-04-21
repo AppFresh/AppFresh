@@ -1,9 +1,0 @@
-app_token: youdaodict
-name: YoudaoDict
-desc: Youdao Dictionary
-homepage: 'https://cidian.youdao.com/index-mac.html'
-bundle_id: com.youdao.YoudaoDict
-
-sources:
-  - type: homebrew
-    cask: youdaodict

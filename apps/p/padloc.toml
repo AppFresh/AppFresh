@@ -1,0 +1,13 @@
+app_token = "padloc"
+name = "Padloc"
+desc = "Modern password manager"
+homepage = "https://padloc.app/"
+bundle_id = "app.padloc"
+
+[[sources]]
+type = "homebrew"
+cask = "padloc"
+
+[[sources]]
+type = "github"
+repo = "padloc/padloc"

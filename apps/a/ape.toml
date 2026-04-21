@@ -1,0 +1,9 @@
+app_token = "ape"
+name = "ApE (A Plasmid Editor)"
+desc = "Software for DNA sequence analysis and annotation"
+homepage = "https://jorgensen.biology.utah.edu/wayned/ape/"
+bundle_id = "com.tcltk.ape"
+
+[[sources]]
+type = "homebrew"
+cask = "ape"

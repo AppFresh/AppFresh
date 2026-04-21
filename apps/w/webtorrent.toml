@@ -1,0 +1,13 @@
+app_token = "webtorrent"
+name = "WebTorrent Desktop"
+desc = "Torrent streaming application"
+homepage = "https://webtorrent.io/desktop/"
+bundle_id = "io.webtorrent.webtorrent"
+
+[[sources]]
+type = "homebrew"
+cask = "webtorrent"
+
+[[sources]]
+type = "github"
+repo = "webtorrent/webtorrent-desktop"

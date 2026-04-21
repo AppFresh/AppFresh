@@ -1,0 +1,9 @@
+app_token = "qspace-pro"
+name = "QSpace Pro"
+desc = "Better Finder alternative"
+homepage = "https://qspace.awehunt.com/"
+bundle_id = "com.jinghaoshe.qspace.pro"
+
+[[sources]]
+type = "homebrew"
+cask = "qspace-pro"

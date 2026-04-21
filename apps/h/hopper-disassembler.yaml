@@ -1,9 +1,0 @@
-app_token: hopper-disassembler
-name: Hopper Disassembler
-desc: Reverse engineering tool that lets you disassemble, decompile and debug your app
-homepage: 'https://www.hopperapp.com/'
-bundle_id: com.cryptic-apps.hopper-web-4
-
-sources:
-  - type: homebrew
-    cask: hopper-disassembler

@@ -1,0 +1,13 @@
+app_token = "freepdf"
+name = "FreePDF"
+desc = "Reader that supports translating PDF documents"
+homepage = "https://github.com/zstar1003/FreePDF"
+bundle_id = "com.zstar.freepdf"
+
+[[sources]]
+type = "homebrew"
+cask = "freepdf"
+
+[[sources]]
+type = "github"
+repo = "zstar1003/FreePDF"

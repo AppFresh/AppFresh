@@ -1,0 +1,9 @@
+app_token = "buholaunchpad"
+name = "BuhoLaunchpad"
+desc = "Your Lovely Launchpad is Back"
+homepage = "https://www.drbuho.com/buholaunchpad"
+bundle_id = "com.drbuho.BuhoLaunchpad.Launcher"
+
+[[sources]]
+type = "sparkle"
+url = "https://drbuho.net/buholaunchpad/appcast.xml"

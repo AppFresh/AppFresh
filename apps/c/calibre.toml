@@ -1,0 +1,9 @@
+app_token = "calibre"
+name = "calibre"
+desc = "E-books management software"
+homepage = "https://calibre-ebook.com/"
+bundle_id = "net.kovidgoyal.calibre"
+
+[[sources]]
+type = "homebrew"
+cask = "calibre"

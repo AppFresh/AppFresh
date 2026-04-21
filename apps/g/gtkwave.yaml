@@ -1,9 +1,0 @@
-app_token: gtkwave
-name: GTKWave
-desc: GTK+ based wave viewer
-homepage: 'https://gtkwave.sourceforge.net/'
-bundle_id: com.geda.gtkwave
-
-sources:
-  - type: homebrew
-    cask: gtkwave

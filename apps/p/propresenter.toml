@@ -1,0 +1,13 @@
+app_token = "propresenter"
+name = "ProPresenter"
+desc = "Presentation and production application for live events"
+homepage = "https://renewedvision.com/propresenter/"
+bundle_id = "com.renewedvision.propresenter"
+
+[[sources]]
+type = "homebrew"
+cask = "propresenter"
+
+[[sources]]
+type = "homebrew"
+cask = "propresenter@beta"

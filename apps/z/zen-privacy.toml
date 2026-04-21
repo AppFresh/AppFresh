@@ -1,0 +1,13 @@
+app_token = "zen-privacy"
+name = "Zen"
+desc = "Ad-blocker and privacy guard"
+homepage = "https://zenprivacy.net/"
+bundle_id = "net.zenprivacy.zen"
+
+[[sources]]
+type = "homebrew"
+cask = "zen-privacy"
+
+[[sources]]
+type = "github"
+repo = "ZenPrivacy/zen-desktop"

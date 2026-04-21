@@ -1,0 +1,13 @@
+app_token = "halloy"
+name = "Halloy"
+desc = "IRC client"
+homepage = "https://halloy.chat/"
+bundle_id = "org.squidowl.halloy"
+
+[[sources]]
+type = "homebrew"
+cask = "halloy"
+
+[[sources]]
+type = "github"
+repo = "squidowl/halloy"

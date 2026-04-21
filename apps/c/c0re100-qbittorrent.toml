@@ -1,0 +1,13 @@
+app_token = "c0re100-qbittorrent"
+name = "qBittorrent Enhanced Edition"
+desc = "Bittorrent client"
+homepage = "https://github.com/c0re100/qBittorrent-Enhanced-Edition"
+bundle_id = "org.qbittorrent.qBittorrent"
+
+[[sources]]
+type = "homebrew"
+cask = "c0re100-qbittorrent"
+
+[[sources]]
+type = "github"
+repo = "c0re100/qBittorrent-Enhanced-Edition"

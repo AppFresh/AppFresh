@@ -1,9 +1,0 @@
-app_token: ghost-browser
-name: Ghost Browser
-desc: Web browser
-homepage: 'https://ghostbrowser.com/'
-bundle_id: com.ghostbrowser.gb1
-
-sources:
-  - type: homebrew
-    cask: ghost-browser

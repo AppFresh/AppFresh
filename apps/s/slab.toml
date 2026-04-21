@@ -1,0 +1,13 @@
+app_token = "slab"
+name = "Slab"
+desc = "Knowledge management for organisations"
+homepage = "https://slab.com/"
+bundle_id = "com.slab.slab"
+
+[[sources]]
+type = "homebrew"
+cask = "slab"
+
+[[sources]]
+type = "github"
+repo = "slab/desktop-releases"

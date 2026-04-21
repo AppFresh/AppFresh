@@ -1,0 +1,13 @@
+app_token = "mailspring"
+name = "Mailspring"
+desc = "A beautiful, fast and fully open source mail client"
+homepage = "https://getmailspring.com/"
+bundle_id = "com.mailspring.mailspring"
+
+[[sources]]
+type = "homebrew"
+cask = "mailspring"
+
+[[sources]]
+type = "github"
+repo = "Foundry376/Mailspring"

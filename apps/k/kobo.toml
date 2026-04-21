@@ -1,0 +1,9 @@
+app_token = "kobo"
+name = "Kobo"
+desc = "Desktop reader for Kobo eBooks"
+homepage = "https://www.kobo.com/desktop"
+bundle_id = "com.kobo.desktop.Kobo"
+
+[[sources]]
+type = "homebrew"
+cask = "kobo"

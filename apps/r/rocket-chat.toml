@@ -1,0 +1,13 @@
+app_token = "rocket-chat"
+name = "Rocket.Chat"
+desc = "Official desktop client for Rocket.Chat"
+homepage = "https://rocket.chat/"
+bundle_id = "chat.rocket"
+
+[[sources]]
+type = "homebrew"
+cask = "rocket-chat"
+
+[[sources]]
+type = "github"
+repo = "RocketChat/Rocket.Chat.Electron"

@@ -1,9 +1,0 @@
-app_token: conductor
-name: Conductor
-desc: Claude code parallelisation
-homepage: 'https://conductor.build/'
-bundle_id: com.conductor.app
-
-sources:
-  - type: homebrew
-    cask: conductor

@@ -1,0 +1,13 @@
+app_token = "gb-studio"
+name = "GB Studio"
+desc = "Drag and drop retro game creator"
+homepage = "https://www.gbstudio.dev/"
+bundle_id = "dev.gbstudio.gbstudio"
+
+[[sources]]
+type = "homebrew"
+cask = "gb-studio"
+
+[[sources]]
+type = "github"
+repo = "chrismaltby/gb-studio"

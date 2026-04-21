@@ -1,0 +1,13 @@
+app_token = "tower"
+name = "Tower"
+desc = "Git client focusing on power and productivity"
+homepage = "https://www.git-tower.com/"
+bundle_id = "com.fournova.Tower3"
+
+[[sources]]
+type = "homebrew"
+cask = "tower"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.fournova.com/tower3-mac/stable/updates"

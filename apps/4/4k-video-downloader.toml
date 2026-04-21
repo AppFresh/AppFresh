@@ -1,0 +1,9 @@
+app_token = "4k-video-downloader"
+name = "4K Video Downloader"
+desc = "Free video downloader"
+homepage = "https://www.4kdownload.com/products/product-videodownloader"
+bundle_id = "com.openmedia.4kvideodownloader"
+
+[[sources]]
+type = "homebrew"
+cask = "4k-video-downloader"

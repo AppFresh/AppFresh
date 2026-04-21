@@ -1,0 +1,13 @@
+app_token = "hidock"
+name = "HiDock"
+desc = "Set custom Dock settings for when on different displays"
+homepage = "https://hidock.app/"
+bundle_id = "design.rafa.HiDock"
+
+[[sources]]
+type = "homebrew"
+cask = "hidock"
+
+[[sources]]
+type = "sparkle"
+url = "https://hidock.app/appcast.xml"

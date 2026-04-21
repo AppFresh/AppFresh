@@ -1,0 +1,13 @@
+app_token = "material-maker"
+name = "Material Maker"
+desc = "Procedural material authoring and 3D painting tool based on the Godot Engine"
+homepage = "https://rodzilla.itch.io/material-maker"
+bundle_id = "com.rodzlabs.materialmaker"
+
+[[sources]]
+type = "homebrew"
+cask = "material-maker"
+
+[[sources]]
+type = "github"
+repo = "RodZill4/material-maker"

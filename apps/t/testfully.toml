@@ -1,0 +1,9 @@
+app_token = "testfully"
+name = "Testfully"
+desc = "Platform for API testing and monitoring"
+homepage = "https://docs.testfully.io/"
+bundle_id = "io.testfully.app"
+
+[[sources]]
+type = "homebrew"
+cask = "testfully"

@@ -1,0 +1,13 @@
+app_token = "battery"
+name = "Battery"
+desc = "App for managing battery charging. (Also installs a CLI on first use.)"
+homepage = "https://github.com/actuallymentor/battery/"
+bundle_id = "co.palokaj.battery"
+
+[[sources]]
+type = "homebrew"
+cask = "battery"
+
+[[sources]]
+type = "github"
+repo = "actuallymentor/battery"

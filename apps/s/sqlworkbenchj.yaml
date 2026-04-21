@@ -1,9 +1,0 @@
-app_token: sqlworkbenchj
-name: SQL Workbench/J
-desc: DBMS-independent SQL query tool
-homepage: 'https://www.sql-workbench.eu/'
-bundle_id: sqlworkbench.app
-
-sources:
-  - type: homebrew
-    cask: sqlworkbenchj

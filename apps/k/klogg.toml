@@ -1,0 +1,13 @@
+app_token = "klogg"
+name = "Klogg"
+desc = "Fast, advanced log explorer"
+homepage = "https://github.com/variar/klogg"
+bundle_id = "com.github.variar.klogg"
+
+[[sources]]
+type = "homebrew"
+cask = "klogg"
+
+[[sources]]
+type = "github"
+repo = "variar/klogg"

@@ -1,9 +1,0 @@
-app_token: copilot-money
-name: Copilot
-desc: Track and budget money
-homepage: 'https://copilot.money/'
-bundle_id: com.copilot.production
-
-sources:
-  - type: homebrew
-    cask: copilot-money

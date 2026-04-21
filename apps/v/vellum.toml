@@ -1,0 +1,13 @@
+app_token = "vellum"
+name = "Vellum"
+desc = "Ebook creation software"
+homepage = "https://vellum.pub/"
+bundle_id = "co.180g.Vellum"
+
+[[sources]]
+type = "homebrew"
+cask = "vellum"
+
+[[sources]]
+type = "sparkle"
+url = "https://get.180g.co/updates/vellum/"

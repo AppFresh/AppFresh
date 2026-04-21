@@ -1,0 +1,13 @@
+app_token = "fabric-app"
+name = "Fabric"
+desc = "Personal knowledge management and note-taking app"
+homepage = "https://fabric.so/"
+bundle_id = "com.todesktop.220930m1ahpjvoh"
+
+[[sources]]
+type = "homebrew"
+cask = "fabric-app"
+
+[[sources]]
+type = "electron"
+url = "https://download.todesktop.com/220930m1ahpjvoh/latest-mac.yml"

@@ -1,0 +1,13 @@
+app_token = "whimsical"
+name = "Whimsical"
+desc = "Collaboration and diagramming tool"
+homepage = "https://whimsical.com/"
+bundle_id = "com.whimsical.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "whimsical"
+
+[[sources]]
+type = "electron"
+url = "https://download.todesktop.com/2402209z4j37b73/latest-mac.yml"

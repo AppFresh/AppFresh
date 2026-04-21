@@ -1,0 +1,8 @@
+app_token = "sketch@beta"
+name = "Sketch Beta"
+desc = "Digital design and prototyping platform"
+homepage = "https://www.sketch.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "sketch@beta"

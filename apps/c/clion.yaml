@@ -1,9 +1,0 @@
-app_token: clion
-name: CLion
-desc: C and C++ IDE
-homepage: 'https://www.jetbrains.com/clion/'
-bundle_id: com.jetbrains.CLion
-
-sources:
-  - type: homebrew
-    cask: clion

@@ -1,0 +1,13 @@
+app_token = "tradingview"
+name = "TradingView Desktop"
+desc = "Charting and social-networking for investment traders"
+homepage = "https://www.tradingview.com/desktop/"
+bundle_id = "com.tradingview.tradingviewapp.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "tradingview"
+
+[[sources]]
+type = "electron"
+url = "https://tvd-packages.tradingview.com/stable/latest/darwin/stable-mac.yml"

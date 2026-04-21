@@ -1,0 +1,9 @@
+app_token = "hyperconnect"
+name = "HyperConnect"
+desc = "Cross-device interconnection service for the Xiaomi ecosystem"
+homepage = "https://hyperos.mi.com/continuity"
+bundle_id = "com.xiaomi.hyperConnect"
+
+[[sources]]
+type = "homebrew"
+cask = "hyperconnect"

@@ -1,9 +1,0 @@
-app_token: meld-studio
-name: Meld Studio
-desc: Live streaming and recording software
-homepage: 'https://www.meldstudio.co/'
-bundle_id: co.meldstudio.MeldStudio
-
-sources:
-  - type: homebrew
-    cask: meld-studio

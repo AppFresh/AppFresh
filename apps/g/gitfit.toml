@@ -1,0 +1,13 @@
+app_token = "gitfit"
+name = "GitFit"
+desc = "Micro-workouts while waiting for AI code generation"
+homepage = "https://git-fit.app/"
+bundle_id = "com.chrisbongers.GitFit"
+
+[[sources]]
+type = "homebrew"
+cask = "gitfit"
+
+[[sources]]
+type = "github"
+repo = "rebelchris/git-fit"

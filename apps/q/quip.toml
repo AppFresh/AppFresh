@@ -1,0 +1,13 @@
+app_token = "quip"
+name = "Quip"
+desc = "Tool for teams to create living documents"
+homepage = "https://quip.com/"
+bundle_id = "com.quip.Desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "quip"
+
+[[sources]]
+type = "sparkle"
+url = "https://api.quip.com/-/sparkle-feed?manual=0"

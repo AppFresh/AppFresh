@@ -1,0 +1,9 @@
+app_token = "sniffnet"
+name = "Sniffnet"
+desc = "Comfortably monitor your Internet traffic 🕵️‍♂️"
+homepage = "https://sniffnet.net/"
+bundle_id = "io.github.gyulyvgc.sniffnet"
+
+[[sources]]
+type = "github"
+repo = "GyulyVGC/sniffnet"

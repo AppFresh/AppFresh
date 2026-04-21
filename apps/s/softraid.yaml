@@ -1,9 +1,0 @@
-app_token: softraid
-name: SoftRAID
-desc: Powerful and intuitive software RAID utility
-homepage: 'https://www.softraid.com/'
-bundle_id: com.softraid.SoftRAID
-
-sources:
-  - type: homebrew
-    cask: softraid

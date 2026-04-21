@@ -1,0 +1,17 @@
+app_token = "maestral"
+name = "Maestral"
+desc = "Open-source Dropbox client"
+homepage = "https://maestral.app/"
+bundle_id = "com.samschott.maestral"
+
+[[sources]]
+type = "homebrew"
+cask = "maestral"
+
+[[sources]]
+type = "github"
+repo = "SamSchott/maestral"
+
+[[sources]]
+type = "sparkle"
+url = "https://maestral.app/appcast.xml"

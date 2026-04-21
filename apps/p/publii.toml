@@ -1,0 +1,9 @@
+app_token = "publii"
+name = "Publii"
+desc = "Static website generator"
+homepage = "https://getpublii.com/"
+bundle_id = "com.tidycustoms.publii"
+
+[[sources]]
+type = "homebrew"
+cask = "publii"

@@ -1,0 +1,14 @@
+app_token = "electron"
+name = "Electron"
+desc = "Build desktop apps with JavaScript, HTML, and CSS"
+homepage = "https://electronjs.org/"
+bundle_id = "com.github.Electron"
+
+[[sources]]
+type = "homebrew"
+cask = "electron"
+
+[[sources]]
+type = "github"
+repo = "electron/electron"
+regex = 'electron-v([\d.]+)-darwin-arm64\.zip'

@@ -1,0 +1,13 @@
+app_token = "xournal-plusplus"
+name = "Xournal++"
+desc = "Handwriting notetaking software"
+homepage = "https://github.com/xournalpp/xournalpp"
+bundle_id = "com.github.xournalpp"
+
+[[sources]]
+type = "homebrew"
+cask = "xournal++"
+
+[[sources]]
+type = "github"
+repo = "xournalpp/xournalpp"

@@ -1,0 +1,9 @@
+app_token = "tencent-docs"
+name = "Tencent Docs"
+desc = "Online editor for Word, Excel and PPT documents"
+homepage = "https://docs.qq.com/"
+bundle_id = "com.tencent.mac.tdappdesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "tencent-docs"

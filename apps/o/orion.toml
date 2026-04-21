@@ -1,0 +1,13 @@
+app_token = "orion"
+name = "Orion Browser"
+desc = "WebKit based web browser"
+homepage = "https://browser.kagi.com/"
+bundle_id = "com.kagi.kagimacOS"
+
+[[sources]]
+type = "homebrew"
+cask = "orion"
+
+[[sources]]
+type = "sparkle"
+url = "https://cdn.kagi.com/updates/10_15/appcast.xml"

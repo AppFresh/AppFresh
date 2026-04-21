@@ -1,0 +1,9 @@
+app_token = "pycharm-ce"
+name = "Jetbrains PyCharm Community Edition"
+desc = "IDE for Python programming - Community Edition"
+homepage = "https://www.jetbrains.com/pycharm/"
+bundle_id = "com.jetbrains.pycharm.ce"
+
+[[sources]]
+type = "homebrew"
+cask = "pycharm-ce"

@@ -1,0 +1,13 @@
+app_token = "prowl"
+name = "Prowl"
+desc = "Native terminal coding agents command center."
+bundle_id = "com.onevcat.prowl"
+
+[[sources]]
+type = "homebrew"
+tap = "onevcat/tap"
+cask = "prowl"
+
+[[sources]]
+type = "github"
+repo = "onevcat/Prowl"

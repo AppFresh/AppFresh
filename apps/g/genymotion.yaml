@@ -1,9 +1,0 @@
-app_token: genymotion
-name: Genymotion
-desc: Android emulator
-homepage: 'https://www.genymotion.com/'
-bundle_id: com.genymobile.Genymotion
-
-sources:
-  - type: homebrew
-    cask: genymotion

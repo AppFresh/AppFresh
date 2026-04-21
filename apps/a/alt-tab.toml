@@ -1,0 +1,13 @@
+app_token = "alt-tab"
+name = "AltTab"
+desc = "Enable Windows-like alt-tab"
+homepage = "https://alt-tab-macos.netlify.app/"
+bundle_id = "com.lwouis.alt-tab-macos"
+
+[[sources]]
+type = "homebrew"
+cask = "alt-tab"
+
+[[sources]]
+type = "github"
+repo = "lwouis/alt-tab-macos"

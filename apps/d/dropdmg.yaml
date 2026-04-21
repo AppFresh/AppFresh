@@ -1,9 +1,0 @@
-app_token: dropdmg
-name: DropDMG
-desc: Create DMGs and other archives
-homepage: 'https://c-command.com/dropdmg/'
-bundle_id: com.c-command.DropDMG
-
-sources:
-  - type: homebrew
-    cask: dropdmg

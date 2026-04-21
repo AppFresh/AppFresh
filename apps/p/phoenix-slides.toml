@@ -1,0 +1,13 @@
+app_token = "phoenix-slides"
+name = "Phoenix Slides"
+desc = "Full-screen slideshow program"
+homepage = "https://blyt.net/phxslides/"
+bundle_id = "net.blyt.phoenixslides"
+
+[[sources]]
+type = "homebrew"
+cask = "phoenix-slides"
+
+[[sources]]
+type = "github"
+repo = "gobbledegook/creevey"

@@ -1,9 +1,0 @@
-app_token: infinidesk
-name: InfiniDesk
-desc: Create multiple virtual desktops, each with unique files, wallpaper and widgets
-homepage: 'https://infinidesk.app/'
-bundle_id: app.infinidesk.InfiniDesk
-
-sources:
-  - type: homebrew
-    cask: infinidesk

@@ -1,0 +1,14 @@
+app_token = "switchshuttle"
+name = "SwitchShuttle"
+desc = "a cross-platform system tray application that allows users to run predefined commands in various terminal applications."
+homepage = "https://s00d.github.io/switchshuttle/"
+bundle_id = "com.SwitchShuttle"
+
+[[sources]]
+type = "homebrew"
+tap = "s00d/switchshuttle"
+cask = "switchshuttle"
+
+[[sources]]
+type = "github"
+repo = "s00d/switchshuttle"

@@ -1,0 +1,13 @@
+app_token = "vibetunnel"
+name = "VibeTunnel"
+desc = "Turn any browser into your terminal"
+homepage = "https://vibetunnel.sh/"
+bundle_id = "sh.vibetunnel.vibetunnel"
+
+[[sources]]
+type = "homebrew"
+cask = "vibetunnel"
+
+[[sources]]
+type = "github"
+repo = "amantus-ai/vibetunnel"

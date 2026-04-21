@@ -1,0 +1,9 @@
+app_token = "keepassx"
+name = "KeePassX"
+desc = "Personal data manager focusing on security"
+homepage = "https://www.keepassx.org/"
+bundle_id = "org.keepassx.keepassx"
+
+[[sources]]
+type = "homebrew"
+cask = "keepassx"

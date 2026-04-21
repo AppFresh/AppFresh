@@ -1,9 +1,0 @@
-app_token: privadovpn
-name: PrivadoVPN
-desc: VPN client
-homepage: 'https://privadovpn.com/'
-bundle_id: io.privado.main
-
-sources:
-  - type: homebrew
-    cask: privadovpn

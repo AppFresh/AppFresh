@@ -1,8 +1,0 @@
-app_token: brave-browser@beta
-name: Brave Beta
-desc: The browser that puts you first
-homepage: 'https://brave.com/'
-
-sources:
-  - type: homebrew
-    cask: brave-browser@beta

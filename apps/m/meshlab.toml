@@ -1,0 +1,13 @@
+app_token = "meshlab"
+name = "MeshLab"
+desc = "Mesh processing system"
+homepage = "https://www.meshlab.net/"
+bundle_id = "com.vcg.meshlab"
+
+[[sources]]
+type = "homebrew"
+cask = "meshlab"
+
+[[sources]]
+type = "github"
+repo = "cnr-isti-vclab/meshlab"

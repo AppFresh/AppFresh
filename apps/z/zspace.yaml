@@ -1,9 +1,0 @@
-app_token: zspace
-name: zspace
-desc: NAS Client
-homepage: 'https://www.zspace.cn/'
-bundle_id: com.zentraedi.zspaceMacApp
-
-sources:
-  - type: homebrew
-    cask: zspace

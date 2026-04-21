@@ -1,0 +1,13 @@
+app_token = "dbgate"
+name = "DbGate"
+desc = "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
+homepage = "https://dbgate.org/"
+bundle_id = "org.dbgate"
+
+[[sources]]
+type = "homebrew"
+cask = "dbgate"
+
+[[sources]]
+type = "github"
+repo = "dbgate/dbgate"

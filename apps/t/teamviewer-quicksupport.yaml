@@ -1,9 +1,0 @@
-app_token: teamviewer-quicksupport
-name: TeamViewer QuickSupport
-desc: Remote support for computers and mobile devices
-homepage: 'https://www.teamviewer.com/'
-bundle_id: com.teamviewer.TeamViewerQS
-
-sources:
-  - type: homebrew
-    cask: teamviewer-quicksupport

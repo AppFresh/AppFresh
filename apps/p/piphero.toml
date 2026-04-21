@@ -1,0 +1,13 @@
+app_token = "piphero"
+name = "PiPHero"
+desc = "Menu bar app to picture-in-picture any window"
+homepage = "https://piphero.app/"
+bundle_id = "com.piphero.app"
+
+[[sources]]
+type = "homebrew"
+cask = "piphero"
+
+[[sources]]
+type = "github"
+repo = "pipheroapp/downloads"

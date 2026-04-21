@@ -1,0 +1,13 @@
+app_token = "plover"
+name = "Plover"
+desc = "Stenotype engine"
+homepage = "https://opensteno.org/plover/"
+bundle_id = "org.openstenoproject.plover"
+
+[[sources]]
+type = "homebrew"
+cask = "plover"
+
+[[sources]]
+type = "github"
+repo = "openstenoproject/plover"

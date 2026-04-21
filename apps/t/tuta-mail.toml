@@ -1,0 +1,13 @@
+app_token = "tuta-mail"
+name = "Tuta Mail"
+desc = "Email client"
+homepage = "https://tuta.com/"
+bundle_id = "de.tutao.tutanota"
+
+[[sources]]
+type = "homebrew"
+cask = "tuta-mail"
+
+[[sources]]
+type = "electron"
+url = "https://app.tuta.com/desktop/latest-mac.yml"

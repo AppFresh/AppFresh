@@ -1,9 +1,0 @@
-app_token: camunda-modeler
-name: Camunda Modeler
-desc: Workflow and Decision Automation Platform
-homepage: 'https://camunda.com/'
-bundle_id: com.camunda.CamundaModeler
-
-sources:
-  - type: homebrew
-    cask: camunda-modeler

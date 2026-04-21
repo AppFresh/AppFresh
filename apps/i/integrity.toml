@@ -1,0 +1,9 @@
+app_token = "integrity"
+name = "Integrity"
+desc = "Tool to scan a website checking for broken links"
+homepage = "https://peacockmedia.software/mac/integrity/"
+bundle_id = "com.peacockmedia.integrity"
+
+[[sources]]
+type = "homebrew"
+cask = "integrity"

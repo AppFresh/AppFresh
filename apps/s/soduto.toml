@@ -1,0 +1,9 @@
+app_token = "soduto"
+name = "Soduto"
+desc = "Communicate and share information between devices"
+homepage = "https://soduto.com/"
+bundle_id = "com.soduto.Soduto"
+
+[[sources]]
+type = "homebrew"
+cask = "soduto"

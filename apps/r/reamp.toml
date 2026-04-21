@@ -1,0 +1,13 @@
+app_token = "reamp"
+name = "re:AMP"
+desc = "WinAMP clone written in SwiftUI"
+homepage = "https://re-amp.ru/"
+bundle_id = "ru.alexfreud.ReAmp"
+
+[[sources]]
+type = "homebrew"
+cask = "reamp"
+
+[[sources]]
+type = "sparkle"
+url = "https://re-amp.ru/app/appcast.xml"

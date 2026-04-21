@@ -1,0 +1,9 @@
+app_token = "xnapper"
+name = "Xnapper"
+desc = "Screenshot tool"
+homepage = "https://xnapper.com/"
+bundle_id = "com.devuap.beautyshotapp"
+
+[[sources]]
+type = "homebrew"
+cask = "xnapper"

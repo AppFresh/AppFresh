@@ -1,9 +1,0 @@
-app_token: deluge
-name: Deluge
-desc: BitTorrent client
-homepage: 'https://deluge-torrent.org/'
-bundle_id: org.deluge
-
-sources:
-  - type: homebrew
-    cask: deluge

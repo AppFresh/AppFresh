@@ -1,0 +1,13 @@
+app_token = "mx-power-gadget"
+name = "Mx Power Gadget"
+desc = "Power management and monitoring for Apple Mx processors"
+homepage = "https://www.seense.com/menubarstats/mxpg/"
+bundle_id = "com.fabriceleyne.MxPowerGadget"
+
+[[sources]]
+type = "homebrew"
+cask = "mx-power-gadget"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.seense.com/menubarstats/mxpg/updateapp/appcast.xml"

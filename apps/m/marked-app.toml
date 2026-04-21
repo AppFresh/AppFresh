@@ -1,0 +1,13 @@
+app_token = "marked-app"
+name = "Marked"
+desc = "Previewer for Markdown, MultiMarkdown and other text markup languages"
+homepage = "https://marked2app.com/"
+bundle_id = "com.brettterpstra.marked2"
+
+[[sources]]
+type = "homebrew"
+cask = "marked-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.marked2app.com/marked.xml"

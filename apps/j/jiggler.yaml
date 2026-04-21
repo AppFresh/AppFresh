@@ -1,9 +1,0 @@
-app_token: jiggler
-name: Jiggler
-desc: Keep your computer awake
-homepage: 'https://www.sticksoftware.com/software/Jiggler.html'
-bundle_id: com.stick.app.jiggler
-
-sources:
-  - type: homebrew
-    cask: jiggler

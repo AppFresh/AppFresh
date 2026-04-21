@@ -1,9 +1,0 @@
-app_token: connectiq-sdk-manager
-name: Connect IQ SDK Manager
-desc: Manage SDKs and download device definitions for Garmin Connect IQ development
-homepage: 'https://developer.garmin.com/connect-iq/sdk/'
-bundle_id: com.garmin.connectiq.sdkmanager
-
-sources:
-  - type: homebrew
-    cask: connectiq-sdk-manager

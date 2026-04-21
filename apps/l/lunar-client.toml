@@ -1,0 +1,13 @@
+app_token = "lunar-client"
+name = "Lunar Client"
+desc = "Modpack for Minecraft 1.7.10 and 1.8.9"
+homepage = "https://www.lunarclient.com/"
+bundle_id = "com.moonsworth.client"
+
+[[sources]]
+type = "homebrew"
+cask = "lunar-client"
+
+[[sources]]
+type = "electron"
+url = "https://launcherupdates.lunarclientcdn.com/latest-mac.yml"

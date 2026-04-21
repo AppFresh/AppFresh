@@ -1,0 +1,13 @@
+app_token = "menubar-countdown"
+name = "Menubar Countdown"
+desc = "Countdown timer for the menu bar"
+homepage = "https://github.com/kristopherjohnson/MenubarCountdown"
+bundle_id = "net.kristopherjohnson.MenubarCountdown"
+
+[[sources]]
+type = "homebrew"
+cask = "menubar-countdown"
+
+[[sources]]
+type = "github"
+repo = "kristopherjohnson/MenubarCountdown"

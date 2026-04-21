@@ -1,0 +1,12 @@
+app_token = "kaku"
+name = "Kaku"
+homepage = "https://kaku.rocks/"
+bundle_id = "com.kaku.kaku-desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "kaku"
+
+[[sources]]
+type = "github"
+repo = "EragonJ/Kaku"

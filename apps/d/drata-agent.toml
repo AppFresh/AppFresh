@@ -1,0 +1,13 @@
+app_token = "drata-agent"
+name = "Drata Agent"
+desc = "Security audit software"
+homepage = "https://drata.com/"
+bundle_id = "com.drata.agent"
+
+[[sources]]
+type = "homebrew"
+cask = "drata-agent"
+
+[[sources]]
+type = "github"
+repo = "drata/agent-releases"

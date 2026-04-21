@@ -1,9 +1,0 @@
-app_token: wolfram-engine
-name: Wolfram Engine
-desc: Evaluator for the Wolfram Language
-homepage: 'https://www.wolfram.com/engine/'
-bundle_id: com.wolfram.WolframEngine
-
-sources:
-  - type: homebrew
-    cask: wolfram-engine

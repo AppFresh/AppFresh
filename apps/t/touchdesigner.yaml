@@ -1,9 +1,0 @@
-app_token: touchdesigner
-name: Derivative TouchDesigner
-desc: Tool for creating dynamic digital art
-homepage: 'https://derivative.ca/'
-bundle_id: ca.derivative.TouchDesigner
-
-sources:
-  - type: homebrew
-    cask: touchdesigner

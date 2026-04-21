@@ -1,9 +1,0 @@
-app_token: macx-youtube-downloader
-name: MacX YouTube Downloader
-desc: Tool to download videos from YouTube
-homepage: 'https://www.macxdvd.com/free-youtube-video-downloader-mac/'
-bundle_id: com.digiarty.youtubedownloader5
-
-sources:
-  - type: homebrew
-    cask: macx-youtube-downloader

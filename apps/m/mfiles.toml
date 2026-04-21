@@ -1,0 +1,9 @@
+app_token = "mfiles"
+name = "MFiles"
+desc = "Transfer files over local network"
+homepage = "https://mfiles.maokebing.com/"
+bundle_id = "com.windtune.itransfer"
+
+[[sources]]
+type = "homebrew"
+cask = "mfiles"

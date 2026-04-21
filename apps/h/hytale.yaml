@@ -1,9 +1,0 @@
-app_token: hytale
-name: Hytale
-desc: Official Hytale Launcher
-homepage: 'https://hytale.com/'
-bundle_id: com.hypixel.hytale-launcher
-
-sources:
-  - type: homebrew
-    cask: hytale

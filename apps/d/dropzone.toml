@@ -1,0 +1,13 @@
+app_token = "dropzone"
+name = "Dropzone"
+desc = "Productivity app"
+homepage = "https://aptonic.com/"
+bundle_id = "com.aptonic.Dropzone4"
+
+[[sources]]
+type = "homebrew"
+cask = "dropzone"
+
+[[sources]]
+type = "sparkle"
+url = "https://aptonic.com/releases/updates.xml"

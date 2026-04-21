@@ -1,9 +1,0 @@
-app_token: mdb-accdb-viewer
-name: MDB/ACCDB Viewer
-desc: Open Microsoft Access Databases
-homepage: 'https://eggerapps.at/mdbviewer/'
-bundle_id: at.eggerapps.mdbviewer
-
-sources:
-  - type: homebrew
-    cask: mdb-accdb-viewer

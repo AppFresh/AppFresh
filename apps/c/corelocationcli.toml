@@ -1,0 +1,13 @@
+app_token = "corelocationcli"
+name = "Core Location CLI"
+desc = "Prints location information from CoreLocation"
+homepage = "https://github.com/fulldecent/corelocationcli"
+bundle_id = "com.fulldecent.CoreLocationCLI"
+
+[[sources]]
+type = "homebrew"
+cask = "corelocationcli"
+
+[[sources]]
+type = "github"
+repo = "fulldecent/corelocationcli"

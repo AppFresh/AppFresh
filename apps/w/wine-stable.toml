@@ -1,0 +1,13 @@
+app_token = "wine-stable"
+name = "WineHQ"
+desc = "Compatibility layer to run Windows applications"
+homepage = "https://wiki.winehq.org/MacOS"
+bundle_id = "org.winehq.wine-stable.wine"
+
+[[sources]]
+type = "homebrew"
+cask = "wine-stable"
+
+[[sources]]
+type = "github"
+repo = "Gcenx/macOS_Wine_builds"

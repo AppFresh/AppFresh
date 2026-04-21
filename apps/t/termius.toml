@@ -1,0 +1,9 @@
+app_token = "termius"
+name = "Termius"
+desc = "SSH client"
+homepage = "https://www.termius.com/"
+bundle_id = "com.termius-dmg.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "termius"

@@ -1,0 +1,13 @@
+app_token = "fing"
+name = "Fing Desktop"
+desc = "Network scanner"
+homepage = "https://www.fing.com/products/fing-desktop"
+bundle_id = "com.fing.app"
+
+[[sources]]
+type = "homebrew"
+cask = "fing"
+
+[[sources]]
+type = "electron"
+url = "https://get.fing.com/fing-desktop-releases/mac/latest-mac.yml"

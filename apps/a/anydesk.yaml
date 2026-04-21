@@ -1,9 +1,0 @@
-app_token: anydesk
-name: AnyDesk
-desc: Allows connection to a computer remotely
-homepage: 'https://anydesk.com/'
-bundle_id: com.philandro.anydesk
-
-sources:
-  - type: homebrew
-    cask: anydesk

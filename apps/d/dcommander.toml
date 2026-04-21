@@ -1,0 +1,9 @@
+app_token = "dcommander"
+name = "DCommander"
+desc = "Two-pane file manager"
+homepage = "https://devstorm-apps.com/dcommander/"
+bundle_id = "com.devstorm.dc3"
+
+[[sources]]
+type = "homebrew"
+cask = "dcommander"

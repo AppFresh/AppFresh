@@ -1,0 +1,13 @@
+app_token = "bluej"
+name = "BlueJ"
+desc = "Java Development Environment designed for beginners"
+homepage = "https://www.bluej.org/"
+bundle_id = "org.bluej.BlueJ"
+
+[[sources]]
+type = "homebrew"
+cask = "bluej"
+
+[[sources]]
+type = "github"
+repo = "k-pet-group/BlueJ-Greenfoot"

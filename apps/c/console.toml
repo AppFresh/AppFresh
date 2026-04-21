@@ -1,0 +1,13 @@
+app_token = "console"
+name = "Console"
+desc = "Replacement for console application"
+homepage = "https://github.com/macmade/Console"
+bundle_id = "com.xs-labs.Console"
+
+[[sources]]
+type = "homebrew"
+cask = "console"
+
+[[sources]]
+type = "github"
+repo = "macmade/Console"

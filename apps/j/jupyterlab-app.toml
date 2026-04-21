@@ -1,0 +1,13 @@
+app_token = "jupyterlab-app"
+name = "JupyterLab App"
+desc = "Desktop application for JupyterLab"
+homepage = "https://github.com/jupyterlab/jupyterlab-desktop"
+bundle_id = "org.jupyter.jupyterlab-desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "jupyterlab-app"
+
+[[sources]]
+type = "github"
+repo = "jupyterlab/jupyterlab-desktop"

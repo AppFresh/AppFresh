@@ -1,0 +1,13 @@
+app_token = "rescuetime"
+name = "RescueTime"
+desc = "Time optimising application"
+homepage = "https://www.rescuetime.com/"
+bundle_id = "com.rescuetime.RescueTime"
+
+[[sources]]
+type = "homebrew"
+cask = "rescuetime"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.rescuetime.com/installers/appcast/rtx"

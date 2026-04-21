@@ -1,0 +1,9 @@
+app_token = "atoll"
+name = "Atoll"
+desc = "Dynamic Island for macOS"
+homepage = "https://getatoll.app/"
+bundle_id = "com.Ebullioscopic.Atoll"
+
+[[sources]]
+type = "github"
+repo = "Ebullioscopic/Atoll"

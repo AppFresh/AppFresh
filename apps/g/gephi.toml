@@ -1,0 +1,13 @@
+app_token = "gephi"
+name = "Gephi"
+desc = "Open-source platform for visualizing and manipulating large graphs"
+homepage = "https://gephi.org/"
+bundle_id = "org.gephi"
+
+[[sources]]
+type = "homebrew"
+cask = "gephi"
+
+[[sources]]
+type = "github"
+repo = "gephi/gephi"

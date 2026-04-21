@@ -1,9 +1,0 @@
-app_token: box-tools
-name: Box Tools
-desc: Create and edit any file directly from a web browser
-homepage: 'https://www.box.com/resources/downloads'
-bundle_id: com.box.Box-Edit-Installer
-
-sources:
-  - type: homebrew
-    cask: box-tools

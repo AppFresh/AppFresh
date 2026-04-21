@@ -1,0 +1,13 @@
+app_token = "zight"
+name = "Zight"
+desc = "Visual communication platform"
+homepage = "https://zight.com/"
+bundle_id = "com.linebreak.CloudAppMacOSX"
+
+[[sources]]
+type = "homebrew"
+cask = "zight"
+
+[[sources]]
+type = "sparkle"
+url = "https://share.zight.com/api/v4/clients/mac/current-version"

@@ -1,0 +1,18 @@
+app_token = "istat-menus"
+name = "iStats Menus"
+desc = "System monitoring app"
+homepage = "https://bjango.com/mac/istatmenus/"
+bundle_id = "com.bjango.istatmenus"
+tags = ["Trial"]
+
+[[sources]]
+type = "homebrew"
+cask = "istat-menus"
+
+[[sources]]
+type = "homebrew"
+cask = "istat-menus@6"
+
+[[sources]]
+type = "homebrew"
+cask = "istat-menus@5"

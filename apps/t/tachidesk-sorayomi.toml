@@ -1,0 +1,13 @@
+app_token = "tachidesk-sorayomi"
+name = "Tachidesk Sorayomi"
+desc = "Manga reader"
+homepage = "https://github.com/Suwayomi/Tachidesk-Sorayomi/"
+bundle_id = "com.suwayomi.tachideskSorayomi"
+
+[[sources]]
+type = "homebrew"
+cask = "tachidesk-sorayomi"
+
+[[sources]]
+type = "github"
+repo = "Suwayomi/Tachidesk-Sorayomi"

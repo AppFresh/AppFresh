@@ -1,0 +1,13 @@
+app_token = "popsql"
+name = "PopSQL"
+desc = "Collaborative SQL editor"
+homepage = "https://popsql.com/"
+bundle_id = "org.electron.popsql"
+
+[[sources]]
+type = "homebrew"
+cask = "popsql"
+
+[[sources]]
+type = "electron"
+url = "https://popsql-releases.s3.amazonaws.com/mac/latest-mac.yml"

@@ -1,0 +1,13 @@
+app_token = "readdle-spark"
+name = "Spark"
+desc = "Email client"
+homepage = "https://sparkmailapp.com/"
+bundle_id = "com.readdle.SparkDesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "readdle-spark"
+
+[[sources]]
+type = "sparkle"
+url = "https://downloads.sparkmailapp.com/Spark3/mac/dist/appcast.xml"

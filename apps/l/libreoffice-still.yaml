@@ -1,9 +1,0 @@
-app_token: libreoffice-still
-name: LibreOffice Still
-desc: Free cross-platform office suite, stable version recommended for enterprises
-homepage: 'https://www.libreoffice.org/'
-bundle_id: org.libreoffice.script
-
-sources:
-  - type: homebrew
-    cask: libreoffice-still

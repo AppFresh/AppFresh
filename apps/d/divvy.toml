@@ -1,0 +1,13 @@
+app_token = "divvy"
+name = "Divvy"
+desc = "Application window manager focusing on simplicity"
+homepage = "https://mizage.com/divvy/"
+bundle_id = "com.mizage.direct.Divvy"
+
+[[sources]]
+type = "homebrew"
+cask = "divvy"
+
+[[sources]]
+type = "sparkle"
+url = "https://mizage.com/updates/profiles/divvy.php"

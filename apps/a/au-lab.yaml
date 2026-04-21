@@ -1,9 +1,0 @@
-app_token: au-lab
-name: AU Lab
-desc: Digital audio mixing application
-homepage: 'https://www.apple.com/apple-music/apple-digital-masters/'
-bundle_id: com.apple.audio.aulab
-
-sources:
-  - type: homebrew
-    cask: au-lab

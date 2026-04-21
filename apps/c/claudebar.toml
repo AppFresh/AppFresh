@@ -1,0 +1,13 @@
+app_token = "claudebar"
+name = "ClaudeBar"
+desc = "Menu bar app for monitoring AI coding assistant usage quotas"
+homepage = "https://github.com/tddworks/ClaudeBar"
+bundle_id = "com.tddworks.claudebar"
+
+[[sources]]
+type = "homebrew"
+cask = "claudebar"
+
+[[sources]]
+type = "github"
+repo = "tddworks/ClaudeBar"

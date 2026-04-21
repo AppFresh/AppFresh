@@ -1,0 +1,13 @@
+app_token = "block-goose"
+name = "Goose"
+desc = "Open source, extensible AI agent that goes beyond code suggestions"
+homepage = "https://block.github.io/goose/"
+bundle_id = "com.electron.goose"
+
+[[sources]]
+type = "homebrew"
+cask = "block-goose"
+
+[[sources]]
+type = "github"
+repo = "block/goose"

@@ -1,0 +1,13 @@
+app_token = "viscosity"
+name = "Viscosity"
+desc = "OpenVPN client with AppleScript support"
+homepage = "https://www.sparklabs.com/viscosity/"
+bundle_id = "com.viscosityvpn.Viscosity"
+
+[[sources]]
+type = "homebrew"
+cask = "viscosity"
+
+[[sources]]
+type = "sparkle"
+url = "https://swupdate.sparklabs.com/appcast/mac/release/viscosity/"

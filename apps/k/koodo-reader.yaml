@@ -1,9 +1,0 @@
-app_token: koodo-reader
-name: Koodo Reader
-desc: Open-source epub reader
-homepage: 'https://www.koodoreader.com/en'
-bundle_id: xyz.960960.koodo
-
-sources:
-  - type: homebrew
-    cask: koodo-reader

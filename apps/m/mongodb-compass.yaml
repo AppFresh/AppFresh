@@ -1,9 +1,0 @@
-app_token: mongodb-compass
-name: MongoDB Compass
-desc: Interactive tool for analyzing MongoDB data
-homepage: 'https://www.mongodb.com/products/compass'
-bundle_id: com.mongodb.compass
-
-sources:
-  - type: homebrew
-    cask: mongodb-compass

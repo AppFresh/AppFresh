@@ -1,0 +1,9 @@
+app_token = "moraya"
+name = "Moraya"
+desc = "An extremely elegant open-source AI Markdown editor"
+homepage = "https://moraya.app/"
+bundle_id = "com.moraya.app"
+
+[[sources]]
+type = "github"
+repo = "zouwei/moraya"

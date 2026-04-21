@@ -1,0 +1,9 @@
+app_token = "superduper"
+name = "SuperDuper!"
+desc = "Backup, recovery and cloning software"
+homepage = "https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html"
+bundle_id = "com.blacey.SuperDuper"
+
+[[sources]]
+type = "homebrew"
+cask = "superduper"

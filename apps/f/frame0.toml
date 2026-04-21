@@ -1,0 +1,9 @@
+app_token = "frame0"
+name = "Frame0"
+desc = "Wireframing tool"
+homepage = "https://frame0.app/"
+bundle_id = "com.electron.frame0"
+
+[[sources]]
+type = "homebrew"
+cask = "frame0"

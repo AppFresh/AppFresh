@@ -1,0 +1,8 @@
+app_token = "signal@beta"
+name = "Signal Beta"
+desc = "Instant messaging application focusing on security"
+homepage = "https://signal.org/"
+
+[[sources]]
+type = "homebrew"
+cask = "signal@beta"

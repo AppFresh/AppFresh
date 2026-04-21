@@ -1,0 +1,13 @@
+app_token = "graphql-playground"
+name = "GraphQL Playground"
+desc = "GraphQL IDE for better development workflows"
+homepage = "https://github.com/prisma/graphql-playground"
+bundle_id = "cool.graph.playground"
+
+[[sources]]
+type = "homebrew"
+cask = "graphql-playground"
+
+[[sources]]
+type = "github"
+repo = "prisma/graphql-playground"

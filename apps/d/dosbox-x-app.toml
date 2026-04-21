@@ -1,0 +1,13 @@
+app_token = "dosbox-x-app"
+name = "DOSBox-X"
+desc = "Fork of the DOSBox project"
+homepage = "https://dosbox-x.com/"
+bundle_id = "com.dosbox-x"
+
+[[sources]]
+type = "homebrew"
+cask = "dosbox-x-app"
+
+[[sources]]
+type = "github"
+repo = "joncampbell123/dosbox-x"

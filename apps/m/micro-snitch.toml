@@ -1,0 +1,9 @@
+app_token = "micro-snitch"
+name = "Micro Snitch"
+desc = "Monitors and reports any microphone and camera activity"
+homepage = "https://www.obdev.at/products/microsnitch/index.html"
+bundle_id = "at.obdev.MicroSnitch"
+
+[[sources]]
+type = "homebrew"
+cask = "micro-snitch"

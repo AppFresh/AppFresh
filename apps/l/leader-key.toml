@@ -1,0 +1,17 @@
+app_token = "leader-key"
+name = "Leader Key"
+desc = "Application launcher"
+homepage = "https://github.com/mikker/LeaderKey"
+bundle_id = "com.brnbw.Leader-Key"
+
+[[sources]]
+type = "homebrew"
+cask = "leader-key"
+
+[[sources]]
+type = "github"
+repo = "mikker/LeaderKey"
+
+[[sources]]
+type = "sparkle"
+url = "https://mikker.github.io/LeaderKey/appcast.xml"

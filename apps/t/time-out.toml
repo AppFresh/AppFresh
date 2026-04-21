@@ -1,0 +1,13 @@
+app_token = "time-out"
+name = "Time Out"
+desc = "Customizable timing of breaks"
+homepage = "https://www.dejal.com/timeout/"
+bundle_id = "com.dejal.timeout"
+
+[[sources]]
+type = "homebrew"
+cask = "time-out"
+
+[[sources]]
+type = "sparkle"
+url = "https://dejal.net/appcast/?prod=timeout"

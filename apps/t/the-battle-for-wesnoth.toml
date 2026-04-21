@@ -1,0 +1,9 @@
+app_token = "the-battle-for-wesnoth"
+name = "The Battle for Wesnoth"
+desc = "Fantasy-themed turn-based strategy game"
+homepage = "https://www.wesnoth.org/"
+bundle_id = "org.wesnoth.Wesnoth"
+
+[[sources]]
+type = "homebrew"
+cask = "the-battle-for-wesnoth"

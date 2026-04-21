@@ -1,0 +1,9 @@
+app_token = "sync"
+name = "Sync"
+desc = "Store, share and access files from anywhere"
+homepage = "https://www.sync.com/"
+bundle_id = "com.sync.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "sync"

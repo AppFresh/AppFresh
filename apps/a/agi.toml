@@ -1,0 +1,13 @@
+app_token = "agi"
+name = "agi"
+desc = "Android GPU Inspector"
+homepage = "https://gpuinspector.dev/"
+bundle_id = "com.google.agi"
+
+[[sources]]
+type = "homebrew"
+cask = "agi"
+
+[[sources]]
+type = "github"
+repo = "google/agi"

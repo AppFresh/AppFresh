@@ -1,0 +1,13 @@
+app_token = "crystalfetch"
+name = "Crystalfetch"
+desc = "UI for creating Windows installer ISO from UUPDump"
+homepage = "https://github.com/TuringSoftware/CrystalFetch"
+bundle_id = "llc.turing.CrystalFetch"
+
+[[sources]]
+type = "homebrew"
+cask = "crystalfetch"
+
+[[sources]]
+type = "github"
+repo = "TuringSoftware/CrystalFetch"

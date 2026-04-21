@@ -1,0 +1,13 @@
+app_token = "nosql-workbench"
+name = "NoSQL Workbench"
+desc = "Client-side GUI application for modern database development and operations"
+homepage = "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html"
+bundle_id = "com.dynamodb.workbench"
+
+[[sources]]
+type = "homebrew"
+cask = "nosql-workbench"
+
+[[sources]]
+type = "electron"
+url = "https://nosql-workbench.s3.amazonaws.com/latest-mac.yml"

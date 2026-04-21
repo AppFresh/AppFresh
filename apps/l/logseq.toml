@@ -1,0 +1,13 @@
+app_token = "logseq"
+name = "Logseq"
+desc = "Privacy-first, open-source platform for knowledge sharing and management"
+homepage = "https://github.com/logseq/logseq"
+bundle_id = "com.electron.logseq"
+
+[[sources]]
+type = "homebrew"
+cask = "logseq"
+
+[[sources]]
+type = "github"
+repo = "logseq/logseq"

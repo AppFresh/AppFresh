@@ -1,9 +1,0 @@
-app_token: webex
-name: Webex
-desc: Video communication and virtual meeting platform
-homepage: 'https://www.webex.com/'
-bundle_id: Cisco-Systems.Spark
-
-sources:
-  - type: homebrew
-    cask: webex

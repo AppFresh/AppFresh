@@ -1,0 +1,8 @@
+app_token = "windsurf@next"
+name = "Windsurf Next"
+desc = "Agentic IDE powered by AI Flow paradigm"
+homepage = "https://windsurf.com/editor"
+
+[[sources]]
+type = "homebrew"
+cask = "windsurf@next"

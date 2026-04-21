@@ -1,9 +1,0 @@
-app_token: pock
-name: Pock
-desc: Utility to display the Dock in the Touch Bar
-homepage: 'https://pock.app/'
-bundle_id: com.pigigaldi.pock
-
-sources:
-  - type: homebrew
-    cask: pock

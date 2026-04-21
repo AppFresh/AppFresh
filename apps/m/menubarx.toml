@@ -1,0 +1,13 @@
+app_token = "menubarx"
+name = "MenubarX"
+desc = "Menu bar browser"
+homepage = "https://menubarx.app/"
+bundle_id = "com.app.menubarx"
+
+[[sources]]
+type = "homebrew"
+cask = "menubarx"
+
+[[sources]]
+type = "sparkle"
+url = "https://menubarx.app/appcast.xml"

@@ -1,8 +1,0 @@
-app_token: discord@development
-name: Discord Development
-desc: Voice and text chat software
-homepage: 'https://discord.com/'
-
-sources:
-  - type: homebrew
-    cask: discord@development

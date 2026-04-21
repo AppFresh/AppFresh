@@ -1,9 +1,0 @@
-app_token: noi
-name: Noi
-desc: A platform solution integrating AI with operating systems for engaging experiences.
-homepage: 'https://noib.app/'
-bundle_id: me.lencx.noi
-
-sources:
-  - type: github
-    repo: lencx/Noi

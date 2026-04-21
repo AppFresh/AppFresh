@@ -1,0 +1,17 @@
+app_token = "openra"
+name = "OpenRA"
+desc = "Real-time strategy game engine for Westwood games"
+homepage = "https://www.openra.net/"
+bundle_id = "net.openra.mod.d2k"
+
+[[sources]]
+type = "homebrew"
+cask = "openra"
+
+[[sources]]
+type = "github"
+repo = "OpenRA/OpenRA"
+
+[[sources]]
+type = "homebrew"
+cask = "openra@playtest"

@@ -1,0 +1,13 @@
+app_token = "ente"
+name = "Ente"
+desc = "Desktop client for Ente Photos"
+homepage = "https://ente.io/"
+bundle_id = "io.ente.bhari-frame"
+
+[[sources]]
+type = "homebrew"
+cask = "ente"
+
+[[sources]]
+type = "github"
+repo = "ente-io/photos-desktop"

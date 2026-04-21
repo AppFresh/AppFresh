@@ -1,0 +1,13 @@
+app_token = "kindavim"
+name = "kindaVim"
+desc = "Use Vim in input fields and non input fields"
+homepage = "https://kindavim.app/"
+bundle_id = "mo.com.sleeplessmind.kindaVim"
+
+[[sources]]
+type = "homebrew"
+cask = "kindavim"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.kindavim.app/appcast.xml"

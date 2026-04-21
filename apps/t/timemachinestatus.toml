@@ -1,0 +1,17 @@
+app_token = "timemachinestatus"
+name = "TimeMachineStatus"
+desc = "Menu bar app to show Time Machine information"
+homepage = "https://github.com/lukepistrol/TimeMachineStatus"
+bundle_id = "com.lukaspistrol.TimeMachineStatus"
+
+[[sources]]
+type = "homebrew"
+cask = "timemachinestatus"
+
+[[sources]]
+type = "github"
+repo = "lukepistrol/TimeMachineStatus"
+
+[[sources]]
+type = "sparkle"
+url = "https://github.com/lukepistrol/TimeMachineStatus/releases/latest/download/appcast.xml"

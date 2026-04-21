@@ -1,0 +1,13 @@
+app_token = "radarr"
+name = "Radarr"
+desc = "Fork of Sonarr to work with movies à la Couchpotato"
+homepage = "https://radarr.video/"
+bundle_id = "com.osx.radarr.video"
+
+[[sources]]
+type = "homebrew"
+cask = "radarr"
+
+[[sources]]
+type = "github"
+repo = "Radarr/Radarr"

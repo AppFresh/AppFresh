@@ -1,0 +1,13 @@
+app_token = "josm"
+name = "JOSM"
+desc = "Extensible editor for OpenStreetMap"
+homepage = "https://josm.openstreetmap.de/"
+bundle_id = "de.openstreetmap.josm"
+
+[[sources]]
+type = "homebrew"
+cask = "josm"
+
+[[sources]]
+type = "github"
+repo = "JOSM/josm"

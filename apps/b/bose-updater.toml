@@ -1,0 +1,9 @@
+app_token = "bose-updater"
+name = "Bose Device Updater"
+desc = "Software updates for Bose products"
+homepage = "https://btu.bose.com/"
+bundle_id = "com.bose.BoseUpdater"
+
+[[sources]]
+type = "homebrew"
+cask = "bose-updater"

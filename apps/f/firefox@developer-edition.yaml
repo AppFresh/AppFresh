@@ -1,8 +1,0 @@
-app_token: firefox@developer-edition
-name: Firefox Developer Edition
-desc: Web browser
-homepage: 'https://www.firefox.com/'
-
-sources:
-  - type: homebrew
-    cask: firefox@developer-edition

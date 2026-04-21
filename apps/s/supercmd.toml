@@ -1,0 +1,8 @@
+app_token = "supercmd"
+name = "SuperCmd"
+desc = "Open-source launcher for macOS with Raycast-compatible extensions, voice workflows, and AI-native actions."
+bundle_id = "com.supercmd.app"
+
+[[sources]]
+type = "github"
+repo = "SuperCmdLabs/SuperCmd"

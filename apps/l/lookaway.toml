@@ -1,0 +1,13 @@
+app_token = "lookaway"
+name = "LookAway"
+desc = "Break time reminder app"
+homepage = "https://lookaway.com/"
+bundle_id = "com.mysticalbits.lookaway"
+
+[[sources]]
+type = "homebrew"
+cask = "lookaway"
+
+[[sources]]
+type = "github"
+repo = "mysticalbits/lookaway-releases"

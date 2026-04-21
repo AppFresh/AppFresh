@@ -1,0 +1,13 @@
+app_token = "mountain-duck"
+name = "Mountain Duck"
+desc = "Mounts servers and cloud storages as a disk on the desktop"
+homepage = "https://mountainduck.io/"
+bundle_id = "io.mountainduck"
+
+[[sources]]
+type = "homebrew"
+cask = "mountain-duck"
+
+[[sources]]
+type = "sparkle"
+url = "https://version.mountainduck.io/#{version.major}/macos/changelog.rss"

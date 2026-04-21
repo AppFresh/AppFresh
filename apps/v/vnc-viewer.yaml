@@ -1,9 +1,0 @@
-app_token: vnc-viewer
-name: Real VNC Viewer
-desc: Remote desktop application focusing on security
-homepage: 'https://www.realvnc.com/'
-bundle_id: com.realvnc.vncviewer
-
-sources:
-  - type: homebrew
-    cask: vnc-viewer

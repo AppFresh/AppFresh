@@ -1,9 +1,0 @@
-app_token: boosteroid
-name: Boosteroid
-desc: Cloud gaming service
-homepage: 'https://boosteroid.com/'
-bundle_id: com.boosteroid.macclient
-
-sources:
-  - type: homebrew
-    cask: boosteroid

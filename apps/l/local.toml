@@ -1,0 +1,9 @@
+app_token = "local"
+name = "Local"
+desc = "WordPress local development tool by Flywheel"
+homepage = "https://localwp.com/"
+bundle_id = "com.getflywheel.lightning.local"
+
+[[sources]]
+type = "homebrew"
+cask = "local"

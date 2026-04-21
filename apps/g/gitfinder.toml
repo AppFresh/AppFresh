@@ -1,0 +1,13 @@
+app_token = "gitfinder"
+name = "GitFinder"
+desc = "Git client with Finder integration"
+homepage = "https://gitfinder.com/"
+bundle_id = "ag.zigz.GitFinder"
+
+[[sources]]
+type = "homebrew"
+cask = "gitfinder"
+
+[[sources]]
+type = "sparkle"
+url = "https://zigz.ag/GitFinder/updates/stablecast.xml"

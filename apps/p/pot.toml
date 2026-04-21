@@ -1,0 +1,13 @@
+app_token = "pot"
+name = "Pot"
+desc = "Software for text translation and recognition"
+homepage = "https://pot-app.com/"
+bundle_id = "com.pot-app.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "pot"
+
+[[sources]]
+type = "github"
+repo = "pot-app/pot-desktop"

@@ -1,9 +1,0 @@
-app_token: windsurf
-name: Windsurf
-desc: Agentic IDE powered by AI Flow paradigm
-homepage: 'https://windsurf.com/editor'
-bundle_id: com.exafunction.windsurf
-
-sources:
-  - type: homebrew
-    cask: windsurf

@@ -1,9 +1,0 @@
-app_token: sejda-pdf
-name: Sejda PDF Desktop
-desc: PDF editor
-homepage: 'https://www.sejda.com/en/desktop'
-bundle_id: com.sejda.sejda-desktop
-
-sources:
-  - type: homebrew
-    cask: sejda-pdf

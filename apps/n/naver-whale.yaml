@@ -1,9 +1,0 @@
-app_token: naver-whale
-name: NAVER Whale
-desc: Web browser
-homepage: 'https://whale.naver.com/'
-bundle_id: com.naver.Whale
-
-sources:
-  - type: homebrew
-    cask: naver-whale

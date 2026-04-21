@@ -1,0 +1,9 @@
+app_token = "direqual"
+name = "DirEqual"
+desc = "Advanced directory compare utility"
+homepage = "https://naarakstudio.com/direqual/"
+bundle_id = "com.naarak.DirEqual"
+
+[[sources]]
+type = "homebrew"
+cask = "direqual"

@@ -1,0 +1,13 @@
+app_token = "gifski"
+name = "Gifski"
+desc = "Convert videos to high-quality GIFs on your Mac"
+homepage = "https://sindresorhus.com/gifski"
+bundle_id = "com.sindresorhus.Gifski"
+
+[[sources]]
+type = "github"
+repo = "sindresorhus/Gifski"
+
+[[sources]]
+type = "appstore"
+app_id = "1351639930"

@@ -1,9 +1,0 @@
-app_token: couchbase-server-community
-name: Couchbase Server
-desc: Distributed NoSQL cloud database
-homepage: 'https://www.couchbase.com/'
-bundle_id: com.couchbase.couchbase-server
-
-sources:
-  - type: homebrew
-    cask: couchbase-server-community

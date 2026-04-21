@@ -1,0 +1,13 @@
+app_token = "mark-text"
+name = "MarkText"
+desc = "A simple and elegant open-source markdown editor that focused on speed and usability."
+homepage = "https://marktext.me/"
+bundle_id = "com.github.marktext.marktext"
+
+[[sources]]
+type = "github"
+repo = "marktext/marktext"
+
+[[sources]]
+type = "homebrew"
+cask = "mark-text"

@@ -1,0 +1,9 @@
+app_token = "start"
+name = "START"
+desc = "Tencent cloud gaming platform"
+homepage = "https://start.qq.com/"
+bundle_id = "com.tencent.start.mac.Start"
+
+[[sources]]
+type = "homebrew"
+cask = "start"

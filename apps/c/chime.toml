@@ -1,0 +1,17 @@
+app_token = "chime"
+name = "Chime"
+desc = "Text and code editor"
+homepage = "https://www.chimehq.com/"
+bundle_id = "com.chimehq.Edit"
+
+[[sources]]
+type = "homebrew"
+cask = "chime"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.chimehq.com/com.chimehq.Edit/release/appcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "chime@alpha"

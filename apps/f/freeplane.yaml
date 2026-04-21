@@ -1,9 +1,0 @@
-app_token: freeplane
-name: Freeplane
-desc: Mind mapping and knowledge management software
-homepage: 'https://docs.freeplane.org/'
-bundle_id: org.freeplane.launcher
-
-sources:
-  - type: homebrew
-    cask: freeplane

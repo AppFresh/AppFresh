@@ -1,0 +1,13 @@
+app_token = "nrf-connect"
+name = "nRF Connect for Desktop"
+desc = "Framework for development on BLE devices"
+homepage = "https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-Desktop"
+bundle_id = "com.nordicsemi.nrfconnect"
+
+[[sources]]
+type = "homebrew"
+cask = "nrf-connect"
+
+[[sources]]
+type = "github"
+repo = "NordicSemiconductor/pc-nrfconnect-launcher"

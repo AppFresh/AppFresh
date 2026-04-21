@@ -1,0 +1,13 @@
+app_token = "jollysfastvnc"
+name = "JollysFastVNC"
+desc = "Control computers fast and securely from anywhere"
+homepage = "https://www.jinx.de/JollysFastVNC.html"
+bundle_id = "de.jinx.JollysFastVNC"
+
+[[sources]]
+type = "homebrew"
+cask = "jollysfastvnc"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.jinx.de/JollysFastVNC.update.11.0.xml"

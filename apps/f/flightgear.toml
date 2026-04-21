@@ -1,0 +1,9 @@
+app_token = "flightgear"
+name = "FlightGear"
+desc = "Flight simulator"
+homepage = "https://www.flightgear.org/"
+bundle_id = "org.flightgear.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "flightgear"

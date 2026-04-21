@@ -1,9 +1,0 @@
-app_token: processmonitor
-name: ProcessMonitor
-desc: Monitor process activity
-homepage: 'https://objective-see.org/products/utilities.html#ProcessMonitor'
-bundle_id: com.objective-see.processmonitor
-
-sources:
-  - type: homebrew
-    cask: processmonitor

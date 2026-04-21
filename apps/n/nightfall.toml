@@ -1,0 +1,13 @@
+app_token = "nightfall"
+name = "Nightfall"
+desc = "Menu bar utility for toggling dark mode"
+homepage = "https://github.com/r-thomson/Nightfall/"
+bundle_id = "net.ryanthomson.Nightfall"
+
+[[sources]]
+type = "homebrew"
+cask = "nightfall"
+
+[[sources]]
+type = "github"
+repo = "r-thomson/Nightfall"

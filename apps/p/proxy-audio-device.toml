@@ -1,0 +1,13 @@
+app_token = "proxy-audio-device"
+name = "Proxy Audio Device"
+desc = "Sound and audio controller"
+homepage = "https://github.com/briankendall/proxy-audio-device"
+bundle_id = "net.briankendall.Proxy-Audio-Device-Settings"
+
+[[sources]]
+type = "homebrew"
+cask = "proxy-audio-device"
+
+[[sources]]
+type = "github"
+repo = "briankendall/proxy-audio-device"

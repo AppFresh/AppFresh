@@ -1,0 +1,13 @@
+app_token = "crosspaste"
+name = "CrossPaste"
+desc = "Universal Pasteboard Across Devices"
+homepage = "https://crosspaste.com/en/"
+bundle_id = "com.crosspaste.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "crosspaste"
+
+[[sources]]
+type = "github"
+repo = "CrossPaste/crosspaste-desktop"

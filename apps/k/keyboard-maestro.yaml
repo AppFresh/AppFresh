@@ -1,9 +1,0 @@
-app_token: keyboard-maestro
-name: Keyboard Maestro
-desc: Automation software
-homepage: 'https://www.keyboardmaestro.com/main/'
-bundle_id: com.stairways.keyboardmaestro.editor
-
-sources:
-  - type: homebrew
-    cask: keyboard-maestro

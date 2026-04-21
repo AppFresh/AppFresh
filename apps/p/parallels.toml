@@ -1,0 +1,34 @@
+app_token = "parallels"
+name = "Parallels Desktop"
+desc = "Desktop virtualization software"
+homepage = "https://www.parallels.com/products/desktop/"
+bundle_id = "com.parallels.desktop.console"
+tags = ["Trial"]
+
+[[sources]]
+type = "homebrew"
+cask = "parallels"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@20"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@15"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@16"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@17"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@18"
+
+[[sources]]
+type = "homebrew"
+cask = "parallels@19"

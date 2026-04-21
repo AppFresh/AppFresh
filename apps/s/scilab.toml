@@ -1,0 +1,9 @@
+app_token = "scilab"
+name = "Scilab"
+desc = "Software for numerical computation"
+homepage = "https://www.scilab.org/"
+bundle_id = "org.scilab.modules.jvm.Scilab"
+
+[[sources]]
+type = "homebrew"
+cask = "scilab"

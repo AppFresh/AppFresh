@@ -1,8 +1,0 @@
-app_token: clawpanel
-name: ClawPanel
-desc: OpenClaw Management Panel with Built-in AI Assistant
-bundle_id: ai.openclaw.clawpanel
-
-sources:
-  - type: github
-    repo: qingchencloud/clawpanel

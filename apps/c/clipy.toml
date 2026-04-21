@@ -1,0 +1,17 @@
+app_token = "clipy"
+name = "Clipy"
+desc = "Clipboard extension app"
+homepage = "https://clipy-app.com/"
+bundle_id = "com.clipy-app.Clipy"
+
+[[sources]]
+type = "homebrew"
+cask = "clipy"
+
+[[sources]]
+type = "github"
+repo = "Clipy/Clipy"
+
+[[sources]]
+type = "sparkle"
+url = "https://clipy-app.com/appcast.xml"

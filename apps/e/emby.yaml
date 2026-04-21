@@ -1,9 +1,0 @@
-app_token: emby
-name: Emby
-desc: Client for emby media server
-homepage: 'https://emby.media/'
-bundle_id: com.emby.mobile
-
-sources:
-  - type: homebrew
-    cask: emby

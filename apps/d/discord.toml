@@ -1,0 +1,9 @@
+app_token = "discord"
+name = "Discord"
+desc = "Voice and text chat software"
+homepage = "https://discord.com/"
+bundle_id = "com.hnc.Discord"
+
+[[sources]]
+type = "homebrew"
+cask = "discord"

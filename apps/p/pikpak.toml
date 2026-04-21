@@ -1,0 +1,9 @@
+app_token = "pikpak"
+name = "PikPak"
+desc = "Client for PikPak cloud storage service"
+homepage = "https://mypikpak.com/"
+bundle_id = "com.pikcloud.pikpak.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "pikpak"

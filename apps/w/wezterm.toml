@@ -1,0 +1,17 @@
+app_token = "wezterm"
+name = "WezTerm"
+desc = "GPU-accelerated cross-platform terminal emulator and multiplexer"
+homepage = "https://wezterm.org/"
+bundle_id = "com.github.wez.wezterm"
+
+[[sources]]
+type = "homebrew"
+cask = "wezterm"
+
+[[sources]]
+type = "github"
+repo = "wezterm/wezterm"
+
+[[sources]]
+type = "homebrew"
+cask = "wezterm@nightly"

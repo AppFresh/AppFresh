@@ -1,0 +1,13 @@
+app_token = "amitv87-pip"
+name = "PiP"
+desc = "Always on top window preview"
+homepage = "https://github.com/amitv87/PiP"
+bundle_id = "com.boggyb.PiP"
+
+[[sources]]
+type = "homebrew"
+cask = "amitv87-pip"
+
+[[sources]]
+type = "github"
+repo = "amitv87/PiP"

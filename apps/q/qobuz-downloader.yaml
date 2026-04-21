@@ -1,9 +1,0 @@
-app_token: qobuz-downloader
-name: Qobuz Downloader
-desc: Tool to download entire purchases simultaneously
-homepage: 'https://www.qobuz.com/applications'
-bundle_id: com.qobuz.downloader
-
-sources:
-  - type: homebrew
-    cask: qobuz-downloader

@@ -1,0 +1,13 @@
+app_token = "swiftbar"
+name = "SwiftBar"
+desc = "Powerful macOS menu bar customization tool"
+homepage = "https://swiftbar.app/"
+bundle_id = "com.ameba.SwiftBar"
+
+[[sources]]
+type = "homebrew"
+cask = "swiftbar"
+
+[[sources]]
+type = "github"
+repo = "swiftbar/SwiftBar"

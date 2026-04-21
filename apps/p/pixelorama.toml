@@ -1,0 +1,13 @@
+app_token = "pixelorama"
+name = "Pixelorama"
+desc = "2D sprite editor made with the Godot Engine"
+homepage = "https://orama-interactive.itch.io/pixelorama"
+bundle_id = "com.orama-interactive.pixelorama"
+
+[[sources]]
+type = "homebrew"
+cask = "pixelorama"
+
+[[sources]]
+type = "github"
+repo = "Orama-Interactive/Pixelorama"

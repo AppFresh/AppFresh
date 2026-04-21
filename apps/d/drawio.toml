@@ -1,0 +1,13 @@
+app_token = "drawio"
+name = "draw.io Desktop"
+desc = "Online diagram software"
+homepage = "https://www.diagrams.net/"
+bundle_id = "com.jgraph.drawio.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "drawio"
+
+[[sources]]
+type = "github"
+repo = "jgraph/drawio-desktop"

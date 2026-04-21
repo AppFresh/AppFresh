@@ -1,8 +1,0 @@
-app_token: yandex-disk
-name: Yandex.Disk
-desc: Cloud storage
-homepage: 'https://disk.yandex.ru/'
-
-sources:
-  - type: homebrew
-    cask: yandex-disk

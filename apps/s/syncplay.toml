@@ -1,0 +1,13 @@
+app_token = "syncplay"
+name = "Syncplay"
+desc = "Synchronises media players"
+homepage = "https://syncplay.pl/"
+bundle_id = "pl.syncplay.Syncplay"
+
+[[sources]]
+type = "homebrew"
+cask = "syncplay"
+
+[[sources]]
+type = "github"
+repo = "Syncplay/syncplay"

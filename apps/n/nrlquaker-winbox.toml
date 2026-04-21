@@ -1,0 +1,13 @@
+app_token = "nrlquaker-winbox"
+name = "Winbox-mac"
+desc = "MikroTik Winbox"
+homepage = "https://github.com/nrlquaker/winbox-mac/"
+bundle_id = "com.mikrotik.winbox"
+
+[[sources]]
+type = "homebrew"
+cask = "nrlquaker-winbox"
+
+[[sources]]
+type = "github"
+repo = "nrlquaker/winbox-mac"

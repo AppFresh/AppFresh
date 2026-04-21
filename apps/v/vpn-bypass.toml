@@ -1,0 +1,13 @@
+app_token = "vpn-bypass"
+name = "VPN Bypass"
+desc = "A macOS menu bar app that automatically routes specific domains and services around your VPN, ensuring they use your regular internet connection."
+bundle_id = "com.geiserx.vpn-bypass"
+
+[[sources]]
+type = "homebrew"
+tap = "geiserx/vpn-bypass"
+cask = "vpn-bypass"
+
+[[sources]]
+type = "github"
+repo = "GeiserX/VPN-Bypass"

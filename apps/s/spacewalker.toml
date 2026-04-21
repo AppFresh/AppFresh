@@ -1,0 +1,9 @@
+app_token = "spacewalker"
+name = "SpaceWalker"
+desc = "Use virtual monitors with Viture XR glasses"
+homepage = "https://academy.viture.com/xr_glasses/spacewalker_mac"
+bundle_id = "com.viture.spacewalker"
+
+[[sources]]
+type = "homebrew"
+cask = "spacewalker"

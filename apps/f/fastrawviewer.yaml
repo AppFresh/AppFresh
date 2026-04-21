@@ -1,9 +1,0 @@
-app_token: fastrawviewer
-name: FastRawViewer
-desc: Opens RAW files and renders them on-the-fly
-homepage: 'https://www.fastrawviewer.com/'
-bundle_id: com.libraw-llc.FastRawViewer
-
-sources:
-  - type: homebrew
-    cask: fastrawviewer

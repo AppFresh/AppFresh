@@ -1,9 +1,0 @@
-app_token: qcad
-name: QCAD
-desc: Free, open source application for computer aided drafting in 2D
-homepage: 'https://www.qcad.org/'
-bundle_id: org.qcad
-
-sources:
-  - type: homebrew
-    cask: qcad

@@ -1,0 +1,13 @@
+app_token = "easy-move-resize"
+name = "Easy Move+Resize"
+desc = "Utility to support moving and resizing using a modifier key and mouse drag"
+homepage = "https://github.com/dmarcotte/easy-move-resize"
+bundle_id = "org.dmarcotte.Easy-Move-Resize"
+
+[[sources]]
+type = "homebrew"
+cask = "easy-move+resize"
+
+[[sources]]
+type = "github"
+repo = "dmarcotte/easy-move-resize"

@@ -1,0 +1,13 @@
+app_token = "gyroflow"
+name = "Gyroflow"
+desc = "Video stabilization using gyroscope data"
+homepage = "https://gyroflow.xyz/"
+bundle_id = "xyz.gyroflow"
+
+[[sources]]
+type = "homebrew"
+cask = "gyroflow"
+
+[[sources]]
+type = "github"
+repo = "gyroflow/gyroflow"

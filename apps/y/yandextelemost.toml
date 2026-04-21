@@ -1,0 +1,9 @@
+app_token = "yandextelemost"
+name = "Yandex Telemost"
+desc = "Yandex video calls and meetings platform"
+homepage = "https://telemost.yandex.com/"
+bundle_id = "ru.yandex.desktop.telemost"
+
+[[sources]]
+type = "homebrew"
+cask = "yandextelemost"

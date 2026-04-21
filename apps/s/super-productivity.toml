@@ -1,0 +1,13 @@
+app_token = "super-productivity"
+name = "Super Productivity"
+desc = "To-do list and time tracker"
+homepage = "https://super-productivity.com/"
+bundle_id = "com.super-productivity.app"
+
+[[sources]]
+type = "homebrew"
+cask = "super-productivity"
+
+[[sources]]
+type = "github"
+repo = "johannesjo/super-productivity"

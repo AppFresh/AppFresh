@@ -1,0 +1,13 @@
+app_token = "splice"
+name = "Splice"
+desc = "Browse and preview sounds from Splice’s entire catalog"
+homepage = "https://splice.com/"
+bundle_id = "com.splice.Splice"
+
+[[sources]]
+type = "homebrew"
+cask = "splice"
+
+[[sources]]
+type = "sparkle"
+url = "https://desktop.splice.com/conveyor/stable/appcast-aarch64.rss"

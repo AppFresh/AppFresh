@@ -1,0 +1,17 @@
+app_token = "pdf-expert"
+name = "PDF Expert"
+desc = "PDF reader, editor and annotator"
+homepage = "https://pdfexpert.com/"
+bundle_id = "com.readdle.PDFExpert-Mac"
+
+[[sources]]
+type = "homebrew"
+cask = "pdf-expert"
+
+[[sources]]
+type = "sparkle"
+url = "https://downloads.pdfexpert.com/pem3/release/appcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "pdf-expert@beta"

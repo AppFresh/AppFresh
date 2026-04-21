@@ -1,9 +1,0 @@
-app_token: typinator
-name: Typinator
-desc: Tool to automate the insertion of frequently used text and graphics
-homepage: 'https://www.ergonis.com/products/typinator/'
-bundle_id: com.macility.typinator2
-
-sources:
-  - type: homebrew
-    cask: typinator

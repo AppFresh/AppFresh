@@ -1,0 +1,13 @@
+app_token = "sherlock-app"
+name = "Sherlock"
+desc = "iOS simulator visual debugger"
+homepage = "https://sherlock.inspiredcode.io/"
+bundle_id = "io.inspiredcode.Sherlock"
+
+[[sources]]
+type = "homebrew"
+cask = "sherlock-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://sherlock-website-assets.s3.amazonaws.com/versions.xml"

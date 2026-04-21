@@ -1,9 +1,0 @@
-app_token: bootstrap-studio
-name: Bootstrap Studio
-desc: Design and prototype websites using the Bootstrap framework
-homepage: 'https://bootstrapstudio.io/'
-bundle_id: bg.zine.bootstrapstudio
-
-sources:
-  - type: homebrew
-    cask: bootstrap-studio

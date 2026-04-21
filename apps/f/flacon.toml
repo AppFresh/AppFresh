@@ -1,0 +1,17 @@
+app_token = "flacon"
+name = "Flacon"
+desc = "Open source audio file encoder"
+homepage = "https://flacon.github.io/"
+bundle_id = "io.github.flacon"
+
+[[sources]]
+type = "homebrew"
+cask = "flacon"
+
+[[sources]]
+type = "github"
+repo = "flacon/flacon"
+
+[[sources]]
+type = "sparkle"
+url = "https://flacon.github.io/download/feed.xml"

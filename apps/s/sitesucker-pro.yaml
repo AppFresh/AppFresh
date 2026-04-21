@@ -1,9 +1,0 @@
-app_token: sitesucker-pro
-name: SiteSucker Pro
-desc: Website downloader tool
-homepage: 'https://ricks-apps.com/osx/sitesucker/index.html'
-bundle_id: us.sitesucker.mac.sitesucker-pro
-
-sources:
-  - type: homebrew
-    cask: sitesucker-pro

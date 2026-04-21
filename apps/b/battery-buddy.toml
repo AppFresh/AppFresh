@@ -1,0 +1,13 @@
+app_token = "battery-buddy"
+name = "Battery Buddy"
+desc = "Replacement of the default battery indicator in the menu bar"
+homepage = "https://batterybuddy.app/"
+bundle_id = "com.NeilSardesai.Battery-Buddy"
+
+[[sources]]
+type = "homebrew"
+cask = "battery-buddy"
+
+[[sources]]
+type = "sparkle"
+url = "https://batterybuddy.app/releases/appcast.xml"

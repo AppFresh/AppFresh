@@ -1,9 +1,0 @@
-app_token: projectlibre
-name: ProjectLibre
-desc: Microsoft Project in your browser
-homepage: 'https://www.projectlibre.com/'
-bundle_id: com.projectlibre1.main
-
-sources:
-  - type: homebrew
-    cask: projectlibre

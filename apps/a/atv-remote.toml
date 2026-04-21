@@ -1,0 +1,13 @@
+app_token = "atv-remote"
+name = "ATV Remote"
+desc = "Control Apple TV from your desktop"
+homepage = "https://github.com/bsharper/atv-desktop-remote"
+bundle_id = "com.electron.atvMacRemote"
+
+[[sources]]
+type = "homebrew"
+cask = "atv-remote"
+
+[[sources]]
+type = "github"
+repo = "bsharper/atv-desktop-remote"

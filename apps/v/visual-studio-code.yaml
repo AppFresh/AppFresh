@@ -1,9 +1,0 @@
-app_token: visual-studio-code
-name: Visual Studio Code
-desc: The open source AI code editor.
-homepage: 'https://code.visualstudio.com'
-bundle_id: com.microsoft.VSCode
-
-sources:
-  - type: homebrew
-    cask: visual-studio-code

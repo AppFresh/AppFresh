@@ -1,9 +1,0 @@
-app_token: birdfont
-name: BirdFont
-desc: Font editor
-homepage: 'https://birdfont.org/'
-bundle_id: org.birdfont.birdfont
-
-sources:
-  - type: homebrew
-    cask: birdfont

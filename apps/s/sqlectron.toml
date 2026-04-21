@@ -1,0 +1,13 @@
+app_token = "sqlectron"
+name = "Sqlectron"
+desc = "SQL client"
+homepage = "https://sqlectron.github.io/"
+bundle_id = "org.sqlectron.gui"
+
+[[sources]]
+type = "homebrew"
+cask = "sqlectron"
+
+[[sources]]
+type = "github"
+repo = "sqlectron/sqlectron-gui"

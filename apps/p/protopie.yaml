@@ -1,9 +1,0 @@
-app_token: protopie
-name: ProtoPie
-desc: Create interactive prototypes
-homepage: 'https://www.protopie.io/'
-bundle_id: io.protopie
-
-sources:
-  - type: homebrew
-    cask: protopie

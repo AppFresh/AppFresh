@@ -1,0 +1,13 @@
+app_token = "monocle-app"
+name = "Monocle"
+desc = "Window dimming utility"
+homepage = "https://monocle.heyiam.dk/"
+bundle_id = "dk.heyiam.monocle"
+
+[[sources]]
+type = "homebrew"
+cask = "monocle-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://files.heyiam.dk/updates/monocle/appcast.xml"

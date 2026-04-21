@@ -1,0 +1,13 @@
+app_token = "tribler"
+name = "Tribler"
+desc = "Privacy enhanced BitTorrent client with P2P content discovery"
+homepage = "https://github.com/Tribler/tribler"
+bundle_id = "nl.tudelft.tribler"
+
+[[sources]]
+type = "homebrew"
+cask = "tribler"
+
+[[sources]]
+type = "github"
+repo = "Tribler/tribler"

@@ -1,9 +1,0 @@
-app_token: filemonitor
-name: FileMonitor
-desc: Monitor filesystem activity
-homepage: 'https://objective-see.org/products/utilities.html#FileMonitor'
-bundle_id: com.objective-see.filemonitor
-
-sources:
-  - type: homebrew
-    cask: filemonitor

@@ -1,0 +1,13 @@
+app_token = "dyad"
+name = "Dyad"
+desc = "AI-powered app builder"
+homepage = "https://dyad.sh/"
+bundle_id = "com.electron.dyad"
+
+[[sources]]
+type = "homebrew"
+cask = "dyad"
+
+[[sources]]
+type = "github"
+repo = "dyad-sh/dyad"

@@ -1,0 +1,13 @@
+app_token = "gather"
+name = "Gather Town"
+desc = "Virtual video-calling space"
+homepage = "https://gather.town/"
+bundle_id = "com.gather.Gather"
+
+[[sources]]
+type = "homebrew"
+cask = "gather"
+
+[[sources]]
+type = "github"
+repo = "gathertown/gather-town-desktop-releases"

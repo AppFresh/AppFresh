@@ -1,0 +1,9 @@
+app_token = "geektool"
+name = "GeekTool"
+desc = "Desktop customization tool"
+homepage = "https://www.tynsoe.org/geektool/"
+bundle_id = "org.tynsoe.GeekTool"
+
+[[sources]]
+type = "homebrew"
+cask = "geektool"

@@ -1,0 +1,17 @@
+app_token = "voiceink"
+name = "VoiceInk"
+desc = "Voice to text app"
+homepage = "https://tryvoiceink.com/"
+bundle_id = "com.prakashjoshipax.VoiceInk"
+
+[[sources]]
+type = "homebrew"
+cask = "voiceink"
+
+[[sources]]
+type = "github"
+repo = "Beingpax/VoiceInk"
+
+[[sources]]
+type = "sparkle"
+url = "https://beingpax.github.io/VoiceInk/appcast.xml"

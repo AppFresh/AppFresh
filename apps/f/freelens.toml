@@ -1,0 +1,17 @@
+app_token = "freelens"
+name = "Freelens"
+desc = "Kubernetes IDE"
+homepage = "https://freelens.app/"
+bundle_id = "app.freelens.Freelens"
+
+[[sources]]
+type = "homebrew"
+cask = "freelens"
+
+[[sources]]
+type = "github"
+repo = "freelensapp/freelens"
+
+[[sources]]
+type = "homebrew"
+cask = "freelens@nightly"

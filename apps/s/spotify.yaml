@@ -1,9 +1,0 @@
-app_token: spotify
-name: Spotify
-desc: Music streaming service
-homepage: 'https://www.spotify.com/'
-bundle_id: com.spotify.client
-
-sources:
-  - type: homebrew
-    cask: spotify

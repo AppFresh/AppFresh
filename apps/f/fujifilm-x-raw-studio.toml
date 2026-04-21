@@ -1,0 +1,9 @@
+app_token = "fujifilm-x-raw-studio"
+name = "FUJIFILM X RAW STUDIO"
+desc = "Convert RAW images captured with Fujifilm cameras"
+homepage = "https://fujifilm-x.com/global/products/software/x-raw-studio/"
+bundle_id = "com.fujifilm.denji.X-RAW-STUDIO"
+
+[[sources]]
+type = "homebrew"
+cask = "fujifilm-x-raw-studio"

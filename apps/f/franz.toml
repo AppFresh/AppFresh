@@ -1,0 +1,13 @@
+app_token = "franz"
+name = "Franz"
+desc = "Messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and more"
+homepage = "https://meetfranz.com/"
+bundle_id = "com.meetfranz.franz"
+
+[[sources]]
+type = "homebrew"
+cask = "franz"
+
+[[sources]]
+type = "github"
+repo = "meetfranz/franz"

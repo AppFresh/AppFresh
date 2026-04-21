@@ -1,0 +1,13 @@
+app_token = "smartsheet"
+name = "Smartsheet"
+desc = "Spreadsheet-style project management solution"
+homepage = "https://www.smartsheet.com/"
+bundle_id = "com.smartsheet.desktopapp"
+
+[[sources]]
+type = "homebrew"
+cask = "smartsheet"
+
+[[sources]]
+type = "electron"
+url = "https://builds.desktopapp.smartsheet.com/public/darwin/latest-mac.yml"

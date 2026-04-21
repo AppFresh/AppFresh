@@ -1,9 +1,0 @@
-app_token: grids
-name: Grids
-desc: Instagram desktop application
-homepage: 'https://gridsapp.net/'
-bundle_id: com.thinktimecreations.Grids
-
-sources:
-  - type: homebrew
-    cask: grids

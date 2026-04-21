@@ -1,0 +1,9 @@
+app_token = "aloha-browser"
+name = "Aloha Browser"
+desc = "Web browser focused on privacy"
+homepage = "https://alohabrowser.com/"
+bundle_id = "com.alohabrowser.alohabrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "aloha-browser"

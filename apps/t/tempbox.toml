@@ -1,0 +1,13 @@
+app_token = "tempbox"
+name = "Tempbox"
+desc = "Disposable email client"
+homepage = "https://tempbox.waseem.works/"
+bundle_id = "com.waseem.TempBox"
+
+[[sources]]
+type = "homebrew"
+cask = "tempbox"
+
+[[sources]]
+type = "github"
+repo = "devwaseem/TempBox"

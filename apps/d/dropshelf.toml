@@ -1,0 +1,9 @@
+app_token = "dropshelf"
+name = "Dropshelf"
+desc = "Drag and drop helper app"
+homepage = "https://pilotmoon.com/dropshelf/"
+bundle_id = "com.pilotmoon.Dropshelf"
+
+[[sources]]
+type = "homebrew"
+cask = "dropshelf"

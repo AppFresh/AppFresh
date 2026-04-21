@@ -1,0 +1,17 @@
+app_token = "sol"
+name = "Sol"
+desc = "Launcher & command palette"
+homepage = "https://github.com/ospfranco/sol"
+bundle_id = "com.ospfranco.sol"
+
+[[sources]]
+type = "homebrew"
+cask = "sol"
+
+[[sources]]
+type = "github"
+repo = "ospfranco/sol"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/ospfranco/sol/main/releases/appcast.xml"

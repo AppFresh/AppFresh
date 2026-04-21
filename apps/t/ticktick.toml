@@ -1,0 +1,13 @@
+app_token = "ticktick"
+name = "TickTick"
+desc = "To-do & task list manager"
+homepage = "https://www.ticktick.com/home"
+bundle_id = "com.TickTick.task.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "ticktick"
+
+[[sources]]
+type = "sparkle"
+url = "https://pull.ticktick.com/mac/release_note/mac_appcast.xml"

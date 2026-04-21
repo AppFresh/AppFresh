@@ -1,0 +1,21 @@
+app_token = "virtualbuddy"
+name = "VirtualBuddy"
+desc = "Virtualization tool"
+homepage = "https://github.com/insidegui/VirtualBuddy"
+bundle_id = "codes.rambo.VirtualBuddy"
+
+[[sources]]
+type = "homebrew"
+cask = "virtualbuddy"
+
+[[sources]]
+type = "github"
+repo = "insidegui/VirtualBuddy"
+
+[[sources]]
+type = "sparkle"
+url = "https://su.virtualbuddy.app/appcast.xml?channel=release"
+
+[[sources]]
+type = "homebrew"
+cask = "virtualbuddy@beta"

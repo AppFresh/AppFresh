@@ -1,0 +1,13 @@
+app_token = "vivid-app"
+name = "Vivid"
+desc = "Adaptive brightness for displays"
+homepage = "https://www.getvivid.app/"
+bundle_id = "com.goodsnooze.vivid"
+
+[[sources]]
+type = "homebrew"
+cask = "vivid-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://lumen-digital.com/apps/vivid/appcast.xml"

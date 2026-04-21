@@ -1,9 +1,0 @@
-app_token: tageditor
-name: Tag Editor
-desc: Spreadsheet style tag editor for audio files
-homepage: 'https://amvidia.com/tag-editor'
-bundle_id: com.amvidia.Tag-Editor-FS
-
-sources:
-  - type: homebrew
-    cask: tageditor

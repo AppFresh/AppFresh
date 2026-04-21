@@ -1,0 +1,13 @@
+app_token = "electron-fiddle"
+name = "Electron Fiddle"
+desc = "Create and play with small Electron experiments"
+homepage = "https://www.electronjs.org/fiddle"
+bundle_id = "com.electron.fiddle"
+
+[[sources]]
+type = "homebrew"
+cask = "electron-fiddle"
+
+[[sources]]
+type = "github"
+repo = "electron/fiddle"

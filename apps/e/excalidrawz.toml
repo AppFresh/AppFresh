@@ -1,0 +1,13 @@
+app_token = "excalidrawz"
+name = "ExcalidrawZ"
+desc = "Excalidraw client"
+homepage = "https://excalidrawz.chocoford.com/"
+bundle_id = "com.chocoford.excalidraw"
+
+[[sources]]
+type = "homebrew"
+cask = "excalidrawz"
+
+[[sources]]
+type = "github"
+repo = "chocoford/ExcalidrawZ"

@@ -1,0 +1,17 @@
+app_token = "postico"
+name = "Postico"
+desc = "GUI client for PostgreSQL databases"
+homepage = "https://eggerapps.at/postico2/"
+bundle_id = "at.eggerapps.Postico"
+
+[[sources]]
+type = "homebrew"
+cask = "postico"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.eggerapps.at/postico2/appcast.xml?update_channel=2"
+
+[[sources]]
+type = "homebrew"
+cask = "postico@1"

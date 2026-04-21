@@ -1,0 +1,10 @@
+app_token = "neteasemusic"
+name = "NetEase cloud music"
+name_cn = "网易云音乐"
+desc = "Music streaming platform"
+homepage = "https://music.163.com/"
+bundle_id = "com.netease.163music"
+
+[[sources]]
+type = "homebrew"
+cask = "neteasemusic"

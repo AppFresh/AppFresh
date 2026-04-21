@@ -1,9 +1,0 @@
-app_token: slidepad
-name: Slidepad
-desc: Slide over browser
-homepage: 'https://slidepad.app/'
-bundle_id: com.slidepad.slidepad
-
-sources:
-  - type: homebrew
-    cask: slidepad

@@ -1,0 +1,13 @@
+app_token = "onecast"
+name = "OneCast"
+desc = "Xbox remote play"
+homepage = "https://www.onecast.me/"
+bundle_id = "com.onecast.macos"
+
+[[sources]]
+type = "homebrew"
+cask = "onecast"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.onecast.me/updates/appcast.xml"

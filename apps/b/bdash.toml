@@ -1,0 +1,13 @@
+app_token = "bdash"
+name = "Bdash"
+desc = "Simple SQL Client for lightweight data analysis"
+homepage = "https://github.com/bdash-app/bdash"
+bundle_id = "io.bdash"
+
+[[sources]]
+type = "homebrew"
+cask = "bdash"
+
+[[sources]]
+type = "github"
+repo = "bdash-app/bdash"

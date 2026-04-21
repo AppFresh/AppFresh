@@ -1,9 +1,0 @@
-app_token: prettyclean
-name: PrettyClean
-desc: Easy to use Disk Cleanup Tools
-homepage: 'https://www.prettyclean.cc/'
-bundle_id: cc.prettyclean.PrettyClean
-
-sources:
-  - type: homebrew
-    cask: prettyclean

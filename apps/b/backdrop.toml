@@ -1,0 +1,13 @@
+app_token = "backdrop"
+name = "Backdrop"
+desc = "Live wallpaper app"
+homepage = "https://cindori.com/backdrop"
+bundle_id = "com.cindori.Backdrop"
+
+[[sources]]
+type = "homebrew"
+cask = "backdrop"
+
+[[sources]]
+type = "sparkle"
+url = "https://cdn.cindori.com/apps/backdrop/updates/update.xml"

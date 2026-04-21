@@ -1,0 +1,13 @@
+app_token = "cleaneronepro"
+name = "CleanerOnePro"
+desc = "All-in-one Cleaner App"
+homepage = "https://cleanerone.trendmicro.com/"
+bundle_id = "com.trendmicro.TrendCleanerPro"
+
+[[sources]]
+type = "homebrew"
+cask = "cleaneronepro"
+
+[[sources]]
+type = "sparkle"
+url = "https://res.ta.trendmicro.com/TrendCleanerPro/Sparkle.xml"

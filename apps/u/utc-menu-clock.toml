@@ -1,0 +1,13 @@
+app_token = "utc-menu-clock"
+name = "UTCMenuClock"
+desc = "Menu bar clock"
+homepage = "https://github.com/netik/UTCMenuClock"
+bundle_id = "net.retina.UTCMenuClock"
+
+[[sources]]
+type = "homebrew"
+cask = "utc-menu-clock"
+
+[[sources]]
+type = "github"
+repo = "netik/UTCMenuClock"

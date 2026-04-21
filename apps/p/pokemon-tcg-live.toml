@@ -1,0 +1,9 @@
+app_token = "pokemon-tcg-live"
+name = "Pokemon Trading Card Game Live"
+desc = "Play the Pokémon Trading Card Game"
+homepage = "https://tcg.pokemon.com/en-us/tcgl/"
+bundle_id = "com.pokemon.pokemontcgl"
+
+[[sources]]
+type = "homebrew"
+cask = "pokemon-tcg-live"

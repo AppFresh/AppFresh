@@ -1,0 +1,13 @@
+app_token = "vine-server"
+name = "Vine Server"
+desc = "VNC server"
+homepage = "https://github.com/stweil/OSXvnc/"
+bundle_id = "de.uni-mannheim.VineServer"
+
+[[sources]]
+type = "homebrew"
+cask = "vine-server"
+
+[[sources]]
+type = "github"
+repo = "stweil/OSXvnc"

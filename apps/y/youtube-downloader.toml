@@ -1,0 +1,13 @@
+app_token = "youtube-downloader"
+name = "YouTube Downloader"
+desc = "Simple menu bar app to download YouTube movies"
+homepage = "https://github.com/DenBeke/YouTube-Downloader-for-macOS"
+bundle_id = "denbeke.Youtube-Downloader"
+
+[[sources]]
+type = "homebrew"
+cask = "youtube-downloader"
+
+[[sources]]
+type = "github"
+repo = "DenBeke/YouTube-Downloader-for-macOS"

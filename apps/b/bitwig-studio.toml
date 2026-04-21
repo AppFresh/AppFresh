@@ -1,0 +1,9 @@
+app_token = "bitwig-studio"
+name = "Bitwig Studio"
+desc = "Digital audio workstation"
+homepage = "https://www.bitwig.com/"
+bundle_id = "com.bitwig.studio"
+
+[[sources]]
+type = "homebrew"
+cask = "bitwig-studio"

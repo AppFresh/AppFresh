@@ -1,0 +1,9 @@
+app_token = "chatterino"
+name = "Chatterino"
+desc = "Chat client for https://twitch.tv"
+homepage = "https://chatterino.com/"
+bundle_id = "com.chatterino"
+
+[[sources]]
+type = "homebrew"
+cask = "chatterino"

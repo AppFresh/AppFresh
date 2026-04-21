@@ -1,0 +1,13 @@
+app_token = "portfolioperformance"
+name = "Portfolio Performance"
+desc = "Calculate the overall performance of an investment portfolio"
+homepage = "https://www.portfolio-performance.info/en/"
+bundle_id = "name.abuchen.portfolio.distro.product"
+
+[[sources]]
+type = "homebrew"
+cask = "portfolioperformance"
+
+[[sources]]
+type = "github"
+repo = "buchen/portfolio"

@@ -1,0 +1,13 @@
+app_token = "capcut"
+name = "CapCut"
+desc = "Video editing and image design platform"
+homepage = "https://www.capcut.com/"
+bundle_id = "com.lemon.lvoverseas"
+
+[[sources]]
+type = "homebrew"
+cask = "capcut"
+
+[[sources]]
+type = "appstore"
+app_id = "1500855883"

@@ -1,0 +1,13 @@
+app_token = "ishare"
+name = "ishare"
+desc = "Screenshot capture utility"
+homepage = "https://github.com/castdrian/ishare/"
+bundle_id = "dev.adrian.ishare"
+
+[[sources]]
+type = "homebrew"
+cask = "ishare"
+
+[[sources]]
+type = "github"
+repo = "castdrian/ishare"

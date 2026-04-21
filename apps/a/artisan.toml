@@ -1,0 +1,13 @@
+app_token = "artisan"
+name = "Artisan"
+desc = "Visual scope for coffee roasters"
+homepage = "https://artisan-scope.org/"
+bundle_id = "org.artisan-scope.artisan"
+
+[[sources]]
+type = "homebrew"
+cask = "artisan"
+
+[[sources]]
+type = "github"
+repo = "artisan-roaster-scope/artisan"

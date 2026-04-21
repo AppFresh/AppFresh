@@ -1,0 +1,17 @@
+app_token = "dayflow"
+name = "Dayflow"
+desc = "Generate a timeline of your day, automatically"
+homepage = "https://github.com/JerryZLiu/Dayflow"
+bundle_id = "teleportlabs.com.Dayflow"
+
+[[sources]]
+type = "homebrew"
+cask = "dayflow"
+
+[[sources]]
+type = "github"
+repo = "JerryZLiu/Dayflow"
+
+[[sources]]
+type = "sparkle"
+url = "https://jerryzliu.github.io/Dayflow/appcast.xml"

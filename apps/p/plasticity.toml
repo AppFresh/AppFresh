@@ -1,0 +1,13 @@
+app_token = "plasticity"
+name = "Plasticity"
+desc = "3D modeling software for concept artists and designers"
+homepage = "https://www.plasticity.xyz/"
+bundle_id = "com.electron.plasticity"
+
+[[sources]]
+type = "homebrew"
+cask = "plasticity"
+
+[[sources]]
+type = "github"
+repo = "nkallen/plasticity"

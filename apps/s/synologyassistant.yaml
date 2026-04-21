@@ -1,9 +1,0 @@
-app_token: synologyassistant
-name: Synology Assistant
-desc: Tool to manage Synology NAS's across a LAN
-homepage: 'https://www.synology.com/'
-bundle_id: com.synology.DSAssistant
-
-sources:
-  - type: homebrew
-    cask: synologyassistant

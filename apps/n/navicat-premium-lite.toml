@@ -1,0 +1,9 @@
+app_token = "navicat-premium-lite"
+name = "Navicat Premium Lite"
+desc = "Database administration and development tool"
+homepage = "https://www.navicat.com/products/navicat-premium-lite"
+bundle_id = "com.navicat.NavicatPremiumLite"
+
+[[sources]]
+type = "homebrew"
+cask = "navicat-premium-lite"

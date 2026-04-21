@@ -1,0 +1,9 @@
+app_token = "numi"
+name = "Numi"
+desc = "Calculator and converter application"
+homepage = "https://numi.app/"
+bundle_id = "com.dmitrynikolaev.numi"
+
+[[sources]]
+type = "homebrew"
+cask = "numi"

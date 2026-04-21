@@ -1,0 +1,21 @@
+app_token = "defold"
+name = "Defold"
+desc = "Game engine for development of desktop, mobile and web games"
+homepage = "https://defold.com/"
+bundle_id = "com.defold.editor"
+
+[[sources]]
+type = "homebrew"
+cask = "defold"
+
+[[sources]]
+type = "github"
+repo = "defold/defold"
+
+[[sources]]
+type = "homebrew"
+cask = "defold@alpha"
+
+[[sources]]
+type = "homebrew"
+cask = "defold@beta"

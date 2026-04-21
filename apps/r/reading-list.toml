@@ -1,0 +1,8 @@
+app_token = "reading-list"
+name = "Reading List"
+desc = "A focused macOS app for browsing Safari Reading List"
+bundle_id = "io.marc.ReadingList"
+
+[[sources]]
+type = "github"
+repo = "marckohlbrugge/readinglist"

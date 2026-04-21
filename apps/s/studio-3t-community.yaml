@@ -1,9 +1,0 @@
-app_token: studio-3t-community
-name: Studio 3T Community Edition
-desc: IDE, client, and GUI for MongoDB
-homepage: 'https://robomongo.org/'
-bundle_id: com.install4j.0526-4458-1435-8154.837
-
-sources:
-  - type: homebrew
-    cask: studio-3t-community

@@ -1,9 +1,0 @@
-app_token: pop-app
-name: Pop
-desc: Remote pair programming
-homepage: 'https://pop.com/'
-bundle_id: com.pop.pop.app
-
-sources:
-  - type: homebrew
-    cask: pop-app

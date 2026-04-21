@@ -1,9 +1,0 @@
-app_token: termkit
-name: TermKit
-desc: A command palette for your AI CLI workflow on macOS.
-homepage: 'https://github.com/MenheraHann/TermKit'
-bundle_id: com.termkit.app
-
-sources:
-  - type: github
-    repo: MenheraHann/TermKit

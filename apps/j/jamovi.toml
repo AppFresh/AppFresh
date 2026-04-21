@@ -1,0 +1,9 @@
+app_token = "jamovi"
+name = "jamovi"
+desc = "Statistical software"
+homepage = "https://www.jamovi.org/"
+bundle_id = "org.jamovi.jamovi"
+
+[[sources]]
+type = "homebrew"
+cask = "jamovi"

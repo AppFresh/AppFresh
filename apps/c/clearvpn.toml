@@ -1,0 +1,13 @@
+app_token = "clearvpn"
+name = "ClearVPN"
+desc = "VPN client"
+homepage = "https://clearvpn.com/"
+bundle_id = "com.macpaw.clearvpn.macos-site-ver"
+
+[[sources]]
+type = "homebrew"
+cask = "clearvpn"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.devmate.com/com.macpaw.clearvpn.macos-site-ver.xml"

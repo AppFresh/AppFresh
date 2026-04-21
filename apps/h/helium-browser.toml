@@ -1,0 +1,13 @@
+app_token = "helium-browser"
+name = "Helium"
+desc = "The Chromium-based web browser made for people, with love."
+homepage = "https://helium.computer/"
+bundle_id = "net.imput.helium"
+
+[[sources]]
+type = "homebrew"
+cask = "helium-browser"
+
+[[sources]]
+type = "github"
+repo = "imputnet/helium-macos"

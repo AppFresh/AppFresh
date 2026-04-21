@@ -1,0 +1,13 @@
+app_token = "mcreator"
+name = "MCreator"
+desc = "Software used to make Minecraft Java Edition mods"
+homepage = "https://mcreator.net/"
+bundle_id = "net.mcreator"
+
+[[sources]]
+type = "homebrew"
+cask = "mcreator"
+
+[[sources]]
+type = "github"
+repo = "MCreator/MCreator"

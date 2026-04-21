@@ -1,0 +1,13 @@
+app_token = "thorium"
+name = "Thorium Reader"
+desc = "Epub reader"
+homepage = "https://www.edrlab.org/software/thorium-reader/"
+bundle_id = "io.github.edrlab.thorium"
+
+[[sources]]
+type = "homebrew"
+cask = "thorium"
+
+[[sources]]
+type = "github"
+repo = "edrlab/thorium-reader"

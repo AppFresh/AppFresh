@@ -1,0 +1,13 @@
+app_token = "alloy"
+name = "Alloy"
+desc = "Programming language for software modelling"
+homepage = "https://alloytools.org/"
+bundle_id = "org.alloytools.alloy"
+
+[[sources]]
+type = "homebrew"
+cask = "alloy"
+
+[[sources]]
+type = "github"
+repo = "AlloyTools/org.alloytools.alloy"

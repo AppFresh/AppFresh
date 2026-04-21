@@ -1,0 +1,13 @@
+app_token = "netiquette"
+name = "Netiquette"
+desc = "Network monitor"
+homepage = "https://objective-see.org/products/netiquette.html"
+bundle_id = "com.objective-see.Netiquette"
+
+[[sources]]
+type = "homebrew"
+cask = "netiquette"
+
+[[sources]]
+type = "github"
+repo = "objective-see/Netiquette"

@@ -1,9 +1,0 @@
-app_token: fido2-manage
-name: FIDO2.1 Security Key Management Tool
-desc: Manage FIDO2.1 security keys
-homepage: 'https://www.token2.swiss/site/page/fido2-1-security-key-management-tool-for-macos-user-guide'
-bundle_id: com.token2.fido2-manager
-
-sources:
-  - type: homebrew
-    cask: fido2-manage

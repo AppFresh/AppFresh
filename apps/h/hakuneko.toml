@@ -1,0 +1,13 @@
+app_token = "hakuneko"
+name = "HakuNeko"
+desc = "Manga and anime downloader and reader"
+homepage = "https://hakuneko.download/"
+bundle_id = "com.github.Electron.helper"
+
+[[sources]]
+type = "homebrew"
+cask = "hakuneko"
+
+[[sources]]
+type = "github"
+repo = "manga-download/hakuneko"

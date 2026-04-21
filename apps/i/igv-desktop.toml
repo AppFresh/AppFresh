@@ -1,0 +1,9 @@
+app_token = "igv-desktop"
+name = "Integrative Genomics Viewer (IGV)"
+desc = "Visual exploration of genomic data"
+homepage = "https://igv.org/doc/desktop/"
+bundle_id = "org.broad.igv.ui.Main"
+
+[[sources]]
+type = "homebrew"
+cask = "igv-desktop"

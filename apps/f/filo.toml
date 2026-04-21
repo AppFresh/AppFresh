@@ -1,0 +1,14 @@
+app_token = "filo"
+name = "Filo Mail"
+desc = "An AI-powered email client designed for Gmail"
+homepage = "https://www.filomail.com/"
+bundle_id = "com.filo.client"
+tags = ["Freemium"]
+
+[[sources]]
+type = "homebrew"
+cask = "filo"
+
+[[sources]]
+type = "appstore"
+app_id = "6740307388"

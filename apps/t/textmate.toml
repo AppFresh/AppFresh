@@ -1,0 +1,13 @@
+app_token = "textmate"
+name = "TextMate"
+desc = "General-purpose text editor"
+homepage = "https://macromates.com/"
+bundle_id = "com.macromates.TextMate"
+
+[[sources]]
+type = "homebrew"
+cask = "textmate"
+
+[[sources]]
+type = "github"
+repo = "textmate/textmate"

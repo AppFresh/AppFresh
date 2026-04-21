@@ -1,9 +1,0 @@
-app_token: sqlitemanager
-name: SQLiteManager
-desc: Database management system for sqlite databases
-homepage: 'https://www.sqlabs.com/sqlitemanager.php'
-bundle_id: com.sqlabs.sqlitemanager4
-
-sources:
-  - type: homebrew
-    cask: sqlitemanager

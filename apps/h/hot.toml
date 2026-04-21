@@ -1,0 +1,13 @@
+app_token = "hot"
+name = "Hot"
+desc = "Menu bar application that displays the CPU speed limit due to thermal issues"
+homepage = "https://github.com/macmade/Hot"
+bundle_id = "com.xs-labs.Hot"
+
+[[sources]]
+type = "homebrew"
+cask = "hot"
+
+[[sources]]
+type = "github"
+repo = "macmade/Hot"

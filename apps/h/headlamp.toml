@@ -1,0 +1,13 @@
+app_token = "headlamp"
+name = "Headlamp"
+desc = "UI for Kubernetes"
+homepage = "https://headlamp.dev/"
+bundle_id = "com.microsoft.Headlamp"
+
+[[sources]]
+type = "homebrew"
+cask = "headlamp"
+
+[[sources]]
+type = "github"
+repo = "headlamp-k8s/headlamp"

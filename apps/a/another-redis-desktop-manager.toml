@@ -1,0 +1,13 @@
+app_token = "another-redis-desktop-manager"
+name = "Another Redis Desktop Manager"
+desc = "Redis desktop manager"
+homepage = "https://github.com/qishibo/AnotherRedisDesktopManager/"
+bundle_id = "me.qii404.another-redis-desktop-manager"
+
+[[sources]]
+type = "homebrew"
+cask = "another-redis-desktop-manager"
+
+[[sources]]
+type = "github"
+repo = "qishibo/AnotherRedisDesktopManager"

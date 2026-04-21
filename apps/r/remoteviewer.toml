@@ -1,0 +1,9 @@
+app_token = "remoteviewer"
+name = "Remote Viewer"
+desc = "Connect to virtual machines using SPICE"
+homepage = "https://www.spice-space.org/osx-client.html"
+bundle_id = "org.virt-manager.remote-viewer"
+
+[[sources]]
+type = "homebrew"
+cask = "remoteviewer"

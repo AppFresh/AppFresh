@@ -1,0 +1,9 @@
+app_token = "liteedit"
+name = "LiteEdit"
+desc = "A lightweight, fast code editor for macOS — built with Swift and AppKit"
+homepage = "https://arietan.github.io/lite-edit/"
+bundle_id = "com.liteedit.app"
+
+[[sources]]
+type = "github"
+repo = "arietan/lite-edit"

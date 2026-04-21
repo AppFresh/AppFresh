@@ -1,0 +1,9 @@
+app_token = "mendeley-reference-manager"
+name = "Mendeley Reference Manager"
+desc = "Research management tool"
+homepage = "https://www.mendeley.com/download-reference-manager/macOS/"
+bundle_id = "com.elsevier.mendeley"
+
+[[sources]]
+type = "homebrew"
+cask = "mendeley-reference-manager"

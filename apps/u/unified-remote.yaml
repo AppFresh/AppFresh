@@ -1,9 +1,0 @@
-app_token: unified-remote
-name: Unified Remote
-desc: Turn your smartphone into a universal remote control
-homepage: 'https://www.unifiedremote.com/'
-bundle_id: com.unified.Unified-Remote
-
-sources:
-  - type: homebrew
-    cask: unified-remote

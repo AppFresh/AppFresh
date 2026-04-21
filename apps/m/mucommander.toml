@@ -1,0 +1,13 @@
+app_token = "mucommander"
+name = "muCommander"
+desc = "File manager with a dual-pane interface"
+homepage = "https://www.mucommander.com/"
+bundle_id = "com.mucommander.muCommander"
+
+[[sources]]
+type = "homebrew"
+cask = "mucommander"
+
+[[sources]]
+type = "github"
+repo = "mucommander/mucommander"

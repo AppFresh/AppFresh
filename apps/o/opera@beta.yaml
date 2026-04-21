@@ -1,8 +1,0 @@
-app_token: opera@beta
-name: Opera Beta
-desc: Web browser
-homepage: 'https://www.opera.com/'
-
-sources:
-  - type: homebrew
-    cask: opera@beta

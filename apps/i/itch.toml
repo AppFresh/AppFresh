@@ -1,0 +1,13 @@
+app_token = "itch"
+name = "itch"
+desc = "Game client for itch.io"
+homepage = "https://itch.io/app"
+bundle_id = "io.itch.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "itch"
+
+[[sources]]
+type = "github"
+repo = "itchio/itch"

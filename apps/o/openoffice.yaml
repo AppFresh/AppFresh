@@ -1,9 +1,0 @@
-app_token: openoffice
-name: Apache OpenOffice
-desc: Free and open-source productivity suite
-homepage: 'https://www.openoffice.org/'
-bundle_id: org.openoffice.script
-
-sources:
-  - type: homebrew
-    cask: openoffice

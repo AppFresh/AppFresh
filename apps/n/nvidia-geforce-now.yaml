@@ -1,9 +1,0 @@
-app_token: nvidia-geforce-now
-name: NVIDIA GeForce NOW
-desc: Cloud gaming platform
-homepage: 'https://www.nvidia.com/en-us/geforce-now/download/'
-bundle_id: com.nvidia.gfnpc.mall
-
-sources:
-  - type: homebrew
-    cask: nvidia-geforce-now

@@ -1,9 +1,0 @@
-app_token: smartsvn
-name: SmartSVN
-desc: Subversion client
-homepage: 'https://www.smartsvn.com/'
-bundle_id: com.syntevo.smartsvn
-
-sources:
-  - type: homebrew
-    cask: smartsvn

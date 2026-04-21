@@ -1,0 +1,13 @@
+app_token = "beyond-compare"
+name = "Beyond Compare"
+desc = "Compare files and folders"
+homepage = "https://www.scootersoftware.com/"
+bundle_id = "com.ScooterSoftware.BeyondCompare"
+
+[[sources]]
+type = "homebrew"
+cask = "beyond-compare"
+
+[[sources]]
+type = "homebrew"
+cask = "beyond-compare@4"

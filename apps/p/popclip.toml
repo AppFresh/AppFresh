@@ -1,0 +1,13 @@
+app_token = "popclip"
+name = "PopClip"
+desc = "Used to access context-specific actions when text is selected"
+homepage = "https://www.popclip.app/"
+bundle_id = "com.pilotmoon.popclip"
+
+[[sources]]
+type = "homebrew"
+cask = "popclip"
+
+[[sources]]
+type = "sparkle"
+url = "https://softwareupdate.pilotmoon.com/update/popclip/appcast.xml"

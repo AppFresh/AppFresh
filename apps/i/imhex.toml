@@ -1,0 +1,13 @@
+app_token = "imhex"
+name = "ImHex"
+desc = "Hex editor for reverse engineers"
+homepage = "https://imhex.werwolv.net/"
+bundle_id = "net.WerWolv.ImHex"
+
+[[sources]]
+type = "homebrew"
+cask = "imhex"
+
+[[sources]]
+type = "github"
+repo = "WerWolv/ImHex"

@@ -1,0 +1,13 @@
+app_token = "supacode"
+name = "supacode"
+desc = "Native terminal coding agents command center"
+homepage = "https://supacode.sh/"
+bundle_id = "app.supabit.supacode"
+
+[[sources]]
+type = "homebrew"
+cask = "supacode"
+
+[[sources]]
+type = "sparkle"
+url = "https://supacode.sh/download/latest/appcast.xml"

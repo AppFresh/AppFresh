@@ -1,0 +1,13 @@
+app_token = "refine"
+name = "Refine"
+desc = "Your offline AI for perfect grammar"
+homepage = "https://refine.sh/"
+bundle_id = "com.runjuu.refine"
+
+[[sources]]
+type = "homebrew"
+cask = "refine"
+
+[[sources]]
+type = "sparkle"
+url = "https://refine.sh/release/stable/appcast.xml"

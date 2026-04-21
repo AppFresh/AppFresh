@@ -1,0 +1,9 @@
+app_token = "expandrive"
+name = "ExpanDrive"
+desc = "Network drive and browser for cloud storage"
+homepage = "https://www.expandrive.com/apps/expandrive/"
+bundle_id = "com.expandrive.ExpanDrive"
+
+[[sources]]
+type = "homebrew"
+cask = "expandrive"

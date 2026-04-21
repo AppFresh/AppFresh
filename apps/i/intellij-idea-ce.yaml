@@ -1,9 +1,0 @@
-app_token: intellij-idea-ce
-name: IntelliJ IDEA Community Edition
-desc: IDE for Java development - community edition
-homepage: 'https://www.jetbrains.com/idea/'
-bundle_id: com.jetbrains.intellij.ce
-
-sources:
-  - type: homebrew
-    cask: intellij-idea-ce

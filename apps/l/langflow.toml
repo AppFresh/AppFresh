@@ -1,0 +1,15 @@
+app_token = "langflow"
+name = "Langflow Desktop"
+desc = "Low-code AI-workflow building tool"
+homepage = "https://www.langflow.org/desktop"
+bundle_id = "com.LangflowDesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "langflow"
+
+[[sources]]
+type = "github"
+repo = "langflow-ai/langflow"
+regex = '^Langflow_(\d+(?:\.\d+)*)_aarch64\.dmg$'
+version = "{match[1]}"

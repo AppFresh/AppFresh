@@ -1,0 +1,13 @@
+app_token = "anylist"
+name = "AnyList"
+desc = "Grocery shopping list"
+homepage = "https://www.anylistapp.com/"
+bundle_id = "com.purplecover.anylist.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "anylist"
+
+[[sources]]
+type = "sparkle"
+url = "https://s3.amazonaws.com/files.anylistapp.com/mac/appcast.xml"

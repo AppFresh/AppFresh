@@ -1,0 +1,8 @@
+app_token = "weixin-reader-desktop"
+name = "Weixin Reader Desktop"
+desc = "A Weixin Reader Desktop with Auto-turning and Wide-pager"
+bundle_id = "com.dengcb.reader"
+
+[[sources]]
+type = "github"
+repo = "dengcb/weixin-reader-desktop"

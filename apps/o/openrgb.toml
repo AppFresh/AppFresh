@@ -1,0 +1,9 @@
+app_token = "openrgb"
+name = "OpenRGB"
+desc = "Open source RGB lighting control that doesn't depend on manufacturer software"
+homepage = "https://openrgb.org/"
+bundle_id = "com.yourcompany.OpenRGB"
+
+[[sources]]
+type = "homebrew"
+cask = "openrgb"

@@ -1,0 +1,13 @@
+app_token = "altserver"
+name = "AltServer"
+desc = "iOS App Store alternative"
+homepage = "https://altstore.io/"
+bundle_id = "com.rileytestut.AltServer"
+
+[[sources]]
+type = "homebrew"
+cask = "altserver"
+
+[[sources]]
+type = "sparkle"
+url = "https://altstore.io/altserver/sparkle-macos.xml"

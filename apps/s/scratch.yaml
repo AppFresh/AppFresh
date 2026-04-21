@@ -1,9 +1,0 @@
-app_token: scratch
-name: Scratch
-desc: Programmes interactive stories, games, and animations
-homepage: 'https://scratch.mit.edu/download'
-bundle_id: edu.mit.scratch.scratch-desktop
-
-sources:
-  - type: homebrew
-    cask: scratch

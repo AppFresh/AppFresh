@@ -1,9 +1,0 @@
-app_token: lyn
-name: Lyn
-desc: Media browser and viewer
-homepage: 'https://www.lynapp.com/'
-bundle_id: com.lynapp.lyn
-
-sources:
-  - type: homebrew
-    cask: lyn

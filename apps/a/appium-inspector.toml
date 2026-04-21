@@ -1,0 +1,13 @@
+app_token = "appium-inspector"
+name = "Appium Inspector GUI"
+desc = "GUI inspector for mobile apps"
+homepage = "https://github.com/appium/appium-inspector/"
+bundle_id = "io.appium.inspector"
+
+[[sources]]
+type = "homebrew"
+cask = "appium-inspector"
+
+[[sources]]
+type = "github"
+repo = "appium/appium-inspector"

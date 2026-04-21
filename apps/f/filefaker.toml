@@ -1,0 +1,13 @@
+app_token = "filefaker"
+name = "FileFaker"
+desc = "Tool for generating fake files"
+homepage = "https://filefaker.com/"
+bundle_id = "com.filefaker.native.FileFaker"
+
+[[sources]]
+type = "homebrew"
+cask = "filefaker"
+
+[[sources]]
+type = "sparkle"
+url = "https://filefaker.com/archive/appcast.xml"

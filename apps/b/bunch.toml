@@ -1,0 +1,13 @@
+app_token = "bunch"
+name = "Bunch"
+desc = "Automation tool"
+homepage = "https://bunchapp.co/"
+bundle_id = "com.brettterpstra.Bunch"
+
+[[sources]]
+type = "homebrew"
+cask = "bunch"
+
+[[sources]]
+type = "sparkle"
+url = "https://brettterpstra.com/updates/bunch/appcast.xml"

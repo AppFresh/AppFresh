@@ -1,0 +1,13 @@
+app_token = "mem"
+name = "Mem"
+desc = "Capture and access information from anywhere"
+homepage = "https://get.mem.ai/"
+bundle_id = "org.memlabs.Mem"
+
+[[sources]]
+type = "homebrew"
+cask = "mem"
+
+[[sources]]
+type = "electron"
+url = "https://storage.googleapis.com/mem-desktop-stable-releases/latest-mac.yml"

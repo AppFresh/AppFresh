@@ -1,0 +1,13 @@
+app_token = "multi"
+name = "Multi"
+desc = "Create apps from groups of websites"
+homepage = "https://github.com/hkgumbs/multi"
+bundle_id = "llc.gumbs.multi"
+
+[[sources]]
+type = "homebrew"
+cask = "multi"
+
+[[sources]]
+type = "github"
+repo = "hkgumbs/multi"

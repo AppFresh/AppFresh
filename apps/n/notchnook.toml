@@ -1,0 +1,13 @@
+app_token = "notchnook"
+name = "NotchNook"
+desc = "Handy utility to manage and customize the notch area"
+homepage = "https://lo.cafe/notchnook"
+bundle_id = "lo.cafe.NotchNook"
+
+[[sources]]
+type = "homebrew"
+cask = "notchnook"
+
+[[sources]]
+type = "sparkle"
+url = "https://lo.cafe/notchnook-files/appcast.xml"

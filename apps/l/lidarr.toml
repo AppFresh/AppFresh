@@ -1,0 +1,13 @@
+app_token = "lidarr"
+name = "Lidarr"
+desc = "Looks and smells like Sonarr but made for music"
+homepage = "https://lidarr.audio/"
+bundle_id = "com.osx.lidarr.audio"
+
+[[sources]]
+type = "homebrew"
+cask = "lidarr"
+
+[[sources]]
+type = "github"
+repo = "lidarr/Lidarr"

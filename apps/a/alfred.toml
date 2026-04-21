@@ -1,0 +1,17 @@
+app_token = "alfred"
+name = "Alfred"
+desc = "Application launcher and productivity software"
+homepage = "https://www.alfredapp.com/"
+bundle_id = "com.runningwithcrayons.Alfred"
+
+[[sources]]
+type = "homebrew"
+cask = "alfred"
+
+[[sources]]
+type = "homebrew"
+cask = "alfred@4"
+
+[[sources]]
+type = "homebrew"
+cask = "alfred@prerelease"

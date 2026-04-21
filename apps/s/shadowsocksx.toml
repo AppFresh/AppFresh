@@ -1,0 +1,13 @@
+app_token = "shadowsocksx"
+name = "ShadowsocksX"
+desc = "Removed according to regulations"
+homepage = "https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help"
+bundle_id = "clowwindy.ShadowsocksX"
+
+[[sources]]
+type = "homebrew"
+cask = "shadowsocksx"
+
+[[sources]]
+type = "github"
+repo = "shadowsocks/shadowsocks-iOS"

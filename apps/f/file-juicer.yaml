@@ -1,9 +1,0 @@
-app_token: file-juicer
-name: File Juicer
-desc: Extract images from PDF, PowerPoint, Word, Excel and other Files
-homepage: 'https://echoone.com/filejuicer/'
-bundle_id: com.echoone.FileJuicer
-
-sources:
-  - type: homebrew
-    cask: file-juicer

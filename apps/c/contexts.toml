@@ -1,0 +1,13 @@
+app_token = "contexts"
+name = "Contexts"
+desc = "Allows switching between application windows"
+homepage = "https://contexts.co/"
+bundle_id = "com.contextsformac.Contexts"
+
+[[sources]]
+type = "homebrew"
+cask = "contexts"
+
+[[sources]]
+type = "sparkle"
+url = "https://contexts.co/appcasts/stable.xml"

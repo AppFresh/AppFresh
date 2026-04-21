@@ -1,9 +1,0 @@
-app_token: smartgit
-name: SmartGit
-desc: Git client
-homepage: 'https://www.smartgit.dev/'
-bundle_id: com.syntevo.smartgit
-
-sources:
-  - type: homebrew
-    cask: smartgit

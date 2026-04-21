@@ -1,9 +1,0 @@
-app_token: telegram-a
-name: Telegram A
-desc: Web client for Telegram messenger
-homepage: 'https://web.telegram.org/a/get'
-bundle_id: org.telegram.TelegramA
-
-sources:
-  - type: homebrew
-    cask: telegram-a

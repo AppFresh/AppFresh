@@ -1,0 +1,9 @@
+app_token = "rnote"
+name = "Rnote"
+desc = "Sketch and take handwritten notes"
+homepage = "https://rnote.flxzt.net/"
+bundle_id = "net.flxzt.Rnote"
+
+[[sources]]
+type = "homebrew"
+cask = "rnote"

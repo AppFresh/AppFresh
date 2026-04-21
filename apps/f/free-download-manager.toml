@@ -1,0 +1,9 @@
+app_token = "free-download-manager"
+name = "Free Download Manager"
+desc = "Download accelerator and organiser"
+homepage = "https://www.freedownloadmanager.org/"
+bundle_id = "org.freedownloadmanager.fdm6"
+
+[[sources]]
+type = "homebrew"
+cask = "free-download-manager"

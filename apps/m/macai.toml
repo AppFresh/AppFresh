@@ -1,0 +1,17 @@
+app_token = "macai"
+name = "macai"
+desc = "Native chat application for all major LLM APIs"
+homepage = "https://github.com/Renset/macai"
+bundle_id = "notfullin.com.macai"
+
+[[sources]]
+type = "homebrew"
+cask = "macai"
+
+[[sources]]
+type = "github"
+repo = "Renset/macai"
+
+[[sources]]
+type = "sparkle"
+url = "https://renset.dev/macai/appcast.xml"

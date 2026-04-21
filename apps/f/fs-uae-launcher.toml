@@ -1,0 +1,13 @@
+app_token = "fs-uae-launcher"
+name = "FS-UAE Launcher"
+desc = "Amiga emulator launcher"
+homepage = "https://fs-uae.net/"
+bundle_id = "no.fengestad.fs-uae-launcher"
+
+[[sources]]
+type = "homebrew"
+cask = "fs-uae-launcher"
+
+[[sources]]
+type = "github"
+repo = "FrodeSolheim/fs-uae-launcher"

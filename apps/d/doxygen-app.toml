@@ -1,0 +1,9 @@
+app_token = "doxygen-app"
+name = "Doxygen"
+desc = "Generate documentation from source code"
+homepage = "https://www.doxygen.nl/"
+bundle_id = "nl.doxygen.Doxygen"
+
+[[sources]]
+type = "homebrew"
+cask = "doxygen-app"

@@ -1,0 +1,13 @@
+app_token = "notebooks"
+name = "Notebooks"
+desc = "Word processor"
+homepage = "https://www.notebooksapp.com/mac/"
+bundle_id = "com.aschmid.notebooks2"
+
+[[sources]]
+type = "homebrew"
+cask = "notebooks"
+
+[[sources]]
+type = "sparkle"
+url = "https://notebooksapp.com/Download/macOS/v3/Notebooks3Appcast.xml"

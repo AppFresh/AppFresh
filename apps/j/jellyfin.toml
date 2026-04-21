@@ -1,0 +1,9 @@
+app_token = "jellyfin"
+name = "Jellyfin"
+desc = "Media system"
+homepage = "https://jellyfin.org/"
+bundle_id = "Jellyfin.Server"
+
+[[sources]]
+type = "homebrew"
+cask = "jellyfin"

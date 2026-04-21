@@ -1,0 +1,9 @@
+app_token = "spitfire-audio"
+name = "Spitfire Audio"
+desc = "Download manager for Spitfire audio libraries"
+homepage = "https://www.spitfireaudio.com/info/library-manager/"
+bundle_id = "com.spitfireaudio.spitfireaudio"
+
+[[sources]]
+type = "homebrew"
+cask = "spitfire-audio"

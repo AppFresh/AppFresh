@@ -1,0 +1,13 @@
+app_token = "the-clock"
+name = "The Clock"
+desc = "Clock and time zone app"
+homepage = "https://seense.com/the_clock/"
+bundle_id = "com.fabriceleyne.theclock"
+
+[[sources]]
+type = "homebrew"
+cask = "the-clock"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.seense.com/the_clock/updateapp/appcast.xml"

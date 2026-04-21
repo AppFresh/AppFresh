@@ -1,0 +1,13 @@
+app_token = "timemator"
+name = "Timemator"
+desc = "Automatic time-tracking application"
+homepage = "https://timemator.com/"
+bundle_id = "com.catforce.timemator.macos"
+
+[[sources]]
+type = "homebrew"
+cask = "timemator"
+
+[[sources]]
+type = "sparkle"
+url = "https://catforce-timemator.s3.amazonaws.com/releases/appcast.xml"

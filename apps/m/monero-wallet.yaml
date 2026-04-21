@@ -1,9 +1,0 @@
-app_token: monero-wallet
-name: Monero Wallet
-desc: Untraceable cryptocurrency wallet
-homepage: 'https://getmonero.org/'
-bundle_id: org.monero-project.monero-wallet-gui
-
-sources:
-  - type: homebrew
-    cask: monero-wallet

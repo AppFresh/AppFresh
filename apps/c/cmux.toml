@@ -1,0 +1,12 @@
+app_token = "cmux"
+name = "cmux"
+desc = "A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents"
+bundle_id = "com.cmuxterm.app"
+
+[[sources]]
+type = "homebrew"
+cask = "cmux"
+
+[[sources]]
+type = "github"
+repo = "manaflow-ai/cmux"

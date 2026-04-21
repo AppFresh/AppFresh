@@ -1,0 +1,9 @@
+app_token = "adobe-creative-cloud-cleaner-tool"
+name = "Adobe Creative Cloud Cleaner Tool"
+desc = "Utility to clean up corrupted installations of Adobe software"
+homepage = "https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html"
+bundle_id = "com.Adobe.Installers.AdobeCreativeCloudCleanerTool"
+
+[[sources]]
+type = "homebrew"
+cask = "adobe-creative-cloud-cleaner-tool"

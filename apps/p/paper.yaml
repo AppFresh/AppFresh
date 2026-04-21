@@ -1,9 +1,0 @@
-app_token: paper
-name: pap.er
-desc: Pap.er, 4K 5K HD Wallpaper Application
-homepage: 'https://paper.photos/'
-bundle_id: com.w.paper
-
-sources:
-  - type: homebrew
-    cask: paper

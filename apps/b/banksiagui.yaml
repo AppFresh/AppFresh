@@ -1,9 +1,0 @@
-app_token: banksiagui
-name: banksiagui
-desc: Chess GUI
-homepage: 'https://banksiagui.com/'
-bundle_id: softgaroo.banksia
-
-sources:
-  - type: homebrew
-    cask: banksiagui

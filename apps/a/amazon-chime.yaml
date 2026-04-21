@@ -1,9 +1,0 @@
-app_token: amazon-chime
-name: Amazon Chime
-desc: Communications service
-homepage: 'https://chime.aws/'
-bundle_id: com.amazon.Amazon-Chime
-
-sources:
-  - type: homebrew
-    cask: amazon-chime

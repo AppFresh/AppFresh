@@ -1,0 +1,17 @@
+app_token = "lyricsx"
+name = "LyricsX"
+desc = "Lyrics for iTunes, Spotify, Vox and Audirvana Plus"
+homepage = "https://github.com/ddddxxx/LyricsX"
+bundle_id = "ddddxxx.LyricsX"
+
+[[sources]]
+type = "homebrew"
+cask = "lyricsx"
+
+[[sources]]
+type = "github"
+repo = "ddddxxx/LyricsX"
+
+[[sources]]
+type = "sparkle"
+url = "https://ddddxxx.github.io/LyricsX/appcast.xml"

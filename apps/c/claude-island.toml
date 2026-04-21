@@ -1,0 +1,13 @@
+app_token = "claude-island"
+name = "Claude Island"
+desc = "Dynamic Island-style notifications for Claude Code CLI sessions"
+homepage = "https://claudeisland.com/"
+bundle_id = "com.celestial.ClaudeIsland"
+
+[[sources]]
+type = "homebrew"
+cask = "claude-island"
+
+[[sources]]
+type = "github"
+repo = "farouqaldori/claude-island"

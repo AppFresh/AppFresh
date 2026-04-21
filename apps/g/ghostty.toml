@@ -1,0 +1,17 @@
+app_token = "ghostty"
+name = "Ghostty"
+desc = "Fast, native, feature-rich terminal emulator pushing modern features."
+homepage = "https://ghostty.org/"
+bundle_id = "com.mitchellh.ghostty"
+
+[[sources]]
+type = "homebrew"
+cask = "ghostty"
+
+[[sources]]
+type = "sparkle"
+url = "https://release.files.ghostty.org/appcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "ghostty@tip"

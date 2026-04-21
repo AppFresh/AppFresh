@@ -1,0 +1,9 @@
+app_token = "geomap"
+name = "GeoMapApp"
+desc = "Browse, visualise and analyze geoscience data sets"
+homepage = "https://www.geomapapp.org/"
+bundle_id = "haxby.map"
+
+[[sources]]
+type = "homebrew"
+cask = "geomap"

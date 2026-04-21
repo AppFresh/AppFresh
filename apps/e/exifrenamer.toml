@@ -1,0 +1,9 @@
+app_token = "exifrenamer"
+name = "ExifRenamer"
+desc = "Tool to rename digital photos, movie- and audio-clips"
+homepage = "https://www.qdev.de/?location=mac/exifrenamer&forcelang=en"
+bundle_id = "de.qdev.ExifRenamer"
+
+[[sources]]
+type = "homebrew"
+cask = "exifrenamer"

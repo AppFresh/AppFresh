@@ -1,9 +1,0 @@
-app_token: poe
-name: Poe
-desc: AI chat client
-homepage: 'https://poe.com/'
-bundle_id: com.quora.poe.electron
-
-sources:
-  - type: homebrew
-    cask: poe

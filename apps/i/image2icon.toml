@@ -1,0 +1,13 @@
+app_token = "image2icon"
+name = "Image2Icon"
+desc = "Icon creator and file and folder customiser"
+homepage = "https://www.img2icnsapp.com/"
+bundle_id = "net.shinyfrog.image2icon"
+
+[[sources]]
+type = "homebrew"
+cask = "image2icon"
+
+[[sources]]
+type = "sparkle"
+url = "http://apps.shinynode.com/apps/image2icon_appcast.xml"

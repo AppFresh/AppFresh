@@ -1,0 +1,13 @@
+app_token = "disk-expert"
+name = "Disk Expert"
+desc = "Disk space analyzer"
+homepage = "https://nektony.com/disk-expert"
+bundle_id = "com.nektony.Disk-Expert-SIII"
+
+[[sources]]
+type = "homebrew"
+cask = "disk-expert"
+
+[[sources]]
+type = "sparkle"
+url = "https://download.nektony.com/pro-support/v3/disk-expert/update/update.xml"

@@ -1,0 +1,13 @@
+app_token = "houdahspot"
+name = "HoudahSpot"
+desc = "File searching application"
+homepage = "https://www.houdah.com/houdahSpot/"
+bundle_id = "com.houdah.HoudahSpot4"
+
+[[sources]]
+type = "homebrew"
+cask = "houdahspot"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.houdah.com/houdahSpot/updates/cast6.php"

@@ -1,0 +1,9 @@
+app_token = "bilibili"
+name = "Bilibili"
+desc = "Official bilibili video streaming and sharing platform"
+homepage = "https://app.bilibili.com/"
+bundle_id = "com.bilibili.bilibiliPC"
+
+[[sources]]
+type = "homebrew"
+cask = "bilibili"

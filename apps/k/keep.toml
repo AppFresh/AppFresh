@@ -1,0 +1,13 @@
+app_token = "keep"
+name = "Keep"
+desc = "Run Google Keep in the menu bar"
+homepage = "https://github.com/tmcinerney/keep/"
+bundle_id = "com.electron.keep"
+
+[[sources]]
+type = "homebrew"
+cask = "keep"
+
+[[sources]]
+type = "github"
+repo = "tmcinerney/keep"

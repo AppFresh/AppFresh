@@ -1,9 +1,0 @@
-app_token: circuitjs1
-name: Falstad CircuitJS
-desc: Electronic circuit simulator
-homepage: 'https://www.falstad.com/circuit/'
-bundle_id: com.falstad.CircuitJS1
-
-sources:
-  - type: homebrew
-    cask: circuitjs1

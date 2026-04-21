@@ -1,0 +1,13 @@
+app_token = "swift-quit"
+name = "Swift Quit"
+desc = "Enable Windows-like program quitting when all windows are closed"
+homepage = "https://github.com/onebadidea/swiftquit"
+bundle_id = "onebadidea.Swift-Quit"
+
+[[sources]]
+type = "homebrew"
+cask = "swift-quit"
+
+[[sources]]
+type = "github"
+repo = "onebadidea/swiftquit"

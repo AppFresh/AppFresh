@@ -1,9 +1,0 @@
-app_token: robloxstudio
-name: Roblox Studio
-desc: Roblox IDE to build your experiences
-homepage: 'https://create.roblox.com/'
-bundle_id: com.Roblox.RobloxStudio
-
-sources:
-  - type: homebrew
-    cask: robloxstudio

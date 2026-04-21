@@ -1,9 +1,0 @@
-app_token: github-store
-name: GitHub Store
-desc: A free, open-source app store for GitHub releases — browse, discover, and install apps with one click.
-homepage: 'https://github-store.org/'
-bundle_id: zed.rainxch.githubstore
-
-sources:
-  - type: github
-    repo: rainxchzed/Github-Store

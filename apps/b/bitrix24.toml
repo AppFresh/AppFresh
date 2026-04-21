@@ -1,0 +1,13 @@
+app_token = "bitrix24"
+name = "Bitrix24"
+desc = "Business management platform"
+homepage = "https://www.bitrix24.com/apps/mobile-and-desktop-apps.php#desktop_app"
+bundle_id = "com.bitrixsoft.bitrix24desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "bitrix24"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.bitrix24.com/osx_version.php"

@@ -1,0 +1,13 @@
+app_token = "typeless"
+name = "Typeless"
+desc = "AI voice dictation that turns speech into polished text"
+homepage = "https://typeless.com/"
+bundle_id = "now.typeless.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "typeless"
+
+[[sources]]
+type = "electron"
+url = "https://typeless-static.com/desktop-release/arm64-mac.yml"

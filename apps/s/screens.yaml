@@ -1,9 +1,0 @@
-app_token: screens
-name: Screens
-desc: Remote access software focusing on usability
-homepage: 'https://edovia.com/screens-mac/'
-bundle_id: com.edovia.screens4.mac
-
-sources:
-  - type: homebrew
-    cask: screens

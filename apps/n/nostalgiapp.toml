@@ -1,0 +1,13 @@
+app_token = "nostalgiapp"
+name = "NostalgiApp"
+desc = "Launcher for eXoDOS and retro game collections"
+homepage = "https://nostalgi.app/"
+bundle_id = "com.nostalgi.app"
+
+[[sources]]
+type = "homebrew"
+cask = "nostalgiapp"
+
+[[sources]]
+type = "sparkle"
+url = "https://nostalgi.app/appcast.xml"

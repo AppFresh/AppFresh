@@ -1,0 +1,9 @@
+app_token = "rubymine"
+name = "RubyMine"
+desc = "Ruby on Rails IDE"
+homepage = "https://www.jetbrains.com/ruby/"
+bundle_id = "com.jetbrains.rubymine"
+
+[[sources]]
+type = "homebrew"
+cask = "rubymine"

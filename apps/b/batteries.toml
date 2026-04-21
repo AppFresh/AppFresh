@@ -1,0 +1,13 @@
+app_token = "batteries"
+name = "Batteries"
+desc = "Track all your devices' batteries"
+homepage = "https://www.fadel.io/batteries/"
+bundle_id = "io.fadel.Batteries"
+
+[[sources]]
+type = "homebrew"
+cask = "batteries"
+
+[[sources]]
+type = "github"
+repo = "ronyfadel/BatteriesReleases"

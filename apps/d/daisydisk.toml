@@ -1,0 +1,13 @@
+app_token = "daisydisk"
+name = "DaisyDisk"
+desc = "Disk space visualiser"
+homepage = "https://daisydiskapp.com/"
+bundle_id = "com.daisydiskapp.DaisyDiskStandAlone"
+
+[[sources]]
+type = "homebrew"
+cask = "daisydisk"
+
+[[sources]]
+type = "sparkle"
+url = "https://daisydiskapp.com/downloads/appcastFeed.php"

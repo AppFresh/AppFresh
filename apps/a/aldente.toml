@@ -1,0 +1,13 @@
+app_token = "aldente"
+name = "AlDente"
+desc = "Menu bar tool to limit maximum charging percentage"
+homepage = "https://apphousekitchen.com/"
+bundle_id = "com.apphousekitchen.aldente-pro"
+
+[[sources]]
+type = "homebrew"
+cask = "aldente"
+
+[[sources]]
+type = "sparkle"
+url = "https://apphousekitchen.com/aldente/aldenteproappcast.xml"

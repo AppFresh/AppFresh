@@ -1,0 +1,9 @@
+app_token = "espresso"
+name = "Espresso"
+desc = "Website editor focusing on flair and efficiency"
+homepage = "https://espressoapp.com/"
+bundle_id = "au.ixian.espresso"
+
+[[sources]]
+type = "homebrew"
+cask = "espresso"

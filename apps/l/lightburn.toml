@@ -1,0 +1,9 @@
+app_token = "lightburn"
+name = "LightBurn"
+desc = "Layout, editing, and control software for laser cutters"
+homepage = "https://lightburnsoftware.com/"
+bundle_id = "com.LightBurnSoftware.LightBurn"
+
+[[sources]]
+type = "homebrew"
+cask = "lightburn"

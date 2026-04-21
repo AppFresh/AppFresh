@@ -1,9 +1,0 @@
-app_token: gotomeeting
-name: GoToMeeting
-desc: Online meetings, desktop sharing, and video conferencing
-homepage: 'https://www.goto.com/meeting'
-bundle_id: com.logmein.GoToMeeting
-
-sources:
-  - type: homebrew
-    cask: gotomeeting

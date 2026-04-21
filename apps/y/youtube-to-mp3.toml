@@ -1,0 +1,9 @@
+app_token = "youtube-to-mp3"
+name = "MediaHuman YouTube to MP3 Converter"
+desc = "Downloads music from playlists or channels"
+homepage = "https://www.mediahuman.net/youtube-to-mp3/"
+bundle_id = "org.qt-project.Qt.QtWebEngineProcess"
+
+[[sources]]
+type = "homebrew"
+cask = "youtube-to-mp3"

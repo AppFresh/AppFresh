@@ -1,9 +1,0 @@
-app_token: fathom
-name: Fathom
-desc: Record and transcribe video conferences
-homepage: 'https://fathom.video/'
-bundle_id: video.fathom.electron
-
-sources:
-  - type: homebrew
-    cask: fathom

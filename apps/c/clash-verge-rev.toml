@@ -1,0 +1,13 @@
+app_token = "clash-verge-rev"
+name = "Clash Verge Rev"
+desc = "Continuation of Clash Verge - A Clash Meta GUI based on Tauri"
+homepage = "https://clash-verge-rev.github.io/"
+bundle_id = "io.github.clash-verge-rev.clash-verge-rev"
+
+[[sources]]
+type = "homebrew"
+cask = "clash-verge-rev"
+
+[[sources]]
+type = "github"
+repo = "clash-verge-rev/clash-verge-rev"

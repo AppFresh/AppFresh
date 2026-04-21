@@ -1,9 +1,0 @@
-app_token: oka-unarchiver
-name: Oka Unarchiver
-desc: Free unarchiver
-homepage: 'https://okaapps.com/product/1441507725'
-bundle_id: com.chenhaowu.mac.utility.website.zip
-
-sources:
-  - type: homebrew
-    cask: oka-unarchiver

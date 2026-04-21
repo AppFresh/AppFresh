@@ -1,9 +1,0 @@
-app_token: pronotes
-name: ProNotes
-desc: Apple Notes extension
-homepage: 'https://www.pronotes.app/'
-bundle_id: com.dexterleng.ProNotes
-
-sources:
-  - type: homebrew
-    cask: pronotes

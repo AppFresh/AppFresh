@@ -1,8 +1,0 @@
-app_token: discord@canary
-name: Discord Canary
-desc: Voice and text chat software
-homepage: 'https://discord.com/'
-
-sources:
-  - type: homebrew
-    cask: discord@canary

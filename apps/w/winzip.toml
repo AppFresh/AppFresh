@@ -1,0 +1,9 @@
+app_token = "winzip"
+name = "WinZip"
+desc = "File archiving tool"
+homepage = "https://www.winzip.com/mac/en/winzip.html"
+bundle_id = "com.winzip.WinZip-Mac"
+
+[[sources]]
+type = "homebrew"
+cask = "winzip"

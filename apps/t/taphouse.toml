@@ -1,0 +1,13 @@
+app_token = "taphouse"
+name = "Taphouse"
+desc = "Native GUI for Homebrew package management"
+homepage = "https://taphouse.multimodalsolutions.gr/"
+bundle_id = "com.multimodalsolutions.taphouse"
+
+[[sources]]
+type = "homebrew"
+cask = "taphouse"
+
+[[sources]]
+type = "sparkle"
+url = "https://taphouse.multimodalsolutions.gr/appcast.xml"

@@ -1,0 +1,9 @@
+app_token = "jalview"
+name = "Jalview"
+desc = "Multiple sequence alignment editor, visualiser, analysis and figure generator"
+homepage = "https://www.jalview.org/"
+bundle_id = "org.jalview.jalview-desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "jalview"

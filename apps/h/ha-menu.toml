@@ -1,0 +1,13 @@
+app_token = "ha-menu"
+name = "HA Menu"
+desc = "Menu Bar app to perform common Home Assistant functions"
+homepage = "https://github.com/codechimp-org/ha-menu"
+bundle_id = "org.codechimp.HA-Menu"
+
+[[sources]]
+type = "homebrew"
+cask = "ha-menu"
+
+[[sources]]
+type = "github"
+repo = "codechimp-org/ha-menu"

@@ -1,0 +1,13 @@
+app_token = "evernote"
+name = "Evernote"
+desc = "App for note taking, organising, task lists, and archiving"
+homepage = "https://evernote.com/"
+bundle_id = "com.evernote.Evernote"
+
+[[sources]]
+type = "homebrew"
+cask = "evernote"
+
+[[sources]]
+type = "electron"
+url = "https://updates.desktop.evernote.com/mac/public/latest-mac.yml"

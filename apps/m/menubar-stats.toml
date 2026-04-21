@@ -1,0 +1,13 @@
+app_token = "menubar-stats"
+name = "MenuBar Stats"
+desc = "System monitor with temperature & fans plugins"
+homepage = "https://seense.com/menubarstats/"
+bundle_id = "com.fabriceleyne.menubarstats"
+
+[[sources]]
+type = "homebrew"
+cask = "menubar-stats"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.seense.com/menubarstats/updateapp/appcast.xml"

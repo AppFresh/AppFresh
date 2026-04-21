@@ -1,0 +1,13 @@
+app_token = "alcove"
+name = "Alcove"
+desc = "Utility to add Dynamic Island like features to notch area"
+homepage = "https://tryalcove.com/"
+bundle_id = "com.henrikruscon.Alcove"
+
+[[sources]]
+type = "homebrew"
+cask = "alcove"
+
+[[sources]]
+type = "github"
+repo = "henrikruscon/alcove-releases"

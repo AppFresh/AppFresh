@@ -1,9 +1,0 @@
-app_token: pdf-toolbox
-name: PDF Toolbox
-desc: Utilities for working with PDF files
-homepage: 'https://www.lightenpdf.com/pdf-toolbox-mac.html'
-bundle_id: com.lightenpdf.pdftoolboxweb
-
-sources:
-  - type: homebrew
-    cask: pdf-toolbox

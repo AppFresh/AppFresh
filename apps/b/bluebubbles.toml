@@ -1,0 +1,13 @@
+app_token = "bluebubbles"
+name = "BlueBubbles"
+desc = "Server for forwarding iMessages"
+homepage = "https://bluebubbles.app/"
+bundle_id = "com.BlueBubbles.BlueBubbles-Server"
+
+[[sources]]
+type = "homebrew"
+cask = "bluebubbles"
+
+[[sources]]
+type = "github"
+repo = "BlueBubblesApp/bluebubbles-server"

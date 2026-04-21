@@ -1,0 +1,13 @@
+app_token = "lapce"
+name = "Lapce"
+desc = "Open source code editor written in Rust"
+homepage = "https://lapce.dev/"
+bundle_id = "io.lapce"
+
+[[sources]]
+type = "homebrew"
+cask = "lapce"
+
+[[sources]]
+type = "github"
+repo = "lapce/lapce"

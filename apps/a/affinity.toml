@@ -1,0 +1,13 @@
+app_token = "affinity"
+name = "Affinity"
+desc = "Image editing and design software"
+homepage = "https://www.affinity.studio/"
+bundle_id = "com.canva.affinity"
+
+[[sources]]
+type = "homebrew"
+cask = "affinity"
+
+[[sources]]
+type = "sparkle"
+url = "https://things.seriflabs.com/affinity-update-mac-retail-studiopro"

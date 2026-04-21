@@ -1,0 +1,17 @@
+app_token = "cmd"
+name = "cmd"
+desc = "AI assistant for development in Xcode"
+homepage = "https://getcmd.dev/"
+bundle_id = "dev.getcmd.command"
+
+[[sources]]
+type = "homebrew"
+cask = "cmd"
+
+[[sources]]
+type = "github"
+repo = "getcmd-dev/cmd"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/getcmd-dev/cmd/main/app/fastlane/appcast.xml"

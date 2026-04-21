@@ -1,0 +1,13 @@
+app_token = "subethaedit"
+name = "SubEthaEdit"
+desc = "Plain text and source editor"
+homepage = "https://subethaedit.net/"
+bundle_id = "de.codingmonkeys.SubEthaEdit.MacFULL"
+
+[[sources]]
+type = "homebrew"
+cask = "subethaedit"
+
+[[sources]]
+type = "sparkle"
+url = "https://subethaedit.net/appcast.xml"

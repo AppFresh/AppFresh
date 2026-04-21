@@ -1,0 +1,17 @@
+app_token = "mountmate"
+name = "MountMate"
+desc = "Menubar app to easily manage external drives"
+homepage = "https://homielab.com/page/mountmate"
+bundle_id = "com.homielab.mountmate"
+
+[[sources]]
+type = "homebrew"
+cask = "mountmate"
+
+[[sources]]
+type = "github"
+repo = "homielab/mountmate"
+
+[[sources]]
+type = "sparkle"
+url = "https://homielab.github.io/mountmate/appcast.xml"

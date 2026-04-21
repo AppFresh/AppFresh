@@ -1,0 +1,13 @@
+app_token = "elegoo-slicer"
+name = "ElegooSlicer"
+desc = "Open-source slicer for FDM 3D printers"
+homepage = "https://github.com/ELEGOO-3D/ElegooSlicer"
+bundle_id = "com.elegoo3d.elegoo-slicer"
+
+[[sources]]
+type = "homebrew"
+cask = "elegoo-slicer"
+
+[[sources]]
+type = "github"
+repo = "ELEGOO-3D/ElegooSlicer"

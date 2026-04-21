@@ -1,9 +1,0 @@
-app_token: apifox
-name: Apifox
-desc: Platform for API documentation, debugging, and testing
-homepage: 'https://apifox.com/'
-bundle_id: cn.apifox.app
-
-sources:
-  - type: homebrew
-    cask: apifox

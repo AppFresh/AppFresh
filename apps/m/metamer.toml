@@ -1,0 +1,9 @@
+app_token = "metamer"
+name = "Metamer"
+desc = "Accessible metadata editor for 16 Spotlight extended attributes"
+homepage = "https://eclecticlight.co/xattred-sandstrip-xattr-tools/"
+bundle_id = "co.eclecticlight.Metamer"
+
+[[sources]]
+type = "homebrew"
+cask = "metamer"

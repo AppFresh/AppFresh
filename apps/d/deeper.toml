@@ -1,0 +1,9 @@
+app_token = "deeper"
+name = "Deeper"
+desc = "Tool to enable and disable hidden functions of Finder and other apps"
+homepage = "https://www.titanium-software.fr/en/deeper.html"
+bundle_id = "com.titanium.Deeper"
+
+[[sources]]
+type = "homebrew"
+cask = "deeper"

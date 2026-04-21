@@ -1,9 +1,0 @@
-app_token: nvidia-nsight-systems
-name: NVIDIA Nsight Systems
-desc: System-wide performance analysis tool
-homepage: 'https://developer.nvidia.com/nsight-systems'
-bundle_id: com.nvidia.devtools.QuadD
-
-sources:
-  - type: homebrew
-    cask: nvidia-nsight-systems

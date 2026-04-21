@@ -1,9 +1,0 @@
-app_token: xrg
-name: XRG
-desc: System monitor
-homepage: 'https://gaucho.software/Products/XRG/'
-bundle_id: com.piatekjimenez.XRG
-
-sources:
-  - type: homebrew
-    cask: xrg

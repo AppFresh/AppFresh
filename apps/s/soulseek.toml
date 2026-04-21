@@ -1,0 +1,9 @@
+app_token = "soulseek"
+name = "Soulseek"
+desc = "File sharing network"
+homepage = "https://www.slsknet.org/"
+bundle_id = "com.yourcompany.SoulseekQt"
+
+[[sources]]
+type = "homebrew"
+cask = "soulseek"

@@ -1,0 +1,9 @@
+app_token = "qianwen"
+name = "qianwen"
+desc = "AI assistant and chatbot powered by Alibaba's Qwen model"
+homepage = "https://www.qianwen.com/qianwen"
+bundle_id = "com.alibaba.tongyi"
+
+[[sources]]
+type = "homebrew"
+cask = "qianwen"

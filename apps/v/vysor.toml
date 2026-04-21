@@ -1,0 +1,13 @@
+app_token = "vysor"
+name = "Vysor"
+desc = "Mirror and control your phone"
+homepage = "https://www.vysor.io/"
+bundle_id = "com.electron.vysor"
+
+[[sources]]
+type = "homebrew"
+cask = "vysor"
+
+[[sources]]
+type = "github"
+repo = "koush/vysor.io"

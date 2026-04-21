@@ -1,9 +1,0 @@
-app_token: cap
-name: Cap
-desc: Screen recording software
-homepage: 'https://cap.so/'
-bundle_id: so.cap.desktop
-
-sources:
-  - type: homebrew
-    cask: cap

@@ -1,0 +1,9 @@
+app_token = "redis-insight"
+name = "Redis Insight"
+desc = "GUI for streamlined Redis application development"
+homepage = "https://redis.io/insight/"
+bundle_id = "org.RedisLabs.RedisInsight-V2"
+
+[[sources]]
+type = "homebrew"
+cask = "redis-insight"

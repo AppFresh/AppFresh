@@ -1,9 +1,0 @@
-app_token: nitro-pdf-pro
-name: Nitro PDF Pro
-desc: PDF editing software
-homepage: 'https://www.gonitro.com/pdf'
-bundle_id: com.gonitro.NitroPDFPro
-
-sources:
-  - type: homebrew
-    cask: nitro-pdf-pro

@@ -1,0 +1,13 @@
+app_token = "cool-retro-term"
+name = "Cool Retro Term"
+desc = "Terminal emulator mimicking the old cathode display"
+homepage = "https://github.com/Swordfish90/cool-retro-term"
+bundle_id = "com.yourcompany.cool-retro-term"
+
+[[sources]]
+type = "homebrew"
+cask = "cool-retro-term"
+
+[[sources]]
+type = "github"
+repo = "Swordfish90/cool-retro-term"

@@ -1,0 +1,13 @@
+app_token = "pairpods"
+name = "PairPods"
+desc = "Share audio between two Bluetooth devices"
+homepage = "https://pairpods.app/"
+bundle_id = "com.wozniakpawel.PairPods"
+
+[[sources]]
+type = "homebrew"
+cask = "pairpods"
+
+[[sources]]
+type = "github"
+repo = "wozniakpawel/PairPods"

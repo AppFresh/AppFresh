@@ -1,0 +1,17 @@
+app_token = "insomnia"
+name = "Insomnia"
+desc = "HTTP and GraphQL Client"
+homepage = "https://insomnia.rest/"
+bundle_id = "com.insomnia.app"
+
+[[sources]]
+type = "homebrew"
+cask = "insomnia"
+
+[[sources]]
+type = "github"
+repo = "Kong/insomnia"
+
+[[sources]]
+type = "homebrew"
+cask = "insomnia@alpha"

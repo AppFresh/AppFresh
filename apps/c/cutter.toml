@@ -1,0 +1,13 @@
+app_token = "cutter"
+name = "Cutter"
+desc = "Reverse engineering platform powered by Rizin"
+homepage = "https://cutter.re/"
+bundle_id = "re.rizin.cutter"
+
+[[sources]]
+type = "homebrew"
+cask = "cutter"
+
+[[sources]]
+type = "github"
+repo = "rizinorg/cutter"

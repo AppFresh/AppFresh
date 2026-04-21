@@ -1,0 +1,13 @@
+app_token = "musescore"
+name = "MuseScore"
+desc = "Open-source music notation software"
+homepage = "https://musescore.org/"
+bundle_id = "org.musescore.MuseScore"
+
+[[sources]]
+type = "homebrew"
+cask = "musescore"
+
+[[sources]]
+type = "github"
+repo = "musescore/MuseScore"

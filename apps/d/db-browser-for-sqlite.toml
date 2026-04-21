@@ -1,0 +1,17 @@
+app_token = "db-browser-for-sqlite"
+name = "DB Browser for SQLite"
+desc = "Browser for SQLite databases"
+homepage = "https://sqlitebrowser.org/"
+bundle_id = "net.sourceforge.sqlitebrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "db-browser-for-sqlite"
+
+[[sources]]
+type = "github"
+repo = "sqlitebrowser/sqlitebrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "db-browser-for-sqlite@nightly"

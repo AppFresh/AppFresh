@@ -1,9 +1,0 @@
-app_token: gpxsee
-name: GPXSee
-desc: GPS log file viewer and analyzer
-homepage: 'https://www.gpxsee.org/'
-bundle_id: org.gpxsee.GPXSee
-
-sources:
-  - type: homebrew
-    cask: gpxsee

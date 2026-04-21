@@ -1,9 +1,0 @@
-app_token: zeplin
-name: Zeplin
-desc: Share, organise and collaborate on designs
-homepage: 'https://zeplin.io/'
-bundle_id: io.zeplin.osx
-
-sources:
-  - type: homebrew
-    cask: zeplin

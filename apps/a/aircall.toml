@@ -1,0 +1,9 @@
+app_token = "aircall"
+name = "Aircall"
+desc = "Cloud-based call center and phone system software"
+homepage = "https://aircall.io/"
+bundle_id = "io.aircall.phone"
+
+[[sources]]
+type = "homebrew"
+cask = "aircall"

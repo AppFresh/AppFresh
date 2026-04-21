@@ -1,9 +1,0 @@
-app_token: mysqlworkbench
-name: MySQL Workbench
-desc: Visual tool to design, develop and administer MySQL servers
-homepage: 'https://www.mysql.com/products/workbench/'
-bundle_id: com.oracle.workbench.MySQLWorkbench
-
-sources:
-  - type: homebrew
-    cask: mysqlworkbench

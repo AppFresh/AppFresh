@@ -1,0 +1,9 @@
+app_token = "saleae-logic"
+name = "Saleae Logic2"
+desc = "Signal analysis for Saleae's devices"
+homepage = "https://www.saleae.com/"
+bundle_id = "com.saleae.saleae"
+
+[[sources]]
+type = "homebrew"
+cask = "saleae-logic"

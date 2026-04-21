@@ -1,0 +1,13 @@
+app_token = "slidepilot"
+name = "SlidePilot"
+desc = "PDF presentation tool"
+homepage = "https://slidepilotapp.com/en"
+bundle_id = "de.pascalbraband.SlidePilot"
+
+[[sources]]
+type = "homebrew"
+cask = "slidepilot"
+
+[[sources]]
+type = "sparkle"
+url = "https://slidepilotapp.com/updates/versions.xml"

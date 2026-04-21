@@ -1,0 +1,13 @@
+app_token = "sioyek"
+name = "Sioyek"
+desc = "PDF viewer designed for reading research papers and technical books"
+homepage = "https://sioyek.info/"
+bundle_id = "info.sioyek.sioyek"
+
+[[sources]]
+type = "homebrew"
+cask = "sioyek"
+
+[[sources]]
+type = "github"
+repo = "ahrm/sioyek"

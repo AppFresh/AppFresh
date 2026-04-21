@@ -1,0 +1,13 @@
+app_token = "podman-desktop"
+name = "Podman Desktop"
+desc = "Browse, manage, inspect containers and images"
+homepage = "https://podman-desktop.io/"
+bundle_id = "io.podmandesktop.PodmanDesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "podman-desktop"
+
+[[sources]]
+type = "github"
+repo = "containers/podman-desktop"

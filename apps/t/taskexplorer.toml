@@ -1,0 +1,13 @@
+app_token = "taskexplorer"
+name = "TaskExplorer"
+desc = "Tool to explore all the running tasks (processes)"
+homepage = "https://objective-see.org/products/taskexplorer.html"
+bundle_id = "com.objective-see.TaskExplorer"
+
+[[sources]]
+type = "homebrew"
+cask = "taskexplorer"
+
+[[sources]]
+type = "github"
+repo = "objective-see/TaskExplorer"

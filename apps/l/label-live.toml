@@ -1,0 +1,13 @@
+app_token = "label-live"
+name = "Label LIVE"
+desc = "Label design and printer software"
+homepage = "https://label.live/"
+bundle_id = "com.semireg.LabelLIVE"
+
+[[sources]]
+type = "homebrew"
+cask = "label-live"
+
+[[sources]]
+type = "electron"
+url = "https://s3.amazonaws.com/labellive.semireg.com/latest-mac.yml"

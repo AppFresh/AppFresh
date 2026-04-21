@@ -1,9 +1,0 @@
-app_token: winbox
-name: WinBox
-desc: Administration tool for MikroTik RouterOS
-homepage: 'https://mikrotik.com/'
-bundle_id: com.mikrotik.winbox
-
-sources:
-  - type: homebrew
-    cask: winbox

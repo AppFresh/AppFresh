@@ -1,0 +1,17 @@
+app_token = "prismlauncher"
+name = "Prism Launcher"
+desc = "Minecraft launcher"
+homepage = "https://prismlauncher.org/"
+bundle_id = "org.prismlauncher.PrismLauncher"
+
+[[sources]]
+type = "homebrew"
+cask = "prismlauncher"
+
+[[sources]]
+type = "github"
+repo = "PrismLauncher/PrismLauncher"
+
+[[sources]]
+type = "sparkle"
+url = "https://prismlauncher.org/feed/appcast.xml"

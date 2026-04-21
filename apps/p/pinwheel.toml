@@ -1,0 +1,13 @@
+app_token = "pinwheel"
+name = "Pinwheel"
+desc = "Design systems and accessibility testing"
+homepage = "https://bjango.com/mac/pinwheel/"
+bundle_id = "com.bjango.pinwheel"
+
+[[sources]]
+type = "homebrew"
+cask = "pinwheel"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.skala.app/pinwheel/pinwheel.xml"

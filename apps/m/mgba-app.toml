@@ -1,0 +1,13 @@
+app_token = "mgba-app"
+name = "mGBA"
+desc = "Game Boy Advance emulator"
+homepage = "https://mgba.io/"
+bundle_id = "com.endrift.mgba-qt"
+
+[[sources]]
+type = "homebrew"
+cask = "mgba-app"
+
+[[sources]]
+type = "github"
+repo = "mgba-emu/mgba"

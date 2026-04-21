@@ -1,9 +1,0 @@
-app_token: aptakube
-name: Aptakube
-desc: Kubernetes desktop client
-homepage: 'https://aptakube.com/'
-bundle_id: com.aptakube.Aptakube
-
-sources:
-  - type: homebrew
-    cask: aptakube

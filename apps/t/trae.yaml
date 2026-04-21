@@ -1,9 +1,0 @@
-app_token: trae
-name: Trae
-desc: Adaptive AI IDE
-homepage: 'https://www.trae.ai/'
-bundle_id: com.trae.app
-
-sources:
-  - type: homebrew
-    cask: trae

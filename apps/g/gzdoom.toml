@@ -1,0 +1,13 @@
+app_token = "gzdoom"
+name = "GZDoom"
+desc = "Adds an OpenGL renderer to the ZDoom source port"
+homepage = "https://github.com/ZDoom/gzdoom"
+bundle_id = "org.drdteam.gzdoom"
+
+[[sources]]
+type = "homebrew"
+cask = "gzdoom"
+
+[[sources]]
+type = "github"
+repo = "ZDoom/gzdoom"

@@ -1,0 +1,13 @@
+app_token = "rambox"
+name = "Rambox"
+desc = "Workspace simplifier - to organize your workspace and boost your productivity"
+homepage = "https://rambox.app/"
+bundle_id = "com.rambox"
+
+[[sources]]
+type = "homebrew"
+cask = "rambox"
+
+[[sources]]
+type = "github"
+repo = "ramboxapp/download"

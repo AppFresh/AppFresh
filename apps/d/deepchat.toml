@@ -1,0 +1,13 @@
+app_token = "deepchat"
+name = "DeepChat"
+desc = "AI assistant"
+homepage = "https://deepchat.thinkinai.xyz/"
+bundle_id = "com.wefonk.deepchat"
+
+[[sources]]
+type = "homebrew"
+cask = "deepchat"
+
+[[sources]]
+type = "github"
+repo = "ThinkInAIXYZ/deepchat"

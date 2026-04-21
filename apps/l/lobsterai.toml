@@ -1,0 +1,10 @@
+app_token = "lobsterai"
+name = "LobsterAI"
+name_cn = "有道龙虾"
+desc = "A 24/7 personal assistant Agent that gets things done"
+homepage = "https://lobsterai.youdao.com/"
+bundle_id = "com.lobsterai.app"
+
+[[sources]]
+type = "github"
+repo = "netease-youdao/LobsterAI"

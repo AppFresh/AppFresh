@@ -1,0 +1,9 @@
+app_token = "codelite"
+name = "CodeLite"
+desc = "IDE for C, C++, PHP and Node.js"
+homepage = "https://codelite.org/"
+bundle_id = "com.eranif.CodeLite"
+
+[[sources]]
+type = "homebrew"
+cask = "codelite"

@@ -1,0 +1,13 @@
+app_token = "texshop"
+name = "TeXShop"
+desc = "LaTeX and TeX editor and previewer"
+homepage = "https://pages.uoregon.edu/koch/texshop/"
+bundle_id = "edu.uo.koch.ScriptRunner.ScriptRunner"
+
+[[sources]]
+type = "homebrew"
+cask = "texshop"
+
+[[sources]]
+type = "sparkle"
+url = "https://pages.uoregon.edu/koch/texshop/texshop-64/texshopappcast.xml"

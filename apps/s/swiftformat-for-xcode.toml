@@ -1,0 +1,14 @@
+app_token = "swiftformat-for-xcode"
+name = "SwiftFormat for Xcode"
+desc = "Xcode Extension for reformatting Swift code"
+homepage = "https://github.com/nicklockwood/SwiftFormat"
+bundle_id = "com.charcoaldesign.SwiftFormat-for-Xcode"
+
+[[sources]]
+type = "homebrew"
+cask = "swiftformat-for-xcode"
+
+[[sources]]
+type = "github"
+repo = "nicklockwood/SwiftFormat"
+regex = '^SwiftFormat.for.Xcode.app.zip$'

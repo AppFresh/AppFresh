@@ -1,0 +1,13 @@
+app_token = "swinsian"
+name = "Swinsian"
+desc = "Music player"
+homepage = "https://swinsian.com/"
+bundle_id = "com.swinsian.Swinsian"
+
+[[sources]]
+type = "homebrew"
+cask = "swinsian"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.swinsian.com/sparkle/sparklecast.xml"

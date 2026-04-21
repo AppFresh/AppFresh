@@ -1,9 +1,0 @@
-app_token: weka
-name: Weka
-desc: Collection of machine learning algorithms for data mining tasks
-homepage: 'https://ml.cms.waikato.ac.nz/weka'
-bundle_id: weka.gui
-
-sources:
-  - type: homebrew
-    cask: weka

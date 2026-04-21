@@ -1,0 +1,13 @@
+app_token = "git-it"
+name = "Git-it"
+desc = "Desktop app for learning Git and GitHub"
+homepage = "https://github.com/jlord/git-it-electron"
+bundle_id = "com.electron.git-it"
+
+[[sources]]
+type = "homebrew"
+cask = "git-it"
+
+[[sources]]
+type = "github"
+repo = "jlord/git-it-electron"

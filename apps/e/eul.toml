@@ -1,0 +1,13 @@
+app_token = "eul"
+name = "eul"
+desc = "Status monitoring"
+homepage = "https://github.com/gao-sun/eul"
+bundle_id = "com.gaosun.eul"
+
+[[sources]]
+type = "homebrew"
+cask = "eul"
+
+[[sources]]
+type = "github"
+repo = "gao-sun/eul"

@@ -1,0 +1,9 @@
+app_token = "talon"
+name = "Talon"
+desc = "Enables you to control your computer with voice, eye tracking, or noises"
+homepage = "https://talonvoice.com/"
+bundle_id = "com.talonvoice.Talon"
+
+[[sources]]
+type = "homebrew"
+cask = "talon"

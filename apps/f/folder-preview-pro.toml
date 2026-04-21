@@ -1,0 +1,13 @@
+app_token = "folder-preview-pro"
+name = "Folder Preview Pro"
+desc = "Quick Look extension for folders"
+homepage = "https://anybox.ltd/folder-preview-pro"
+bundle_id = "ltd.anybox.FolderPreview.Pro"
+
+[[sources]]
+type = "homebrew"
+cask = "folder-preview-pro"
+
+[[sources]]
+type = "sparkle"
+url = "https://anybox.ltd/folder-preview-pro/download/appcast.xml"

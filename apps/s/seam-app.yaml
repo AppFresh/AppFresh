@@ -1,9 +1,0 @@
-app_token: seam-app
-name: Seam
-desc: Productivity-first Dynamic Island for your Notch
-homepage: 'https://getseam.app/'
-bundle_id: app.seam.Seam
-
-sources:
-  - type: homebrew
-    cask: seam-app

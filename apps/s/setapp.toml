@@ -1,0 +1,13 @@
+app_token = "setapp"
+name = "Setapp"
+desc = "Collection of apps available by subscription"
+homepage = "https://setapp.com/"
+bundle_id = "com.setapp.DesktopClient"
+
+[[sources]]
+type = "homebrew"
+cask = "setapp"
+
+[[sources]]
+type = "sparkle"
+url = "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.DesktopClient/updates.xml"

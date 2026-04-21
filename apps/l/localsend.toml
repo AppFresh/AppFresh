@@ -1,0 +1,13 @@
+app_token = "localsend"
+name = "LocalSend"
+desc = "Open-source cross-platform alternative to AirDrop"
+homepage = "https://localsend.org/"
+bundle_id = "org.localsend.localsendApp"
+
+[[sources]]
+type = "homebrew"
+cask = "localsend"
+
+[[sources]]
+type = "github"
+repo = "localsend/localsend"

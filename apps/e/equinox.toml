@@ -1,0 +1,13 @@
+app_token = "equinox"
+name = "Equinox"
+desc = "Create dynamic wallpapers"
+homepage = "https://equinoxmac.com/"
+bundle_id = "com.rlxone.equinox"
+
+[[sources]]
+type = "homebrew"
+cask = "equinox"
+
+[[sources]]
+type = "github"
+repo = "rlxone/Equinox"

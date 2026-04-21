@@ -1,0 +1,13 @@
+app_token = "soulver"
+name = "Soulver"
+desc = "Notepad with a built-in calculator"
+homepage = "https://soulver.app/"
+bundle_id = "app.soulver.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "soulver"
+
+[[sources]]
+type = "sparkle"
+url = "https://soulver.app/mac/sparkle/appcast.xml"

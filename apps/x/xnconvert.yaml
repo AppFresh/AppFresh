@@ -1,9 +1,0 @@
-app_token: xnconvert
-name: XnSoft XnConvert
-desc: Image-converter and resiser tool
-homepage: 'https://www.xnview.com/en/xnconvert/'
-bundle_id: com.xnview.XnConvert
-
-sources:
-  - type: homebrew
-    cask: xnconvert

@@ -1,0 +1,9 @@
+app_token = "moom"
+name = "Moom"
+desc = "Utility to move and zoom windows—on one display"
+homepage = "https://manytricks.com/moom/"
+bundle_id = "com.manytricks.Moom"
+
+[[sources]]
+type = "homebrew"
+cask = "moom"

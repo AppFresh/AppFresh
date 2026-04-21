@@ -1,0 +1,9 @@
+app_token = "4k-youtube-to-mp3"
+name = "4K YouTube to MP3"
+desc = "Turn YouTube links into MP3 files"
+homepage = "https://www.4kdownload.com/products/youtubetomp3/1"
+bundle_id = "com.openmedia.4kyoutubetomp3"
+
+[[sources]]
+type = "homebrew"
+cask = "4k-youtube-to-mp3"

@@ -1,0 +1,13 @@
+app_token = "openbci"
+name = "OpenBCI"
+desc = "Connect to OpenBCI hardware, visualise and stream physiological data"
+homepage = "https://openbci.com/"
+bundle_id = "OpenBCI_GUI"
+
+[[sources]]
+type = "homebrew"
+cask = "openbci"
+
+[[sources]]
+type = "github"
+repo = "OpenBCI/OpenBCI_GUI"

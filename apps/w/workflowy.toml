@@ -1,0 +1,13 @@
+app_token = "workflowy"
+name = "WorkFlowy"
+desc = "Notetaking tool"
+homepage = "https://workflowy.com/downloads/mac/"
+bundle_id = "com.workflowy.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "workflowy"
+
+[[sources]]
+type = "github"
+repo = "workflowy/desktop"

@@ -1,0 +1,17 @@
+app_token = "donut"
+name = "Donut Browser"
+desc = "Anti-detect web browser"
+homepage = "https://donutbrowser.com/"
+bundle_id = "com.donutbrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "donut"
+
+[[sources]]
+type = "github"
+repo = "zhom/donutbrowser"
+
+[[sources]]
+type = "homebrew"
+cask = "donut@nightly"

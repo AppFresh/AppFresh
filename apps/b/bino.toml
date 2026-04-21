@@ -1,0 +1,9 @@
+app_token = "bino"
+name = "Bino"
+desc = "Video player"
+homepage = "https://bino3d.org/"
+bundle_id = "org.bino3d"
+
+[[sources]]
+type = "homebrew"
+cask = "bino"

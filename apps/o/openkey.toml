@@ -1,0 +1,13 @@
+app_token = "openkey"
+name = "OpenKey"
+desc = "Vietnamese input system"
+homepage = "https://github.com/tuyenvm/OpenKey/"
+bundle_id = "com.tuyenmai.openkey"
+
+[[sources]]
+type = "homebrew"
+cask = "openkey"
+
+[[sources]]
+type = "github"
+repo = "tuyenvm/OpenKey"

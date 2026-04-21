@@ -1,0 +1,12 @@
+app_token = "copyq"
+name = "CopyQ"
+desc = "Clipboard manager with advanced features"
+bundle_id = "io.github.hluk.CopyQ"
+
+[[sources]]
+type = "homebrew"
+cask = "copyq"
+
+[[sources]]
+type = "github"
+repo = "hluk/CopyQ"

@@ -1,0 +1,9 @@
+app_token = "chatwork"
+name = "ChatWork"
+desc = "Group chat software"
+homepage = "https://www.chatwork.com/"
+bundle_id = "com.electron.chatwork"
+
+[[sources]]
+type = "homebrew"
+cask = "chatwork"

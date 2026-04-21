@@ -1,0 +1,9 @@
+app_token = "threema"
+name = "Threema"
+desc = "End-to-end encrypted instant messaging application"
+homepage = "https://threema.ch/"
+bundle_id = "threema-consumer-web"
+
+[[sources]]
+type = "homebrew"
+cask = "threema"

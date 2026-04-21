@@ -1,9 +1,0 @@
-app_token: classicftp
-name: ClassicFTP
-desc: FTP File Transfer Software
-homepage: 'https://www.nchsoftware.com/classic/index.html'
-bundle_id: com.nchsoftware.classicftp
-
-sources:
-  - type: homebrew
-    cask: classicftp

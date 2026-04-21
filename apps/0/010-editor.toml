@@ -1,0 +1,9 @@
+app_token = "010-editor"
+name = "010 Editor"
+desc = "Text editor"
+homepage = "https://www.sweetscape.com/"
+bundle_id = "com.SweetScape.010Editor"
+
+[[sources]]
+type = "homebrew"
+cask = "010-editor"

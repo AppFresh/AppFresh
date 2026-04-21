@@ -1,0 +1,10 @@
+app_token = "trae-cn"
+name = "Trae CN"
+desc = "Adaptive AI IDE"
+homepage = "https://www.trae.com.cn/"
+bundle_id = "cn.trae.app"
+tags = ["Regional"]
+
+[[sources]]
+type = "homebrew"
+cask = "trae-cn"

@@ -1,9 +1,0 @@
-app_token: ai-drop
-name: AI Drop
-desc: Drag any file. Drop it. Get instant AI insights — without leaving your desktop.
-homepage: 'https://moritzwallbrecher.com/aidrop/'
-bundle_id: com.wallbrecher.MacNotchAI
-
-sources:
-  - type: github
-    repo: mwallbrecher/MacNotchAI

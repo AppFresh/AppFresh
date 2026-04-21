@@ -1,0 +1,13 @@
+app_token = "jitsi"
+name = "Jitsi"
+desc = "Open-source video calls and chat"
+homepage = "https://desktop.jitsi.org/"
+bundle_id = "org.jitsi"
+
+[[sources]]
+type = "homebrew"
+cask = "jitsi"
+
+[[sources]]
+type = "github"
+repo = "jitsi/jitsi"

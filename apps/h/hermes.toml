@@ -1,0 +1,13 @@
+app_token = "hermes"
+name = "Hermes"
+desc = "Pandora player"
+homepage = "https://hermesapp.org/"
+bundle_id = "com.alexcrichton.Hermes"
+
+[[sources]]
+type = "homebrew"
+cask = "hermes"
+
+[[sources]]
+type = "github"
+repo = "HermesApp/Hermes"

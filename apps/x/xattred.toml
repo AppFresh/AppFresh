@@ -1,0 +1,9 @@
+app_token = "xattred"
+name = "xattred"
+desc = "Extended attribute editor"
+homepage = "https://eclecticlight.co/xattred-sandstrip-xattr-tools/"
+bundle_id = "co.eclecticlight.xattred"
+
+[[sources]]
+type = "homebrew"
+cask = "xattred"

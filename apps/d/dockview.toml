@@ -1,0 +1,13 @@
+app_token = "dockview"
+name = "DockView"
+desc = "Utility to preview application windows in the dock"
+homepage = "https://noteifyapp.com/dockview/"
+bundle_id = "com.sergey-gerasimenko.DockView"
+
+[[sources]]
+type = "homebrew"
+cask = "dockview"
+
+[[sources]]
+type = "sparkle"
+url = "https://macplus-software.com/downloads/DockViewStandard.xml"

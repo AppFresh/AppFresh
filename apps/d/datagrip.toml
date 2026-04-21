@@ -1,0 +1,9 @@
+app_token = "datagrip"
+name = "DataGrip"
+desc = "Databases and SQL IDE"
+homepage = "https://www.jetbrains.com/datagrip/"
+bundle_id = "com.jetbrains.datagrip"
+
+[[sources]]
+type = "homebrew"
+cask = "datagrip"

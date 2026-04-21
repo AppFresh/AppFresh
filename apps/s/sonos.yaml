@@ -1,9 +1,0 @@
-app_token: sonos
-name: Sonos S2
-desc: Control your Sonos system
-homepage: 'https://www.sonos.com/'
-bundle_id: com.sonos.macController2
-
-sources:
-  - type: homebrew
-    cask: sonos

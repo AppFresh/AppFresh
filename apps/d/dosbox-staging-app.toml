@@ -1,0 +1,13 @@
+app_token = "dosbox-staging-app"
+name = "DOSBox Staging"
+desc = "DOS game emulator"
+homepage = "https://github.com/dosbox-staging/dosbox-staging/"
+bundle_id = "io.github.dosbox-staging"
+
+[[sources]]
+type = "homebrew"
+cask = "dosbox-staging-app"
+
+[[sources]]
+type = "github"
+repo = "dosbox-staging/dosbox-staging"

@@ -1,0 +1,13 @@
+app_token = "neovide-app"
+name = "Neovide"
+desc = "Neovim Client"
+homepage = "https://github.com/neovide/neovide"
+bundle_id = "com.neovide.neovide"
+
+[[sources]]
+type = "homebrew"
+cask = "neovide-app"
+
+[[sources]]
+type = "github"
+repo = "neovide/neovide"

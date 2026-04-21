@@ -1,9 +1,0 @@
-app_token: scribus
-name: Scribus
-desc: Free and open-source page layout program
-homepage: 'https://www.scribus.net/'
-bundle_id: net.scribus
-
-sources:
-  - type: homebrew
-    cask: scribus

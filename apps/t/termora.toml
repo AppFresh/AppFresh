@@ -1,0 +1,13 @@
+app_token = "termora"
+name = "Termora"
+desc = "Terminal emulator and SSH client"
+homepage = "https://github.com/TermoraDev/termora"
+bundle_id = "app.termora"
+
+[[sources]]
+type = "homebrew"
+cask = "termora"
+
+[[sources]]
+type = "github"
+repo = "TermoraDev/termora"

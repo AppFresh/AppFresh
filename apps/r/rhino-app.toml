@@ -1,0 +1,13 @@
+app_token = "rhino-app"
+name = "Rhinoceros"
+desc = "3D model creator"
+homepage = "https://www.rhino3d.com/"
+bundle_id = "com.mcneel.rhinoceros.8"
+
+[[sources]]
+type = "homebrew"
+cask = "rhino-app"
+
+[[sources]]
+type = "sparkle"
+url = "https://files.mcneel.com/rhino/8/mac/updates/commercialUpdates.xml"

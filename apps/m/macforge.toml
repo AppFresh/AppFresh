@@ -1,0 +1,17 @@
+app_token = "macforge"
+name = "MacForge"
+desc = "Plugin, App, and Theme store which includes plugin injection"
+homepage = "https://www.macenhance.com/macforge"
+bundle_id = "com.macenhance.MacForge"
+
+[[sources]]
+type = "homebrew"
+cask = "macforge"
+
+[[sources]]
+type = "github"
+repo = "w0lfschild/app_updates"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/appcast.xml"

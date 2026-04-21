@@ -1,9 +1,0 @@
-app_token: no-ip-duc
-name: No-IP DUC
-desc: Keeps current IP address in sync
-homepage: 'https://www.noip.com/download?page=mac'
-bundle_id: com.noip.No-IP-DUC
-
-sources:
-  - type: homebrew
-    cask: no-ip-duc

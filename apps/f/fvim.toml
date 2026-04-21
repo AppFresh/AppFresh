@@ -1,0 +1,13 @@
+app_token = "fvim"
+name = "FVim"
+desc = "GUI for the Neovim text editor"
+homepage = "https://github.com/yatli/fvim"
+bundle_id = "com.fvim.www"
+
+[[sources]]
+type = "homebrew"
+cask = "fvim"
+
+[[sources]]
+type = "github"
+repo = "yatli/fvim"

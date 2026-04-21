@@ -1,9 +1,0 @@
-app_token: licecap
-name: LICEcap
-desc: Animated screen capture application
-homepage: 'https://www.cockos.com/licecap/'
-bundle_id: com.cockos.LICEcap
-
-sources:
-  - type: homebrew
-    cask: licecap

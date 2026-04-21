@@ -1,9 +1,0 @@
-app_token: rustrover
-name: RustRover
-desc: Rust IDE
-homepage: 'https://www.jetbrains.com/rust/'
-bundle_id: com.jetbrains.rustrover
-
-sources:
-  - type: homebrew
-    cask: rustrover

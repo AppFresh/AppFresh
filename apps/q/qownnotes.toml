@@ -1,0 +1,13 @@
+app_token = "qownnotes"
+name = "QOwnNotes"
+desc = "Plain-text file notepad and todo-list manager"
+homepage = "https://www.qownnotes.org/"
+bundle_id = "com.PBE.QOwnNotes"
+
+[[sources]]
+type = "homebrew"
+cask = "qownnotes"
+
+[[sources]]
+type = "github"
+repo = "pbek/QOwnNotes"

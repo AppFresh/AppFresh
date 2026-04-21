@@ -1,0 +1,13 @@
+app_token = "gqrx"
+name = "Gqrx"
+desc = "Software-defined radio receiver powered by GNU Radio and Qt"
+homepage = "https://www.gqrx.dk/"
+bundle_id = "dk.gqrx.gqrx"
+
+[[sources]]
+type = "homebrew"
+cask = "gqrx"
+
+[[sources]]
+type = "github"
+repo = "gqrx-sdr/gqrx"

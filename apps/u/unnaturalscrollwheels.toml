@@ -1,0 +1,13 @@
+app_token = "unnaturalscrollwheels"
+name = "UnnaturalScrollWheels"
+desc = "Tool to invert scroll direction for physical scroll wheels"
+homepage = "https://github.com/ther0n/UnnaturalScrollWheels"
+bundle_id = "com.theron.UnnaturalScrollWheels"
+
+[[sources]]
+type = "homebrew"
+cask = "unnaturalscrollwheels"
+
+[[sources]]
+type = "github"
+repo = "ther0n/UnnaturalScrollWheels"

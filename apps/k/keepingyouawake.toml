@@ -1,0 +1,17 @@
+app_token = "keepingyouawake"
+name = "KeepingYouAwake"
+desc = "Tool to prevent the system from going into sleep mode"
+homepage = "https://keepingyouawake.app/"
+bundle_id = "info.marcel-dierkes.KeepingYouAwake"
+
+[[sources]]
+type = "homebrew"
+cask = "keepingyouawake"
+
+[[sources]]
+type = "github"
+repo = "newmarcel/KeepingYouAwake"
+
+[[sources]]
+type = "sparkle"
+url = "https://newmarcel.github.io/KeepingYouAwake/appcast.xml"

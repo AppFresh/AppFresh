@@ -1,0 +1,17 @@
+app_token = "bettertouchtool"
+name = "BetterTouchTool"
+desc = "Tool to customise input devices and automate computer systems"
+homepage = "https://folivora.ai/"
+bundle_id = "com.hegenberg.BetterTouchTool"
+
+[[sources]]
+type = "homebrew"
+cask = "bettertouchtool"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.folivora.ai/appcast_manual.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "bettertouchtool@alpha"

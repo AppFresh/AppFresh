@@ -1,0 +1,13 @@
+app_token = "trezor-suite"
+name = "TREZOR Suite"
+desc = "Companion app for the Trezor hardware wallet"
+homepage = "https://suite.trezor.io/"
+bundle_id = "io.trezor.TrezorSuite"
+
+[[sources]]
+type = "homebrew"
+cask = "trezor-suite"
+
+[[sources]]
+type = "electron"
+url = "https://data.trezor.io/suite/releases/desktop/latest/latest-mac.yml"

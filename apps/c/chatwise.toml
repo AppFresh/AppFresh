@@ -1,0 +1,13 @@
+app_token = "chatwise"
+name = "ChatWise"
+desc = "AI chatbot for many LLMs"
+homepage = "https://chatwise.app/"
+bundle_id = "app.chatwise"
+
+[[sources]]
+type = "homebrew"
+cask = "chatwise"
+
+[[sources]]
+type = "github"
+repo = "egoist/chatwise-releases"

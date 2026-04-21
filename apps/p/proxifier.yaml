@@ -1,9 +1,0 @@
-app_token: proxifier
-name: Proxifier
-desc: Proxy client
-homepage: 'https://www.proxifier.com/'
-bundle_id: com.initex.proxifier.v3.macos
-
-sources:
-  - type: homebrew
-    cask: proxifier

@@ -1,0 +1,13 @@
+app_token = "youtype"
+name = "YouType"
+desc = "Input method helper"
+homepage = "https://github.com/freefelt/YouType"
+bundle_id = "com.AVKorotkov.YouType"
+
+[[sources]]
+type = "homebrew"
+cask = "youtype"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/freefelt/YouType/main/appcast.xml"

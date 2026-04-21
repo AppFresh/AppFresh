@@ -1,0 +1,9 @@
+app_token = "antigravity"
+name = "Google Antigravity"
+desc = "AI Coding Agent IDE"
+homepage = "https://antigravity.google/"
+bundle_id = "com.google.antigravity"
+
+[[sources]]
+type = "homebrew"
+cask = "antigravity"

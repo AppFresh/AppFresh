@@ -1,0 +1,14 @@
+app_token = "sanebar"
+name = "SaneBar"
+desc = "The privacy-first menu bar manager for macOS. Native, lightweight, and scriptable."
+homepage = "https://sanebar.com/"
+bundle_id = "com.sanebar.app"
+
+[[sources]]
+type = "homebrew"
+tap = "sane-apps/tap"
+cask = "sanebar"
+
+[[sources]]
+type = "github"
+repo = "sane-apps/SaneBar"

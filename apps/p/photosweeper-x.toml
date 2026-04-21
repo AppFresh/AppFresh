@@ -1,0 +1,13 @@
+app_token = "photosweeper-x"
+name = "PhotoSweeper X"
+desc = "Tool to eliminate similar or duplicate photos"
+homepage = "https://overmacs.com/"
+bundle_id = "com.overmacs.photosweeperpaddle"
+
+[[sources]]
+type = "homebrew"
+cask = "photosweeper-x"
+
+[[sources]]
+type = "sparkle"
+url = "https://overmacs.com/feeds/photosweeper_update.xml"

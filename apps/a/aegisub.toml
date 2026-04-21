@@ -1,0 +1,13 @@
+app_token = "aegisub"
+name = "Aegisub"
+desc = "Create and modify subtitles"
+homepage = "https://aegisub.org/"
+bundle_id = "com.aegisub.aegisub"
+
+[[sources]]
+type = "homebrew"
+cask = "aegisub"
+
+[[sources]]
+type = "github"
+repo = "TypesettingTools/Aegisub"

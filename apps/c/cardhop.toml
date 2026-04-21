@@ -1,0 +1,13 @@
+app_token = "cardhop"
+name = "Cardhop"
+desc = "Contacts manager"
+homepage = "https://flexibits.com/cardhop"
+bundle_id = "com.flexibits.cardhop.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "cardhop"
+
+[[sources]]
+type = "sparkle"
+url = "https://flexibits.com/cardhop/appcast.php"

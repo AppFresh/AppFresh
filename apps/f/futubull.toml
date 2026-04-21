@@ -1,0 +1,10 @@
+app_token = "futubull"
+name = "Futubull"
+name_cn = "富途牛牛"
+desc = "Trading application"
+homepage = "https://www.futunn.com/"
+bundle_id = "cn.futu.niuniu.nx"
+
+[[sources]]
+type = "homebrew"
+cask = "futubull"

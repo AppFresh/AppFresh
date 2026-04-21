@@ -1,0 +1,9 @@
+app_token = "ace-studio"
+name = "ACE Studio"
+desc = "AI Singing Voice Generator"
+homepage = "https://acestudio.ai/versions"
+bundle_id = "com.timedomain.AceStudio"
+
+[[sources]]
+type = "homebrew"
+cask = "ace-studio"

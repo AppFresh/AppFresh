@@ -1,0 +1,13 @@
+app_token = "opcode"
+name = "opcode"
+desc = "GUI app and toolkit for Claude Code"
+homepage = "https://opcode.sh/"
+bundle_id = "opcode.asterisk.so"
+
+[[sources]]
+type = "homebrew"
+cask = "opcode"
+
+[[sources]]
+type = "github"
+repo = "getAsterisk/opcode"

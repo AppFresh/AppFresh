@@ -1,0 +1,12 @@
+app_token = "easydict"
+name = "Easydict"
+desc = "Dictionary and translator app"
+bundle_id = "com.izual.Easydict"
+
+[[sources]]
+type = "homebrew"
+cask = "easydict"
+
+[[sources]]
+type = "github"
+repo = "tisfeng/Easydict"

@@ -1,0 +1,13 @@
+app_token = "orcaslicer"
+name = "Orca Slicer"
+desc = "G-code generator for 3D printers"
+homepage = "https://github.com/SoftFever/OrcaSlicer"
+bundle_id = "com.orcaslicer.OrcaSlicer"
+
+[[sources]]
+type = "homebrew"
+cask = "orcaslicer"
+
+[[sources]]
+type = "github"
+repo = "SoftFever/OrcaSlicer"

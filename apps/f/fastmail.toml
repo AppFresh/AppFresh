@@ -1,0 +1,13 @@
+app_token = "fastmail"
+name = "Fastmail"
+desc = "Email client"
+homepage = "https://www.fastmail.com/"
+bundle_id = "com.fastmail.mac.Fastmail"
+
+[[sources]]
+type = "homebrew"
+cask = "fastmail"
+
+[[sources]]
+type = "electron"
+url = "https://dl.fastmailcdn.com/desktop/production/mac/arm64/latest-mac.yml"

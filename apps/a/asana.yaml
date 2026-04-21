@@ -1,9 +1,0 @@
-app_token: asana
-name: Asana
-desc: Manage team projects and tasks
-homepage: 'https://asana.com/'
-bundle_id: com.electron.asana
-
-sources:
-  - type: homebrew
-    cask: asana

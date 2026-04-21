@@ -1,0 +1,13 @@
+app_token = "stability-matrix"
+name = "Stability Matrix"
+desc = "Package manager and inference UI for Stable Diffusion"
+homepage = "https://github.com/LykosAI/StabilityMatrix"
+bundle_id = "ai.lykos.stabilitymatrix"
+
+[[sources]]
+type = "homebrew"
+cask = "stability-matrix"
+
+[[sources]]
+type = "github"
+repo = "LykosAI/StabilityMatrix"

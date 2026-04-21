@@ -1,9 +1,0 @@
-app_token: vu
-name: vu
-desc: Instagram client
-homepage: 'https://datastills.com/vu/'
-bundle_id: com.boriskarulin.vu
-
-sources:
-  - type: homebrew
-    cask: vu

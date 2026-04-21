@@ -1,9 +1,0 @@
-app_token: waveforms
-name: WaveForms
-desc: Virtual instrument suite for Digilent Test and Measurement devices
-homepage: 'https://digilent.com/reference/software/waveforms/waveforms-3/start'
-bundle_id: com.digilent.waveforms
-
-sources:
-  - type: homebrew
-    cask: waveforms

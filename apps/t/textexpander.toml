@@ -1,0 +1,13 @@
+app_token = "textexpander"
+name = "TextExpander"
+desc = "Inserts pre-made snippets of text anywhere"
+homepage = "https://textexpander.com/"
+bundle_id = "com.smileonmymac.textexpander"
+
+[[sources]]
+type = "homebrew"
+cask = "textexpander"
+
+[[sources]]
+type = "sparkle"
+url = "https://cgi.textexpander.com/appcast/TextExpander-macOS.xml"

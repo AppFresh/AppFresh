@@ -1,0 +1,13 @@
+app_token = "kubeterm"
+name = "Kubeterm"
+desc = "Kubernetes graphical management tool"
+homepage = "https://www.kubeterm.com/"
+bundle_id = "com.kubeterm"
+
+[[sources]]
+type = "homebrew"
+cask = "kubeterm"
+
+[[sources]]
+type = "github"
+repo = "kbterm/kubeterm"

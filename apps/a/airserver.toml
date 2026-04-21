@@ -1,0 +1,13 @@
+app_token = "airserver"
+name = "AirServer"
+desc = "Screen mirroring receiver"
+homepage = "https://www.airserver.com/"
+bundle_id = "com.pratikkumar.airserver-mac"
+
+[[sources]]
+type = "homebrew"
+cask = "airserver"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.airserver.com/downloads/mac/appcast.xml"

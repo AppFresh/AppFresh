@@ -1,0 +1,13 @@
+app_token = "streamlabs"
+name = "Streamlabs Desktop"
+desc = "All-in-one live streaming software"
+homepage = "https://streamlabs.com/"
+bundle_id = "com.streamlabs.slobs"
+
+[[sources]]
+type = "homebrew"
+cask = "streamlabs"
+
+[[sources]]
+type = "electron"
+url = "https://slobs-cdn.streamlabs.com/desktop-latest-mac.yml"

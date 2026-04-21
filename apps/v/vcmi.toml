@@ -1,0 +1,13 @@
+app_token = "vcmi"
+name = "VCMI"
+desc = "Open-source engine for Heroes of Might & Magic III"
+homepage = "https://vcmi.eu/"
+bundle_id = "eu.vcmi.vcmi"
+
+[[sources]]
+type = "homebrew"
+cask = "vcmi"
+
+[[sources]]
+type = "github"
+repo = "vcmi/vcmi"

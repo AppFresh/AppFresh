@@ -1,0 +1,13 @@
+app_token = "linkliar"
+name = "LinkLiar"
+desc = "Link-Layer MAC spoofing GUI for macOS"
+homepage = "https://github.com/halo/LinkLiar"
+bundle_id = "io.github.halo.LinkLiar"
+
+[[sources]]
+type = "homebrew"
+cask = "linkliar"
+
+[[sources]]
+type = "github"
+repo = "halo/LinkLiar"

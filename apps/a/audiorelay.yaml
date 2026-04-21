@@ -1,9 +1,0 @@
-app_token: audiorelay
-name: AudioRelay
-desc: Stream audio between your devices
-homepage: 'https://www.audiorelay.net/'
-bundle_id: com.azefsw.audioconnect
-
-sources:
-  - type: homebrew
-    cask: audiorelay

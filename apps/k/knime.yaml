@@ -1,9 +1,0 @@
-app_token: knime
-name: KNIME Analytics Platform
-desc: Software to create and productionise data science
-homepage: 'https://www.knime.com/'
-bundle_id: org.knime.product
-
-sources:
-  - type: homebrew
-    cask: knime

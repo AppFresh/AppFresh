@@ -1,0 +1,13 @@
+app_token = "raindropio"
+name = "Raindrop.io"
+desc = "All-in-one bookmark manager"
+homepage = "https://raindrop.io/"
+bundle_id = "io.raindrop.macapp"
+
+[[sources]]
+type = "homebrew"
+cask = "raindropio"
+
+[[sources]]
+type = "github"
+repo = "raindropio/desktop"

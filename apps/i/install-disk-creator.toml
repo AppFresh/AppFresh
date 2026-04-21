@@ -1,0 +1,9 @@
+app_token = "install-disk-creator"
+name = "Install Disk Creator"
+desc = "Utility to create bootable system install discs"
+homepage = "https://macdaddy.io/install-disk-creator/"
+bundle_id = "io.macdaddy.Install-Disk-Creator"
+
+[[sources]]
+type = "homebrew"
+cask = "install-disk-creator"

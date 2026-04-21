@@ -1,0 +1,17 @@
+app_token = "slimhud"
+name = "SlimHUD"
+desc = "Replacement for the volume, brightness and keyboard backlight HUDs"
+homepage = "https://github.com/AlexPerathoner/SlimHUD/"
+bundle_id = "com.alexpera.SlimHUD"
+
+[[sources]]
+type = "homebrew"
+cask = "slimhud"
+
+[[sources]]
+type = "github"
+repo = "AlexPerathoner/SlimHUD"
+
+[[sources]]
+type = "sparkle"
+url = "https://alexperathoner.github.io/SlimHUD/Support/appcast.xml"

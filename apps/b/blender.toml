@@ -1,0 +1,13 @@
+app_token = "blender"
+name = "Blender"
+desc = "3D creation suite"
+homepage = "https://www.blender.org/"
+bundle_id = "org.blenderfoundation.blender"
+
+[[sources]]
+type = "homebrew"
+cask = "blender"
+
+[[sources]]
+type = "homebrew"
+cask = "blender@lts"

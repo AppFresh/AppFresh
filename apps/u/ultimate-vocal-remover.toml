@@ -1,0 +1,13 @@
+app_token = "ultimate-vocal-remover"
+name = "Ultimate Vocal Remover"
+desc = "Removes vocals from audio files"
+homepage = "https://github.com/Anjok07/ultimatevocalremovergui/"
+bundle_id = "UVR"
+
+[[sources]]
+type = "homebrew"
+cask = "ultimate-vocal-remover"
+
+[[sources]]
+type = "github"
+repo = "Anjok07/ultimatevocalremovergui"

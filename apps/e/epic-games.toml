@@ -1,0 +1,9 @@
+app_token = "epic-games"
+name = "Epic Games Launcher"
+desc = "Launcher for *Epic Games* games"
+homepage = "https://www.epicgames.com/"
+bundle_id = "com.epicgames.EpicGamesLauncher"
+
+[[sources]]
+type = "homebrew"
+cask = "epic-games"

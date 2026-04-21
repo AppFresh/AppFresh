@@ -1,0 +1,13 @@
+app_token = "pomotroid"
+name = "Pomotroid"
+desc = "Timer application"
+homepage = "https://github.com/Splode/pomotroid"
+bundle_id = "com.splode.pomotroid"
+
+[[sources]]
+type = "homebrew"
+cask = "pomotroid"
+
+[[sources]]
+type = "github"
+repo = "Splode/pomotroid"

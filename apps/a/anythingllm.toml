@@ -1,0 +1,9 @@
+app_token = "anythingllm"
+name = "AnythingLLM"
+desc = "Private desktop AI chat application"
+homepage = "https://anythingllm.com/"
+bundle_id = "com.anythingllm"
+
+[[sources]]
+type = "homebrew"
+cask = "anythingllm"

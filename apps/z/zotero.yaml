@@ -1,9 +1,0 @@
-app_token: zotero
-name: Zotero
-desc: Collect, organise, cite, and share research sources
-homepage: 'https://www.zotero.org/'
-bundle_id: org.zotero.zotero
-
-sources:
-  - type: homebrew
-    cask: zotero

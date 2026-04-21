@@ -1,0 +1,14 @@
+app_token = "bitwarden"
+name = "Bitwarden"
+desc = "Desktop password and login vault"
+homepage = "https://bitwarden.com/"
+bundle_id = "com.bitwarden.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "bitwarden"
+
+[[sources]]
+type = "github"
+repo = "bitwarden/clients"
+regex = '^Bitwarden-(\d+\.\d+\.\d+)-universal\.dmg$'

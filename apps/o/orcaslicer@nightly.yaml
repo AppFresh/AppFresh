@@ -1,8 +1,0 @@
-app_token: orcaslicer@nightly
-name: Orca Slicer Nightly
-desc: G-code generator for 3D printers
-homepage: 'https://github.com/SoftFever/OrcaSlicer'
-
-sources:
-  - type: homebrew
-    cask: orcaslicer@nightly

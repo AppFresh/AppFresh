@@ -1,0 +1,9 @@
+app_token = "eclipse-cpp"
+name = "Eclipse IDE for C/C++ Developers"
+desc = "Eclipse IDE for C and C++ developers"
+homepage = "https://eclipse.org/"
+bundle_id = "epp.package.cpp"
+
+[[sources]]
+type = "homebrew"
+cask = "eclipse-cpp"

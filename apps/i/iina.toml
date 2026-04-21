@@ -1,0 +1,17 @@
+app_token = "iina"
+name = "IINA"
+desc = "The modern media player for macOS."
+homepage = "https://iina.io/"
+bundle_id = "com.colliderli.iina"
+
+[[sources]]
+type = "github"
+repo = "iina/iina"
+
+[[sources]]
+type = "homebrew"
+cask = "iina"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.iina.io/appcast.xml"

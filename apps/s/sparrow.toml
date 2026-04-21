@@ -1,0 +1,13 @@
+app_token = "sparrow"
+name = "Sparrow Bitcoin Wallet"
+desc = "Bitcoin wallet application"
+homepage = "https://sparrowwallet.com/"
+bundle_id = "com.sparrowwallet.sparrow"
+
+[[sources]]
+type = "homebrew"
+cask = "sparrow"
+
+[[sources]]
+type = "github"
+repo = "sparrowwallet/sparrow"

@@ -1,0 +1,13 @@
+app_token = "staruml"
+name = "StarUML"
+desc = "Software modeller"
+homepage = "https://staruml.io/"
+bundle_id = "io.staruml.staruml"
+
+[[sources]]
+type = "homebrew"
+cask = "staruml"
+
+[[sources]]
+type = "electron"
+url = "https://update.staruml.io/releases-v6/latest-mac.yml"

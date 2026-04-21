@@ -1,0 +1,13 @@
+app_token = "movist-pro"
+name = "Movist Pro"
+desc = "Media player"
+homepage = "https://movistprime.com/"
+bundle_id = "com.movist.MovistPro"
+
+[[sources]]
+type = "homebrew"
+cask = "movist-pro"
+
+[[sources]]
+type = "sparkle"
+url = "https://s3.ap-northeast-2.amazonaws.com/update.cocoable.com/appcast.xml"

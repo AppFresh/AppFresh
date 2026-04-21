@@ -1,0 +1,9 @@
+app_token = "etrecheckpro"
+name = "EtreCheck"
+desc = "Utility to finds and fix problems on computer systems"
+homepage = "https://etrecheck.com/"
+bundle_id = "com.etresoft.EtreCheck4"
+
+[[sources]]
+type = "homebrew"
+cask = "etrecheckpro"

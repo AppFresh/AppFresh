@@ -1,9 +1,0 @@
-app_token: dockfix
-name: DockFix
-desc: Dock replacement
-homepage: 'https://www.dockfix.app/'
-bundle_id: dk.FIrstForm.DockFix
-
-sources:
-  - type: homebrew
-    cask: dockfix

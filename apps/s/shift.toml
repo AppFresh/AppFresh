@@ -1,0 +1,13 @@
+app_token = "shift"
+name = "Shift"
+desc = "Workstation to streamline your accounts, apps, and workflows"
+homepage = "https://shift.com/"
+bundle_id = "com.rdbrck.shift"
+
+[[sources]]
+type = "homebrew"
+cask = "shift"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.tryshift.com/appcast/stable/mac-arm64.xml"

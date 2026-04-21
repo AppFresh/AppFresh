@@ -1,0 +1,13 @@
+app_token = "macpacker"
+name = "MacPacker"
+desc = "Archive manager"
+homepage = "https://macpacker.app/"
+bundle_id = "com.sarensx.MacPacker"
+
+[[sources]]
+type = "homebrew"
+cask = "macpacker"
+
+[[sources]]
+type = "sparkle"
+url = "https://macpacker-releases.s3.amazonaws.com/appcast.xml"

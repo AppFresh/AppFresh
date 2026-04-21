@@ -1,0 +1,17 @@
+app_token = "dockflow"
+name = "DockFlow"
+desc = "Manage Dock presets and switch between them instantly"
+homepage = "https://dockflow.appitstudio.com/"
+bundle_id = "com.appit.DockFlow"
+
+[[sources]]
+type = "homebrew"
+cask = "dockflow"
+
+[[sources]]
+type = "github"
+repo = "AppitStudio/dock-flow-updates"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/AppitStudio/dock-flow-updates/refs/heads/main/appcast.xml"

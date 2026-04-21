@@ -1,0 +1,9 @@
+app_token = "portx"
+name = "portx"
+desc = "SSH Client"
+homepage = "https://portx.online/"
+bundle_id = "com.netsarang.portx"
+
+[[sources]]
+type = "homebrew"
+cask = "portx"

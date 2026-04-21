@@ -1,0 +1,13 @@
+app_token = "smplayer"
+name = "SMPlayer"
+desc = "Media player with built-in codecs"
+homepage = "https://www.smplayer.info/"
+bundle_id = "info.smplayer.SMPlayer"
+
+[[sources]]
+type = "homebrew"
+cask = "smplayer"
+
+[[sources]]
+type = "github"
+repo = "smplayer-dev/smplayer"

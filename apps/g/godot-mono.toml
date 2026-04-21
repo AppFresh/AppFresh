@@ -1,0 +1,14 @@
+app_token = "godot-mono"
+name = "Godot Engine"
+desc = "C# scripting capable version of Godot game engine"
+homepage = "https://godotengine.org/"
+bundle_id = "org.godotengine.godot"
+
+[[sources]]
+type = "homebrew"
+cask = "godot-mono"
+
+[[sources]]
+type = "github"
+repo = "godotengine/godot"
+regex = 'Godot_v([\d.]+)-stable_mono_macos\.universal\.zip'

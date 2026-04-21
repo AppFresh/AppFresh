@@ -1,0 +1,13 @@
+app_token = "dupeguru"
+name = "dupeGuru"
+desc = "Finds duplicate files in a computer system"
+homepage = "https://dupeguru.voltaicideas.net/"
+bundle_id = "com.hardcoded-software.dupeguru"
+
+[[sources]]
+type = "homebrew"
+cask = "dupeguru"
+
+[[sources]]
+type = "github"
+repo = "arsenetar/dupeguru"

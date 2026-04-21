@@ -1,0 +1,13 @@
+app_token = "jclasslib-bytecode-viewer"
+name = "jclasslib bytecode viewer"
+desc = "Visualise all aspects of compiled Java class files and the contained bytecode"
+homepage = "https://github.com/ingokegel/jclasslib"
+bundle_id = "org.jclasslib.browser"
+
+[[sources]]
+type = "homebrew"
+cask = "jclasslib-bytecode-viewer"
+
+[[sources]]
+type = "github"
+repo = "ingokegel/jclasslib"

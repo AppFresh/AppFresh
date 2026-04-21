@@ -1,0 +1,9 @@
+app_token = "zalo"
+name = "Zalo"
+desc = "Messaging and calling application"
+homepage = "https://zalo.me/"
+bundle_id = "com.vng.zalo"
+
+[[sources]]
+type = "homebrew"
+cask = "zalo"

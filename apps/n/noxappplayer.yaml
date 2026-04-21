@@ -1,9 +1,0 @@
-app_token: noxappplayer
-name: NoxAppPlayer
-desc: Android emulator to play mobile games
-homepage: 'https://www.bignox.com/'
-bundle_id: com.nox.NoxAppPlayer
-
-sources:
-  - type: homebrew
-    cask: noxappplayer

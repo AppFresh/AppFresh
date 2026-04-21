@@ -1,9 +1,0 @@
-app_token: mp4tools
-name: MP4tools
-desc: Create and edit MP4 videos
-homepage: 'https://www.emmgunn.com/mp4tools-home/'
-bundle_id: com.emmgunn.MP4tools3
-
-sources:
-  - type: homebrew
-    cask: mp4tools

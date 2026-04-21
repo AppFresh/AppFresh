@@ -1,9 +1,0 @@
-app_token: usb-overdrive
-name: USB Overdrive
-desc: USB and Bluetooth device driver
-homepage: 'https://www.usboverdrive.com/'
-bundle_id: com.usboverdrive.app
-
-sources:
-  - type: homebrew
-    cask: usb-overdrive

@@ -1,0 +1,13 @@
+app_token = "jasp"
+name = "JASP"
+desc = "Statistical analysis application"
+homepage = "https://jasp-stats.org/"
+bundle_id = "org.jaspstats.jasp"
+
+[[sources]]
+type = "homebrew"
+cask = "jasp"
+
+[[sources]]
+type = "github"
+repo = "jasp-stats/jasp-desktop"

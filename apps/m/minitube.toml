@@ -1,0 +1,13 @@
+app_token = "minitube"
+name = "Minitube"
+desc = "YouTube application"
+homepage = "https://flavio.tordini.org/minitube"
+bundle_id = "org.tordini.flavio.minitube"
+
+[[sources]]
+type = "homebrew"
+cask = "minitube"
+
+[[sources]]
+type = "sparkle"
+url = "https://flavio.tordini.org/minitube-ws/appcast.xml"

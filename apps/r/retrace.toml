@@ -1,0 +1,13 @@
+app_token = "retrace"
+name = "Retrace"
+desc = "Local-first screen recording and search application"
+homepage = "https://retrace.to/"
+bundle_id = "io.retrace.app"
+
+[[sources]]
+type = "homebrew"
+cask = "retrace"
+
+[[sources]]
+type = "sparkle"
+url = "https://retrace.to/appcast.xml"

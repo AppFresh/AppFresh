@@ -1,0 +1,13 @@
+app_token = "redis-pro"
+name = "redis-pro"
+desc = "Redis desktop"
+homepage = "https://github.com/cmushroom/redis-pro"
+bundle_id = "com.cmushroom.redis-pro"
+
+[[sources]]
+type = "homebrew"
+cask = "redis-pro"
+
+[[sources]]
+type = "github"
+repo = "cmushroom/redis-pro"

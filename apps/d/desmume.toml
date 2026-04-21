@@ -1,0 +1,13 @@
+app_token = "desmume"
+name = "DeSmuME"
+desc = "Nintendo DS emulator"
+homepage = "https://desmume.org/"
+bundle_id = "org.desmume.DeSmuME"
+
+[[sources]]
+type = "homebrew"
+cask = "desmume"
+
+[[sources]]
+type = "github"
+repo = "TASEmulators/desmume"

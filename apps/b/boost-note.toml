@@ -1,0 +1,13 @@
+app_token = "boost-note"
+name = "Boostnote.Next"
+desc = "Markdown note editor for developers"
+homepage = "https://github.com/BoostIO/BoostNote-App"
+bundle_id = "com.boostio.boostnote"
+
+[[sources]]
+type = "homebrew"
+cask = "boost-note"
+
+[[sources]]
+type = "github"
+repo = "BoostIO/BoostNote-App"

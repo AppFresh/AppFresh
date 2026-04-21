@@ -1,0 +1,13 @@
+app_token = "feedflow"
+name = "FeedFlow"
+desc = "RSS reader"
+homepage = "https://www.feedflow.dev/"
+bundle_id = "com.prof18.feedflow"
+
+[[sources]]
+type = "homebrew"
+cask = "feedflow"
+
+[[sources]]
+type = "github"
+repo = "prof18/feed-flow"

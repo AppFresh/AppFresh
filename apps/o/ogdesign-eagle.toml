@@ -1,0 +1,9 @@
+app_token = "ogdesign-eagle"
+name = "Eagle"
+desc = "Organise all your reference images in one place"
+homepage = "https://eagle.cool/"
+bundle_id = "tw.ogdesign.eagle"
+
+[[sources]]
+type = "homebrew"
+cask = "ogdesign-eagle"

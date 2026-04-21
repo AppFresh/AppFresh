@@ -1,9 +1,0 @@
-app_token: opera-gx
-name: Opera GX
-desc: Alternate version of the Opera web browser to complement gaming
-homepage: 'https://www.opera.com/gx'
-bundle_id: com.operasoftware.OperaGX
-
-sources:
-  - type: homebrew
-    cask: opera-gx

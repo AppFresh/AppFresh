@@ -1,0 +1,9 @@
+app_token = "dbvisualizer"
+name = "DbVisualizer"
+desc = "Database management and analysis tool"
+homepage = "https://www.dbvis.com/"
+bundle_id = "com.dbvis.DbVisualizer"
+
+[[sources]]
+type = "homebrew"
+cask = "dbvisualizer"

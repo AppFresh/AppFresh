@@ -1,0 +1,13 @@
+app_token = "satdump"
+name = "SatDump"
+desc = "Generic satellite data processing software"
+homepage = "https://www.satdump.org/"
+bundle_id = "com.altillimity.satdump"
+
+[[sources]]
+type = "homebrew"
+cask = "satdump"
+
+[[sources]]
+type = "github"
+repo = "SatDump/SatDump"

@@ -1,0 +1,13 @@
+app_token = "stash"
+name = "Stash"
+desc = "Network tool based on Clash"
+homepage = "https://stash.ws/"
+bundle_id = "ws.stash.app.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "stash"
+
+[[sources]]
+type = "sparkle"
+url = "https://releases.stash.ws/appcast.xml"

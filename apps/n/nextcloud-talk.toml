@@ -1,0 +1,13 @@
+app_token = "nextcloud-talk"
+name = "Nextcloud Talk Desktop"
+desc = "Official Nextcloud Talk Desktop client"
+homepage = "https://nextcloud.com/talk/"
+bundle_id = "com.nextcloud.talk.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "nextcloud-talk"
+
+[[sources]]
+type = "github"
+repo = "nextcloud-releases/talk-desktop"

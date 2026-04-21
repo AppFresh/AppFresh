@@ -1,0 +1,9 @@
+app_token = "paste"
+name = "Paste"
+desc = "Limitless clipboard"
+homepage = "https://pasteapp.io/"
+bundle_id = "com.wiheads.paste-direct"
+
+[[sources]]
+type = "homebrew"
+cask = "paste"

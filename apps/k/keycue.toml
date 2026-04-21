@@ -1,0 +1,9 @@
+app_token = "keycue"
+name = "KeyCue"
+desc = "Finds, learns and remembers keyboard shortcuts"
+homepage = "https://ergonis.com/keycue"
+bundle_id = "com.macility.keycue"
+
+[[sources]]
+type = "homebrew"
+cask = "keycue"

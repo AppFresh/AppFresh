@@ -1,9 +1,0 @@
-app_token: pycharm
-name: PyCharm
-desc: IDE for professional Python development
-homepage: 'https://www.jetbrains.com/pycharm/'
-bundle_id: com.jetbrains.pycharm
-
-sources:
-  - type: homebrew
-    cask: pycharm

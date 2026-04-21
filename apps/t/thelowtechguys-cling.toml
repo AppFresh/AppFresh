@@ -1,0 +1,14 @@
+app_token = "thelowtechguys-cling"
+name = "Cling"
+desc = "Instant fuzzy find any file on macOS"
+homepage = "https://lowtechguys.com/cling"
+bundle_id = "com.lowtechguys.Cling"
+tags = ["Freemium"]
+
+[[sources]]
+type = "homebrew"
+cask = "thelowtechguys-cling"
+
+[[sources]]
+type = "sparkle"
+url = "https://files.lowtechguys.com/cling/appcast.xml"

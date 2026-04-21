@@ -1,0 +1,9 @@
+app_token = "kdenlive"
+name = "Kdenlive"
+desc = "Free and Open Source Video Editor"
+homepage = "https://kdenlive.org/"
+bundle_id = "org.kde.Kdenlive"
+
+[[sources]]
+type = "homebrew"
+cask = "kdenlive"

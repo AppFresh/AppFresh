@@ -1,0 +1,13 @@
+app_token = "launchos"
+name = "LaunchOS"
+desc = "Launchpad alternative"
+homepage = "https://launchosapp.com/"
+bundle_id = "app.remixdesign.LaunchOS"
+
+[[sources]]
+type = "homebrew"
+cask = "launchos"
+
+[[sources]]
+type = "sparkle"
+url = "https://static.remixdesign.app/launchos/appcast.xml"

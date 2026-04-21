@@ -1,0 +1,9 @@
+app_token = "modelio"
+name = "Modelio"
+desc = "Extensible modelling environment"
+homepage = "https://www.modelio.org/"
+bundle_id = "org.modelio.product"
+
+[[sources]]
+type = "homebrew"
+cask = "modelio"

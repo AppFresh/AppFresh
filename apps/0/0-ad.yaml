@@ -1,9 +1,0 @@
-app_token: 0-ad
-name: 0 A.D.
-desc: Real-time strategy game
-homepage: 'https://play0ad.com/'
-bundle_id: com.wildfiregames.play0ad
-
-sources:
-  - type: homebrew
-    cask: 0-ad

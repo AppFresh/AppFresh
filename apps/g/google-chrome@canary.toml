@@ -1,0 +1,8 @@
+app_token = "google-chrome@canary"
+name = "Chrome Canary"
+desc = "Web browser"
+homepage = "https://www.google.com/chrome/"
+
+[[sources]]
+type = "homebrew"
+cask = "google-chrome@canary"

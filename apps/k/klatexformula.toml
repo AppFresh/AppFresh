@@ -1,0 +1,9 @@
+app_token = "klatexformula"
+name = "KLatexFormula"
+desc = "Generate images from LaTeX equations"
+homepage = "https://klatexformula.sourceforge.io/"
+bundle_id = "org.klatexformula.klatexformula"
+
+[[sources]]
+type = "homebrew"
+cask = "klatexformula"

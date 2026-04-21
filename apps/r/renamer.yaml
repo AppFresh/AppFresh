@@ -1,9 +1,0 @@
-app_token: renamer
-name: Renamer
-desc: Batch file renamer application
-homepage: 'https://renamer.com/'
-bundle_id: com.incrediblebee.Renamer
-
-sources:
-  - type: homebrew
-    cask: renamer

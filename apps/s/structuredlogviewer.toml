@@ -1,0 +1,13 @@
+app_token = "structuredlogviewer"
+name = "Structured Log Viewer"
+desc = "Interactive log viewer for MSBuild structured logs (*.binlog)"
+homepage = "https://msbuildlog.com/"
+bundle_id = "com.msbuildlog.viewer"
+
+[[sources]]
+type = "homebrew"
+cask = "structuredlogviewer"
+
+[[sources]]
+type = "github"
+repo = "KirillOsenkov/MSBuildStructuredLog"

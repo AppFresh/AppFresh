@@ -1,0 +1,13 @@
+app_token = "sabnzbd"
+name = "SABnzbd"
+desc = "Binary newsreader"
+homepage = "https://sabnzbd.org/"
+bundle_id = "org.sabnzbd.sabnzbd"
+
+[[sources]]
+type = "homebrew"
+cask = "sabnzbd"
+
+[[sources]]
+type = "github"
+repo = "sabnzbd/sabnzbd"

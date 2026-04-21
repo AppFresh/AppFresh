@@ -1,9 +1,0 @@
-app_token: turbo-boost-switcher
-name: Turbo Boost Switcher
-desc: Enable and disable the Intel CPU Turbo Boost feature
-homepage: 'https://www.rugarciap.com/turbo-boost-switcher-for-os-x/'
-bundle_id: rugarciap.com.Turbo-Boost-Switcher
-
-sources:
-  - type: homebrew
-    cask: turbo-boost-switcher

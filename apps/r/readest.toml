@@ -1,0 +1,13 @@
+app_token = "readest"
+name = "Readest"
+desc = "Ebook reader"
+homepage = "https://readest.com/"
+bundle_id = "com.bilingify.readest"
+
+[[sources]]
+type = "homebrew"
+cask = "readest"
+
+[[sources]]
+type = "github"
+repo = "readest/readest"

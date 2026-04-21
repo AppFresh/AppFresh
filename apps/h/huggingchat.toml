@@ -1,0 +1,13 @@
+app_token = "huggingchat"
+name = "HuggingChat"
+desc = "Chat client for models on HuggingFace"
+homepage = "https://github.com/huggingface/chat-macOS"
+bundle_id = "cyrilzakka.HuggingChat-Mac"
+
+[[sources]]
+type = "homebrew"
+cask = "huggingchat"
+
+[[sources]]
+type = "github"
+repo = "huggingface/chat-macOS"

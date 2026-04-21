@@ -1,0 +1,9 @@
+app_token = "dcv-viewer"
+name = "NICE DCV Viewer"
+desc = "Client for NICE DCV remote display protocol"
+homepage = "https://www.amazondcv.com/"
+bundle_id = "com.nicesoftware.dcvviewer"
+
+[[sources]]
+type = "homebrew"
+cask = "dcv-viewer"

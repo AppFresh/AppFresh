@@ -1,0 +1,13 @@
+app_token = "prefs-editor"
+name = "Prefs Editor"
+desc = "Graphical user interface for the 'defaults' command"
+homepage = "https://apps.tempel.org/PrefsEditor/"
+bundle_id = "org.tempel.prefseditor"
+
+[[sources]]
+type = "homebrew"
+cask = "prefs-editor"
+
+[[sources]]
+type = "sparkle"
+url = "https://apps.tempel.org/PrefsEditor/appcast.xml"

@@ -1,9 +1,0 @@
-app_token: macwinzipper
-name: MacWinZipper
-desc: Zip archiver
-homepage: 'https://tida.co.jp/macwinzipper'
-bundle_id: bz.tida.MacWinZipper
-
-sources:
-  - type: homebrew
-    cask: macwinzipper

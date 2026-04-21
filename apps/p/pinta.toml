@@ -1,0 +1,13 @@
+app_token = "pinta"
+name = "Pinta"
+desc = "Simple Gtk# Paint Program"
+homepage = "https://www.pinta-project.com/"
+bundle_id = "com.ximian.pinta"
+
+[[sources]]
+type = "homebrew"
+cask = "pinta"
+
+[[sources]]
+type = "github"
+repo = "PintaProject/Pinta"

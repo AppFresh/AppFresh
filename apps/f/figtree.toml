@@ -1,0 +1,13 @@
+app_token = "figtree"
+name = "FigTree"
+desc = "Phylogenetic tree viewer"
+homepage = "https://github.com/rambaut/figtree/"
+bundle_id = "figtree"
+
+[[sources]]
+type = "homebrew"
+cask = "figtree"
+
+[[sources]]
+type = "github"
+repo = "rambaut/figtree"

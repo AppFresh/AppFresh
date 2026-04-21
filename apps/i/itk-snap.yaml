@@ -1,9 +1,0 @@
-app_token: itk-snap
-name: ITK-SNAP
-desc: Segment structures in 3D medical images
-homepage: 'https://www.itksnap.org/pmwiki/pmwiki.php'
-bundle_id: org.itksnap
-
-sources:
-  - type: homebrew
-    cask: itk-snap

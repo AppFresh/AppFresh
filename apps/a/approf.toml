@@ -1,0 +1,13 @@
+app_token = "approf"
+name = "approf"
+desc = "Native app for pprof"
+homepage = "https://github.com/moderato-app/approf"
+bundle_id = "the.future.app.approf.approf"
+
+[[sources]]
+type = "homebrew"
+cask = "approf"
+
+[[sources]]
+type = "github"
+repo = "moderato-app/approf"

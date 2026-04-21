@@ -1,9 +1,0 @@
-app_token: the-unarchiver
-name: The Unarchiver
-desc: Unpacks archive files
-homepage: 'https://theunarchiver.com/'
-bundle_id: com.macpaw.site.theunarchiver
-
-sources:
-  - type: homebrew
-    cask: the-unarchiver

@@ -1,9 +1,0 @@
-app_token: codebuddy-cn
-name: CodeBuddy CN
-desc: AI-powered adaptive IDE (Chinese version)
-homepage: 'https://copilot.tencent.com/ide/'
-bundle_id: com.tencent.codebuddycn
-
-sources:
-  - type: homebrew
-    cask: codebuddy-cn

@@ -1,0 +1,17 @@
+app_token = "arduino-ide"
+name = "Arduino IDE"
+desc = "Electronics prototyping platform"
+homepage = "https://www.arduino.cc/en/software"
+bundle_id = "cc.arduino.IDE2"
+
+[[sources]]
+type = "homebrew"
+cask = "arduino-ide"
+
+[[sources]]
+type = "github"
+repo = "arduino/arduino-ide"
+
+[[sources]]
+type = "homebrew"
+cask = "arduino-ide@nightly"

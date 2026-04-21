@@ -1,0 +1,13 @@
+app_token = "pulsar"
+name = "Pulsar"
+desc = "Text editor"
+homepage = "https://pulsar-edit.dev/"
+bundle_id = "dev.pulsar-edit.pulsar"
+
+[[sources]]
+type = "homebrew"
+cask = "pulsar"
+
+[[sources]]
+type = "github"
+repo = "pulsar-edit/pulsar"

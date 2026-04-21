@@ -1,0 +1,13 @@
+app_token = "geany"
+name = "Geany"
+desc = "A fast and lightweight IDE"
+homepage = "https://www.geany.org/"
+bundle_id = "org.geany.geany"
+
+[[sources]]
+type = "homebrew"
+cask = "geany"
+
+[[sources]]
+type = "github"
+repo = "geany/geany"

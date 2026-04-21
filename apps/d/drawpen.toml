@@ -1,0 +1,13 @@
+app_token = "drawpen"
+name = "DrawPen"
+desc = "Screen annotation tool"
+homepage = "https://github.com/DmytroVasin/DrawPen"
+bundle_id = "dmytro.vasin.drawpen"
+
+[[sources]]
+type = "homebrew"
+cask = "drawpen"
+
+[[sources]]
+type = "github"
+repo = "DmytroVasin/DrawPen"

@@ -1,9 +1,0 @@
-app_token: bluefish
-name: Bluefish
-desc: Open source code editor
-homepage: 'https://bluefish.openoffice.nl/index.html'
-bundle_id: nl.openoffice.bluefish
-
-sources:
-  - type: homebrew
-    cask: bluefish

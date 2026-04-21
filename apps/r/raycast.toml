@@ -1,0 +1,9 @@
+app_token = "raycast"
+name = "Raycast"
+desc = "Control your tools with a few keystrokes"
+homepage = "https://raycast.com/"
+bundle_id = "com.raycast.macos"
+
+[[sources]]
+type = "homebrew"
+cask = "raycast"

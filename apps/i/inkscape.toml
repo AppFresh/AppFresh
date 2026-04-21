@@ -1,0 +1,9 @@
+app_token = "inkscape"
+name = "Inkscape"
+desc = "Vector graphics editor"
+homepage = "https://inkscape.org/"
+bundle_id = "org.inkscape.Inkscape"
+
+[[sources]]
+type = "homebrew"
+cask = "inkscape"

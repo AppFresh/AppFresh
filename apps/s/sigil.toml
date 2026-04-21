@@ -1,0 +1,13 @@
+app_token = "sigil"
+name = "Sigil"
+desc = "EPUB ebook editor"
+homepage = "https://sigil-ebook.com/"
+bundle_id = "com.sigil-ebook.Sigil.app"
+
+[[sources]]
+type = "homebrew"
+cask = "sigil"
+
+[[sources]]
+type = "github"
+repo = "Sigil-Ebook/Sigil"

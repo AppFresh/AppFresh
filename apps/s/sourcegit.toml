@@ -1,0 +1,13 @@
+app_token = "sourcegit"
+name = "SourceGit"
+desc = "Git GUI client"
+homepage = "https://github.com/sourcegit-scm/sourcegit"
+bundle_id = "com.sourcegit-scm.sourcegit"
+
+[[sources]]
+type = "homebrew"
+cask = "sourcegit"
+
+[[sources]]
+type = "github"
+repo = "ybeapps/homebrew-sourcegit"

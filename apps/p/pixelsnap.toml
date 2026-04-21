@@ -1,0 +1,13 @@
+app_token = "pixelsnap"
+name = "PixelSnap"
+desc = "Screen measuring tool"
+homepage = "https://pixelsnap.com/"
+bundle_id = "pl.maketheweb.pixelsnap2"
+
+[[sources]]
+type = "homebrew"
+cask = "pixelsnap"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.getpixelsnap.com/v2/appcast.xml"

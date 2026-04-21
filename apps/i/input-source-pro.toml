@@ -1,0 +1,17 @@
+app_token = "input-source-pro"
+name = "Input Source Pro"
+desc = "Switch and track your input sources with ease"
+homepage = "https://inputsource.pro/"
+bundle_id = "com.runjuu.Input-Source-Pro"
+
+[[sources]]
+type = "homebrew"
+cask = "input-source-pro"
+
+[[sources]]
+type = "github"
+repo = "runjuu/InputSourcePro"
+
+[[sources]]
+type = "sparkle"
+url = "https://inputsource.pro/stable/appcast.xml"

@@ -1,9 +1,0 @@
-app_token: wispr-flow
-name: Wispr Flow
-desc: Voice-to-text dictation with AI-powered auto-editing
-homepage: 'https://wisprflow.ai/'
-bundle_id: com.electron.wispr-flow
-
-sources:
-  - type: homebrew
-    cask: wispr-flow

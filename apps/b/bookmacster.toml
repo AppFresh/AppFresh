@@ -1,0 +1,17 @@
+app_token = "bookmacster"
+name = "BookMacster"
+desc = "Bookmarks manager"
+homepage = "https://sheepsystems.com/products/bookmacster.html"
+bundle_id = "com.sheepsystems.BookMacster"
+
+[[sources]]
+type = "homebrew"
+cask = "bookmacster"
+
+[[sources]]
+type = "sparkle"
+url = "https://sheepsystems.com/bookmacster/appcast.xml"
+
+[[sources]]
+type = "homebrew"
+cask = "bookmacster@beta"

@@ -1,9 +1,0 @@
-app_token: lightworks
-name: Lightworks
-desc: Complete video creation package
-homepage: 'https://www.lwks.com/'
-bundle_id: com.LWKS.lightworks
-
-sources:
-  - type: homebrew
-    cask: lightworks

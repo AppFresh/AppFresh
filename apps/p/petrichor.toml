@@ -1,0 +1,13 @@
+app_token = "petrichor"
+name = "Petrichor"
+desc = "Offline Music Player"
+homepage = "https://github.com/kushalpandya/Petrichor"
+bundle_id = "org.Petrichor"
+
+[[sources]]
+type = "homebrew"
+cask = "petrichor"
+
+[[sources]]
+type = "github"
+repo = "kushalpandya/Petrichor"

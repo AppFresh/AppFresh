@@ -1,0 +1,9 @@
+app_token = "metabase-app"
+name = "Metabase"
+desc = "Business intelligence and analytics"
+homepage = "https://www.metabase.com/"
+bundle_id = "com.metabase.Metabase"
+
+[[sources]]
+type = "homebrew"
+cask = "metabase-app"

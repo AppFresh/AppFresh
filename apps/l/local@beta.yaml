@@ -1,8 +1,0 @@
-app_token: local@beta
-name: Local (Beta)
-desc: WordPress local development tool by Flywheel
-homepage: 'https://localwp.com/'
-
-sources:
-  - type: homebrew
-    cask: local@beta

@@ -1,0 +1,13 @@
+app_token = "repo-prompt"
+name = "Repo Prompt"
+desc = "Prompt generation tool"
+homepage = "https://repoprompt.com/"
+bundle_id = "com.pvncher.repoprompt"
+
+[[sources]]
+type = "homebrew"
+cask = "repo-prompt"
+
+[[sources]]
+type = "sparkle"
+url = "https://repoprompt.s3.us-east-2.amazonaws.com/appcast.xml"

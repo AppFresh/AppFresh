@@ -1,0 +1,13 @@
+app_token = "zed"
+name = "Zed"
+desc = "High-performance, multiplayer code editor"
+homepage = "https://zed.dev/"
+bundle_id = "dev.zed.Zed"
+
+[[sources]]
+type = "homebrew"
+cask = "zed"
+
+[[sources]]
+type = "github"
+repo = "zed-industries/zed"

@@ -1,9 +1,0 @@
-app_token: media-converter
-name: Media Converter
-desc: Convert avi, wmv, mkv, rm, mov and more to other formats
-homepage: 'https://media-converter.sourceforge.io/'
-bundle_id: com.kiwifruitware.Media-Converter
-
-sources:
-  - type: homebrew
-    cask: media-converter

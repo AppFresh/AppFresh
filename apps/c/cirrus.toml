@@ -1,0 +1,9 @@
+app_token = "cirrus"
+name = "Cirrus"
+desc = "Inspector for iCloud Drive folders"
+homepage = "https://eclecticlight.co/cirrus-bailiff/"
+bundle_id = "co.eclecticlight.CirrusMac"
+
+[[sources]]
+type = "homebrew"
+cask = "cirrus"

@@ -1,0 +1,13 @@
+app_token = "captains-deck"
+name = "Captain's Deck"
+desc = "Dual-pane file manager inspired by Norton Commander"
+homepage = "https://captains-deck.com/"
+bundle_id = "com.captainsdeck.app"
+
+[[sources]]
+type = "homebrew"
+cask = "captains-deck"
+
+[[sources]]
+type = "sparkle"
+url = "https://captains-deck.com/appcast.xml"

@@ -1,0 +1,13 @@
+app_token = "screenflow"
+name = "ScreenFlow"
+desc = "Screen recording and video editing software"
+homepage = "https://www.telestream.net/screenflow/"
+bundle_id = "net.telestream.screenflow10"
+
+[[sources]]
+type = "homebrew"
+cask = "screenflow"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.telestream.net/updater/screenflow/appcast.xml"

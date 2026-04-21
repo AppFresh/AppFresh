@@ -1,0 +1,17 @@
+app_token = "mumble"
+name = "Mumble"
+desc = "Open-source, low-latency, high quality voice chat software for gaming"
+homepage = "https://www.mumble.info/"
+bundle_id = "mumble-client"
+
+[[sources]]
+type = "homebrew"
+cask = "mumble"
+
+[[sources]]
+type = "github"
+repo = "mumble-voip/mumble"
+
+[[sources]]
+type = "homebrew"
+cask = "mumble@snapshot"

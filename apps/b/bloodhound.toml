@@ -1,0 +1,13 @@
+app_token = "bloodhound"
+name = "BloodHound"
+desc = "Six Degrees of Domain Admin"
+homepage = "https://github.com/BloodHoundAD/BloodHound"
+bundle_id = "com.electron.bloodhound"
+
+[[sources]]
+type = "homebrew"
+cask = "bloodhound"
+
+[[sources]]
+type = "github"
+repo = "BloodHoundAD/BloodHound"

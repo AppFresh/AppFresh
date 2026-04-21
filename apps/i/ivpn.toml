@@ -1,0 +1,9 @@
+app_token = "ivpn"
+name = "IVPN"
+desc = "VPN client"
+homepage = "https://www.ivpn.net/en/apps-macos"
+bundle_id = "com.electron.ivpn-ui"
+
+[[sources]]
+type = "homebrew"
+cask = "ivpn"

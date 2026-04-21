@@ -1,0 +1,9 @@
+app_token = "yubico-authenticator"
+name = "Yubico Authenticator"
+desc = "Full-featured companion app to the YubiKey"
+homepage = "https://developers.yubico.com/yubioath-flutter/"
+bundle_id = "com.yubico.yubioath"
+
+[[sources]]
+type = "homebrew"
+cask = "yubico-authenticator"

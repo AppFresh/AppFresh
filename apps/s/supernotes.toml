@@ -1,0 +1,9 @@
+app_token = "supernotes"
+name = "Supernotes"
+desc = "Collaborative note-taking app"
+homepage = "https://supernotes.app/"
+bundle_id = "app.supernotes.SupernotesDesktop"
+
+[[sources]]
+type = "homebrew"
+cask = "supernotes"

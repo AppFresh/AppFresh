@@ -1,0 +1,9 @@
+app_token = "freemind"
+name = "FreeMind"
+desc = "Mind-mapping software written in Java"
+homepage = "https://freemind.sourceforge.io/wiki/index.php/Main_Page"
+bundle_id = "freemind.main.FreeMind"
+
+[[sources]]
+type = "homebrew"
+cask = "freemind"

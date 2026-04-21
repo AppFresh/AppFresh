@@ -1,0 +1,13 @@
+app_token = "tev"
+name = "tev"
+desc = "High dynamic range (HDR) image viewer with accurate color management"
+homepage = "https://github.com/Tom94/tev"
+bundle_id = "org.tom94.tev"
+
+[[sources]]
+type = "homebrew"
+cask = "tev"
+
+[[sources]]
+type = "github"
+repo = "Tom94/tev"

@@ -1,0 +1,8 @@
+app_token = "discord@ptb"
+name = "Discord PTB"
+desc = "Voice and text chat software"
+homepage = "https://discord.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "discord@ptb"

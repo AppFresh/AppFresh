@@ -1,0 +1,17 @@
+app_token = "whatsapp"
+name = "WhatsApp"
+desc = "Native desktop client for WhatsApp"
+homepage = "https://www.whatsapp.com/"
+bundle_id = "net.whatsapp.WhatsApp"
+
+[[sources]]
+type = "homebrew"
+cask = "whatsapp"
+
+[[sources]]
+type = "sparkle"
+url = "https://web.whatsapp.com/desktop/mac_native/updates/?branch=master&configuration=Release"
+
+[[sources]]
+type = "homebrew"
+cask = "whatsapp@beta"

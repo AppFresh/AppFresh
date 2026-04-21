@@ -1,0 +1,13 @@
+app_token = "macdroid"
+name = "MacDroid"
+desc = "Connect to your Android devices"
+homepage = "https://www.macdroid.app/"
+bundle_id = "us.electronic.macdroid"
+
+[[sources]]
+type = "homebrew"
+cask = "macdroid"
+
+[[sources]]
+type = "sparkle"
+url = "https://cdn.electronic.us/products/macdroid/mac/update/settings.xml"

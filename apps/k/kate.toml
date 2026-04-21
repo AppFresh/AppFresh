@@ -1,0 +1,9 @@
+app_token = "kate"
+name = "Kate"
+desc = "Multi-document editor by KDE"
+homepage = "https://kate-editor.org/"
+bundle_id = "org.kde.Kate"
+
+[[sources]]
+type = "homebrew"
+cask = "kate"

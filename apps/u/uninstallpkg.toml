@@ -1,0 +1,13 @@
+app_token = "uninstallpkg"
+name = "UninstallPKG"
+desc = "PKG software package uninstall tool"
+homepage = "https://www.corecode.io/uninstallpkg/"
+bundle_id = "com.corecode.UninstallPKG"
+
+[[sources]]
+type = "homebrew"
+cask = "uninstallpkg"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.corecode.io/uninstallpkg/uninstallpkg.xml"

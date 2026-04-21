@@ -1,9 +1,0 @@
-app_token: texmaker
-name: Texmaker
-desc: LaTeX editor
-homepage: 'https://www.xm1math.net/texmaker/'
-bundle_id: org.qt-project.Qt.QtWebEngineProcess
-
-sources:
-  - type: homebrew
-    cask: texmaker

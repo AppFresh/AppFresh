@@ -1,0 +1,13 @@
+app_token = "iaito"
+name = "iaito"
+desc = "GUI for radare2"
+homepage = "https://www.radare.org/n/iaito.html"
+bundle_id = "org.radare.iaito"
+
+[[sources]]
+type = "homebrew"
+cask = "iaito"
+
+[[sources]]
+type = "github"
+repo = "radareorg/iaito"

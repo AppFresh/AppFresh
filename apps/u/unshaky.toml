@@ -1,0 +1,17 @@
+app_token = "unshaky"
+name = "Unshaky"
+desc = "Software fix for double key presses on Apple's butterfly keyboard"
+homepage = "https://github.com/aahung/Unshaky"
+bundle_id = "com.nestederror.Unshaky"
+
+[[sources]]
+type = "homebrew"
+cask = "unshaky"
+
+[[sources]]
+type = "github"
+repo = "aahung/Unshaky"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/aahung/Unshaky/master/appcast.xml"

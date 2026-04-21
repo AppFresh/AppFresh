@@ -1,9 +1,0 @@
-app_token: maintenance
-name: Maintenance
-desc: Operating system maintenance and cleaning utility
-homepage: 'https://www.titanium-software.fr/en/maintenance.html'
-bundle_id: com.titanium.Maintenance
-
-sources:
-  - type: homebrew
-    cask: maintenance

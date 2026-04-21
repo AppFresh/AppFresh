@@ -1,0 +1,13 @@
+app_token = "viz"
+name = "Viz"
+desc = "Utility for extracting text from images, videos, QR codes and barcodes"
+homepage = "https://itsalin.com/appInfo/?id=viz"
+bundle_id = "com.alienator88.Viz"
+
+[[sources]]
+type = "homebrew"
+cask = "viz"
+
+[[sources]]
+type = "github"
+repo = "alienator88/Viz"

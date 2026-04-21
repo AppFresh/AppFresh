@@ -1,0 +1,9 @@
+app_token = "display-pilot"
+name = "Display Pilot 2"
+desc = "Display control utility"
+homepage = "https://www.benq.com/en-ap/monitor/software/display-pilot-2.html"
+bundle_id = "com.benq.DisplayPilot2"
+
+[[sources]]
+type = "homebrew"
+cask = "display-pilot"

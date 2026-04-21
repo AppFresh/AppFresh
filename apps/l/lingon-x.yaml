@@ -1,9 +1,0 @@
-app_token: lingon-x
-name: Lingon X
-desc: Automator software to start apps, run scripts or commands and more
-homepage: 'https://www.peterborgapps.com/lingon/'
-bundle_id: com.peterborgapps.LingonX9
-
-sources:
-  - type: homebrew
-    cask: lingon-x

@@ -1,0 +1,13 @@
+app_token = "prowlarr"
+name = "Prowlarr"
+desc = "Indexer manager/proxy for various PVR apps"
+homepage = "https://prowlarr.com/"
+bundle_id = "com.osx.prowlarr.com"
+
+[[sources]]
+type = "homebrew"
+cask = "prowlarr"
+
+[[sources]]
+type = "github"
+repo = "Prowlarr/Prowlarr"

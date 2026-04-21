@@ -1,0 +1,13 @@
+app_token = "mcpbundler"
+name = "MCP Bundler"
+desc = "MCP servers and Agent skills management app"
+homepage = "https://mcp-bundler.com/"
+bundle_id = "Lifeisgoodlabs.MCP-Bundler"
+
+[[sources]]
+type = "homebrew"
+cask = "mcpbundler"
+
+[[sources]]
+type = "sparkle"
+url = "https://mcp-bundler.com/downloads/appcast.xml"

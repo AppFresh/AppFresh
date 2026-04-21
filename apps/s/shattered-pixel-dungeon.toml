@@ -1,0 +1,13 @@
+app_token = "shattered-pixel-dungeon"
+name = "Shattered Pixel Dungeon"
+desc = "Traditional roguelike dungeon crawler with randomised levels, enemies and items"
+homepage = "https://shatteredpixel.com/shatteredpd"
+bundle_id = "com.shatteredpixel.shatteredpixeldungeon.apple"
+
+[[sources]]
+type = "homebrew"
+cask = "shattered-pixel-dungeon"
+
+[[sources]]
+type = "github"
+repo = "00-Evan/shattered-pixel-dungeon"

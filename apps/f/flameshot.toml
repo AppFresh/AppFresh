@@ -1,0 +1,13 @@
+app_token = "flameshot"
+name = "Flameshot"
+desc = "Powerful yet simple to use screenshot software."
+homepage = "https://flameshot.org/"
+bundle_id = "org.flameshot.Flameshot"
+
+[[sources]]
+type = "homebrew"
+cask = "flameshot"
+
+[[sources]]
+type = "github"
+repo = "flameshot-org/flameshot"

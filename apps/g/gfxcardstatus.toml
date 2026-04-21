@@ -1,0 +1,17 @@
+app_token = "gfxcardstatus"
+name = "gfxCardStatus"
+desc = "Menu bar app to monitor graphics card usage"
+homepage = "https://gfx.io/"
+bundle_id = "com.codykrieger.gfxCardStatus"
+
+[[sources]]
+type = "homebrew"
+cask = "gfxcardstatus"
+
+[[sources]]
+type = "github"
+repo = "codykrieger/gfxCardStatus"
+
+[[sources]]
+type = "sparkle"
+url = "https://gfx.io/appcast.xml"

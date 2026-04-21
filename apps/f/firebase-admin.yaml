@@ -1,9 +1,0 @@
-app_token: firebase-admin
-name: Firebase Admin
-desc: Admin user interface for Firebase
-homepage: 'https://firebaseadmin.com/'
-bundle_id: com.firebaseadmin.firebase-admin
-
-sources:
-  - type: homebrew
-    cask: firebase-admin

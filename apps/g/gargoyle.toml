@@ -1,0 +1,13 @@
+app_token = "gargoyle"
+name = "Gargoyle"
+desc = "IO layer for interactive fiction players"
+homepage = "https://github.com/garglk/garglk"
+bundle_id = "com.googlecode.garglk.Launcher"
+
+[[sources]]
+type = "homebrew"
+cask = "gargoyle"
+
+[[sources]]
+type = "github"
+repo = "garglk/garglk"

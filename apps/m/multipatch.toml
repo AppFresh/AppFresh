@@ -1,0 +1,13 @@
+app_token = "multipatch"
+name = "MultiPatch"
+desc = "File patching utility"
+homepage = "https://projects.sappharad.com/multipatch/"
+bundle_id = "com.sappharad.MultiPatch"
+
+[[sources]]
+type = "homebrew"
+cask = "multipatch"
+
+[[sources]]
+type = "sparkle"
+url = "https://projects.sappharad.com/multipatch/updates.xml"

@@ -1,9 +1,0 @@
-app_token: airflow
-name: Airflow
-desc: Watch local content on Apple TV and Chromecast
-homepage: 'https://airflowapp.com/'
-bundle_id: com.bitcavehq.Airflow
-
-sources:
-  - type: homebrew
-    cask: airflow

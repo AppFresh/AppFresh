@@ -1,0 +1,13 @@
+app_token = "httpie-desktop"
+name = "HTTPie for Desktop"
+desc = "Testing client for REST, GraphQL, and HTTP APIs"
+homepage = "https://httpie.io/product"
+bundle_id = "io.httpie.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "httpie-desktop"
+
+[[sources]]
+type = "github"
+repo = "httpie/desktop"

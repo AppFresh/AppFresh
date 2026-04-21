@@ -1,0 +1,12 @@
+app_token = "glance-chamburr"
+name = "Glance"
+desc = "All-in-one Quick Look plugin"
+bundle_id = "com.chamburr.Glance"
+
+[[sources]]
+type = "github"
+repo = "chamburr/glance"
+
+[[sources]]
+type = "homebrew"
+cask = "glance-chamburr"

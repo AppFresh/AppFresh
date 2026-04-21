@@ -1,0 +1,13 @@
+app_token = "gitify"
+name = "Gitify"
+desc = "GitHub notifications on your menu bar"
+homepage = "https://github.com/gitify-app/gitify"
+bundle_id = "com.electron.gitify"
+
+[[sources]]
+type = "homebrew"
+cask = "gitify"
+
+[[sources]]
+type = "github"
+repo = "gitify-app/gitify"

@@ -1,0 +1,13 @@
+app_token = "graphiql"
+name = "GraphiQL App"
+desc = "Light, Electron-based Wrapper around GraphiQL"
+homepage = "https://github.com/skevy/graphiql-app"
+bundle_id = "com.sk3vy.graphiql-app"
+
+[[sources]]
+type = "homebrew"
+cask = "graphiql"
+
+[[sources]]
+type = "github"
+repo = "skevy/graphiql-app"

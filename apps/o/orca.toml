@@ -1,0 +1,13 @@
+app_token = "orca"
+name = "Orca"
+desc = "Generate images of interactive plotly charts"
+homepage = "https://github.com/plotly/orca/"
+bundle_id = "com.plotly.orca"
+
+[[sources]]
+type = "homebrew"
+cask = "orca"
+
+[[sources]]
+type = "github"
+repo = "plotly/orca"

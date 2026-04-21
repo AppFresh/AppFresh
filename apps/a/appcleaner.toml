@@ -1,0 +1,13 @@
+app_token = "appcleaner"
+name = "AppCleaner"
+desc = "Application uninstaller"
+homepage = "https://freemacsoft.net/appcleaner/"
+bundle_id = "net.freemacsoft.AppCleaner"
+
+[[sources]]
+type = "homebrew"
+cask = "appcleaner"
+
+[[sources]]
+type = "sparkle"
+url = "https://freemacsoft.net/appcleaner/Updates.xml"

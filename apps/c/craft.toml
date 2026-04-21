@@ -1,0 +1,13 @@
+app_token = "craft"
+name = "Craft"
+desc = "Native document editor"
+homepage = "https://www.craft.do/"
+bundle_id = "com.lukilabs.lukiapp"
+
+[[sources]]
+type = "homebrew"
+cask = "craft"
+
+[[sources]]
+type = "sparkle"
+url = "https://luki-prod-us-east-1-resources.s3.amazonaws.com/native/sparkle/appcast.xml"

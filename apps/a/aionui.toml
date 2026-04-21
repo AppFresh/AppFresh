@@ -1,0 +1,13 @@
+app_token = "aionui"
+name = "AionUi"
+desc = "Unified GUI for command-line AI agents"
+homepage = "https://github.com/iOfficeAI/AionUi"
+bundle_id = "com.aionui.app"
+
+[[sources]]
+type = "homebrew"
+cask = "aionui"
+
+[[sources]]
+type = "github"
+repo = "iOfficeAI/AionUi"

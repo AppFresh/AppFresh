@@ -1,0 +1,13 @@
+app_token = "nugget"
+name = "Nugget"
+desc = "Electron based video editing software."
+homepage = "https://nugget.framer.website/"
+bundle_id = "com.leemin.Nugget"
+
+[[sources]]
+type = "homebrew"
+cask = "nugget"
+
+[[sources]]
+type = "github"
+repo = "leminlimez/Nugget"

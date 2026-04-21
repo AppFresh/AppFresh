@@ -1,0 +1,13 @@
+app_token = "core-tunnel"
+name = "Core Tunnel"
+desc = "SSH tunnel manager"
+homepage = "https://codinn.com/tunnel/"
+bundle_id = "io.coressh.tunnel-direct"
+
+[[sources]]
+type = "homebrew"
+cask = "core-tunnel"
+
+[[sources]]
+type = "sparkle"
+url = "https://codinn.com/update/tunnel/appcast.xml"

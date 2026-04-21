@@ -1,0 +1,9 @@
+app_token = "miniwol"
+name = "miniWOL"
+desc = "Small menu bar tool for sending Wake on LAN (WOL) network packets"
+homepage = "https://www.tweaking4all.com/network-internet/miniwol2/"
+bundle_id = "com.Tweaking4all.miniWOL"
+
+[[sources]]
+type = "homebrew"
+cask = "miniwol"

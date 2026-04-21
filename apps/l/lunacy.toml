@@ -1,0 +1,9 @@
+app_token = "lunacy"
+name = "Lunacy"
+desc = "Graphic design software"
+homepage = "https://icons8.com/lunacy"
+bundle_id = "com.icons8.Lunacy"
+
+[[sources]]
+type = "homebrew"
+cask = "lunacy"

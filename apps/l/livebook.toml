@@ -1,0 +1,17 @@
+app_token = "livebook"
+name = "Livebook"
+desc = "Code notebooks for Elixir developers"
+homepage = "https://livebook.dev/"
+bundle_id = "dev.livebook.Livebook"
+
+[[sources]]
+type = "homebrew"
+cask = "livebook"
+
+[[sources]]
+type = "github"
+repo = "livebook-dev/livebook"
+
+[[sources]]
+type = "homebrew"
+cask = "livebook@nightly"

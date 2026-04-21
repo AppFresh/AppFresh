@@ -1,9 +1,0 @@
-app_token: krita
-name: Krita
-desc: Free and open-source painting and sketching program
-homepage: 'https://krita.org/'
-bundle_id: org.krita
-
-sources:
-  - type: homebrew
-    cask: krita

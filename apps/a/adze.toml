@@ -1,0 +1,13 @@
+app_token = "adze"
+name = "Adze"
+desc = "Edit GPX documents"
+homepage = "https://getadze.com/"
+bundle_id = "com.Kobot.Adze"
+
+[[sources]]
+type = "homebrew"
+cask = "adze"
+
+[[sources]]
+type = "sparkle"
+url = "https://getadze.com/static/main/updates/adze.xml"

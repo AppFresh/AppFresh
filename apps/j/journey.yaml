@@ -1,9 +1,0 @@
-app_token: journey
-name: Journey
-desc: Diary app
-homepage: 'https://2appstudio.com/journey/'
-bundle_id: com.journey.mac2
-
-sources:
-  - type: homebrew
-    cask: journey

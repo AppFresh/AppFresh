@@ -1,0 +1,9 @@
+app_token = "modern-csv"
+name = "Modern CSV"
+desc = "CSV editor"
+homepage = "https://www.moderncsv.com/"
+bundle_id = "net.galliumdigital.Modern-CSV"
+
+[[sources]]
+type = "homebrew"
+cask = "modern-csv"

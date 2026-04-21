@@ -1,0 +1,13 @@
+app_token = "jbrowse"
+name = "JBrowse"
+desc = "Genome browser"
+homepage = "https://jbrowse.org/"
+bundle_id = "org.jbrowse2.app"
+
+[[sources]]
+type = "homebrew"
+cask = "jbrowse"
+
+[[sources]]
+type = "github"
+repo = "GMOD/jbrowse-components"

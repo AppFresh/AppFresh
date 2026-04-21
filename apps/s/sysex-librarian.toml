@@ -1,0 +1,13 @@
+app_token = "sysex-librarian"
+name = "SysEx Librarian"
+desc = "Communicate with MIDI devices using System Exclusive messages"
+homepage = "https://www.snoize.com/SysExLibrarian/"
+bundle_id = "com.snoize.SysExLibrarian"
+
+[[sources]]
+type = "homebrew"
+cask = "sysex-librarian"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.snoize.com/SysExLibrarian/SysExLibrarian.xml"

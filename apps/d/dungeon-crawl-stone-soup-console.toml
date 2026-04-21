@@ -1,0 +1,13 @@
+app_token = "dungeon-crawl-stone-soup-console"
+name = "Dungeon Crawl Stone Soup"
+desc = "Game of dungeon exploration, combat and magic"
+homepage = "https://crawl.develz.org/"
+bundle_id = "net.sourceforge.crawl-ref"
+
+[[sources]]
+type = "homebrew"
+cask = "dungeon-crawl-stone-soup-console"
+
+[[sources]]
+type = "github"
+repo = "crawl/crawl"

@@ -1,0 +1,13 @@
+app_token = "timing"
+name = "Timing"
+desc = "Automatic time and productivity tracking app"
+homepage = "https://timingapp.com/"
+bundle_id = "info.eurocomp.Timing2"
+
+[[sources]]
+type = "homebrew"
+cask = "timing"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.timingapp.com/updates/timing2.xml"

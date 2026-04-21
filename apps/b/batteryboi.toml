@@ -1,0 +1,13 @@
+app_token = "batteryboi"
+name = "BatteryBoi"
+desc = "Battery indicator for the menu bar"
+homepage = "https://batteryboi.ovatar.io/"
+bundle_id = "com.ovatar.batteryapp"
+
+[[sources]]
+type = "homebrew"
+cask = "batteryboi"
+
+[[sources]]
+type = "github"
+repo = "thebarbican19/BatteryBoi"

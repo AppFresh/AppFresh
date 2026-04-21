@@ -1,0 +1,13 @@
+app_token = "freeze"
+name = "Freeze"
+desc = "Amazon Glacier file transfer client"
+homepage = "https://www.freezeapp.net/"
+bundle_id = "seb.GlacierMac"
+
+[[sources]]
+type = "homebrew"
+cask = "freeze"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.freezeapp.net/appcast.xml"

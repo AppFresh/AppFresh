@@ -1,0 +1,13 @@
+app_token = "creality-print"
+name = "Creality Print"
+desc = "Slicer and cloud services for some Creality FDM 3D printers"
+homepage = "https://www.creality.com/pages/download-software"
+bundle_id = "com.creality.crealityprint"
+
+[[sources]]
+type = "homebrew"
+cask = "creality-print"
+
+[[sources]]
+type = "github"
+repo = "CrealityOfficial/CrealityPrint"

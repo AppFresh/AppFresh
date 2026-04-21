@@ -1,9 +1,0 @@
-app_token: istat-server
-name: iStat Server
-desc: Transmits computer or server’s vital statistics
-homepage: 'https://bjango.com/istatserver/'
-bundle_id: com.bjango.iStatServer
-
-sources:
-  - type: homebrew
-    cask: istat-server

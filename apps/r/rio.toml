@@ -1,0 +1,13 @@
+app_token = "rio"
+name = "Rio"
+desc = "Hardware-accelerated GPU terminal emulator"
+homepage = "https://github.com/raphamorim/rio/"
+bundle_id = "com.raphaelamorim.rio"
+
+[[sources]]
+type = "homebrew"
+cask = "rio"
+
+[[sources]]
+type = "github"
+repo = "raphamorim/rio"

@@ -1,0 +1,13 @@
+app_token = "tic80"
+name = "TIC-80"
+desc = "Fantasy computer for making, playing and sharing tiny games"
+homepage = "https://tic80.com/"
+bundle_id = "com.nesbox.tic"
+
+[[sources]]
+type = "homebrew"
+cask = "tic80"
+
+[[sources]]
+type = "github"
+repo = "nesbox/TIC-80"

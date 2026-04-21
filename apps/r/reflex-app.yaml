@@ -1,9 +1,0 @@
-app_token: reflex-app
-name: Reflex
-desc: Media key forwarder for Music (iTunes) and Spotify
-homepage: 'https://stuntsoftware.com/reflex/'
-bundle_id: com.stuntsoftware.Reflex
-
-sources:
-  - type: homebrew
-    cask: reflex-app

@@ -1,9 +1,0 @@
-app_token: master-pdf-editor
-name: Master PDF Editor
-desc: PDF editor
-homepage: 'https://code-industry.net/masterpdfeditor/'
-bundle_id: net.code-industry.MasterPDFEditor5
-
-sources:
-  - type: homebrew
-    cask: master-pdf-editor

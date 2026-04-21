@@ -1,0 +1,9 @@
+app_token = "hp-easy-start"
+name = "HP Easy Start"
+desc = "Set up your HP printer"
+homepage = "https://support.hp.com/"
+bundle_id = "com.hp.hp-easy-start"
+
+[[sources]]
+type = "homebrew"
+cask = "hp-easy-start"

@@ -1,0 +1,9 @@
+app_token = "sqlpro-for-mssql"
+name = "SQLPro for MSSQL"
+desc = "Microsoft SQL Server database client"
+homepage = "https://www.macsqlclient.com/"
+bundle_id = "com.hankinsoft.osx.tinysqlstudio"
+
+[[sources]]
+type = "homebrew"
+cask = "sqlpro-for-mssql"

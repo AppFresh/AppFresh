@@ -1,0 +1,13 @@
+app_token = "cleanmymac-zh"
+name = "CleanMyMac X Chinese"
+desc = "Tool to remove unnecessary files and folders from disk Chinese edition"
+homepage = "https://www.mycleanmymac.com/"
+bundle_id = "com.macpaw.zh.CleanMyMac4"
+
+[[sources]]
+type = "homebrew"
+cask = "cleanmymac-zh"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.devmate.com/com.macpaw.zh.CleanMyMac4.xml"

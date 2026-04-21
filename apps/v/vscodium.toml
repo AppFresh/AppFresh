@@ -1,0 +1,13 @@
+app_token = "vscodium"
+name = "VSCodium"
+desc = "Free/Libre Open Source Software Binaries of Visual Studio Code"
+homepage = "https://vscodium.com/"
+bundle_id = "com.vscodium"
+
+[[sources]]
+type = "homebrew"
+cask = "vscodium"
+
+[[sources]]
+type = "github"
+repo = "VSCodium/vscodium"

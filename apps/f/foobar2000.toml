@@ -1,0 +1,9 @@
+app_token = "foobar2000"
+name = "foobar2000"
+desc = "Audio player"
+homepage = "https://www.foobar2000.org/mac"
+bundle_id = "com.foobar2000.mac"
+
+[[sources]]
+type = "homebrew"
+cask = "foobar2000"

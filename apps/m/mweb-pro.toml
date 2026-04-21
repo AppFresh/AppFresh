@@ -1,0 +1,17 @@
+app_token = "mweb-pro"
+name = "MWeb Pro"
+desc = "Markdown writing, note taking, and static blog generator app"
+homepage = "https://www.mweb.im/"
+bundle_id = "com.coderforart.MWeb3"
+
+[[sources]]
+type = "homebrew"
+cask = "mweb-pro"
+
+[[sources]]
+type = "sparkle"
+url = "https://cdn.mweb.im/sparkle/appcast.xml"
+
+[[sources]]
+type = "appstore"
+app_id = "1403919533"

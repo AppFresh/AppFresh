@@ -1,9 +1,0 @@
-app_token: dockey
-name: dockey
-desc: Advanced Dock preferences
-homepage: 'https://dockey.publicspace.co/'
-bundle_id: com.igorstumberger.dockey
-
-sources:
-  - type: homebrew
-    cask: dockey

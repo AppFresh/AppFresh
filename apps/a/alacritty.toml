@@ -1,0 +1,13 @@
+app_token = "alacritty"
+name = "Alacritty"
+desc = "A fast, cross-platform, OpenGL terminal emulator."
+homepage = "https://alacritty.org/"
+bundle_id = "org.alacritty"
+
+[[sources]]
+type = "github"
+repo = "alacritty/alacritty"
+
+[[sources]]
+type = "homebrew"
+cask = "alacritty"

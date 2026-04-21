@@ -1,0 +1,13 @@
+app_token = "cockatrice"
+name = "Cockatrice"
+desc = "Virtual tabletop for multiplayer card games"
+homepage = "https://cockatrice.github.io/"
+bundle_id = "com.cockatrice.Cockatrice"
+
+[[sources]]
+type = "homebrew"
+cask = "cockatrice"
+
+[[sources]]
+type = "github"
+repo = "Cockatrice/Cockatrice"

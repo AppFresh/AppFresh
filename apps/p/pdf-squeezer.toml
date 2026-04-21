@@ -1,0 +1,13 @@
+app_token = "pdf-squeezer"
+name = "PDF Squeezer"
+desc = "PDF compression tool"
+homepage = "https://witt-software.com/pdfsqueezer/"
+bundle_id = "com.witt-software.PDF-Squeezer"
+
+[[sources]]
+type = "homebrew"
+cask = "pdf-squeezer"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.witt-software.com/downloads/pdfsqueezer/pdfsq4-appcast.xml"

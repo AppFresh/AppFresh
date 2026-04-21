@@ -1,9 +1,0 @@
-app_token: spark-app
-name: Spark
-desc: Shortcut manager
-homepage: 'https://www.shadowlab.org/softwares/spark.php'
-bundle_id: com.xenonium.Spark
-
-sources:
-  - type: homebrew
-    cask: spark-app

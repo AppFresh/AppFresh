@@ -1,9 +1,0 @@
-app_token: ankerwork
-name: AnkerWork
-desc: Webcam & audio device software
-homepage: 'https://us.ankerwork.com/pages/download-software'
-bundle_id: com.anker.pcankerwork
-
-sources:
-  - type: homebrew
-    cask: ankerwork

@@ -1,0 +1,13 @@
+app_token = "accord"
+name = "accord"
+desc = "Discord client written in Swift for modern Macs"
+homepage = "https://github.com/evelyneee/accord"
+bundle_id = "red.evelyn.accord"
+
+[[sources]]
+type = "homebrew"
+cask = "accord"
+
+[[sources]]
+type = "github"
+repo = "evelyneee/accord"

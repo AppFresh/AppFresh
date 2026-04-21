@@ -1,0 +1,13 @@
+app_token = "emdash"
+name = "Emdash"
+desc = "UI for running multiple coding agents in parallel"
+homepage = "https://www.emdash.sh/"
+bundle_id = "com.emdash"
+
+[[sources]]
+type = "homebrew"
+cask = "emdash"
+
+[[sources]]
+type = "github"
+repo = "generalaction/emdash"

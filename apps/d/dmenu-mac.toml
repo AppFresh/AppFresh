@@ -1,0 +1,13 @@
+app_token = "dmenu-mac"
+name = "dmenu-mac"
+desc = "Keyboard-only application launcher"
+homepage = "https://github.com/oNaiPs/dmenu-mac"
+bundle_id = "com.onaips.dmenu-macos"
+
+[[sources]]
+type = "homebrew"
+cask = "dmenu-mac"
+
+[[sources]]
+type = "github"
+repo = "oNaiPs/dmenu-mac"

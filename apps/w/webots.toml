@@ -1,0 +1,13 @@
+app_token = "webots"
+name = "Cyberbotics Webots Robot Simulator"
+desc = "Open source desktop application used to simulate robots"
+homepage = "https://www.cyberbotics.com/"
+bundle_id = "com.cyberbotics.webots"
+
+[[sources]]
+type = "homebrew"
+cask = "webots"
+
+[[sources]]
+type = "github"
+repo = "cyberbotics/webots"

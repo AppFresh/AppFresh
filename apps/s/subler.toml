@@ -1,0 +1,17 @@
+app_token = "subler"
+name = "Subler"
+desc = "Mux and tag mp4 files"
+homepage = "https://subler.org/"
+bundle_id = "org.galad.Subler"
+
+[[sources]]
+type = "homebrew"
+cask = "subler"
+
+[[sources]]
+type = "github"
+repo = "SublerApp/Subler"
+
+[[sources]]
+type = "sparkle"
+url = "https://subler.org/appcast/appcast.xml"

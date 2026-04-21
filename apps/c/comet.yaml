@@ -1,9 +1,0 @@
-app_token: comet
-name: Comet
-desc: Web browser with integrated AI assistant
-homepage: 'https://www.perplexity.ai/comet'
-bundle_id: ai.perplexity.comet
-
-sources:
-  - type: homebrew
-    cask: comet

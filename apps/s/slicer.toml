@@ -1,0 +1,13 @@
+app_token = "slicer"
+name = "3D Slicer"
+desc = "Medical image processing and visualization system"
+homepage = "https://www.slicer.org/"
+bundle_id = "org.slicer.slicer"
+
+[[sources]]
+type = "homebrew"
+cask = "slicer"
+
+[[sources]]
+type = "homebrew"
+cask = "slicer@preview"

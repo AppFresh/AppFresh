@@ -1,0 +1,13 @@
+app_token = "deskpad"
+name = "DeskPad"
+desc = "Virtual monitor for screen sharing"
+homepage = "https://github.com/Stengo/DeskPad"
+bundle_id = "com.stengo.DeskPad"
+
+[[sources]]
+type = "homebrew"
+cask = "deskpad"
+
+[[sources]]
+type = "github"
+repo = "Stengo/DeskPad"

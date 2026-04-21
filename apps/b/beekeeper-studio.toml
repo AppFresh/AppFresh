@@ -1,0 +1,13 @@
+app_token = "beekeeper-studio"
+name = "Beekeeper Studio"
+desc = "Cross platform SQL editor and database management app"
+homepage = "https://www.beekeeperstudio.io/"
+bundle_id = "io.beekeeperstudio.desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "beekeeper-studio"
+
+[[sources]]
+type = "github"
+repo = "beekeeper-studio/beekeeper-studio"

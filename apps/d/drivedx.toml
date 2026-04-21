@@ -1,0 +1,13 @@
+app_token = "drivedx"
+name = "DriveDX"
+desc = "Drive health diagnostic & monitoring tool"
+homepage = "https://binaryfruit.com/drivedx"
+bundle_id = "com.binaryfruit.DriveDx"
+
+[[sources]]
+type = "homebrew"
+cask = "drivedx"
+
+[[sources]]
+type = "sparkle"
+url = "https://binaryfruit.com/download/drivedx/mac/1/updates/"

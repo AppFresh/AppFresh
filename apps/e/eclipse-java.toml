@@ -1,0 +1,9 @@
+app_token = "eclipse-java"
+name = "Eclipse IDE for Java Developers"
+desc = "Eclipse IDE for Java developers"
+homepage = "https://eclipse.org/"
+bundle_id = "epp.package.java"
+
+[[sources]]
+type = "homebrew"
+cask = "eclipse-java"

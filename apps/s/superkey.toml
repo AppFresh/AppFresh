@@ -1,0 +1,13 @@
+app_token = "superkey"
+name = "Superkey"
+desc = "Search and click text anywhere on screen"
+homepage = "https://superkey.app/"
+bundle_id = "com.knollsoft.Superkey"
+
+[[sources]]
+type = "homebrew"
+cask = "superkey"
+
+[[sources]]
+type = "sparkle"
+url = "https://superkey.app/downloads/updates.xml"

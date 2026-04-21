@@ -1,9 +1,0 @@
-app_token: webstorm
-name: WebStorm
-desc: JavaScript IDE
-homepage: 'https://www.jetbrains.com/webstorm/'
-bundle_id: com.jetbrains.WebStorm
-
-sources:
-  - type: homebrew
-    cask: webstorm

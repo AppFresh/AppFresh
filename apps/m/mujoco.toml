@@ -1,0 +1,12 @@
+app_token = "mujoco"
+name = "MuJoCo"
+desc = "General purpose physics engine"
+homepage = "https://mujoco.org/"
+
+[[sources]]
+type = "homebrew"
+cask = "mujoco"
+
+[[sources]]
+type = "github"
+repo = "google-deepmind/mujoco"

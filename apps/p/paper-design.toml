@@ -1,0 +1,12 @@
+app_token = "paper-design"
+name = "Paper"
+desc = "Design tool for creating interfaces and prototypes"
+homepage = "https://paper.design/"
+
+[[sources]]
+type = "homebrew"
+cask = "paper-design"
+
+[[sources]]
+type = "electron"
+url = "https://download.todesktop.com/2601167vjw8xe/latest-mac.yml"

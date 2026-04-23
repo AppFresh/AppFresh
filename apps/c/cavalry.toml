@@ -1,0 +1,8 @@
+app_token = "cavalry"
+name = "Cavalry"
+desc = "Procedural motion design and animation software"
+homepage = "https://cavalry.studio/"
+
+[[sources]]
+type = "homebrew"
+cask = "cavalry"

@@ -1,0 +1,16 @@
+app_token = "vibe-notch"
+name = "Vibe Notch"
+desc = "Dynamic Island-style notifications for Claude Code CLI sessions"
+homepage = "https://vibenotch.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "vibe-notch"
+
+[[sources]]
+type = "github"
+repo = "farouqaldori/vibe-notch"
+
+[[sources]]
+type = "sparkle"
+url = "https://vibenotch.app/appcast.xml"

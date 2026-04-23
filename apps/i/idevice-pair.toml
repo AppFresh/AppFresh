@@ -1,0 +1,12 @@
+app_token = "idevice-pair"
+name = "idevice_pair"
+desc = "Generate pair records for iOS devices"
+homepage = "https://github.com/jkcoxson/idevice_pair"
+
+[[sources]]
+type = "homebrew"
+cask = "idevice-pair"
+
+[[sources]]
+type = "github"
+repo = "jkcoxson/idevice_pair"

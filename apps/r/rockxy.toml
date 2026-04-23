@@ -1,0 +1,12 @@
+app_token = "rockxy"
+name = "Rockxy"
+desc = "HTTP proxy"
+homepage = "https://rockxy.io/"
+
+[[sources]]
+type = "homebrew"
+cask = "rockxy"
+
+[[sources]]
+type = "github"
+repo = "LocNguyenHuu/Rockxy"

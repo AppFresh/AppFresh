@@ -1,0 +1,12 @@
+app_token = "openin"
+name = "OpenIn"
+desc = "Route links, emails, and files to your preferred apps"
+homepage = "https://loshadki.app/openin4/"
+
+[[sources]]
+type = "homebrew"
+cask = "openin"
+
+[[sources]]
+type = "sparkle"
+url = "https://loshadki.app/openin4/releases/appcast.xml"

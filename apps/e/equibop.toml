@@ -1,0 +1,16 @@
+app_token = "equibop"
+name = "Equibop"
+desc = "Custom Discord App"
+homepage = "https://github.com/Equicord/Equibop"
+
+[[sources]]
+type = "homebrew"
+cask = "equibop"
+
+[[sources]]
+type = "github"
+repo = "Equicord/Equibop"
+
+[[sources]]
+type = "electron"
+url = "https://github.com/Equicord/Equibop/releases/latest/download/latest-mac.yml"

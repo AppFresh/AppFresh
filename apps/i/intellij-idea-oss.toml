@@ -1,0 +1,12 @@
+app_token = "intellij-idea-oss"
+name = "IntelliJ IDEA OSS"
+desc = "Open-source edition of IntelliJ IDEA"
+homepage = "https://github.com/JetBrains/intellij-community"
+
+[[sources]]
+type = "homebrew"
+cask = "intellij-idea-oss"
+
+[[sources]]
+type = "github"
+repo = "JetBrains/intellij-community"

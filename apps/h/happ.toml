@@ -1,0 +1,12 @@
+app_token = "happ"
+name = "Happ"
+desc = "Platform for building proxies to bypass network restrictions"
+homepage = "https://www.happ.su/main/"
+
+[[sources]]
+type = "homebrew"
+cask = "happ"
+
+[[sources]]
+type = "github"
+repo = "Happ-proxy/happ-desktop"

@@ -1,0 +1,12 @@
+app_token = "koharu"
+name = "Koharu"
+desc = "ML-powered manga translator"
+homepage = "https://koharu.rs/"
+
+[[sources]]
+type = "homebrew"
+cask = "koharu"
+
+[[sources]]
+type = "github"
+repo = "mayocream/koharu"

@@ -1,0 +1,12 @@
+app_token = "tablen"
+name = "Tablen"
+desc = "Native SQL client"
+homepage = "https://tablen.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "tablen"
+
+[[sources]]
+type = "sparkle"
+url = "https://tablen.app/api/appcast.xml"

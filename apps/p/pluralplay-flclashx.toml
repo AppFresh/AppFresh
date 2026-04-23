@@ -1,0 +1,12 @@
+app_token = "pluralplay-flclashx"
+name = "FlClashX"
+desc = "Cross-platform proxy client based on ClashMeta"
+homepage = "https://github.com/pluralplay/FlClashX"
+
+[[sources]]
+type = "homebrew"
+cask = "pluralplay-flclashx"
+
+[[sources]]
+type = "github"
+repo = "pluralplay/FlClashX"

@@ -1,0 +1,12 @@
+app_token = "rowboat"
+name = "Rowboat"
+desc = "Open-source AI coworker, with memory"
+homepage = "https://www.rowboatlabs.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "rowboat"
+
+[[sources]]
+type = "github"
+repo = "rowboatlabs/rowboat"

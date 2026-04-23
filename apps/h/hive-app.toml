@@ -1,0 +1,12 @@
+app_token = "hive-app"
+name = "Hive"
+desc = "AI agent orchestrator for parallel coding across projects"
+homepage = "https://github.com/morapelker/hive"
+
+[[sources]]
+type = "homebrew"
+cask = "hive-app"
+
+[[sources]]
+type = "github"
+repo = "morapelker/hive"

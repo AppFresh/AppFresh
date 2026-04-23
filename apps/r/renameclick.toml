@@ -1,0 +1,12 @@
+app_token = "renameclick"
+name = "RenameClick"
+desc = "Local-first AI app for file renaming and organisation"
+homepage = "https://rename.click/"
+
+[[sources]]
+type = "homebrew"
+cask = "renameclick"
+
+[[sources]]
+type = "github"
+repo = "noemaVision/renameclick"

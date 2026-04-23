@@ -1,0 +1,12 @@
+app_token = "notchi"
+name = "Notchi"
+desc = "Notch companion for Claude Code"
+homepage = "https://notchi.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "notchi"
+
+[[sources]]
+type = "github"
+repo = "sk-ruban/notchi"

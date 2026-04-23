@@ -1,0 +1,12 @@
+app_token = "cc-switch"
+name = "CC Switch"
+desc = "Configuration manager for AI coding agents"
+homepage = "https://github.com/farion1231/cc-switch"
+
+[[sources]]
+type = "homebrew"
+cask = "cc-switch"
+
+[[sources]]
+type = "github"
+repo = "farion1231/cc-switch"

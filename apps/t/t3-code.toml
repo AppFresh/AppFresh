@@ -1,0 +1,12 @@
+app_token = "t3-code"
+name = "T3 Code"
+desc = "Minimal GUI for AI code agents"
+homepage = "https://t3.codes/"
+
+[[sources]]
+type = "homebrew"
+cask = "t3-code"
+
+[[sources]]
+type = "github"
+repo = "pingdotgg/t3code"

@@ -1,0 +1,12 @@
+app_token = "puremac"
+name = "PureMac"
+desc = "Open-source application manager and system cleaner"
+homepage = "https://github.com/momenbasel/PureMac"
+
+[[sources]]
+type = "homebrew"
+cask = "puremac"
+
+[[sources]]
+type = "github"
+repo = "momenbasel/PureMac"

@@ -1,0 +1,16 @@
+app_token = "macshot"
+name = "macshot"
+desc = "Screenshot and screen recording tool"
+homepage = "https://github.com/sw33tLie/macshot"
+
+[[sources]]
+type = "homebrew"
+cask = "macshot"
+
+[[sources]]
+type = "github"
+repo = "sw33tLie/macshot"
+
+[[sources]]
+type = "sparkle"
+url = "https://raw.githubusercontent.com/sw33tLie/macshot/main/appcast.xml"

@@ -1,0 +1,12 @@
+app_token = "wallspace"
+name = "Wallspace"
+desc = "Live wallpaper app"
+homepage = "https://wallspace.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "wallspace"
+
+[[sources]]
+type = "sparkle"
+url = "https://dvivcibhncrefmnjtjeq.supabase.co/storage/v1/object/public/public-files/appcast2.xml"

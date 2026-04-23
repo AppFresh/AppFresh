@@ -1,0 +1,12 @@
+app_token = "orchard"
+name = "Orchard"
+desc = "Native GUI for Apple Containers"
+homepage = "https://github.com/andrew-waters/orchard"
+
+[[sources]]
+type = "homebrew"
+cask = "orchard"
+
+[[sources]]
+type = "github"
+repo = "andrew-waters/orchard"

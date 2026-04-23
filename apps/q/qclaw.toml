@@ -7,5 +7,5 @@ bundle_id = "com.tencent.qclaw"
 [[sources]]
 type = "manual_check"
 url = "https://qclaw.qq.com/"
-version = "0.2.9"
-download_url = "https://package-cdn.qclaw.qq.com/qclaw/mac/arm64/0.2.9-5001-362/QClaw-0.2.9-5001-362-arm64.dmg"
+version = "0.2.11"
+download_url = "https://package-cdn.qclaw.qq.com/qclaw/mac/arm64/0.2.11-5001-375/QClaw-0.2.11-5001-375-arm64.dmg"

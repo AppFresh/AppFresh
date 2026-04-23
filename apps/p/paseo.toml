@@ -1,0 +1,12 @@
+app_token = "paseo"
+name = "Paseo"
+desc = "Self-hosted daemon for AI coding agents"
+homepage = "https://paseo.sh/"
+
+[[sources]]
+type = "homebrew"
+cask = "paseo"
+
+[[sources]]
+type = "github"
+repo = "getpaseo/paseo"

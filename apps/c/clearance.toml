@@ -1,0 +1,16 @@
+app_token = "clearance"
+name = "Clearance"
+desc = "Markdown viewer and editor"
+homepage = "https://github.com/prime-radiant-inc/clearance/blob/main/apps/macos/README.md"
+
+[[sources]]
+type = "homebrew"
+cask = "clearance"
+
+[[sources]]
+type = "github"
+repo = "prime-radiant-inc/clearance"
+
+[[sources]]
+type = "sparkle"
+url = "https://github.com/prime-radiant-inc/clearance/releases/latest/download/appcast.xml"

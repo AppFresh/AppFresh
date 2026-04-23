@@ -1,0 +1,12 @@
+app_token = "fluidvoice"
+name = "FluidVoice"
+desc = "Offline voice-to-text dictation app with AI enhancement"
+homepage = "https://altic.dev/fluid"
+
+[[sources]]
+type = "homebrew"
+cask = "fluidvoice"
+
+[[sources]]
+type = "github"
+repo = "altic-dev/FluidVoice"

@@ -1,0 +1,12 @@
+app_token = "spectra-app"
+name = "Spectra"
+desc = "OpenSpec document management desktop app"
+homepage = "https://spectra.5xcamp.us/"
+
+[[sources]]
+type = "homebrew"
+cask = "spectra-app"
+
+[[sources]]
+type = "github"
+repo = "kaochenlong/spectra-app"

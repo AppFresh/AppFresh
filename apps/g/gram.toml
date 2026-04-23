@@ -1,0 +1,8 @@
+app_token = "gram"
+name = "Gram"
+desc = "Code editor focused on stability, without AI, subscriptions, or telemetry"
+homepage = "https://gram.liten.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "gram"

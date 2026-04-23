@@ -1,0 +1,12 @@
+app_token = "vibe-island"
+name = "Vibe Island"
+desc = "Dynamic island AI agent utility"
+homepage = "https://vibeisland.app/"
+
+[[sources]]
+type = "homebrew"
+cask = "vibe-island"
+
+[[sources]]
+type = "sparkle"
+url = "https://updates.vibeisland.app/appcast.xml"

@@ -1,0 +1,8 @@
+app_token = "proton-meet"
+name = "Proton Meet"
+desc = "Desktop client for Proton Meet"
+homepage = "https://proton.me/meet"
+
+[[sources]]
+type = "homebrew"
+cask = "proton-meet"

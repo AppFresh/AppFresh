@@ -1,0 +1,12 @@
+app_token = "xdeck"
+name = "XDeck"
+desc = "TweetDeck-style X/Twitter client"
+homepage = "https://github.com/morishin/XDeck"
+
+[[sources]]
+type = "homebrew"
+cask = "xdeck"
+
+[[sources]]
+type = "github"
+repo = "morishin/XDeck"

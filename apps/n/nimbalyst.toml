@@ -1,0 +1,12 @@
+app_token = "nimbalyst"
+name = "Nimbalyst"
+desc = "Visual workspace for building with Codex and Claude Code"
+homepage = "https://nimbalyst.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "nimbalyst"
+
+[[sources]]
+type = "github"
+repo = "Nimbalyst/nimbalyst"

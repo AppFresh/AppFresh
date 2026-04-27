@@ -1,0 +1,12 @@
+app_token = "pixcall"
+name = "PixCall"
+desc = "manag materials for creative people"
+homepage = "https://pixcall.com/"
+bundle_id = "com.pixcall.Pixcall"
+
+[[sources]]
+type = "page_match"
+url = "https://www.pixcall.com/download/"
+regex = 'macos-arm64"\s*:\s*\{\s*"version"\s*:\s*"([^"]+)"[^}]*"url"\s*:\s*"([^"]+)'
+version = "{match[1]}"
+download = "{match[2]}"

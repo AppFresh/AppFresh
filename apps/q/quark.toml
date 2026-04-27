@@ -1,0 +1,12 @@
+app_token = "quark"
+name = "Quark"
+name_cn = "夸克"
+desc = "AI tools"
+homepage = "https://www.quark.cn/"
+bundle_id = "com.quark.desktop"
+
+[[sources]]
+type = "header_match"
+url = "https://download.quark.cn/download/quarkmac?platform=mac"
+regex = 'https:\/\/.*?QuarkMac_V([\d.]+)_.*?\.dmg'
+version = "{match[1]}"

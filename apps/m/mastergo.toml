@@ -1,0 +1,12 @@
+app_token = "mastergo"
+name = "MasterGo"
+desc = "design tools"
+homepage = "https://mastergo.com/"
+bundle_id = "com.electron.master-desktop"
+
+[[sources]]
+type = "page_match"
+url = "https://mastergo.com/api/v1/config"
+regex = '\\"electronMacM1\\":\\"([^"]+)\\"'
+version = "{match[1]}"
+download = "https://static.mastergo.com/plugins/desktop/macos-arm/MasterGo-{match[1]}.dmg"

@@ -73,4 +73,10 @@ type = "header_match"
 url = "https://www.xmind.net/zen/download/mac/"
 regex = '/XMind[._-]for[._-]macOS[._-](\d+\.\d+\.\d+\.\d+)-(\d+)\.dmg'
 version = "{match[1]}"
+
+[[sources]]
+type = "header_match"
+url = "https://www.xmind.net/zen/download/mac/"
+regex = '/XMind[._-]for[._-]macOS[._-](\d+\.\d+\.\d+\.\d+)-(\d+)\.dmg'
+version = "{match[1]}"
 download = "https://dl3.xmind.net/Xmind-for-macOS-{match[1]}-beta-{match[2]}.dmg"

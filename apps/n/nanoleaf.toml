@@ -1,0 +1,11 @@
+app_token = "nanoleaf"
+name = "Nanoleaf Desktop"
+desc = "control all your Nanoleaf lights from your computer"
+homepage = "https://int-shop.nanoleaf.me/"
+bundle_id = "me.nanoleaf.desktop-app"
+
+[[sources]]
+type = "header_match"
+url = "https://my.nanoleaf.me/api/v2/desktopApp/latest/mac-arm64"
+regex = '^https.*Nanoleaf%20Desktop-(\d+\.\d+\.\d+)-arm64\.dmg$'
+version = "{match[1]}"

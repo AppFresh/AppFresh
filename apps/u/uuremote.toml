@@ -1,0 +1,13 @@
+app_token = "uuremote"
+name = "UURemote"
+name_cn = "网易UU远程"
+desc = "Cross-platform remote access tool for smooth remote control"
+homepage = "https://uuyc.163.com/"
+bundle_id = "com.netease.uuremote"
+
+[[sources]]
+type = "header_match"
+url = "https://api.nrd.nie.163.com/api/v1/release/dl/4?channel=gwqd"
+regex = '^https.*uuyc_(\d+\.\d+\.\d+)\.pkg\?.*$'
+version = "{match[1]}"
+download = "https://api.nrd.nie.163.com/api/v1/release/dl/4?channel=gwqd"

@@ -1,0 +1,12 @@
+app_token = "teamviewer"
+name = "TeamViewer"
+desc = "Access devices remotely and provide or receive support."
+homepage = "https://www.teamviewer.com"
+bundle_id = "com.teamviewer.TeamViewer"
+
+[[sources]]
+type = "page_match"
+url = "https://www.teamviewer.com/apac/download/portal/macos/"
+regex = 'Current version:.*<span data-dl-version-label>(\d+\.\d+\.\d+)</span>'
+version = "{match[1]}"
+download = "https://download.teamviewer.com/download/TeamViewer.dmg"

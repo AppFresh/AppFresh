@@ -1,0 +1,12 @@
+app_token = "manus"
+name = "Manus"
+desc = "Hands on ai"
+homepage = "https://manus.im/"
+bundle_id = "im.manico.Manico"
+
+[[sources]]
+type = "page_match"
+url = "https://manus.im/desktop"
+regex = '(https://download\.manus\.im/Manus-Setup-(\d+\.\d+\.\d+)\.dmg)'
+version = "{match[2]}"
+download = "{match[1]}"

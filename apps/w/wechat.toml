@@ -16,3 +16,4 @@ url = "https://dldir1.qq.com/weixin/mac/mac-release.xml"
 [[sources]]
 type = "appstore"
 app_id = "836500024"
+storefront = "us"

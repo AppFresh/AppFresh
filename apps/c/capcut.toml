@@ -11,3 +11,4 @@ cask = "capcut"
 [[sources]]
 type = "appstore"
 app_id = "1500855883"
+storefront = "us"

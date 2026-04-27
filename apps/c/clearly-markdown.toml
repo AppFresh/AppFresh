@@ -11,3 +11,4 @@ repo = "Shpigford/clearly"
 [[sources]]
 type = "appstore"
 app_id = "6760669470"
+storefront = "us"

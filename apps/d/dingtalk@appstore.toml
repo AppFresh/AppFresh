@@ -8,3 +8,4 @@ bundle_id = "5ZSL2CJU2T.com.dingtalk.mac"
 [[sources]]
 type = "appstore"
 app_id = "1435447041"
+storefront = "us"

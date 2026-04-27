@@ -10,6 +10,7 @@ repo = "vashpan/xcode-dev-cleaner"
 [[sources]]
 type = "appstore"
 app_id = "1388020431"
+storefront = "us"
 
 [[sources]]
 type = "homebrew"

@@ -11,3 +11,4 @@ cask = "qq"
 [[sources]]
 type = "appstore"
 app_id = "451108668"
+storefront = "us"

@@ -7,3 +7,4 @@ bundle_id = "ru.keepcoder.Telegram"
 [[sources]]
 type = "appstore"
 app_id = "946399090"
+storefront = "us"

@@ -15,3 +15,4 @@ url = "https://osx.telegram.org/updates/versions.xml"
 [[sources]]
 type = "appstore"
 app_id = "747648890"
+storefront = "us"

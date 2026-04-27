@@ -11,3 +11,4 @@ url = "https://picsee.chitaner.com/download/appcast.xml"
 [[sources]]
 type = "appstore"
 app_id = "1454805783"
+storefront = "us"

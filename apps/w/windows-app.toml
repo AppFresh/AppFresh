@@ -11,3 +11,4 @@ cask = "windows-app"
 [[sources]]
 type = "appstore"
 app_id = "1295203466"
+storefront = "us"

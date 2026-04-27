@@ -1,5 +1,6 @@
 app_token = "wpsoffice"
 name = "WPS Office"
+name_cn = "WPS Office 国际版"
 desc = "All-in-one office suite"
 homepage = "https://www.wps.com/mac/"
 bundle_id = "com.kingsoft.wpsoffice.mac.global"
@@ -7,3 +8,8 @@ bundle_id = "com.kingsoft.wpsoffice.mac.global"
 [[sources]]
 type = "homebrew"
 cask = "wpsoffice"
+
+[[sources]]
+type = "appstore"
+app_id = "1468073139"
+storefront = "us"

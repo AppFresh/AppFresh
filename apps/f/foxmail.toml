@@ -11,3 +11,4 @@ cask = "foxmail"
 [[sources]]
 type = "appstore"
 app_id = "617950461"
+storefront = "us"

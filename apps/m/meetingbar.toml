@@ -15,3 +15,4 @@ repo = "leits/MeetingBar"
 [[sources]]
 type = "appstore"
 app_id = "1532419400"
+storefront = "us"

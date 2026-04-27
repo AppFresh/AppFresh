@@ -15,3 +15,4 @@ url = "https://cdn.mweb.im/sparkle/appcast.xml"
 [[sources]]
 type = "appstore"
 app_id = "1403919533"
+storefront = "us"

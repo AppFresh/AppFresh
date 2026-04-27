@@ -7,6 +7,7 @@ bundle_id = "com.6x.DockX"
 [[sources]]
 type = "appstore"
 app_id = "6452276577"
+storefront = "us"
 
 [[sources]]
 type = "homebrew"

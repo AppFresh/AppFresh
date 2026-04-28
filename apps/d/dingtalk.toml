@@ -12,3 +12,9 @@ cask = "dingtalk"
 [[sources]]
 type = "sparkle"
 url = "https://im.dingtalk.com/manifest/appcast_gray_release.xml"
+
+[[sources]]
+type = "header_match"
+url = "https://www.dingtalk.com/mac/d/qd=mac-arm64"
+regex = 'DingTalk_v(\d+\.\d+\.\d+)-Installer'
+version = "{match[1]}"

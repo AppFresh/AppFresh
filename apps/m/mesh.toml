@@ -1,0 +1,12 @@
+app_token = "mesh"
+name = "Mesh"
+desc = "Private rolodex to remember people better"
+homepage = "https://me.sh/"
+
+[[sources]]
+type = "homebrew"
+cask = "mesh"
+
+[[sources]]
+type = "electron"
+url = "https://assets.me.sh/mesh-desktop/mac/latest-mac.yml"

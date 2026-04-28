@@ -1,0 +1,12 @@
+app_token = "memory-meter-3"
+name = "Memory Meter 3"
+desc = "Memory cleaning utility"
+homepage = "https://fiplab.com/apps/memory-clean-3-for-mac"
+
+[[sources]]
+type = "homebrew"
+cask = "memory-meter-3"
+
+[[sources]]
+type = "sparkle"
+url = "https://fiplab.com/updates/memorymeter3/appcast.xml"

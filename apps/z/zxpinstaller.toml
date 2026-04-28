@@ -1,0 +1,12 @@
+app_token = "zxpinstaller"
+name = "ZXPInstaller"
+desc = "Adobe extensions installer"
+homepage = "https://zxpinstaller.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "zxpinstaller"
+
+[[sources]]
+type = "github"
+repo = "elements-storage/ZXPInstaller"

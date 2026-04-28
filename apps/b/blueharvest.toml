@@ -1,0 +1,12 @@
+app_token = "blueharvest"
+name = "BlueHarvest"
+desc = "Remove metadata files from external drives"
+homepage = "https://zeroonetwenty.com/blueharvest/"
+
+[[sources]]
+type = "homebrew"
+cask = "blueharvest"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.zeroonetwenty.com/blueharvest/downloads/blueharvest6.xml"

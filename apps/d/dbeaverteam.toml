@@ -1,0 +1,8 @@
+app_token = "dbeaverteam"
+name = "DBeaver Team Edition"
+desc = "Universal database tool and SQL client"
+homepage = "https://dbeaver.com/dbeaver-team-edition"
+
+[[sources]]
+type = "homebrew"
+cask = "dbeaverteam"

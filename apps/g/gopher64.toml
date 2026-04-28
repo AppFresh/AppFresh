@@ -1,0 +1,12 @@
+app_token = "gopher64"
+name = "Gopher64"
+desc = "N64 emulator"
+homepage = "https://github.com/gopher64/gopher64"
+
+[[sources]]
+type = "homebrew"
+cask = "gopher64"
+
+[[sources]]
+type = "github"
+repo = "gopher64/gopher64"

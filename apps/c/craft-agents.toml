@@ -1,0 +1,12 @@
+app_token = "craft-agents"
+name = "Craft Agents"
+desc = "AI assistant for connecting and working across data sources"
+homepage = "https://agents.craft.do/"
+
+[[sources]]
+type = "homebrew"
+cask = "craft-agents"
+
+[[sources]]
+type = "github"
+repo = "lukilabs/craft-agents-oss"

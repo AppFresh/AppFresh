@@ -1,0 +1,8 @@
+app_token = "nvidia-sync"
+name = "NVIDIA Sync"
+desc = "Utility for launching applications and containers on remote Linux systems"
+homepage = "https://docs.nvidia.com/dgx/dgx-spark/nvidia-sync.html"
+
+[[sources]]
+type = "homebrew"
+cask = "nvidia-sync"

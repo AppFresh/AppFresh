@@ -1,0 +1,12 @@
+app_token = "hop"
+name = "HOP"
+desc = "View and edit HWP documents"
+homepage = "https://golbin.github.io/hop/"
+
+[[sources]]
+type = "homebrew"
+cask = "hop"
+
+[[sources]]
+type = "github"
+repo = "golbin/hop"

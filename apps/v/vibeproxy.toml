@@ -1,0 +1,12 @@
+app_token = "vibeproxy"
+name = "VibeProxy"
+desc = "Menu bar app for using AI subscriptions with coding tools"
+homepage = "https://github.com/automazeio/vibeproxy"
+
+[[sources]]
+type = "homebrew"
+cask = "vibeproxy"
+
+[[sources]]
+type = "github"
+repo = "automazeio/vibeproxy"

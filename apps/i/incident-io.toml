@@ -1,0 +1,12 @@
+app_token = "incident-io"
+name = "incident.io"
+desc = "Incident management platform"
+homepage = "https://incident.io/"
+
+[[sources]]
+type = "homebrew"
+cask = "incident-io"
+
+[[sources]]
+type = "sparkle"
+url = "https://storage.googleapis.com/incident-io-production-downloads/appcast.xml"

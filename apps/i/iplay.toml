@@ -1,0 +1,12 @@
+app_token = "iplay"
+name = "iPlay"
+desc = "Multimedia player"
+homepage = "https://iplay.saltpi.cn/"
+
+[[sources]]
+type = "homebrew"
+cask = "iplay"
+
+[[sources]]
+type = "sparkle"
+url = "https://artifact.saltpi.cn/build/iPlay/macOS/appcast.xml"

@@ -1,0 +1,8 @@
+app_token = "ua-connect"
+name = "UA Connect"
+desc = "Software installer and device manager for Universal Audio products"
+homepage = "https://www.uaudio.com/pages/download-ua-connect"
+
+[[sources]]
+type = "homebrew"
+cask = "ua-connect"

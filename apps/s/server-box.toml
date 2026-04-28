@@ -1,0 +1,12 @@
+app_token = "server-box"
+name = "ServerBox"
+desc = "App for monitoring server status with SSH terminal, SFTP, Container management"
+homepage = "https://github.com/lollipopkit/flutter_server_box"
+
+[[sources]]
+type = "homebrew"
+cask = "server-box"
+
+[[sources]]
+type = "github"
+repo = "lollipopkit/flutter_server_box"

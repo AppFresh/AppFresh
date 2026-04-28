@@ -1,0 +1,12 @@
+app_token = "tolaria"
+name = "Tolaria"
+desc = "Markdown knowledgebase manager"
+homepage = "https://tolaria.md/"
+
+[[sources]]
+type = "homebrew"
+cask = "tolaria"
+
+[[sources]]
+type = "github"
+repo = "refactoringhq/tolaria"

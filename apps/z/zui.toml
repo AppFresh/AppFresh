@@ -1,0 +1,12 @@
+app_token = "zui"
+name = "Zui"
+desc = "Graphical user interface for exploring data in Zed lakes"
+homepage = "https://zui.brimdata.io/docs"
+
+[[sources]]
+type = "homebrew"
+cask = "zui"
+
+[[sources]]
+type = "github"
+repo = "brimdata/zui"

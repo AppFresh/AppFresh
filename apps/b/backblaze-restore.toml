@@ -1,0 +1,8 @@
+app_token = "backblaze-restore"
+name = "Backblaze Restore"
+desc = "Computer backup restore client"
+homepage = "https://backblaze.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "backblaze-restore"

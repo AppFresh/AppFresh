@@ -1,0 +1,8 @@
+app_token = "oscar"
+name = "OSCAR"
+desc = "CPAP Analysis Reporter"
+homepage = "https://www.sleepfiles.com/OSCAR/"
+
+[[sources]]
+type = "homebrew"
+cask = "oscar"

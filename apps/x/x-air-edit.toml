@@ -1,0 +1,8 @@
+app_token = "x-air-edit"
+name = "X AIR Edit"
+desc = "Remote control for the Behringer X AIR series mixers"
+homepage = "https://www.behringer.com/series.html?category=R-BEHRINGER-XAIRSERIES"
+
+[[sources]]
+type = "homebrew"
+cask = "x-air-edit"

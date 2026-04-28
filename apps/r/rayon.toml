@@ -1,0 +1,12 @@
+app_token = "rayon"
+name = "Rayon"
+desc = "AI-powered drawing for interior designers and architects"
+homepage = "https://www.rayon.design/download"
+
+[[sources]]
+type = "homebrew"
+cask = "rayon"
+
+[[sources]]
+type = "electron"
+url = "https://rayon-electron.s3.eu-west-3.amazonaws.com/rayon-electron/rayon-electron/latest-mac.yml"

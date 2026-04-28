@@ -1,0 +1,12 @@
+app_token = "nteract"
+name = "nteract"
+desc = "Interactive computing suite"
+homepage = "https://github.com/nteract/desktop"
+
+[[sources]]
+type = "homebrew"
+cask = "nteract"
+
+[[sources]]
+type = "github"
+repo = "nteract/desktop"

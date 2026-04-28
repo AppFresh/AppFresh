@@ -1,0 +1,12 @@
+app_token = "wox"
+name = "Wox"
+desc = "Launcher tool"
+homepage = "https://github.com/Wox-launcher/Wox"
+
+[[sources]]
+type = "homebrew"
+cask = "wox"
+
+[[sources]]
+type = "github"
+repo = "Wox-launcher/Wox"

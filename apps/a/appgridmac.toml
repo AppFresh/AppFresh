@@ -1,0 +1,12 @@
+app_token = "appgridmac"
+name = "AppGridMac"
+desc = "AI-assisted Launchpad replacement"
+homepage = "https://appgridmac.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "appgridmac"
+
+[[sources]]
+type = "sparkle"
+url = "https://zekalogic.com/appgrid/app/appcast.xml"

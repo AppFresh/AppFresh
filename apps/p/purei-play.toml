@@ -1,0 +1,8 @@
+app_token = "purei-play"
+name = "Play!"
+desc = "PlayStation 2 emulator"
+homepage = "https://purei.org/"
+
+[[sources]]
+type = "homebrew"
+cask = "purei-play"

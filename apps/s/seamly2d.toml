@@ -1,0 +1,12 @@
+app_token = "seamly2d"
+name = "Seamly2D"
+desc = "Pattern making software"
+homepage = "https://seamly.io/"
+
+[[sources]]
+type = "homebrew"
+cask = "seamly2d"
+
+[[sources]]
+type = "github"
+repo = "FashionFreedom/Seamly2D"

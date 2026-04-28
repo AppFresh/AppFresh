@@ -1,0 +1,8 @@
+app_token = "dbvr"
+name = "dbvr"
+desc = "Lightweight CLI tool for running database operations"
+homepage = "https://dbeaver.com/dbvr/"
+
+[[sources]]
+type = "homebrew"
+cask = "dbvr"

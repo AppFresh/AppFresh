@@ -1,0 +1,12 @@
+app_token = "flykey"
+name = "FlyKey"
+desc = "One-click display of shortcuts"
+homepage = "https://www.better365.cn/FlyKey.html"
+
+[[sources]]
+type = "homebrew"
+cask = "flykey"
+
+[[sources]]
+type = "sparkle"
+url = "https://www.better365.cn/flykeyofflineupdate.xml"

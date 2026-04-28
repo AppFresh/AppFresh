@@ -1,0 +1,8 @@
+app_token = "pencil"
+name = "Pencil"
+desc = "GUI prototyping tool"
+homepage = "https://pencil.evolus.vn/"
+
+[[sources]]
+type = "homebrew"
+cask = "pencil"

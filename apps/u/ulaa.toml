@@ -1,0 +1,8 @@
+app_token = "ulaa"
+name = "Ulaa Browser"
+desc = "Privacy-centric browser with advanced tracking protection"
+homepage = "https://ulaa.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "ulaa"

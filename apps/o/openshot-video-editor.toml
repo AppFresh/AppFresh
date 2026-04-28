@@ -1,0 +1,12 @@
+app_token = "openshot-video-editor"
+name = "OpenShot Video Editor"
+desc = "Cross-platform video editor"
+homepage = "https://openshot.org/"
+
+[[sources]]
+type = "homebrew"
+cask = "openshot-video-editor"
+
+[[sources]]
+type = "github"
+repo = "OpenShot/openshot-qt"

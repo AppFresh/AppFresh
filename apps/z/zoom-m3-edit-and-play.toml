@@ -1,0 +1,8 @@
+app_token = "zoom-m3-edit-and-play"
+name = "ZOOM M3 Edit & Play"
+desc = "Software for ZOOM M3 MicTrak"
+homepage = "https://zoomcorp.com/en/us/software-product-page/software-sub-cat/m3-edit-and-play/"
+
+[[sources]]
+type = "homebrew"
+cask = "zoom-m3-edit-and-play"

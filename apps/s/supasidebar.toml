@@ -1,0 +1,12 @@
+app_token = "supasidebar"
+name = "SupaSidebar"
+desc = "Arc-like sidebar to save links, files and folders from any browser"
+homepage = "https://supasidebar.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "supasidebar"
+
+[[sources]]
+type = "github"
+repo = "auspy/supasidebar-updates"

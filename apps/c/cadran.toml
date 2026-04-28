@@ -1,0 +1,16 @@
+app_token = "cadran"
+name = "Cadran"
+desc = "Desktop clock rendered behind your icons"
+homepage = "https://cadranapp.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "cadran"
+
+[[sources]]
+type = "github"
+repo = "Ilyomix/Cadran-releases"
+
+[[sources]]
+type = "sparkle"
+url = "https://github.com/Ilyomix/Cadran-releases/releases/latest/download/appcast.xml"

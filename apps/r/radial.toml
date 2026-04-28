@@ -1,0 +1,12 @@
+app_token = "radial"
+name = "Radial"
+desc = "Gesture-based launcher for apps, text snippets, and scripts"
+homepage = "https://radial.appverge.net/"
+
+[[sources]]
+type = "homebrew"
+cask = "radial"
+
+[[sources]]
+type = "sparkle"
+url = "https://radial.appverge.net/appcast.xml"

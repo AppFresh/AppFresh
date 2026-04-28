@@ -1,0 +1,8 @@
+app_token = "tencent-ugit"
+name = "UGit"
+desc = "Tencent Git GUI Client"
+homepage = "https://ugit.qq.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "tencent-ugit"

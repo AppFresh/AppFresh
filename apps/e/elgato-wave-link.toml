@@ -1,0 +1,12 @@
+app_token = "elgato-wave-link"
+name = "Elgato Wave Link"
+desc = "Software custom-built for content creation"
+homepage = "https://www.elgato.com/ww/en/s/wave-link-app"
+
+[[sources]]
+type = "homebrew"
+cask = "elgato-wave-link"
+
+[[sources]]
+type = "sparkle"
+url = "https://gc-updates.elgato.com/mac/ewlm-update/final/feed.xml"

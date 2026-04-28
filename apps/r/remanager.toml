@@ -1,0 +1,12 @@
+app_token = "remanager"
+name = "reManager"
+desc = "Desktop app for managing mods on reMarkable tablets"
+homepage = "https://github.com/rmitchellscott/reManager"
+
+[[sources]]
+type = "homebrew"
+cask = "remanager"
+
+[[sources]]
+type = "github"
+repo = "rmitchellscott/reManager"

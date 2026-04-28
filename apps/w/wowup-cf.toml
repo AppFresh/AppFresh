@@ -1,0 +1,12 @@
+app_token = "wowup-cf"
+name = "WowUp-CF"
+desc = "World of Warcraft addon manager"
+homepage = "https://wowup.io/"
+
+[[sources]]
+type = "homebrew"
+cask = "wowup-cf"
+
+[[sources]]
+type = "github"
+repo = "WowUp/WowUp.CF"

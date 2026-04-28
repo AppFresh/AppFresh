@@ -1,0 +1,12 @@
+app_token = "athas"
+name = "Athas"
+desc = "Lightweight code editor"
+homepage = "https://athas.dev/"
+
+[[sources]]
+type = "homebrew"
+cask = "athas"
+
+[[sources]]
+type = "github"
+repo = "athasdev/athas"

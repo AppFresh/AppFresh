@@ -1,0 +1,12 @@
+app_token = "taobao"
+name = "taobao"
+desc = "Online Shopping Client"
+homepage = "https://pc.taobao.com/"
+
+[[sources]]
+type = "homebrew"
+cask = "taobao"
+
+[[sources]]
+type = "electron"
+url = "https://tblifecdn.taobao.com/taobaopc/updater/darwin/arm64/latest-mac.yml"

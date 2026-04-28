@@ -1,0 +1,8 @@
+app_token = "vesta"
+name = "VESTA"
+desc = "Visualisation for electronic and structural analysis"
+homepage = "https://jp-minerals.org/vesta/en/"
+
+[[sources]]
+type = "homebrew"
+cask = "vesta"

@@ -1,9 +1,0 @@
-app_token = "recordly"
-name = "Recordly"
-desc = "Create polished screen recordings for free."
-homepage = "https://recordly.dev/"
-bundle_id = "dev.recordly.app"
-
-[[sources]]
-type = "github"
-repo = "webadderallorg/Recordly"

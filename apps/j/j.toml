@@ -1,8 +1,0 @@
-app_token = "j"
-name = "J"
-desc = "Programming language for mathematical, statistical and logical analysis of data"
-homepage = "https://www.jsoftware.com/"
-
-[[sources]]
-type = "homebrew"
-cask = "j"

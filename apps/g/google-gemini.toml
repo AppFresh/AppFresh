@@ -1,8 +1,0 @@
-app_token = "google-gemini"
-name = "Gemini"
-desc = "Native desktop AI assistant from Google"
-homepage = "https://gemini.google/"
-
-[[sources]]
-type = "homebrew"
-cask = "google-gemini"
